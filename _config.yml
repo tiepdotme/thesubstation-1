@@ -50,13 +50,13 @@ defaults:
   values:
     layout: post
     permalink: "/show/:title/"
-    title: 
+    title:
     categories: archive
-    image: 
-    video: 
-    buy-url: 
-    buy-button-text: 
-    list-event-dates: 
+    image:
+    video:
+    buy-url:
+    buy-button-text:
+    list-event-dates:
     program-has-opening-event: false
     program-has-preview-event: false
     program-has-closing-event: false
@@ -68,16 +68,16 @@ defaults:
     program-time-is-months: false
     program-time-has-mins: false
     program-has-start-time: false
-    event-duration-text: 
+    event-duration-text:
     presented-by: false
     price: false
     notes: false
     supporters:
-    - 
+    -
 description: Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for Google search
   results) and in your feed.xml site description.
-baseurl: 
+baseurl:
 url: http://thesubstation.org.au
 imageurl: "/assets/images/"
 javascriptsurl: "/assets/javascripts/"

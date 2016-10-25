@@ -1,6 +1,7 @@
 ---
 title: Brick by brick
 date: 2015-12-01 01:00:00 +11:00
+permalink: "/support-us/"
 image: the-substation-support-us
 buy-url: https://www.givenow.com.au/hobsonsbaycommunityartscentre
 buy-button-text: donate
