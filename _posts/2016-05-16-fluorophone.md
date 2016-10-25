@@ -12,20 +12,10 @@ dates:
 - Friday November 25, 8pm
 has-start-time: true
 presented-by: SPEAK PERCUSSION
-link: 
 supporters:
 - australia-council-arts
 - creative-victoria
 ---
-
-<!-- https://thesubstation.org.au/show/fluorophone/ -->
-
-<!-- dates:
-- 2016-11-22 20:00:00 AEST
-- Wed November 23, 8pm
-- Thurs November 24, 8pm
-- Friday November 25, 8pm
-dates-is-list: true -->
 
 FLUOROPHONE creates a kaleidoscopic sound world in which the central instruments radiate, flicker, glow and burn. Analogue and digital fluorescent lights, the naked flame, strobe lights and custom-built LED discs are combined with percussion to create a program in which the music and lighting design are one and the same. FLUOROPHONE moves between noise, theatrical music and virtuosic instrumentalism, in a synesthetic display of light and sound.
 
