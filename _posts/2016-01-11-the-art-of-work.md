@@ -12,7 +12,7 @@ dates-is-list: true
 has-start-time: true
 event-duration-txt: 120 mins
 presented-by: PROJECTOR BIKE
-link:
+link: 
 supporters:
 - hobsonsbay-cc
 ---
