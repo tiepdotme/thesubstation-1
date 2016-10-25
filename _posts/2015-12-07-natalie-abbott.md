@@ -1,7 +1,8 @@
 ---
 title: Natalie Abbott
 date: 2015-12-07 01:00:00 +11:00
-tags: archive
+tags:
+- archive
 image: natalie-abbott
 price: false
 list-event-dates:
