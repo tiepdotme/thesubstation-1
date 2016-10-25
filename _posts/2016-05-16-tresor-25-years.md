@@ -3,7 +3,7 @@ title: Tresor 25 Years
 date: 2016-05-16 10:00:00 +10:00
 image: tresor-25-years
 buy-url: https://www.residentadvisor.net/event.aspx?804325
-price:
+price: 
 list-event-dates:
 - 2016-06-17 21:00:00 AEST
 - 2016-06-18 05:00:00 AEST

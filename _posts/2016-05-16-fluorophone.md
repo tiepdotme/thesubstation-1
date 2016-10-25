@@ -1,7 +1,8 @@
 ---
 title: Fluorophone
 date: 2016-05-16 00:00:00 +10:00
-categories: whats-on
+categories:
+- whats-on
 image: fluorophone
 buy-url: http://thesubstation.iwannaticket.com.au/event/fluorophone-MTEwNjM
 price:
@@ -11,7 +12,7 @@ list-event-dates:
 - Friday November 25, 8pm
 program-has-start-time: true
 presented-by: SPEAK PERCUSSION
-link:
+link: 
 supporters:
 - australia-council-arts
 - creative-victoria
