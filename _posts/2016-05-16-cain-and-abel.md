@@ -1,16 +1,18 @@
 ---
 title: Cain And Abel
-date: 2016-05-16 00:00:00 AEST
-category: whats-on
-tag: archive
+date: 2016-05-16 00:00:00 +10:00
+categories:
+- whats-on
+tags:
+- archive
 image: cain-and-abel-photo-by-brett-boardmann
 buy-url: https://thesubstation.iwannaticket.com.au/event/cain-and-abel-MTEwNjc
 price:
-- $25 PREVIEW
-- $25 STUDENT/CONCESSION
-- $25 ARTISTS
-- $35 STANDARD
-- $50 RABBLE LOVERS
+- "$25 PREVIEW"
+- "$25 STUDENT/CONCESSION"
+- "$25 ARTISTS"
+- "$35 STANDARD"
+- "$50 RABBLE LOVERS"
 list-event-dates:
 - 2016-07-20 19:30:00 AEST
 - 2016-07-30 19:30:00 AEST
@@ -19,7 +21,7 @@ program-has-preview-night: true
 program-has-start-time: true
 program-alt-start-time: SUN JULY 24 starts at 6PM
 event-duration-text: 60 minutes
-notes: ! "ARTISTS POST-SHOW TALK: TUESDAY JULY 26, 8:30pm"
+notes: 'ARTISTS POST-SHOW TALK: TUESDAY JULY 26, 8:30pm'
 presented-by: the rabble
 supporters:
 - australia-council-arts

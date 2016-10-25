@@ -1,7 +1,8 @@
 ---
 title: Plastic Loaves
-date: 2015-12-01 00:00:00 Z
-categories: residents
+date: 2015-12-01 11:00:00 +11:00
+categories:
+- residents
 image: plastic-loaves-credit-by-plastic-loaves
 price: false
 notes: Visit the <a href="http://www.plasticloaves.com/">Plastic Loaves website</a>

@@ -1,10 +1,10 @@
 ---
 title: Thembi Soddell
-date: 2016-06-01 00:00:00
-category: in-development
+date: 2016-06-01 10:00:00 +10:00
+categories:
+- in-development
 image: black
 supporters: false
-
 ---
 
 <!-- https://thesubstation.org.au/show/thembi-soddell/ -->

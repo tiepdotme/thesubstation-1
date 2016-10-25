@@ -1,7 +1,7 @@
 ---
 title: Getting here
-image: the-substation-map
 position: 1
+image: the-substation-map
 ---
 
 **The Substation**<br>

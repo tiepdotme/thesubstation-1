@@ -1,14 +1,16 @@
 ---
 title: Multimodal
-date: 2016-05-16 00:00:00 AEST
-category: whats-on
-tag: archive
+date: 2016-05-16 00:00:00 +10:00
+categories:
+- whats-on
+tags:
+- archive
 image: multimodal-photo-by-mateo-lopez
 buy-url: http://thesubstation.iwannaticket.com.au/event/multimodal-MTEwNjY
 price:
-- $25 PREVIEW
-- $30 standard
-- $25 CONCESSION
+- "$25 PREVIEW"
+- "$30 standard"
+- "$25 CONCESSION"
 list-event-dates:
 - 2016-08-31 19:00:00 AEST
 - 2016-09-04 19:00:00 AEST

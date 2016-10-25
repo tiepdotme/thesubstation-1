@@ -1,22 +1,24 @@
 ---
 title: Dry land ecology
-date: 2016-08-09 07:37:37 Z
-category: whats-on
-tag: archive
+date: 2016-08-09 17:37:37 +10:00
+categories:
+- whats-on
+tags:
+- archive
 image: inland-concert-series-dry-land-ecology
 buy-url: https://www.melbournefringe.com.au/program?event/inland_concert_series_dry_land_ecology/42ae105a-3a19-4d1a-a7d4-6724aa8af524/
 list-event-dates:
-- 2016-09-28 19:30:00
-- 2016-09-29 19:30:00
-- 2016-09-30 19:30:00
+- 2016-09-29 05:30:00 +10:00
+- 2016-09-30 05:30:00 +10:00
+- 2016-10-01 05:30:00 +10:00
 program-dates-is-list: true
 program-time-has-mins: true
 program-has-start-time: true
 event-duration-text: 120 mins
 price:
-- $20 CONCESSION
-- $22 GROUP 6+
-- $25 STANDARD
+- "$20 CONCESSION"
+- "$22 GROUP 6+"
+- "$25 STANDARD"
 presented-by: INLAND CONCERT SERIES
 supporters:
 - hobsonsbay-cc

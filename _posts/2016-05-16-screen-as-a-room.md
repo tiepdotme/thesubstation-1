@@ -1,8 +1,10 @@
 ---
 title: Screen As A Room
-date: 2016-05-16 00:00:00 Z
-category: whats-on
-tag: archive
+date: 2016-05-16 10:00:00 +10:00
+categories:
+- whats-on
+tags:
+- archive
 image: screen-as-a-room-image-by-fanni-futterknecht
 buy-url: http://thesubstation.iwannaticket.com.au/event/newport-archives-open-house-melbourne-MTEwODI
 price: Free
@@ -11,7 +13,7 @@ list-event-dates:
 - 2016-08-06 15:00:00 AEST
 program-has-opening-event: true
 program-has-closing-event: true
-notes: ! 'Free artist talk: SAT JULY 02, 5.30-6.30PM'
+notes: 'Free artist talk: SAT JULY 02, 5.30-6.30PM'
 presented-by: Nikki Lam
 supporters: creative-victoria
 ---

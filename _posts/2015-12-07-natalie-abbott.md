@@ -1,8 +1,10 @@
 ---
 title: Natalie Abbott
-date: 2015-12-07 00:00:00 AEST
-category: whats-on
-tag: archive
+date: 2015-12-07 01:00:00 +11:00
+categories:
+- whats-on
+tags:
+- archive
 image: natalie-abbott
 price: false
 list-event-dates:

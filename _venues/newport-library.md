@@ -1,12 +1,12 @@
 ---
 title: Newport Library
-date: 2016-01-17 16:36:52 AEST
+date: 2016-01-17 17:36:52 +11:00
+position: 9
 image: newport-library
 opening_hours: |
   MONDAY – THURSDAY: 10AM-5PM
   FRIDAY: 8AM-6PM
   SATURDAY: 10AM-1PM
-position: 9
 ---
 
 <!-- https://thesubstation.org.au/show/newport-library/ -->

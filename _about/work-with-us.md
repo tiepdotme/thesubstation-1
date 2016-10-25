@@ -1,7 +1,7 @@
 ---
 title: Work with us
-image: the-substation-work-with-us
 position: 4
+image: the-substation-work-with-us
 ---
 
 The SUBSTATION is on the look-out for volunteers who are enthusiastic and dedicated to the promotion of visual and performing arts in its myriad forms. The SUBSTATION volunteers play an active role in delivering excellent customer experiences and ensuring The SUBSTATION remains a valued cultural destination.

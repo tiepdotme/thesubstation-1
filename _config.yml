@@ -1,10 +1,6 @@
-# Site settings
-# For SEO, see: https://github.com/jekyll/jekyll-seo-tag
-# Keep descriptions to ~155 characters: https://moz.com/learn/seo/meta-description
+---
 title: The Substation
 timezone: Australia/Melbourne
-
-# collections
 collections:
   about:
     title: About Us
@@ -18,33 +14,31 @@ collections:
   supporters:
     title: Supporters
     output: false
-  venues:
-    title: Venues
-    output: true
   uploads:
     title: Uploads
     output: false
-
-# defaults
+  venues:
+    title: Venues
+    output: true
 defaults:
 - scope:
     path: ''
     type: about
   values:
     layout: post
-    permalink: /:collection/:path/
+    permalink: "/:collection/:path/"
 - scope:
     path: ''
     type: residents
   values:
     layout: post
-    permalink: /:collection/:path/
+    permalink: "/:collection/:path/"
 - scope:
     path: ''
     type: venues
   values:
     layout: post
-    permalink: /:collection/:path/
+    permalink: "/:collection/:path/"
 - scope:
     path: ''
     type: pages
@@ -56,16 +50,14 @@ defaults:
   values:
     layout: post
     permalink: "/show/:title/"
-    title:
-    category:
+    title: 
+    category: 
     tag: current
-    image:
-    video:
-    buy-url:
-    buy-button-text:
-
-    # List of shows
-    list-event-dates:
+    image: 
+    video: 
+    buy-url: 
+    buy-button-text: 
+    list-event-dates: 
     program-has-opening-event: false
     program-has-preview-event: false
     program-has-closing-event: false
@@ -77,37 +69,27 @@ defaults:
     program-time-is-months: false
     program-time-has-mins: false
     program-has-start-time: false
-    event-duration-text:
-
-    # etc
+    event-duration-text: 
     presented-by: false
     price: false
     notes: false
     supporters:
-    -
-
-# site description
-description: 'Write an awesome description for your new site here. You can edit this
+    - 
+description: Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.'
-
-# site presets
-baseurl:
+  results) and in your feed.xml site description.
+baseurl: 
 url: http://thesubstation.org.au
 imageurl: "/assets/images/"
 javascriptsurl: "/assets/javascripts/"
 uploadurl: "/uploads/"
 logo: "/assets/images/logo.png"
-
-# business info
 address: 1 Market Street Newport VIC 3015
 address-link: https://goo.gl/maps/3RTKiR89iD72
 phone: "(03) 9391 1110"
 email: info@thesubstation.org.au
 gallery-hours: Tuesday to Saturday 11am–5pm
 office-hours: Tuesday to Friday 9am–5pm
-
-# jekyll setup
 markdown: kramdown
 kramdown:
   input: GFM

@@ -1,12 +1,13 @@
 ---
 title: The Rabble
-date: 2015-12-07 00:00:00 AEST
-categories: residents
+date: 2015-12-07 01:00:00 +11:00
+categories:
+- residents
+position: 1
 image: the-rabble
 price: false
 notes: Visit <a href="http://therabble.com.au/">the Rabble website</a>
 supporters: false
-position: 1
 ---
 
 <!-- https://thesubstation.org.au/show/the-rabble/ -->

@@ -1,7 +1,8 @@
 ---
 title: The Ghost Project
-date: 2016-06-01 00:00:00 Z
-category: whats-on
+date: 2016-06-01 10:00:00 +10:00
+categories:
+- whats-on
 image: anna-tregloan-the-ghost-project
 price: free
 list-event-dates:

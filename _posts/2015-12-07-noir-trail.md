@@ -1,7 +1,8 @@
 ---
 title: Noir Trail
-date: 2015-12-07 00:00:00 Z
-category: in-development
+date: 2015-12-07 11:00:00 +11:00
+categories:
+- in-development
 image: one-step-taken-by-julian
 price: false
 list-event-dates:

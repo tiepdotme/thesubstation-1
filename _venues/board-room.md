@@ -1,7 +1,7 @@
 ---
 title: Board room
-image: the-substation-boardroom
 position: 8
+image: the-substation-boardroom
 ---
 
 **SUITABLE AS A CONFERENCE BREAK-OUT ROOM, BOARD ROOM OR CATERING SPACE.**

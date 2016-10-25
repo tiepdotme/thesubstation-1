@@ -1,7 +1,8 @@
 ---
 title: Lady Example
-date: 2016-06-01 00:00:00 Z
-category: in-development
+date: 2016-06-01 10:00:00 +10:00
+categories:
+- in-development
 image: lady-example
 presented-by: Caroline Meaden, Alice Dixon & William Mcbride
 supporters: false

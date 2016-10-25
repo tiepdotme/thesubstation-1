@@ -1,15 +1,18 @@
 ---
 title: Fotografien
-date: 2015-12-01 00:00:00 Z
-category: whats-on
-tag: archive
+date: 2015-12-01 11:00:00 +11:00
+categories:
+- whats-on
+tags:
+- archive
 image: fotografien
 price: free
 list-event-dates:
-- 2016-04-28 19:00:00 Z
-- 2016-05-31 00:00:00 Z
+- 2016-04-29 05:00:00 +10:00
+- 2016-05-31 10:00:00 +10:00
 program-has-opening-event: true
-opening-event-text: With <a href="https://www.youtube.com/watch?v=n46r3KUHy-c">Andras Fox</a>
+opening-event-text: With <a href="https://www.youtube.com/watch?v=n46r3KUHy-c">Andras
+  Fox</a>
 supporters:
 - goethe
 ---

@@ -1,7 +1,7 @@
 ---
 title: Corporate bookings
-image: the-substation-corporate-bookings
 position: 1
+image: the-substation-corporate-bookings
 ---
 
 The Substation understands the time and planning it takes to run a successful conference, AGM or event. Simply fill in your details below, and we will contact you within 24 hours to discuss your needs.

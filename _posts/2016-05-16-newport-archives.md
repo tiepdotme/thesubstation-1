@@ -1,8 +1,10 @@
 ---
 title: Newport Archives
-date: 2016-05-16 00:00:00 Z
-category: whats-on
-tag: archive
+date: 2016-05-16 10:00:00 +10:00
+categories:
+- whats-on
+tags:
+- archive
 image: newport-archives
 buy-url: http://thesubstation.iwannaticket.com.au/event/newport-archives-open-house-melbourne-MTEwODI
 price:
@@ -12,7 +14,8 @@ list-event-dates:
 - Sat 30 July, 4:30pm
 program-date-is-single: true
 event-duration-text: 40 mins
-notes: ! 'This event is not wheelchair accessible. For more info, visit: <a href="http://www.openhousemelbourne.org/">Open House Melbourne</a>'
+notes: 'This event is not wheelchair accessible. For more info, visit: <a href="http://www.openhousemelbourne.org/">Open
+  House Melbourne</a>'
 presented-by: TAMARA SAULWICK, OPEN HOUSE MELBOURNE
 supporters:
 - besen
