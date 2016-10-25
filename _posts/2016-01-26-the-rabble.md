@@ -3,10 +3,10 @@ title: The Rabble
 date: 2016-01-26 01:00:00 +11:00
 image: the-rabble-development
 price: false
-list-event-dates:
+dates:
 - 2016-03-01 00:00:00 AEST
 - 2016-03-31 00:00:00 AEST
-program-time-is-month: true
+time-is-month: true
 notes: Visit <a href="http://therabble.com.au/">The Rabble Website</a>
 supporters:
 - besen-foundation

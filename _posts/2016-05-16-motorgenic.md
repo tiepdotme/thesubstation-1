@@ -7,10 +7,10 @@ image: motorgenic-photo-by-amanda-betlehem
 buy-url: 
 price:
 - Free
-list-event-dates:
+dates:
 - 2016-11-17 19:00:00 AEST
 - 2016-12-17 17:00:00 AEST
-program-has-opening-event: true
+has-opening-event: true
 presented-by: ROBBIE AVENAIM
 supporters:
 - creative-victoria

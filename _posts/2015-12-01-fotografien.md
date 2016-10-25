@@ -3,10 +3,10 @@ title: Fotografien
 date: 2015-12-01 11:00:00 +11:00
 image: fotografien
 price: free
-list-event-dates:
+dates:
 - 2016-04-29 05:00:00 +10:00
 - 2016-05-31 10:00:00 +10:00
-program-has-opening-event: true
+has-opening-event: true
 opening-event-text: With <a href="https://www.youtube.com/watch?v=n46r3KUHy-c">Andras
   Fox</a>
 supporters:

@@ -9,14 +9,14 @@ price:
 - "$25 ARTISTS"
 - "$35 STANDARD"
 - "$50 RABBLE LOVERS"
-list-event-dates:
+dates:
 - 2016-07-20 19:30:00 AEST
 - 2016-07-30 19:30:00 AEST
-program-has-opening-night: true
-program-has-preview-night: true
-program-has-start-time: true
+has-opening-night: true
+has-preview-night: true
+has-start-time: true
 program-alt-start-time: SUN JULY 24 starts at 6PM
-event-duration-text: 60 minutes
+event-duration-txt: 60 minutes
 notes: 'ARTISTS POST-SHOW TALK: TUESDAY JULY 26, 8:30pm'
 presented-by: the rabble
 supporters:
@@ -24,7 +24,7 @@ supporters:
 - creative-victoria
 ---
 
-<!-- list-event-dates:
+<!-- dates:
 - 2016-07-20 19:30:00 AEST
 - 2016-07-21 19:30:00 AEST
 - 2016-07-22 19:30:00 AEST
@@ -35,7 +35,7 @@ supporters:
 - 2016-07-28 19:30:00 AEST
 - 2016-07-29 19:30:00 AEST
 - 2016-07-30 19:30:00 AEST
-- program-dates-is-list: true
+- dates-is-list: true
 -->
 
 

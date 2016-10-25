@@ -11,13 +11,13 @@
                         <h1 class="Post-headline">{{ post.title }}</h1>
                         <!-- <date class="Post-headline">{{ post.timeframe }}</date> -->
 
-                        {% if post.list-event-dates %}
-                            {% if post.list-event-dates.size == 1 %}
-                                <date class="Post-headline">{{ post.list-event-dates | first | date: "%b %d" }}</date>
-                            {% elsif post.program-time-is-months == true %}
-                                <date class="Post-headline">{{ post.list-event-dates | first | date: "%B" }} - {{ post.list-event-dates | last | date: "%B" }} {{ post.list-event-dates | first | date: "%Y" }}</date>
+                        {% if post.dates %}
+                            {% if post.dates.size == 1 %}
+                                <date class="Post-headline">{{ post.dates | first | date: "%b %d" }}</date>
+                            {% elsif post.time-is-months == true %}
+                                <date class="Post-headline">{{ post.dates | first | date: "%B" }} - {{ post.dates | last | date: "%B" }} {{ post.dates | first | date: "%Y" }}</date>
                             {% else %}
-                                <date class="Post-headline">{{ post.list-event-dates | first | date: "%b %d" }} - {{ post.list-event-dates | last | date: "%b %d" }}</date>
+                                <date class="Post-headline">{{ post.dates | first | date: "%b %d" }} - {{ post.dates | last | date: "%b %d" }}</date>
                             {% endif %}
                         {% endif %}
 

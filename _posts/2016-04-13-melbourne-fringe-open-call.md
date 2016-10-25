@@ -2,10 +2,10 @@
 title: Melbourne Fringe Open Call
 date: 2016-04-13 10:00:00 +10:00
 buy-url: https://www.judgify.me/substation-fringe
-buy-button-text: APPLY by MAY 6
+buy-button-txt: APPLY by MAY 6
 price: false
 image: lilian-steiner-photo-by-lauren-dunn
-list-event-dates: false
+dates: false
 end-date: 2016-05-07 03:00:00 +10:00
 supporters:
 - hobsons-cc

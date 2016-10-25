@@ -7,10 +7,10 @@ image: fluorophone
 buy-url: http://thesubstation.iwannaticket.com.au/event/fluorophone-MTEwNjM
 price:
 - "$30 / $20 Concession"
-list-event-dates:
+dates:
 - 2016-11-22 20:00:00 AEST
 - Friday November 25, 8pm
-program-has-start-time: true
+has-start-time: true
 presented-by: SPEAK PERCUSSION
 link: 
 supporters:
@@ -20,12 +20,12 @@ supporters:
 
 <!-- https://thesubstation.org.au/show/fluorophone/ -->
 
-<!-- list-event-dates:
+<!-- dates:
 - 2016-11-22 20:00:00 AEST
 - Wed November 23, 8pm
 - Thurs November 24, 8pm
 - Friday November 25, 8pm
-program-dates-is-list: true -->
+dates-is-list: true -->
 
 FLUOROPHONE creates a kaleidoscopic sound world in which the central instruments radiate, flicker, glow and burn. Analogue and digital fluorescent lights, the naked flame, strobe lights and custom-built LED discs are combined with percussion to create a program in which the music and lighting design are one and the same. FLUOROPHONE moves between noise, theatrical music and virtuosic instrumentalism, in a synesthetic display of light and sound.
 

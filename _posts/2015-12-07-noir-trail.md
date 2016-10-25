@@ -5,10 +5,10 @@ categories:
 - in-development
 image: one-step-taken-by-julian
 price: false
-list-event-dates:
+dates:
 - 2016-03-01 00:00:00 AEST
 - 2016-04-30 00:00:00 AEST
-program-time-is-months: true
+time-is-months: true
 presented-by: One Step at a Time Like This
 supporters:
 - australia-council-arts

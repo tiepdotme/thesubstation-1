@@ -5,11 +5,11 @@ image: newport-archives
 buy-url: http://thesubstation.iwannaticket.com.au/event/newport-archives-open-house-melbourne-MTEwODI
 price:
 - Free, bookings essential
-list-event-dates:
+dates:
 - Sat 30 July, 10am
 - Sat 30 July, 4:30pm
-program-date-is-single: true
-event-duration-text: 40 mins
+date-is-single: true
+event-duration-txt: 40 mins
 notes: 'This event is not wheelchair accessible. For more info, visit: <a href="http://www.openhousemelbourne.org/">Open
   House Melbourne</a>'
 presented-by: TAMARA SAULWICK, OPEN HOUSE MELBOURNE

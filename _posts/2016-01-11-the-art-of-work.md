@@ -3,14 +3,14 @@ title: The Art of Work
 date: 2016-01-11 01:00:00 +11:00
 image: projector-bike-back-story
 buy-url: https://www.eventbrite.com/e/the-art-of-work-tickets-24226159094
-buy-button-text: RSVP for free
+buy-button-txt: RSVP for free
 price: false
-list-event-dates:
+dates:
 - 2016-04-29 19:00:00 AEST
 - 2016-04-30 19:00:00 AEST
-program-dates-is-list: true
-program-has-start-time: true
-event-duration-text: 120 mins
+dates-is-list: true
+has-start-time: true
+event-duration-txt: 120 mins
 presented-by: PROJECTOR BIKE
 link: 
 supporters:

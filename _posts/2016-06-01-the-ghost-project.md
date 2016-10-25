@@ -4,12 +4,12 @@ date: 2016-06-01 10:00:00 +10:00
 categories:
 - whats-on
 image: anna-tregloan-the-ghost-project
-list-event-dates:
+dates:
 - 2016-10-22 17:00:00 AEST
 - 2016-10-23 17:00:00 AEST
-program-dates-is-list: true
-program-has-start-time: true
-event-duration-text: Until 9:00pm
+dates-is-list: true
+has-start-time: true
+event-duration-txt: Until 9:00pm
 presented-by: Anna Tregloan
 price: free
 supporters: false

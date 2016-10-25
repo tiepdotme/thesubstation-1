@@ -3,12 +3,12 @@ title: Two parts of easy action
 date: 2016-08-09 17:21:19 +10:00
 image: two-parts-of-easy-action
 buy-url: http://www.melbournefringe.com.au/program?event/two_parts_of_easy_action/1fc526dd-bfb4-40ec-b5b2-b6aaef263389/
-list-event-dates:
+dates:
 - 2016-09-21 06:00:00 +10:00
 - 2016-09-26 06:00:00 +10:00
-program-time-has-mins: true
-program-has-start-time: true
-event-duration-text: 35 mins
+time-has-mins: true
+has-start-time: true
+event-duration-txt: 35 mins
 price:
 - "$20 CONCESSION"
 - "$22 GROUP 6+"

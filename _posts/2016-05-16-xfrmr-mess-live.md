@@ -5,11 +5,11 @@ image: robbie-thomson-live-xfrmr-photo-by-tommy-ga-ken-wan
 video: https://player.vimeo.com/video/168322480
 buy-url: https://thesubstation.iwannaticket.com.au/event/mess-robbie-thomson-MTEwNTA
 price: "$30 + $1.63 BF"
-list-event-dates:
+dates:
 - 2016-10-13 20:00:00 AEST
 - 2016-10-14 20:00:00 AEST
-program-dates-is-list: true
-program-has-start-time: true
+dates-is-list: true
+has-start-time: true
 presented-by: Robbie Thomson
 notes: false
 supporters:

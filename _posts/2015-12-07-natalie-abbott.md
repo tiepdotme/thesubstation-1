@@ -3,7 +3,7 @@ title: Natalie Abbott
 date: 2015-12-07 01:00:00 +11:00
 image: natalie-abbott
 price: false
-list-event-dates:
+dates:
 - 2016-03-01 00:00:00 AEST
 - 2016-03-31 00:00:00 AEST
 supporters:

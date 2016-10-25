@@ -4,11 +4,11 @@ date: 2016-05-16 10:00:00 +10:00
 image: screen-as-a-room-image-by-fanni-futterknecht
 buy-url: http://thesubstation.iwannaticket.com.au/event/newport-archives-open-house-melbourne-MTEwODI
 price: Free
-list-event-dates:
+dates:
 - 2016-06-16 18:00:00 AEST
 - 2016-08-06 15:00:00 AEST
-program-has-opening-event: true
-program-has-closing-event: true
+has-opening-event: true
+has-closing-event: true
 notes: 'Free artist talk: SAT JULY 02, 5.30-6.30PM'
 presented-by: Nikki Lam
 supporters: creative-victoria

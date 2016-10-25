@@ -55,22 +55,22 @@ defaults:
     image:
     video:
     buy-url:
-    buy-button-text:
-    list-event-dates:
-    program-has-opening-event: false
-    program-has-preview-event: false
-    program-has-closing-event: false
-    program-date-is-single: false
-    program-dates-is-list: false
-    program-time-is-opening-hours: false
-    program-time-is-single: false
-    program-time-is-month: false
-    program-time-is-months: false
-    program-time-has-mins: false
-    program-has-start-time: false
-    event-duration-text:
+    buy-button-txt:
     presented-by: false
     price: false
+    dates:
+    has-opening-event: false
+    has-preview-event: false
+    has-closing-event: false
+    has-start-time: false
+    date-is-single: false
+    dates-is-list: false
+    time-is-opening-hours: false
+    time-is-single: false
+    time-is-month: false
+    time-is-months: false
+    time-has-mins: false
+    event-duration-txt:
     notes: false
     supporters:
     -

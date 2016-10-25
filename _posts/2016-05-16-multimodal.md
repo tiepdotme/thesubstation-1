@@ -7,12 +7,12 @@ price:
 - "$25 PREVIEW"
 - "$30 standard"
 - "$25 CONCESSION"
-list-event-dates:
+dates:
 - 2016-08-31 19:00:00 AEST
 - 2016-09-04 19:00:00 AEST
-program-has-opening-event: true
-program-has-preview-event: true
-program-has-start-time: true
+has-opening-event: true
+has-preview-event: true
+has-start-time: true
 presented-by: LEE SERLE
 supporters:
 - creative-victoria

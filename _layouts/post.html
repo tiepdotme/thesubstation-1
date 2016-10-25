@@ -67,8 +67,8 @@ layout: default
             {% if page.buy-url %}
                 <div class="c-post-meta c-post-meta--cta">
                     <a class="Button t-button--primary" href="{{ page.buy-url }}">
-                        {% if page.buy-button-text %}
-                            {{ page.buy-button-text }}
+                        {% if page.buy-button-txt %}
+                            {{ page.buy-button-txt }}
                         {% else %}
                             Buy tickets
                         {% endif %}
@@ -93,37 +93,37 @@ layout: default
                 Opening/preview night
                 ----------------------------------------
             {% endcomment %}
-            {% if page.program-has-preview-event and page.program-has-preview-event %}
+            {% if page.has-preview-event and page.has-preview-event %}
                 <div class="c-post-meta">
                     <span>Preview event:
                     <p>
-                        {% if program-time-has-mins == true %}
-                            {{ page.list-event-dates | first | date: "%a %B %d" }}, {{ page.list-event-dates | first | date: "%l:%M%p" }}
+                        {% if time-has-mins == true %}
+                            {{ page.dates | first | date: "%a %B %d" }}, {{ page.dates | first | date: "%l:%M%p" }}
                         {% else %}
-                            {{ page.list-event-dates | first | date: "%a %B %d" }}, {{ page.list-event-dates | first | date: "%l%p" }}
+                            {{ page.dates | first | date: "%a %B %d" }}, {{ page.dates | first | date: "%l%p" }}
                         {% endif %}
                     </p>
                 </div>
                 <div class="c-post-meta">
                     <span>Opening event:
                     <p>
-                        {% if program-time-has-mins == true %}
-                            {{ page.list-event-dates[1] | date: "%a %B %d" }}, {{ page.list-event-dates[1] | date: "%l:%M%p" }}
+                        {% if time-has-mins == true %}
+                            {{ page.dates[1] | date: "%a %B %d" }}, {{ page.dates[1] | date: "%l:%M%p" }}
                         {% else %}
-                            {{ page.list-event-dates[1] | date: "%a %B %d" }}, {{ page.list-event-dates[1] | date: "%l%p" }}
+                            {{ page.dates[1] | date: "%a %B %d" }}, {{ page.dates[1] | date: "%l%p" }}
                         {% endif %}
                     </p>
                 </div>
             {% endif %}
 
-            {% if page.program-has-opening-event and page.program-has-preview-event == false %}
+            {% if page.has-opening-event and page.has-preview-event == false %}
                 <div class="c-post-meta">
                     <span>Opening event:</span>
                     <p>
-                        {% if program-time-has-mins == true %}
-                            {{ page.list-event-dates | first | date: "%a %B %d" }}, {{ page.list-event-dates | first | date: "%l:%M%p" }}
+                        {% if time-has-mins == true %}
+                            {{ page.dates | first | date: "%a %B %d" }}, {{ page.dates | first | date: "%l:%M%p" }}
                         {% else %}
-                            {{ page.list-event-dates | first | date: "%a %B %d" }}, {{ page.list-event-dates | first | date: "%l%p" }}
+                            {{ page.dates | first | date: "%a %B %d" }}, {{ page.dates | first | date: "%l%p" }}
                         {% endif %}
                     </p>
 
@@ -144,26 +144,26 @@ layout: default
             {% endcomment %}
 
             {% comment %}Single date array of 2 (start and end times){% endcomment %}
-            {% if page.list-event-dates.size == 1 or page.list-event-dates.size == 2 and page.program-date-is-single == true %}
+            {% if page.dates.size == 1 or page.dates.size == 2 and page.date-is-single == true %}
                 <div class="c-post-meta">
                     <span>Date:</span>
 
                     <p>
                         {% comment %}yeah, gotta be ==true here for some unknown reason…{% endcomment %}
-                        {% if program-time-is-opening-hours == true %}
-                            {{ page.list-event-dates | first | date: "%a %B %d" }}
+                        {% if time-is-opening-hours == true %}
+                            {{ page.dates | first | date: "%a %B %d" }}
                         {% else %}
-                            {% if program-time-has-mins == true %}
-                                {% if page.list-event-dates.size == 1 %}
-                                    {{ page.list-event-dates | first | date: "%a %B %d" }}, {{ page.list-event-dates | first | date: "%l:%M%p" }}
+                            {% if time-has-mins == true %}
+                                {% if page.dates.size == 1 %}
+                                    {{ page.dates | first | date: "%a %B %d" }}, {{ page.dates | first | date: "%l:%M%p" }}
                                 {% else %}
-                                    {{ page.list-event-dates | first | date: "%a %B %d" }}, {{ page.list-event-dates | first | date: "%l:%M%p" }} - {{ page.list-event-dates | last | date: "%l:%M%p" }}
+                                    {{ page.dates | first | date: "%a %B %d" }}, {{ page.dates | first | date: "%l:%M%p" }} - {{ page.dates | last | date: "%l:%M%p" }}
                                 {% endif %}
                             {% else %}
-                                {% if page.list-event-dates.size == 1 %}
-                                    {{ page.list-event-dates | first | date: "%a %B %d" }}, {{ page.list-event-dates | first | date: "%l%p" }}
+                                {% if page.dates.size == 1 %}
+                                    {{ page.dates | first | date: "%a %B %d" }}, {{ page.dates | first | date: "%l%p" }}
                                 {% else %}
-                                    {{ page.list-event-dates | first | date: "%a %B %d" }}, {{ page.list-event-dates | first | date: "%l%p" }} - {{ page.list-event-dates | last | date: "%l%p" }}
+                                    {{ page.dates | first | date: "%a %B %d" }}, {{ page.dates | first | date: "%l%p" }} - {{ page.dates | last | date: "%l%p" }}
                                 {% endif %}
 
                             {% endif %}
@@ -171,9 +171,9 @@ layout: default
                     </p>
 
                     {% comment %}Event duration
-                    {% if page.event-duration-text %}
+                    {% if page.event-duration-txt %}
                         <div class="c-post-meta">
-                            <p><span>Show duration: {{ page.event-duration-text }}</span></p>
+                            <p><span>Show duration: {{ page.event-duration-txt }}</span></p>
                         </div>
                     {% endif %}
                     {% endcomment %}
@@ -181,17 +181,17 @@ layout: default
                 </div>
 
             {% comment %}Multiple dates in a list{% endcomment %}
-            {% elsif page.list-event-dates.size >= 2 and page.program-dates-is-list == true %}
+            {% elsif page.dates.size >= 2 and page.dates-is-list == true %}
                 <div class="c-post-meta">
                     <span>Dates:</span>
 
                     {% comment %}Iterate thru event dates collection
-                    {% for event in page.list-event-dates %}
-                        {% if page.list-event-dates.size == 2 and page.program-is-single-date == true %}
+                    {% for event in page.dates %}
+                        {% if page.dates.size == 2 and page.program-is-single-date == true %}
                             <p>
                                 {{ event | date: "%a %B %d" }}, {{ event | first | date: "%l:%M%p" }}-{{ event | first | date: "%l:%M%p" }}
                             </p>
-                        {% elsif page.list-event-dates.size >= 2 and page.program-is-single-date != true %}
+                        {% elsif page.dates.size >= 2 and page.program-is-single-date != true %}
                             <p>
                                 {% if page.show-event-in-mins %}{{ event | date: "%a %B %d" }}, {{ event | date: "%l:%M%p" }}{% else %}{{ event | date: "%a %B %d" }}, {{ event | date: "%l%p" }}{% endif %}
                             </p>
@@ -200,7 +200,7 @@ layout: default
                     {% endcomment %}
 
                     {% comment %}Iterate thru event dates collection{% endcomment %}
-                    {% for event in page.list-event-dates %}
+                    {% for event in page.dates %}
                         <p>{{ event | date: "%a %B %d" }}</p>
                     {% endfor %}
 
@@ -215,15 +215,15 @@ layout: default
                 </div>
 
             {% comment %}Between dates{% endcomment %}
-            {% elsif page.list-event-dates.size == 2 %}
+            {% elsif page.dates.size == 2 %}
                 <div class="c-post-meta">
                     <span>Program runs:</span>
-                    {% if page.program-time-is-month == true %}
-                        <p>{{ page.list-event-dates | first | date: "%B" }} {{ page.list-event-dates | first | date: "%Y" }}</p>
-                    {% elsif page.program-time-is-months == true %}
-                        <p>{{ page.list-event-dates | first | date: "%B" }} - {{ page.list-event-dates | last | date: "%B" }} {{ page.list-event-dates | first | date: "%Y" }}</p>
+                    {% if page.time-is-month == true %}
+                        <p>{{ page.dates | first | date: "%B" }} {{ page.dates | first | date: "%Y" }}</p>
+                    {% elsif page.time-is-months == true %}
+                        <p>{{ page.dates | first | date: "%B" }} - {{ page.dates | last | date: "%B" }} {{ page.dates | first | date: "%Y" }}</p>
                     {% else %}
-                        <p>{{ page.list-event-dates | first | date: "%a %B %d" }} - <br>{{ page.list-event-dates | last | date: "%a %B %d" }}</p>
+                        <p>{{ page.dates | first | date: "%a %B %d" }} - <br>{{ page.dates | last | date: "%a %B %d" }}</p>
                     {% endif %}
                 </div>
             {% endif %}
@@ -235,28 +235,28 @@ layout: default
                 ----------------------------------------
             {% endcomment %}
 
-            {% if page.event-duration-text and page.program-has-start-time != true %}
+            {% if page.event-duration-txt and page.has-start-time != true %}
                 <div class="c-post-meta">
                     <span>Event duration:</span>
-                    <p>{{ page.event-duration-text }}</p>
+                    <p>{{ page.event-duration-txt }}</p>
                 </div>
-            {% elsif page.program-has-start-time %}
+            {% elsif page.has-start-time %}
                 <div class="c-post-meta">
                     <span>Start time:</span>
                     <p>
                         <!-- Starting: -->
                         {% comment %}
-                        {% if program-time-has-mins == true %}
-                            {{ page.list-event-dates | first | date: "%l:%M%p" }}
+                        {% if time-has-mins == true %}
+                            {{ page.dates | first | date: "%l:%M%p" }}
                         {% else %}
-                            {{ page.list-event-dates | first | date: "%l%p" }}
+                            {{ page.dates | first | date: "%l%p" }}
                         {% endif %}
                         {% endcomment %}
-                        {{ page.list-event-dates | first | date: "%l:%M%p" }}
+                        {{ page.dates | first | date: "%l:%M%p" }}
 
                         {% comment %}Event duration{% endcomment %}
-                        {% if page.event-duration-text %}
-                            for {{ page.event-duration-text }}
+                        {% if page.event-duration-txt %}
+                            for {{ page.event-duration-txt }}
                         {% endif %}
                     </p>
 
@@ -301,11 +301,11 @@ layout: default
                 end-date-is-closing-event (uses end-date)
                 -----------------------------------------
             {% endcomment %}
-            {% if page.program-has-closing-event %}
+            {% if page.has-closing-event %}
                 <div class="c-post-meta">
                     <span>Closing event:</span>
                     <p>
-                        {{ page.list-event-dates | last | date: "%a %B %d" }}, {{ page.list-event-dates | last | date: "%l%p" }}
+                        {{ page.dates | last | date: "%a %B %d" }}, {{ page.dates | last | date: "%l%p" }}
                     </p>
                 </div>
             {% endif %}

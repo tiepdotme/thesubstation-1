@@ -5,11 +5,11 @@ image: rooms-with-a-view-image-by-morgan-jones
 presented-by: EMMA COLLARD
 price:
 - Free
-list-event-dates:
+dates:
 - 2016-05-29 11:00:00 AEST
 - 2016-05-29 17:00:00 AEST
-program-date-is-single: true
-program-time-is-opening-hours: true
+date-is-single: true
+time-is-opening-hours: true
 supporters: false
 ---
 

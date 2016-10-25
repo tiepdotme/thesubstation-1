@@ -6,11 +6,11 @@ buy-url: http://thesubstation.iwannaticket.com.au/event/plastic-loaves-makes-you
 price:
 - 1st RELEASE – $20  – SOLD OUT
 - 2n RELEASE – $25
-list-event-dates:
+dates:
 - 2016-08-12 21:00:00 AEST
 - 2016-08-13 04:30:00 AEST
-program-date-is-single: true
-program-time-has-mins: true
+date-is-single: true
+time-has-mins: true
 notes:
 - 18+ only event
 presented-by: Plastic Loaves
