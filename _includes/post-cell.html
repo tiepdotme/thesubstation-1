@@ -10,6 +10,7 @@
                     <div class="o-aligner-item">
                         <h1 class="Post-headline">{{ post.title }}</h1>
                         <!-- <date class="Post-headline">{{ post.timeframe }}</date> -->
+
                         {% if post.list-event-dates %}
                             {% if post.list-event-dates.size == 1 %}
                                 <date class="Post-headline">{{ post.list-event-dates | first | date: "%b %d" }}</date>

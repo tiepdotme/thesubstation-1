@@ -1,10 +1,6 @@
 ---
 title: Screen As A Room
 date: 2016-05-16 10:00:00 +10:00
-categories:
-- whats-on
-tags:
-- archive
 image: screen-as-a-room-image-by-fanni-futterknecht
 buy-url: http://thesubstation.iwannaticket.com.au/event/newport-archives-open-house-melbourne-MTEwODI
 price: Free

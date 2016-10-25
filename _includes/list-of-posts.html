@@ -1,11 +1,9 @@
 <div class="Grid Grid--withGutterSm">
 
     {% for post in site.categories[categoryName] %}
-        {% if post.tag != postTags %}
 
             {% include post-cell.html %}
 
-        {% endif %}
     {% endfor %}
 
 </div>

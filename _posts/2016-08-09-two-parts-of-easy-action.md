@@ -1,10 +1,6 @@
 ---
 title: Two parts of easy action
 date: 2016-08-09 17:21:19 +10:00
-categories:
-- whats-on
-tags:
-- archive
 image: two-parts-of-easy-action
 buy-url: http://www.melbournefringe.com.au/program?event/two_parts_of_easy_action/1fc526dd-bfb4-40ec-b5b2-b6aaef263389/
 list-event-dates:

@@ -1,10 +1,6 @@
 ---
 title: Rooms With A View
 date: 2016-05-16 10:00:00 +10:00
-categories:
-- whats-on
-tags:
-- archive
 image: rooms-with-a-view-image-by-morgan-jones
 presented-by: EMMA COLLARD
 price:
