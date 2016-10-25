@@ -2,7 +2,7 @@
 # For SEO, see: https://github.com/jekyll/jekyll-seo-tag
 # Keep descriptions to ~155 characters: https://moz.com/learn/seo/meta-description
 title: The Substation
-timezone: AEST
+timezone: Australia/Melbourne
 
 # collections
 collections:
