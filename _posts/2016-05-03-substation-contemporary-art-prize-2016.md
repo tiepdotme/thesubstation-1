@@ -1,10 +1,7 @@
 ---
 title: The Substation Contemporary Art Prize 2016
 date: 2016-05-03 20:51:05 +10:00
-categories:
-- whats-on
-tags:
-- archive
+tags: archive
 image: The-Substation-Contemporary-Art-Prize-2016
 list-event-dates:
 - 2016-09-08 18:30:00 AEST

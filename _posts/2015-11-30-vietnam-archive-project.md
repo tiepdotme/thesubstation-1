@@ -1,10 +1,7 @@
 ---
 title: Unpacking the Vietnam Archive Project
 date: 2015-11-30 11:00:00 +11:00
-categories:
-- whats-on
-tags:
-- archive
+tags: archive
 image: The-Vietnam-Archive-Project-Untitled-Sides-03-Phuong-Ngo
 buy-url: https://thesubstation.iwannaticket.com.au/event/unpacking-the-vietnam-archive-project-MTA1NjA
 buy-button-text: rsvp for free

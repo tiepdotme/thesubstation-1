@@ -1,10 +1,7 @@
 ---
 title: Melbourne Fringe Open Call
 date: 2016-04-13 10:00:00 +10:00
-categories:
-- whats-on
-tags:
-- archive
+tags: archive
 buy-url: https://www.judgify.me/substation-fringe
 buy-button-text: APPLY by MAY 6
 price: false

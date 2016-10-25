@@ -1,10 +1,13 @@
 header:
 - title: What's On
   url: /whats-on/
+  categories: 'whats-on'
 - title: In Development
   url: /in-development/
+  categories: 'in-development'
 - title: Residents
   url: /residents/
+  categories: 'residents'
 - title: Venues
   url: /venues/
 - title: About Us
