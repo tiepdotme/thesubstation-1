@@ -1,0 +1,190 @@
+
+
+// --------------------------------------------------------------------------
+//   COMPONENT: BLOG POSTS
+// --------------------------------------------------------------------------
+
+
+// Post block in a list.
+// When a post is also a link.
+// These are vertically & horizontally centered.
+// See: https://philipwalton.github.io/solved-by-flexbox/demos/vertical-centering/
+// --------------------------------------------------------------------------
+
+//a.Post--inList {
+//	@include o-aligner;
+//
+//	> .Post-aligner {
+//		@include o-aligner-item;
+//	}
+//}
+
+a.Post--inList {
+	@include complexLink();
+	border: 0;
+	margin-bottom: 2px;
+	position: relative;
+
+	+ .Post--inList {
+		margin-top: $blockSpace / 2;
+	}
+
+	@include on-event() {
+		.Post-headline {
+			@include baseTransition();
+			color: palette(brand);
+		}
+	}
+}
+
+.Post-headline {
+	@include baseTransition();
+    @include headlineXs();
+    color: palette(white);
+    display: block;
+    padding: 0 15%;
+    text-align: center;
+}
+
+.Post-headline + .Post-headline {
+    margin-top: space(0.5);
+}
+
+
+
+
+
+
+
+
+
+
+// New shit here
+// --------------------------------------------------------------------------
+
+.c-post-hgroup {
+    //border-bottom: 1px solid palette(light);
+    //padding: $blockSpace 0;
+    //margin-bottom: space(1);
+    margin: ($blockSpace * 0.75) 0;
+}
+
+.c-post-headline {
+    @include headline();
+
+    @include media-breakpoint-up(sm) {
+        width: 80%;
+        margin-left: 0;
+    }
+}
+
+.c-post-subheadline {
+    margin-top: space(0.25);
+
+    p {
+        @include textMeta();
+        color: palette(medium);
+        margin-bottom: 0;
+    }
+}
+
+
+// Post markdown scopes
+
+.s-post {
+    @include media-breakpoint-up(sm) {
+        margin-right: $gutterSpace * 2;
+    }
+
+	h2 {
+		//@include textRg();
+        //font-family: $font-text-bold;
+        @include headlineSm();
+
+        @include media-breakpoint-up(sm) {
+            width: 85%;
+        }
+
+        &:not(:first-child) {
+            margin-top: $blockSpace * 0.75;
+		}
+
+        &:not(:last-child) {
+            margin-bottom: $paragraphSpace;
+            margin-bottom: $blockSpace * 0.75 * 0.5;
+		}
+	}
+
+    a {
+        @include underlineLink();
+    }
+
+
+    hr {
+        border: 0;
+        border-top: 1px solid palette(light);
+		margin: $paragraphSpace * 2 0;
+    }
+
+    // for photo credits only
+    em {
+        @include textXs();
+        border-top: 1px solid palette(light);
+        color: palette(medium);
+        display: block;
+		margin-top: $paragraphSpace * 2;
+		padding-top: space(0.5);
+    }
+}
+
+
+
+
+
+// Aside metas
+// --------------------------------------------------------------------------
+
+.c-post-meta {
+    &:not(:last-child) {
+        border-bottom: 1px solid palette(light);
+        margin-bottom: $blockSpace * 0.25;
+        padding-bottom: $blockSpace * 0.25;
+    }
+
+    .Button {
+        margin-bottom: 6px !important;
+    }
+
+    span,
+    span a,
+    li {
+        @include textMetaHeadline();
+    }
+
+    span {
+        display: block;
+    }
+
+    p {
+        @include textMeta();
+        margin-bottom: 0;
+    }
+
+    ul {
+        //list-style-type: disc;
+        list-style-type: upper-roman;
+        margin: 0 0 0 space(0.75);
+        padding-left: 0;
+    }
+
+    &--cta {
+        border: 0 !important;
+        padding: 0 !important;
+    }
+
+    &--logos {
+        p { margin-top: $paragraphSpace; }
+        p + p { margin-top: $paragraphSpace * 1.4; }
+        img { width: 66%; }
+    }
+}

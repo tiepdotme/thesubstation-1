@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: page.lang | default: 'en' }}">
+
+    {% include head.html %}
+
+<body>
+
+    {% include header.html %}
+
+    <main class="c-content o-container" aria-label="Content">
+        {{ content }}
+    </main>
+
+    {% include footer.html %}
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+    <script src="/assets/javascripts/lib.owl.carousel.min.js"></script>
+    <script src="/assets/javascripts/application.min.js"></script>
+    {% include google-analytics.html %}
+
+</body>
+
+</html>

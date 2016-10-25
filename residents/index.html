@@ -1,0 +1,15 @@
+---
+title: Residents
+layout: default
+---
+
+<div class="Grid Grid--withGutterSm">
+
+    {% assign sortedPosts = site.residents | sort:"position" %}
+    {% for post in sortedPosts %}
+
+        {% include post-cell.html %}
+
+    {% endfor %}
+
+</div>

@@ -1,0 +1,26 @@
+header:
+- title: What's On
+  url: /whats-on/
+- title: In Development
+  url: /in-development/
+- title: Residents
+  url: /residents/
+- title: Venues
+  url: /venues/
+- title: About Us
+  url: /about/
+- title: Support us
+  url: /support-us/
+footer:
+- title: Features
+  url: /features/
+- title: Press
+  url: http://siteleaf.dropmark.com/326718
+- title: Privacy
+  url: /privacy/
+- title: Terms
+  url: /terms/
+- title: Status
+  url: http://status.siteleaf.com
+- title: Twitter
+  url: https://twitter.com/siteleaf

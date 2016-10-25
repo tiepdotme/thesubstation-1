@@ -1,0 +1,21 @@
+<header class="c-header">
+    <div class="o-container">
+
+        <a href="/" class="c-header-logo">
+            <img class="" src="{{ site.imageurl }}logo.png" alt="{{ site.title }}" />
+        </a>
+
+        <div class="c-subscribeForm u-size3of10">
+            {% include enews-form.html %}
+        </div>
+
+        <div class="c-nav">
+            {% for item in site.data.navigation.header %}
+                <div class="c-nav-item {% if page.url != '/' and page.url contains item.url and page.tag != 'archive' %}is-active{% endif %}">
+                    <a class="" href="{{ item.url }}">{{ item.title }}</a>
+                </div>
+            {% endfor %}
+        </div>
+
+    </div>
+</header>

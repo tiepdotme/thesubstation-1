@@ -1,0 +1,15 @@
+---
+title: Community bookings
+image: the-substation-community-bookings
+position: 3
+---
+
+The Substation understands the time and planning it takes to run a successful conference, AGM or event. For more information please contact our Events Manager:
+
+Marisa Fiume<br>
+T: (03) 9391 1110<br>
+E: [marisa.fiume@thesubstation.org.au](marisa.fiume@thesubstation.org.au)
+
+You can also fill in your details below, and we will contact you within 24 hours:
+
+FORM HERE.

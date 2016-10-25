@@ -1,0 +1,13 @@
+---
+title: Venues
+layout: default
+---
+
+<div class="Grid Grid--withGutterSm">
+
+    {% assign sortedPosts = site.venues | sort: 'position' %}
+    {% for post in sortedPosts %}
+        {% include post-cell.html %}
+    {% endfor %}
+
+</div>

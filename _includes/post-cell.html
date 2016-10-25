@@ -1,0 +1,29 @@
+<div class="Grid-cell u-xs-size1of2 u-lg-size1of4">
+    <a class="Post--inList" href="{{ post.url }}">
+        <div class="FlexEmbed">
+            <div class="FlexEmbed-ratio"></div>
+            <div
+                class="FlexEmbed-content o-coverImage c-imageBlend"
+                style="background-image: url('{{ site.uploadurl }}{{ post.image | append: '-thumb.jpg' }}')"
+                >
+                <div class="o-aligner">
+                    <div class="o-aligner-item">
+                        <h1 class="Post-headline">{{ post.title }}</h1>
+                        <!-- <date class="Post-headline">{{ post.timeframe }}</date> -->
+                        {% if post.list-event-dates %}
+                            {% if post.list-event-dates.size == 1 %}
+                                <date class="Post-headline">{{ post.list-event-dates | first | date: "%b %d" }}</date>
+                            {% elsif post.program-time-is-months == true %}
+                                <date class="Post-headline">{{ post.list-event-dates | first | date: "%B" }} - {{ post.list-event-dates | last | date: "%B" }} {{ post.list-event-dates | first | date: "%Y" }}</date>
+                            {% else %}
+                                <date class="Post-headline">{{ post.list-event-dates | first | date: "%b %d" }} - {{ post.list-event-dates | last | date: "%b %d" }}</date>
+                            {% endif %}
+                        {% endif %}
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </a>
+</div>

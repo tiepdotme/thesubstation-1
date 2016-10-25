@@ -1,0 +1,131 @@
+
+
+// --------------------------------------------------------------------------
+//   HEADER LAYOUT
+// --------------------------------------------------------------------------
+
+
+.c-header {
+    margin: ($blockSpace * 0.5) 0 ($blockSpace * 0.75);
+	position: relative;
+}
+
+.c-header-logo > img {
+    margin-bottom: $blockSpace * 0.75;
+    width: 200px;
+
+    @include media-breakpoint-up(sm) {
+        width: 300px;
+    }
+}
+
+.c-subscribeForm {
+    position: absolute;
+    right: 0;
+    top: space(1);
+}
+
+.c-nav {
+    //@include listInline();
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+}
+
+.c-nav-item {
+    //@include listInline();
+    flex-shrink: 1;
+    margin: 0;
+
+    // theme
+    a {
+        @include textAside();
+        border-bottom: 1px solid transparent;
+        padding-bottom: 4px;
+    }
+
+    &.is-active {
+        a {
+            border-color: palette(text);
+            font-family: $font-text-bold;
+        }
+    }
+
+    @include on-event() {
+        a {
+            border-color: palette(text);
+            font-family: $font-text-bold;
+        }
+    }
+}
+
+
+
+
+// content
+
+.c-content {
+}
+
+
+
+
+// footer
+
+.c-footer {
+    margin: $blockSpace * 1.5 0 $blockSpace * 1.25;
+    //margin-top: calc( #{$blockSpace} + );
+	position: relative;
+}
+
+.c-footer li {
+    @include textXs();
+}
+
+.c-footer li span {
+    font-family: $font-text-bold;
+    text-transform: uppercase;
+}
+
+.c-footer .o-listClean {
+    margin-bottom: 0;
+}
+
+.c-footer-logo > img {
+    margin-top: -($blockSpace * 0.25);
+    width: 150px;
+
+    @include media-breakpoint-up(sm) {
+        width: 200px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+.u-size7of24 {
+    width: calc(100% * 7 / 24);
+}
+
+
+
+
+
+
+// quick spacers
+
+.u-spaceTD2   { margin-top: space(0.5) !important; }
+.u-spaceT     { margin-top: space(1) !important; }
+.u-spaceT2    { margin-top: space(2) !important; }
+.u-spaceB     { margin-bottom: space(1) !important; }
+.u-spaceB2    { margin-bottom: space(2) !important; }
+
+.u-sm-spaceT  { @include media-breakpoint-down(sm) { margin-top: space(1); } }
+.u-sm-spaceT2 { @include media-breakpoint-down(sm) { margin-top: space(2); } }
