@@ -4,7 +4,7 @@ date: 2016-05-16 10:00:00 +10:00
 categories:
 - whats-on
 image: motorgenic-photo-by-amanda-betlehem
-buy-url: 
+buy-url:
 price:
 - Free
 dates:
@@ -15,12 +15,6 @@ presented-by: ROBBIE AVENAIM
 supporters:
 - creative-victoria
 ---
-
-<!-- PRESENTED BY ROBBIE AVENAIM
-OPENING NIGHT: THURS 17 NOVEMBER, 7PM
-INSTALLATION RUNS: 17 NOV – 17 DEC -->
-
-<!-- https://thesubstation.org.au/show/motorgenic/ -->
 
 MOTORGENIC is part man part machine. MOTORGENIC is powered by its own vast potentiality.
 

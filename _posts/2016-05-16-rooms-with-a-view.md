@@ -13,8 +13,6 @@ time-is-opening-hours: true
 supporters: false
 ---
 
-<!-- http://thesubstation.org.au/show/rooms-with-a-view/ -->
-
 ## HOW TO SEE IN MAKING:  
 * Should I move fast to catch myself?  
 * Should I film my work?  

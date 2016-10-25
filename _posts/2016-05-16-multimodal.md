@@ -19,10 +19,6 @@ supporters:
 - australia-council-arts
 ---
 
-<!-- PREVIEW?: TUES 30 AUGUST -->
-<!-- https://thesubstation.org.au/show/multimodal/ -->
-<!-- TUES 30 AUGUST - SUN 4 SEPTEMBER -->
-
 Director and choreographer LEE SERLE melds audience and artist in the interactive, immersive and participatory performance piece MULTIMODAL, occupying THE SUBSTATION from August 30 - September 4.
 
 MULTIMODAL guides randomly selected audience members through a series of physical, sonic, olfactory and choreographic experiences housed within The SUBSTATION’s various post-industrial spaces.

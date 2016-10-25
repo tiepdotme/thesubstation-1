@@ -12,9 +12,6 @@ supporters:
 - creative-victoria
 ---
 
-<!-- http://thesubstation.org.au/show/melbourne-fringe-open-call/ -->
-<!-- APPLY HERE BTN -->
-
 The SUBSTATION is inviting applications from Victorian based independent performing artists and groups of artists to develop and present new work during the Melbourne Fringe which responds to our curatorial direction.
 
 Artists are required to respond to one or all of the following:

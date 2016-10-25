@@ -13,8 +13,6 @@ supporters:
 - creative-victoria
 ---
 
-<!-- http://thesubstation.org.au/show/vietnam-archive-project/ -->
-
 [THE VIETNAM ARCHIVE PROJECT](http://www.pthngo.com/vietnam-archive-project) is an ongoing artwork initially starting as a material research project in 2010 in Melbourne. Currently consisting in excess of 5000 items, including slides, photos, film reels and objects. This ever-growing collection has emerged as an act in acquiring and curating found histories and memories that have come to define [PHUONG NGO](http://www.pthngo.com/)'s personal identity of and that of the wider Vietnamese Diaspora that has emerged since the fall of Saigon in 1975.
 
 The materiality of [THE VIETNAM ARCHIVE PROJECT](http://www.pthngo.com/vietnam-archive-project) has been utilised to further extend NGO's practice developing artworks, investigating ways in which history is understood, altered and how personal experiences and inherited memory and experience dictate this.

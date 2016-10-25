@@ -17,8 +17,6 @@ presented-by: Plastic Loaves
 supporters: false
 ---
 
-<!-- http://thesubstation.org.au/show/plastic-loaves-makes-you-wet/ -->
-
 [PLASTIC LOAVES](http://www.plasticloaves.com/) presents a night where it’s hopeless to stay dry. The flood gates will be open all night long with a flowing stream of music, performers, vocals, sounds, smells, liquid beverages and visuals. Each space built and arranged by a pool of tender artists. Come sailing through the insides of your damp bodies with PLASTIC LOAVES.
 
 With JONNINE STANDISH ([HTRK](http://www.yourcomicbookfantasy.com/)), [HOUSE OF VNHOLY](http://www.houseofvnholy.com/), ST FRANCIS YOUTH CHOIR,  

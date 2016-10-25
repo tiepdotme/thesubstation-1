@@ -14,8 +14,6 @@ supporters:
 - melbourne-fringe
 ---
 
-<!-- https://thesubstation.org.au/show/substation-contemporary-art-prize-2016/ -->
-
 Established in 2011 to encourage and recognise innovation in contemporary art practice, The SUBSTATION Contemporary Art Prize is a non–acquisitive $10,000 cash award for Australian resident artists.  The show represents a major survey of the current spectrum of contemporary art practice.
 
 Previous recipients include NATHAN GRAY (VIC, 2014); ERIC BRIDGEMAN (NSW, 2013); ASH KEATING (VIC, 2012) and JEREMY KIBEL (VIC, 2011).

@@ -24,41 +24,6 @@ supporters:
 - creative-victoria
 ---
 
-<!-- dates:
-- 2016-07-20 19:30:00 AEST
-- 2016-07-21 19:30:00 AEST
-- 2016-07-22 19:30:00 AEST
-- 2016-07-23 19:30:00 AEST
-- 2016-07-24 18:00:00 AEST
-- 2016-07-26 19:30:00 AEST
-- 2016-07-27 19:30:00 AEST
-- 2016-07-28 19:30:00 AEST
-- 2016-07-29 19:30:00 AEST
-- 2016-07-30 19:30:00 AEST
-- dates-is-list: true
--->
-
-
-<!-- PRESENTED BY THE RABBLE
-DURATION: 60 MINS
-PREVIEW: WED 20 JULY, 7.30PM
-OPENING: THURS 21 JULY, 7.30PM
-FRI 22 JULY, 7.30PM
-SAT 23 JULY, 7.30PM
-SUN 24 JULY, 6PM
-TUES 26 JULY, 7.30PM (INC. POST- SHOW ARTIST TALK)
-WED 27 JULY, 7.30PM
-THURS 28 JULY, 7.30PM
-FRI 29 JULY, 7.30PM
-SAT 30 JULY, 7.30PM
-$25 PREVIEW
-$25 UNWAGED/STUDENT
-/CONCESSION/ARTISTS
-$35 STANDARD
-$50 RABBLE LOVERS -->
-
-<!-- http://thesubstation.org.au/show/cain-and-abel/ -->
-
 CAIN AND ABEL is an electrifying theatrical experience, a provocative and bloody retelling of a story that has stained the earth and our psyche for millennia.
 
 The biblical story of [CAIN AND ABEL](http://therabble.com.au/cain-abel/) is the tale of the first act of violence – an act that ricocheted across time. It envisions our history as man on man, brother on brother, blood on the earth. Well beyond its religious beginnings, it is a story that has defined our contemporary understanding of violence. [THE RABBLE](http://therabble.com.au/) has reimagined the story as a female one, with two sisters at the centre of the work (MARY HELEN SASSMAN and DANA MILTINS). The sisters recreate the first act of violence over and over again – from biblical sanctity to the spectacle of Hollywood. This is THE RABBLE at their best: a brave, iconoclastic and visually arresting work that questions our core assumptions about femininity and violence.

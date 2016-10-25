@@ -21,8 +21,6 @@ supporters:
 - melbourne-fringe
 ---
 
-<!-- https://thesubstation.org.au/show/inlandconcertseries/ -->
-
 INLAND is a concert series of Australian exploratory music, presenting artists working at the intersection of notated, improvised, electro-acoustic and popular disciplines, and spanning a number of Australian cities.
 
 Over three nights, twelve Australian sound artists will present works mapping a confluence of exploratory streams, tracing a detailed image of contemporary sound practice in Australia today.

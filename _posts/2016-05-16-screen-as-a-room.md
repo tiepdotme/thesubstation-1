@@ -14,8 +14,6 @@ presented-by: Nikki Lam
 supporters: creative-victoria
 ---
 
-<!-- http://thesubstation.org.au/show/screen-as-a-room/ -->
-
 What do you see when stare into a screen? SCREEN AS A ROOM explores performance on screen and screen-based practice in performance. Bringing together artists CAROLINE GARCIA, CHRISTIAN THOMPSON, EUGENIA LIM, FANNI FUTTERKNECHT and MIRA OOSTERWEGHEL, the exhibition will form a dialogue that investigates the liminal space between performance and video, as well as the tension between fiction and reality, space and non-space.
 
 ## CLOSING EVENT: Sat August 06, 3pm

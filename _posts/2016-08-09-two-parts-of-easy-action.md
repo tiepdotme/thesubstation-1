@@ -19,8 +19,6 @@ supporters:
 - melbourne-fringe
 ---
 
-<!-- https://thesubstation.org.au/show/twopartsofeasyaction/ -->
-
 TWO PARTS OF EASY ACTION is a solo work choreographed and performed by DEANNE BUTTERWORTH with critically acclaimed, experimental musician EVELYN MORRIS.  It examines the vulnerability and power of the solo performer using dance and music. Occurring in two parts, one old and one new, DEANNE revisits a work shown at NGV for Melbourne Now in 2014 where she performed with EVELYN in a gallery displaying eighteenth century paintings. The new part is a performance involving a guitar. She is a dancer, not a musician.
 
 At the heart of this work, she seeks to unearth a particular performance language using a known and an unfamiliar form. She reinvents the mundane, through exploring repetition in action and sound while conjuring rhythms and undercurrents of energy.

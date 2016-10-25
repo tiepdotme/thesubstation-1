@@ -13,8 +13,6 @@ supporters:
 - goethe
 ---
 
-<!-- http://thesubstation.org.au/show/fotografien/ -->
-
 [SVEN MARQUARDT](http://marquardtfotografie.tumblr.com/boss_zwei) was born 1962 in Berlin, and started his career in photography during the early eighties in East Berlin. MARQUARDT is also widely known as the bouncer of the famous techno club [BERGHAIN](http://www.berghain.de/) in Berlin. His portraiture explores staged and candid scenes of the everyday people in the street and the club scene in Berlin. [MARQUARDT](http://marquardtfotografie.tumblr.com/boss_zwei) will be showing a range of his photographs at THE SUBSTATION.
 
 ## About the artist

@@ -19,10 +19,6 @@ supporters:
 - made-in-scotland
 ---
 
-<!-- https://thesubstation.org.au/show/mess-robbie-thomson/ -->
-<!-- THURS 13 OCTOBER - FRI 14 OCTOBER -->
-<!-- [embed]https://vimeo.com/168322480[/embed] -->
-
 ## AUSTRALIAN EXCLUSIVE from THE SUBSTATION, CRYPTIC AND MELBOURNE FESTIVAL
 
 A double bill of light and sound connected by the primal phenomenon of electricity.

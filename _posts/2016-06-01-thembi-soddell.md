@@ -7,8 +7,6 @@ image: black
 supporters: false
 ---
 
-<!-- https://thesubstation.org.au/show/thembi-soddell/ -->
-
 THEMBI SODDELL will spend three weeks at The SUBSTATION developing a new multi-channel sound installation as part of her practice-led PhD research, which examines how sound might be used to convey firsthand experiences of mental illness and emotional distress. This development period will involve experiments with how listener’s perceive ambiguous and emotionally charged sound material while listening in complete darkness.
 
 ## ABOUT THEMBI SODDELL

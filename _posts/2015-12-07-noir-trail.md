@@ -15,8 +15,6 @@ supporters:
 - creative-victoria
 ---
 
-<!-- https://thesubstation.org.au/show/one-step/ -->
-
 NOIR TRAIL is an immersive, serialized, location-driven, performance event taking place over consecutive nights & days in multiple locations of an urban nightscape.
 
 The work is conceived as a mini-series, exploring mystery, the unknown, and the nature of fear. Audience members are directed to precincts within which the action, clues and revelations happen. Audience then interact with the precinct and its inhabitants to ascertain certain directions and clues which lead them further into the narrative elements/their own self. These precincts may be bars, laneways, apartments, car parks. As the audience move, they journey further into questions surrounding the perception of fear and what generates it.
