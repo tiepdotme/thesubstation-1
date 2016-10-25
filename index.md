@@ -1,5 +1,6 @@
 ---
 layout: index
+title: Home
 youtube: SnSeRSgYP6I
 banner-image: "/uploads/Substation_WebsiteHomeBanner-Season2_MULTISCAP.gif"
 carousel-images:
@@ -7,4 +8,3 @@ carousel-images:
 - "/uploads/05-Phuong-Ngo-The-Vietnam-Archive-Project-Untitled-Sides.jpg"
 - "/uploads/100-years-zine-photo-by-samantha-riegl-rebecca-vinci.jpg"
 ---
-
