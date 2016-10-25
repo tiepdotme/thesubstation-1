@@ -23,16 +23,18 @@ layout: default
 
     {% elsif page.carousel-images %}
 
-        <div class="owl-carousel js-owl">
-        	{% for image in page.carousel-images %}
-            	<div class="FlexEmbed">
-            		<div class="FlexEmbed-ratio FlexEmbed-ratio--4by3"></div>
-            		<div class="FlexEmbed-content">
-            			{% include responsive-img.html %}
-            		</div>
-            	</div>
-        	{% endfor %}
-        </div>
+        <div class="carousel">
+			{% for image in page.carousel-images %}
+				<div class="carousel-cell">
+					<div class="FlexEmbed">
+						<div class="FlexEmbed-ratio FlexEmbed-ratio--4by3"></div>
+						<div class="FlexEmbed-content">
+							{% include responsive-img.html %}
+						</div>
+					</div>
+				</div>
+			{% endfor %}
+		</div>
 
     {% else %}
 

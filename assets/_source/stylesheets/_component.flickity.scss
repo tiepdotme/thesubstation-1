@@ -7,15 +7,15 @@
 
 // This seems to be integral
 // to getting flickity to show up.
-.gallery-cell {
+.carousel-cell {
 	width: 100%;
 }
 
-a.gallery-cell {
+a.carousel-cell {
 	border: none;
 }
 
-.gallery {
+.carousel {
 	position: relative;
 }
 
@@ -57,14 +57,14 @@ a.gallery-cell {
 	transform: none !important;
 }
 
-.gallery-cell {
+.carousel--fader .carousel-cell {
 	left: 0 !important;
 	opacity: 0;
 	transition: opacity 700ms ease-in-out;
 	z-index: -1;
 }
 
-.gallery-cell.is-selected {
+.carousel--fader .carousel-cell.is-selected {
 	opacity: 1;
 	z-index: 0
 }
