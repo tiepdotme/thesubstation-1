@@ -1,16 +1,13 @@
 ---
 title: The Rabble
 date: 2015-12-07 01:00:00 +11:00
-categories:
-- residents
+current: true
 position: 1
 image: the-rabble
 price: false
 notes: Visit <a href="http://therabble.com.au/">the Rabble website</a>
 supporters: false
 ---
-
-<!-- https://thesubstation.org.au/show/the-rabble/ -->
 
 [THE RABBLE](http://therabble.com.au/) is an on-going conversation between its artistic directors KATE DAVIS & EMMA VALENTE about aesthetic, space, gender, theatre and representation. THE RABBLE was formed in 2006, and is one of Australia’s leading avant-garde contemporary theatre companies. THE RABBLE aim to centralise marginalised voices and ideas by boldly ignoring linear and dominant systems of representation. THE RABBLE re-imagine familiar text and stories through a surreal and feminist lens.
 

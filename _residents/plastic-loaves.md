@@ -1,16 +1,13 @@
 ---
 title: Plastic Loaves
 date: 2015-12-01 11:00:00 +11:00
-categories:
-- residents
+current: true
 position: 2
 image: plastic-loaves-credit-by-plastic-loaves
 price: false
 notes: Visit the <a href="http://www.plasticloaves.com/">Plastic Loaves website</a>
 supporters: false
 ---
-
-<!-- https://thesubstation.org.au/show/plastic-loaves/ -->
 
 [PLASTIC LOAVES](http://www.plasticloaves.com/) is a Melbourne-based developing creative practice, established by a gradual awareness and unfolding of ideas. Lead by Zarnie Morcombe and her vacant seats to be filled. [PLASTIC LOAVES](http://www.plasticloaves.com/) work is unprejudiced, with an open invitation for everyone and no one working across a variety of stages including art direction, print, graphic design, drawing and fashion (with her Nan).
 
