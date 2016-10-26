@@ -79,16 +79,17 @@ description: Write an awesome description for your new site here. You can edit t
   results) and in your feed.xml site description.
 baseurl:
 url: http://thesubstation.org.au
-imageurl: "/assets/images/"
-javascriptsurl: "/assets/javascripts/"
-uploadurl: "/uploads/"
-logo: "/assets/images/logo.png"
+logo: "/uploads/the-substation-logo.png"
 address: 1 Market Street Newport VIC 3015
 address-link: https://goo.gl/maps/3RTKiR89iD72
 phone: "(03) 9391 1110"
 email: info@thesubstation.org.au
 gallery-hours: Tuesday to Saturday 11am–5pm
 office-hours: Tuesday to Friday 9am–5pm
+google-analytics:
+imageurl: "/assets/images/"
+javascriptsurl: "/assets/javascripts/"
+uploadurl: "/uploads/"
 markdown: kramdown
 kramdown:
   input: GFM
