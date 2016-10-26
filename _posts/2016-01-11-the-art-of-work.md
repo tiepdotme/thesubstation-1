@@ -1,7 +1,8 @@
 ---
 title: The Art of Work
 date: 2016-01-11 01:00:00 +11:00
-categories: archive
+categories:
+- archive
 image: projector-bike-back-story
 buy-url: https://www.eventbrite.com/e/the-art-of-work-tickets-24226159094
 buy-button-txt: RSVP for free
@@ -13,7 +14,7 @@ dates-is-list: true
 has-start-time: true
 event-duration-txt: 120 mins
 presented-by: PROJECTOR BIKE
-link:
+link: 
 supporters:
 - hobsonsbay-cc
 ---
