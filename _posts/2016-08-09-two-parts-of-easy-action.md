@@ -10,7 +10,7 @@ dates:
 - 2016-09-26 06:00:00 +10:00
 time-has-mins: true
 has-start-time: true
-event-duration-txt: 35 mins
+event-duration-txt: for 35 mins
 price:
 - "$20 CONCESSION"
 - "$22 GROUP 6+"
