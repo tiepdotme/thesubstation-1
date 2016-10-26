@@ -1,6 +1,7 @@
 ---
 title: The Rabble
 date: 2016-01-26 01:00:00 +11:00
+categories: archive
 image: the-rabble-development
 price: false
 dates:
