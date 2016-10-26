@@ -2,16 +2,16 @@
 title: The Ghost Project
 date: 2016-06-01 10:00:00 +10:00
 categories:
-- whats-on
+- residents
 image: anna-tregloan-the-ghost-project
+presented-by: Anna Tregloan
+price: free
 dates:
 - 2016-10-22 17:00:00 AEST
 - 2016-10-23 17:00:00 AEST
-dates-is-list: true
 has-start-time: true
+dates-is-list: true
 event-duration-txt: Until 9:00pm
-presented-by: Anna Tregloan
-price: free
 supporters: false
 ---
 
