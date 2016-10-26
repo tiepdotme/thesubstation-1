@@ -256,7 +256,7 @@ layout: default
 
                         {% comment %}Event duration{% endcomment %}
                         {% if page.event-duration-txt %}
-                            for {{ page.event-duration-txt }}
+                            {{ page.event-duration-txt }}
                         {% endif %}
                     </p>
 
@@ -352,3 +352,7 @@ layout: default
         </aside>
     </div>
 </div>
+
+<p><em>This show is archived. It originally ran in {{ page.dates | first | date: "%Y" }}.</em></p>
+{% if page.categories == 'archive' %}
+{% endif %}

@@ -11,9 +11,9 @@ dates:
 - 2016-04-30 19:00:00 AEST
 dates-is-list: true
 has-start-time: true
-event-duration-txt: 120 mins
+event-duration-txt: for 120 mins
 presented-by: PROJECTOR BIKE
-link:
+notes: booking is essential
 supporters:
 - hobsonsbay-cc
 ---

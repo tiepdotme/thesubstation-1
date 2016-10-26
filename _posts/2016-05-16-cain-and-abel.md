@@ -17,7 +17,7 @@ has-opening-night: true
 has-preview-night: true
 has-start-time: true
 program-alt-start-time: SUN JULY 24 starts at 6PM
-event-duration-txt: 60 minutes
+event-duration-txt: for 60 minutes
 notes: 'ARTISTS POST-SHOW TALK: TUESDAY JULY 26, 8:30pm'
 presented-by: the rabble
 supporters:
