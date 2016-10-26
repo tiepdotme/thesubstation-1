@@ -1,7 +1,8 @@
 ---
 title: Fotografien
 date: 2015-12-01 11:00:00 +11:00
-categories: archive
+categories:
+- archive
 image: fotografien
 price: free
 dates:

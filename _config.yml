@@ -50,15 +50,15 @@ defaults:
   values:
     layout: post
     permalink: "/:categories/:title/"
-    title:
-    categories:
-    image:
-    video:
-    buy-url:
-    buy-button-txt:
+    title: 
+    categories: 
+    image: 
+    video: 
+    buy-url: 
+    buy-button-txt: 
     presented-by: false
     price: false
-    dates:
+    dates: 
     has-opening-event: false
     has-preview-event: false
     has-closing-event: false
@@ -70,14 +70,14 @@ defaults:
     time-is-month: false
     time-is-months: false
     time-has-mins: false
-    event-duration-txt:
+    event-duration-txt: 
     notes: false
     supporters:
-    -
+    - 
 description: Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for Google search
   results) and in your feed.xml site description.
-baseurl:
+baseurl: 
 url: http://thesubstation.org.au
 logo: "/uploads/the-substation-logo.png"
 address: 1 Market Street Newport VIC 3015
@@ -86,7 +86,7 @@ phone: "(03) 9391 1110"
 email: info@thesubstation.org.au
 gallery-hours: Tuesday to Saturday 11am–5pm
 office-hours: Tuesday to Friday 9am–5pm
-google-analytics:
+google-analytics: 
 imageurl: "/assets/images/"
 javascriptsurl: "/assets/javascripts/"
 uploadurl: "/uploads/"

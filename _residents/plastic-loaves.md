@@ -1,8 +1,8 @@
 ---
 title: Plastic Loaves
 date: 2015-12-01 11:00:00 +11:00
-current: true
 position: 2
+current: true
 image: plastic-loaves-credit-by-plastic-loaves
 price: false
 notes: Visit the <a href="http://www.plasticloaves.com/">Plastic Loaves website</a>

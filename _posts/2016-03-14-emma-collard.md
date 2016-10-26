@@ -1,7 +1,8 @@
 ---
 title: Emma Collard
 date: 2016-03-14 01:00:00 +11:00
-categories: archive
+categories:
+- archive
 image: emma-collard
 price: false
 dates: false
