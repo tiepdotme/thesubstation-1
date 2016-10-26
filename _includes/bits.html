@@ -1,0 +1,149 @@
+    {% elsif page.video %}
+
+        <div class="FlexEmbed">
+            <div class="FlexEmbed-ratio FlexEmbed-ratio--4by3"></div>
+            <div class="FlexEmbed-content">
+                <video autoplay="" loop="" class="Screen">
+                    <source src="{{ page.video }}" type="video/mp4">
+                    Your browser does not support the video tag. Please upgrade your browser.
+                </video>
+            </div>
+        </div>
+
+
+{% elsif page.carousel-images %}
+
+    <div class="carousel">
+        {% for image in page.carousel-images %}
+            <div class="carousel-cell">
+                <div class="FlexEmbed">
+                    <div class="FlexEmbed-ratio FlexEmbed-ratio--4by3"></div>
+                    <div class="FlexEmbed-content">
+                        {% include responsive-img.html %}
+                    </div>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+
+
+
+{% if page.show-event-in-mins %}{{ event | first | date: "%a %B %d" }}, {{ event | first | date: "%l:%M%p" }}-{{ event | first | date: "%l:%M%p" }}{% else %}{{ event | first | date: "%a %B %d" }}, {{ event | first | date: "%l:%M%p" }}-{{ event | first | date: "%l:%M%p" }}{% endif %}
+
+
+
+
+{% for event in page.dates %}
+
+    {% comment %}Iterate thru event dates collection{% endcomment %}
+    {% if page.dates.size == 2 and page.program-is-single-date == true %}
+        <p>
+            {{ event | date: "%a %B %d" }}, {{ event | first | date: "%l:%M%p" }}-{{ event | first | date: "%l:%M%p" }}
+            {{ }}
+        </p>
+    {% elsif page.dates.size >= 2 and page.program-is-single-date != true %}
+        <p>
+            {% if page.show-event-in-mins %}{{ event | date: "%a %B %d" }}, {{ event | date: "%l:%M%p" }}{% else %}{{ event | date: "%a %B %d" }}, {{ event | date: "%l%p" }}{% endif %}
+        </p>
+    {% endif %}
+{% endfor %}
+
+
+{% comment %}Swap note depending on number in collection{% endcomment %}
+{% if page.dates.size <= 2 and page.date-is-single == true %}
+    <span>Date:</span>
+{% elsif page.dates.size == 2 or 3 %}
+    <span>Dates:</span>
+{% else %}
+    <span>Program runs:</span>
+{% endif %}
+
+
+
+{% comment %}
+    -------------------------------------------
+    show-event-period or show-event-period-in-hrs
+    -------------------------------------------
+{% endcomment %}
+{% if page.show-event-period-in-hrs == true %}
+    <div class="c-post-meta">
+        <p>
+            <span>Date:</span>
+            {{ page.start-date | date: "%B %d" }} {{ page.start-date | date: "%l:%M%p" }} - {{ page.end-date | date: "%l:%M%p" }}
+        </p>
+        {% comment %} show-event-week-times-text {% endcomment %}
+        {% if page.show-event-week-times-text == true %}
+            <p>From {{ page.show-event-week-times-text }}</p>
+        {% endif %}
+    </div>
+{% elsif page.show-event-period == true %}
+    <div class="c-post-meta">
+        <p>
+            <span>Show runs:</span>
+            {{ page.start-date | date: "%B %d" }} - {{ page.end-date | date: "%B %d" }}
+        </p>
+        {% comment %} show-runs-week-times-text {% endcomment %}
+        {% if page.show-event-week-times-text == true %}
+            <p>From {{ page.show-event-week-times-text }}</p>
+        {% endif %}
+    </div>
+{% endif %}
+
+
+
+
+<!-- <ul class="c-nav">
+    {% for item in site.data.navigation.header %}
+    <li class="c-nav-item">
+        <a href="{{ item.url }}" class="header__link">{{ item.title }}</a>
+    </li>
+    {% endfor %}
+    <li class="header__item header__item--mobile">
+        <a id="mobileNavOpen" class="header__link">Menu</a>
+    </li>
+</ul> -->
+
+<!-- <h1 class="header__title">{{ page.header_title | default: page.title }}</h1> -->
+
+
+<!-- <div class="owl-carousel js-owl">
+    {% for image in header.gallery-images %}
+    <div class="FlexEmbed">
+        <div class="FlexEmbed-ratio"></div>
+        <div class="FlexEmbed-content">
+            {% include responsive-img.html %}
+            <div class="u-posAbsoluteCenter FlexEmbed-content--dark">&nbsp;</div>
+        </div>
+    </div>
+    {% endfor %}
+</div> -->
+<!-- <div class="Header-wrapper">
+    <div class="o-aligner">
+        <div class="o-aligner-item">
+            <div class="Container">
+                <h1 class="Header-title">
+                    {{ header.hero_headline }}
+                </h1>
+            </div>
+        </div>
+    </div>
+</div> -->
+
+
+
+<!-- <div class="Post-contentAligner">
+    <figure class="Post-image">
+        {% assign imagePath = "/uploads/post-list-" %}
+        <img
+            class="lazyload ls-blur"
+            alt="{{ post.title }}"
+            src="{{ imagePath }}{{ post.slug }}-src.jpg"
+            />
+    </figure>
+    <h1 class="Post-subtitle">{{ post.title }}</h1>
+    <div class="Post-meta">
+        {% for tag in post.tags %}
+            <span class="Post-tag">{{ tag | capitalize }}</span>
+        {% endfor %}
+    </div>
+</div> -->
