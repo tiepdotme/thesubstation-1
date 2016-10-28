@@ -4,6 +4,7 @@ date: 2016-05-16 00:00:00 +10:00
 categories:
 - archive
 image: cain-and-abel-photo-by-brett-boardmann
+image-credit: Brett Boardmann
 buy-url: https://thesubstation.iwannaticket.com.au/event/cain-and-abel-MTEwNjc
 price:
 - "$25 PREVIEW"
@@ -49,5 +50,3 @@ VALENTE's recent lighting design credits: Bright World (Arthur, TheatreWorks) Wi
 **DANA MILTINS** graduated from The Centre for the Performing Arts in Adelaide in 2001. She then furthered her training at The Stella Adler Studio of Acting in New York with famed teacher Earl Gister. She is an associate artist of THE RABBLE and has performed in almost every production throughout the company’s history including: Salome (Carriageworks), Corvus (Carriageworks), Cageling (45 Downstairs/Carriageworks), The Bedroom Project (Linden Gallery), Story of O (MTC), Frankenstein (Malthouse) and most recently Cain and Abel (Belvoir). In 2012 she played ‘Orlando’ in their production of Orlando for The Melbourne Festival. The show received a commendation in the Age Critics Awards, and was named ‘Top Show 2012’ by Time Out. Other theatre credits include The Golden Dragon (MTC), For a Better World (Griffin), and Manna (STC).
 
 **MARY HELEN SASSMAN** has worked with The Rabble since 2008 when she co-created and performed in THE RABBLE's Salome at Carriageworks.  With the company she then went on to perform in Cageling, The Bedroom Project, Special, Orlando, The Story of O and Room of Regret.  Most recently she performed the role of Abel in Cain and Abel for Belvoir and Dr Frankenstein for Malthouse Theatre. She has performed in installation and performance works by Jude Walton, Sarah Pell and Lloyd Jones and numerous productions at La Mama theatre. SASSMAN studied Performance Studies at Victoria University and has worked extensively in theatre, performance and music.
-
-_Photo credit: Brett Boardmann_

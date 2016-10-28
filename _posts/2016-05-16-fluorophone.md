@@ -4,6 +4,7 @@ date: 2016-05-16 00:00:00 +10:00
 categories:
 - whats-on
 image: fluorophone
+image-credit: LASALLE College of the Arts
 buy-url: http://thesubstation.iwannaticket.com.au/event/fluorophone-MTEwNjM
 price:
 - "$30 / $20 Concession"
@@ -46,5 +47,3 @@ EUGENE founded, with glass artist Elaine Miles, The Glass Percussion Project. Th
 As a conductor, EUGENE has worked with ELISION, Speak Percussion, Quiver and Orchestra Victoria. His engagements with Australian new music ensembles and arts organisations include ELISION, the Australian Art Orchestra, Libra, the David Chesworth Ensemble, Astra, Synergy, Aphids, Ensemble Offspring and Chamber Made Opera.
 
 EUGENE has lectured and hosted masterclasses throughout the world, and is currently a sessional staff member at the Victorian College of the Arts and Melbourne Conservatorium of Music (University of Melbourne) and is an academic lecturer at Monash University.
-
-_Photo credit: LASALLE College of the Arts_

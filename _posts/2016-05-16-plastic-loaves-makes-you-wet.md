@@ -4,6 +4,7 @@ date: 2016-05-16 10:00:00 +10:00
 categories:
 - archive
 image: Plastic-Loaves-photo-by-James-Robinson
+image-credit: James Robinson
 buy-url: http://thesubstation.iwannaticket.com.au/event/plastic-loaves-makes-youwet-MTEwODc
 price:
 - 1st RELEASE – $20  – SOLD OUT
@@ -25,5 +26,3 @@ With JONNINE STANDISH ([HTRK](http://www.yourcomicbookfantasy.com/)), [HOUSE OF 
 [MISTY NIGHTS](https://soundcloud.com/mistynightsdisco), REBECCA JENSEN, [ROBYN TREASURE](https://soundcloud.com/robyntreasure), [GREGOR](http://chaptermusic.com/store/gregor/thoughts-faults/), [BEANIES](https://soundcloud.com/beanies-2) (TOKYO),  
 ELLIOT MUNN, CHARLIE FREEDMAN, [SPIKE FUCK](https://soundcloud.com/spike-fuck), [HYUN LEE](http://www.hyunleee.com/), MIETTA COVENTRY,  
 DEEP LUNGE, DREAMTEAM PROJECTS, MELISSA ATANSVOSKI and BECOMING FRIENDS.
-
-_Photo credit: James Robinson_

@@ -4,6 +4,7 @@ date: 2016-05-16 10:00:00 +10:00
 categories:
 - archive
 image: rooms-with-a-view-image-by-morgan-jones
+image-credit: Morgan Jones
 presented-by: EMMA COLLARD
 price:
 - Free
@@ -41,5 +42,3 @@ ROOMS WITH A VIEW is a ONE DAY group exhibition held across The Substation that 
 ALICE MCINTOSH, ANDREW TRELOAR AND JACK RILEY, ANNABELLE AND ALANA KINGSTON, BELLE FRAHN-STARKIE AND ROSIE LEVERTON, BENJAMIN WOODS, BRENNAN OLVER, CAITLIN CUMMANE, CHERIE PEELE, EMMA COLLARD, EITAN RITZ, GEORGIA ROBENSTONE, HILLARY GOLDSMITH, JACQUI AYLWARD, KAHO HASHIMOTO, KARI LEE MCINNENY-MCRAE, KATIE LEE, KLARA KELVY, MELANIE IRWIN, MIKAELA FISHER, MORGAN JONES, NATALIE TURNBULL, PLASTIC LOAVES, ROWAN OLIVER, SEAN WHITTAKER, and TAJA DIETRICH.
 
 Exhibiting artists spent time in the space viewing, making and re-making their works as an output of EMMA COLLARD's SUBSTATION residency.
-
-_Photo credit: Morgan Jones_

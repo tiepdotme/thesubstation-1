@@ -4,6 +4,7 @@ date: 2015-12-07 11:00:00 +11:00
 categories:
 - in-development
 image: one-step-taken-by-julian
+image-credit: Julian Rickert
 price: false
 dates:
 - 2016-03-01 00:00:00 AEST
@@ -24,5 +25,3 @@ Audience involvement and complicity is heightened by a distinctly mobile and liv
 ## About One Step At A Time Like This
 
 [one step at a time like this](http://www.onestepatatimelikethis.com/) is a group of artists based in Melbourne, Australia whose practice extends into areas of what is usually referred to as 'live art'. Their earliest works were primarily theatre works. These included original works as well as radical re-workings of classical texts, incorporating elements of contemporary popular culture. one step at a time like this are interested in the audience and their part in creating the meaning of the work. This has led them progressively further away from representation and toward site-responsive works which engage the activity of the participant in the realisation and comprehension of the work. These audience works have a pre-occupation with the place and role of the audience. Their work is informed, above all, by an emphasis on relationships - between people, and qualities of space and time. The connective and often intimate nature of the work reflects the company's interest in engaging audience members in the activity, and by extension the creation, of a work of meaning. The hope is to create invitations, resonances and pathways toward a more engaged experience of live theatre and lived relations. The company has worked together since 2001.
-
-_Photo credit: Julian Rickert_

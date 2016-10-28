@@ -4,6 +4,7 @@ date: 2016-05-16 10:00:00 +10:00
 categories:
 - archive
 image: robbie-thomson-live-xfrmr-photo-by-tommy-ga-ken-wan
+image-credit: Tommy Ga-Ken Wan
 video: https://player.vimeo.com/video/168322480
 buy-url: https://thesubstation.iwannaticket.com.au/event/mess-robbie-thomson-MTEwNTA
 price: "$30 + $1.63 BF"
@@ -40,5 +41,3 @@ Meanwhile the Melbourne Electronic Sound Studio (M.E.S.S) will open a wormhole i
 **BYRON SCULLIN (M.E.S.S.)** The work of Melbourne practitioner BYRON SCULLIN explores the technological representation and amplification of sound as well as its properties as a physical presence. Operating in an ambiguous space where sound transitions into noise, SCULLIN'S sonic environments offer an experience of mass and multiplicity, often representing attempts to hear the unhearable.
 
 In his twenty year career he has contributed sound to feature films such as Wolf Creek, contemporary dance productions by LUCY GUERIN, GIDEON OBARZANEK, and LEE SERLE, and theatre works by DAVID CHISOLM, CHAMBER MADE OPERA, and ARENA THEATRE CO. He has created installations for museums and galleries - including Creation Cinema as part of First Peoples at the Melbourne Museum - and produced, engineered and mastered numerous Australian and international recordings. He also works as a sound educator at RMIT and Melbourne University.
-
-_Image Credit: Tommy Ga-Ken Wan_

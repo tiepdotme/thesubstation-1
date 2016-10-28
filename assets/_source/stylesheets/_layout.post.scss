@@ -88,6 +88,18 @@ a.Post--inList {
     }
 }
 
+.c-post-endline {
+    @include textXs();
+    border-top: 1px solid palette(light);
+    color: palette(medium);
+    margin-top: $paragraphSpace * 2;
+    padding-top: space(0.5);
+
+    p {
+
+    }
+}
+
 
 // Post markdown scopes
 

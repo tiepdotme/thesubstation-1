@@ -55,6 +55,17 @@ layout: default
         <article class="s-post">
             {{ page.content | markdownify }}
         </article>
+
+        {% if page.image-credit or page.categories contains 'archive' %}
+            <p class="c-post-endline">
+                {% if page.image-credit %}
+                    Image credit: {{ page.image-credit }}.
+                {% endif %}
+                {% if page.categories contains 'archive' %}
+                    &nbsp;This show is archived. It originally ran in {{ page.dates | first | date: "%Y" }}.
+                {% endif %}
+            </p>
+        {% endif %}
     </div>
     <div class="Grid-cell u-sm-size3of10 u-smDown-flexOrderFirst">
         <aside class="s-aside">
@@ -352,7 +363,3 @@ layout: default
         </aside>
     </div>
 </div>
-
-<p><em>This show is archived. It originally ran in {{ page.dates | first | date: "%Y" }}.</em></p>
-{% if page.categories == 'archive' %}
-{% endif %}

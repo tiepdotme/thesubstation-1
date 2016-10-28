@@ -4,6 +4,7 @@ date: 2016-06-23 10:00:00 +10:00
 categories:
 - in-development
 image: holly-durant
+image-credit: Damian Stephans
 supporters: false
 ---
 
@@ -16,5 +17,3 @@ I am looking at how we can mask, evolve and devolve the body live through choreo
 I am interested in how we can invert the effects of our natural environments – gravity, momentum, space proximity and textures to rebuild meaning and amplify implied and embedded myths, delving into the deep feminine identity and experience.
 
 I will be exploring both physical and digital manipulation to extrapolate and represent these ideas.
-
-_Image credit: Damian Stephans_

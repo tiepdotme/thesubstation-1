@@ -4,6 +4,7 @@ date: 2016-08-09 17:21:19 +10:00
 categories:
 - archive
 image: two-parts-of-easy-action
+image-credit: Gregory Lorenzutti
 buy-url: http://www.melbournefringe.com.au/program?event/two_parts_of_easy_action/1fc526dd-bfb4-40ec-b5b2-b6aaef263389/
 dates:
 - 2016-09-21 06:00:00 +10:00
@@ -34,5 +35,3 @@ TWO PARTS OF EASY ACTION is devised for the cavernous SUBSTATION, working with t
 **EVELYN MORRIS** has had a musical career with a great deal of variety. Starting out as a punk/thrash drummer in bands such as True Radical Miracle and art-rock group Baseball MORRIS travelled all over the world performing loud and intricate beats. Baseball travelled to Japan, Taiwan, and all over Europe. Whilst there MORRIS met up with DARREN HANLON and continued to tour playing drums and singing with him in Europe - and then for several tours in Australia. Not content with just drums, in amidst all this she started her own musical project called Pikelet. Pikelet has released three full-length albums and several EPs, all received great critical acclaim, and MORRIS travelled around The States and Europe performing. Pikelet has appeared several times at festivals such as Golden Plains, Melbourne International Arts Festival and supported a wide range of international artists such as Sufjan Stevens, Goldfrapp, Devendra Banhart and many more.
 
 In 2014 EVELYN MORRIS was awarded The Age Music Victoria award for best experimental/avant garde act, nominated and voted for by her esteemed peers in the field.  Recently MORRIS started the LISTEN group, a community effort at creating discourse and documenting the history around women's involvement in music in Australia. This project has created great changes within the musical communities in Melbourne and continues to grow and influence the way music is utilized in Australia.
-
-_IMAGE CREDIT: Gregory Lorenzutti_

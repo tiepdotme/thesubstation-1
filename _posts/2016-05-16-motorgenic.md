@@ -4,7 +4,8 @@ date: 2016-05-16 10:00:00 +10:00
 categories:
 - whats-on
 image: motorgenic-photo-by-amanda-betlehem
-buy-url: 
+image-credit: Amanda Betlehem
+buy-url:
 price:
 - Free
 dates:
@@ -27,5 +28,3 @@ MOTORGENIC presents an opportunity for audiences to decipher, interpret and deci
 ## About the artist
 
 [**ROBBIE AVENAIM**](http://www.robbieavenaim.com) began playing drums at the age of 10, at 16 he commenced informal studies with Jazz drummers drummers Alan Turnbull and Tony Buck (The Necks) in Sydney, Australia. At the age of 23, AVENAIM studied in New York with composer John Zorn (US) in 1996.  Between 1997 - 2005, he studied with Gunter Muller (De), Cor Fuhler (NL), Keith Rowe (Fr), also traveled to Zimbabwe to study with drummer Sam Chugamucinyi (ZW). AVENAIM advanced his studies by mentorship programs with Ernie Althoff (AU) in 2002-6 and recent studies with Conductor Ilan Volkov (IL) in Tel Aviv in 2013. Since then, he has developed a well-rounded understanding of percussion, composition and its capabilities through rigorous investigation.
-
-_Photo credit: Amanda Betlehem_

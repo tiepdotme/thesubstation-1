@@ -3,10 +3,11 @@ title: Melbourne Fringe Open Call
 date: 2016-04-13 10:00:00 +10:00
 categories:
 - archive
+image: lilian-steiner-photo-by-lauren-dunn
+image-credit: Lauren Dunn
 buy-url: https://www.judgify.me/substation-fringe
 buy-button-txt: APPLY by MAY 6
 price: false
-image: lilian-steiner-photo-by-lauren-dunn
 dates: false
 end-date: 2016-05-07 03:00:00 +10:00
 supporters:
@@ -55,5 +56,3 @@ To discuss your application please contact Daisy Douglas, Program Producer (with
 Email: [program@thesubstation.org.au](mailto:program@thesubstation.org.au)
 
 Phone: 03 9391 1110
-
-_Photo credit: Lauren Dunn_
