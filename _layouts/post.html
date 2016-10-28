@@ -366,12 +366,18 @@ javascripts: true
                 <p>{{ item.title }}</p>
             {% endfor %}
 
-            <p>{{ page.supporters }}</p>
+            <!-- <p>{{ page.supporters }}</p> -->
 
-            {% assign supporter = site.supporters | where: 'title', page.supporters | first %}
 
             {% if supporter %}
-                <p>{{ supporter.title }}</p>
+                {% assign logos = site.supporters | where: 'author', page.supporters %}
+
+                <div class="c-post-meta c-post-meta--logos">
+                    <span>Supported by: </span>
+                    {% for logo in logos %}
+                        <p><img src="{{ logo.image }}" alt="{{ logo.title }}" /></p>
+                    {% endfor %}
+                </div>
             {% endif %}
 
 
