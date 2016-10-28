@@ -1,5 +1,4 @@
 ---
-title: besen
-image: supporter-besen.jpg
+title: Besen
+image: /uploads/supporter-besen.jpg
 ---
-

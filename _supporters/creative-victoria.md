@@ -1,5 +1,4 @@
 ---
 title: Creative Victoria
-image: supporter-creative-victoria.jpg
+image: /uploads/supporter-creative-victoria.png
 ---
-

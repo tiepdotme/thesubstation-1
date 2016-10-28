@@ -1,5 +1,4 @@
 ---
 title: Australia Council of Arts
-image: supporter-australia-council-arts.png
+image: /uploads/supporter-australia-council-arts.png
 ---
-
