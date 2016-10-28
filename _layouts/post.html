@@ -359,18 +359,19 @@ javascripts: true
                         <p><img src="{{ supporter.image }}" alt="{{ supporter.title }}" /></p>
                     </div>
                 {% endfor %}
+                {% for item in site.supporters %}
+                    <p>{{ item.title }}</p>
+                {% endfor %}
                 -------------------------
             {% endcomment %}
 
-            {% for item in site.supporters %}
-                <p>{{ item.title }}</p>
-            {% endfor %}
+
 
             <!-- <p>{{ page.supporters }}</p> -->
 
 
-            {% if supporter %}
-                {% assign logos = site.supporters | where: 'author', page.supporters %}
+            {% if page.supporters %}
+                {% assign logos = site.supporters | where: 'title', page.supporters %}
 
                 <div class="c-post-meta c-post-meta--logos">
                     <span>Supported by: </span>
