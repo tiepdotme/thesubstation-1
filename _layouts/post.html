@@ -369,6 +369,7 @@ javascripts: true
 
             <!-- <p>{{ page.supporters }}</p> -->
 
+            <!-- This works if page.supporters is not a list/array -->
 
             {% if page.supporters %}
                 {% assign logos = site.supporters | where: 'title', page.supporters %}
