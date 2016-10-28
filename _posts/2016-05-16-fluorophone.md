@@ -6,16 +6,16 @@ categories:
 image: "/uploads/fluorophone.jpg"
 image-credit: LASALLE College of the Arts
 button-url: http://thesubstation.iwannaticket.com.au/event/fluorophone-MTEwNjM
+presented-by: SPEAK PERCUSSION
 price:
 - "$30 / $20 Concession"
 dates:
 - 2016-11-22 20:00:00 AEST
 - Friday November 25, 8pm
 has-start-time: true
-presented-by: SPEAK PERCUSSION
 supporters:
-- australia-council-arts
-- creative-victoria
+- Australia Council of Arts
+- Creative Victoria
 ---
 
 FLUOROPHONE creates a kaleidoscopic sound world in which the central instruments radiate, flicker, glow and burn. Analogue and digital fluorescent lights, the naked flame, strobe lights and custom-built LED discs are combined with percussion to create a program in which the music and lighting design are one and the same. FLUOROPHONE moves between noise, theatrical music and virtuosic instrumentalism, in a synesthetic display of light and sound.
