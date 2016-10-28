@@ -3,8 +3,8 @@ title: Dry land ecology
 date: 2016-08-09 17:37:37 +10:00
 categories:
 - archive
-image: inland-concert-series-dry-land-ecology
-buy-url: https://www.melbournefringe.com.au/program?event/inland_concert_series_dry_land_ecology/42ae105a-3a19-4d1a-a7d4-6724aa8af524/
+image: /uploads/inland-concert-series-dry-land-ecology.jpg
+button-url: https://www.melbournefringe.com.au/program?event/inland_concert_series_dry_land_ecology/42ae105a-3a19-4d1a-a7d4-6724aa8af524/
 dates:
 - 2016-09-29 05:30:00 +10:00
 - 2016-09-30 05:30:00 +10:00

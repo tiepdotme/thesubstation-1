@@ -1,7 +1,7 @@
 ---
 title: Staff and board
 position: 2
-image: the-substation-staff
+image: /uploads/the-substation-staff.jpg
 ---
 
 **Brad Spolding**  

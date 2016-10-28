@@ -3,8 +3,8 @@ title: Multimodal
 date: 2016-05-16 00:00:00 +10:00
 categories:
 - archive
-image: multimodal-photo-by-mateo-lopez
-buy-url: http://thesubstation.iwannaticket.com.au/event/multimodal-MTEwNjY
+image: /uploads/multimodal-photo-by-mateo-lopez.jpg
+button-url: http://thesubstation.iwannaticket.com.au/event/multimodal-MTEwNjY
 price:
 - "$25 PREVIEW"
 - "$30 standard"

@@ -65,6 +65,9 @@
 // content
 
 .c-content {
+    @include media-breakpoint-up(sm) {
+        min-height: 500px;
+    }
 }
 
 
@@ -100,19 +103,20 @@
     }
 }
 
-
-
-
-
-
-
-
-
-
-
-.u-size7of24 {
-    width: calc(100% * 7 / 24);
+//special grid class for footer address
+.u-sizeAddress {
+    width: calc(100% * 7.5 / 24);
 }
+
+
+
+
+
+
+
+
+
+
 
 
 

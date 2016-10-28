@@ -2,7 +2,7 @@
 title: Emma Collard
 date: 2016-03-14 01:00:00 +11:00
 current: false
-image: emma-collard
+image: /uploads/emma-collard.jpg
 price: false
 dates: false
 supporters: false

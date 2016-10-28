@@ -3,9 +3,9 @@ title: Two parts of easy action
 date: 2016-08-09 17:21:19 +10:00
 categories:
 - archive
-image: two-parts-of-easy-action
+image: /uploads/two-parts-of-easy-action.jpg
 image-credit: Gregory Lorenzutti
-buy-url: http://www.melbournefringe.com.au/program?event/two_parts_of_easy_action/1fc526dd-bfb4-40ec-b5b2-b6aaef263389/
+button-url: http://www.melbournefringe.com.au/program?event/two_parts_of_easy_action/1fc526dd-bfb4-40ec-b5b2-b6aaef263389/
 dates:
 - 2016-09-21 06:00:00 +10:00
 - 2016-09-26 06:00:00 +10:00

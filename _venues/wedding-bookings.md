@@ -1,9 +1,9 @@
 ---
 title: Wedding bookings
 position: 2
-image: the-substation-wedding-bookings
-buy-url: "/uploads/the-substation-wedding-hire-pack-2017.pdf"
-buy-button-txt: wedding hire pack
+image: /uploads/the-substation-wedding-bookings.jpg
+button-url: "/uploads/the-substation-wedding-hire-pack-2017.pdf"
+button-txt: wedding hire pack
 notes: Please note, we have NO AVAILABLE DATES left for weekend bookings in 2016.
 ---
 

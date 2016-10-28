@@ -3,9 +3,9 @@ title: Plastic Loaves Makes You… Wet
 date: 2016-05-16 10:00:00 +10:00
 categories:
 - archive
-image: Plastic-Loaves-photo-by-James-Robinson
+image: /uploads/Plastic-Loaves-photo-by-James-Robinson.jpg
 image-credit: James Robinson
-buy-url: http://thesubstation.iwannaticket.com.au/event/plastic-loaves-makes-youwet-MTEwODc
+button-url: http://thesubstation.iwannaticket.com.au/event/plastic-loaves-makes-youwet-MTEwODc
 price:
 - 1st RELEASE – $20  – SOLD OUT
 - 2n RELEASE – $25

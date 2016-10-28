@@ -1,6 +1,6 @@
 <footer class="c-footer">
 	<div class="o-container">
-        <div class="Grid">
+        <div class="Grid Grid--withGutter">
 
             <div class="Grid-cell u-size7of10">
 
@@ -10,14 +10,14 @@
                             <img class="" src="{{ site.imageurl }}logo.png" alt="{{ site.title }}" />
                         </a>
                     </div>
-                    <div class="Grid-cell u-size7of24">
+                    <div class="Grid-cell u-sizeAddress">
                         <ul class="o-listClean">
                             <li><a href="{{ site.address-link }}">{{ site.address }}</a></li>
                             <li><a href="tel:{{ site.phone }}">{{ site.phone }}</a></li>
                             <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
                         </ul>
                     </div>
-                    <div class="Grid-cell u-size7of24">
+                    <div class="Grid-cell u-size4of12">
                         <ul class="o-listClean">
                             <li>
                                 <span>Gallery open hours</span><br>
@@ -33,11 +33,23 @@
 
             </div>
             <div class="Grid-cell u-size3of10">
-                <ul class="o-listClean u-textRight">
-                    <li><a href="#">Social icon</a></li>
-                    <li><a href="#">Social icon</a></li>
-                    <li><a href="#">Social icon</a></li>
-                </ul>
+                <div class="u-textRigh">
+                    <a class="o-iconWrapper" href="{{ site.social.links[0] }}">
+                        <svg class="o-icon o-icon--xl o-icon--textAlign">
+                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#ic-facebook"></use>
+                        </svg>
+                    </a>
+                    <a class="o-iconWrapper" href="{{ site.social.links[1] }}">
+                        <svg class="o-icon o-icon--xl o-icon--right o-icon--textAlign">
+                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#ic-instagram"></use>
+                        </svg>
+                    </a>
+                    <a class="o-iconWrapper" href="{{ site.social.links[2] }}">
+                        <svg class="o-icon o-icon--xl o-icon--right o-icon--textAlign">
+                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#ic-twitter"></use>
+                        </svg>
+                    </a>
+                </div>
             </div>
 
         </div>

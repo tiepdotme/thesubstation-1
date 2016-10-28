@@ -3,7 +3,8 @@ title: Plastic Loaves
 date: 2015-12-01 11:00:00 +11:00
 position: 2
 current: true
-image: plastic-loaves-credit-by-plastic-loaves
+image: /uploads/plastic-loaves-credit-by-plastic-loaves.jpg
+image-credit: Plastic Loaves
 price: false
 notes: Visit the <a href="http://www.plasticloaves.com/">Plastic Loaves website</a>
 supporters: false
@@ -14,5 +15,3 @@ supporters: false
 Alliances include: Ladies Of Leisure, Charlie Harding, Oli Bradley, Melissa Atanasovski, Fashion Journal, VICE, Nan, AEVOE etc.
 
 Education: Bachelor of Communication Design RMIT 2013 graduate, Cert IV in Small Business Management.
-
-_Image credit: Plastic Loaves_

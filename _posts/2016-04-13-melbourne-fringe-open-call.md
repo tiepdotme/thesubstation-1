@@ -3,13 +3,13 @@ title: Melbourne Fringe Open Call
 date: 2016-04-13 10:00:00 +10:00
 categories:
 - archive
-image: lilian-steiner-photo-by-lauren-dunn
+image: /uploads/lilian-steiner-photo-by-lauren-dunn.jpg
 image-credit: Lauren Dunn
-buy-url: https://www.judgify.me/substation-fringe
-buy-button-txt: APPLY by MAY 6
+button-url: https://www.judgify.me/substation-fringe
+button-txt: APPLY by MAY 6
 price: false
-dates: false
-end-date: 2016-05-07 03:00:00 +10:00
+dates:
+- 2016-05-06 00:00:00
 supporters:
 - hobsons-cc
 - creative-victoria
@@ -47,12 +47,12 @@ Only Victorian based independent artists or groups of artists are eligible to ap
 
 Due to resources constraints, unsuccessful applicants will not be provided with feedback.
 
-Click [HERE](https://www.judgify.me/substation-fringe) to apply.
+[Follow this link to apply.](https://www.judgify.me/substation-fringe)
 
 CLOSING DATE: Friday 6 May
 
-To discuss your application please contact Daisy Douglas, Program Producer (with subject title 'Melbourne Fringe Open Call')
+To discuss your application please contact Daisy Douglas, Program Producer:
 
-Email: [program@thesubstation.org.au](mailto:program@thesubstation.org.au)
+Email: [program@thesubstation.org.au](mailto:program@thesubstation.org.au) with subject title 'Melbourne Fringe Open Call'
 
 Phone: 03 9391 1110

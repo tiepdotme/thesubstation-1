@@ -4,7 +4,7 @@
             <div class="FlexEmbed-ratio"></div>
             <div
                 class="FlexEmbed-content o-coverImage c-imageBlend"
-                style="background-image: url('{{ site.uploadurl }}{{ post.image | append: '-thumb.jpg' }}')"
+                style="background-image: url('{{ post.image | remove: ".jpg" | append: "-thumb.jpg" }}')"
                 >
                 <div class="o-aligner">
                     <div class="o-aligner-item">

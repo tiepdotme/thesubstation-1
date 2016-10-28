@@ -1,5 +1,6 @@
 ---
 layout: default
+javascripts: true
 ---
 
 {% comment %}
@@ -28,7 +29,7 @@ layout: default
         <div class="FlexEmbed-ratio FlexEmbed-ratio--16by9"></div>
         <div
             class="FlexEmbed-content o-coverImage"
-            style="background-image: url('{{ site.uploadurl }}{{ page.image | append: '.jpg' }}')"
+            style="background-image: url('{{ page.image }}')"
             >
         </div>
     </div>
@@ -49,6 +50,8 @@ layout: default
     {% endif %}
 </div>
 
+{{ page.javascripts }}
+
 
 <div class="Grid Grid--withGutter">
     <div class="Grid-cell u-sm-size7of10">
@@ -62,12 +65,12 @@ layout: default
                     Image credit: {{ page.image-credit }}.
                 {% endif %}
                 {% if page.categories contains 'archive' %}
-                    &nbsp;This show is archived. It originally ran in {{ page.dates | first | date: "%Y" }}.
+                    This show is archived. It originally ran in {{ page.dates | first | date: "%Y" }}.
                 {% endif %}
             </p>
         {% endif %}
     </div>
-    <div class="Grid-cell u-sm-size3of10 u-smDown-flexOrderFirst">
+    <div class="Grid-cell u-sm-size3of10 u-smDown-flexOrderFirst c-sm-sticky">
         <aside class="s-aside">
 
             {% comment %}
@@ -75,11 +78,11 @@ layout: default
                 CTA: buy tickets & presented-by
                 ----------------------------------------
             {% endcomment %}
-            {% if page.buy-url %}
+            {% if page.button-url %}
                 <div class="c-post-meta c-post-meta--cta">
-                    <a class="Button t-button--primary" href="{{ page.buy-url }}">
-                        {% if page.buy-button-txt %}
-                            {{ page.buy-button-txt }}
+                    <a class="Button t-button--primary" href="{{ page.button-url }}">
+                        {% if page.button-txt %}
+                            {{ page.button-txt }}
                         {% else %}
                             Buy tickets
                         {% endif %}

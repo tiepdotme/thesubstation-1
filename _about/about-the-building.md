@@ -1,7 +1,7 @@
 ---
 title: About the building
 position: 3
-image: the-substation-about-the-building
+image: /uploads/the-substation-about-the-building.jpg
 ---
 
 The SUBSTATIONis a multi arts centre located in Newport, Victoria. One of Melbourne’s newest arts venues, the building houses the biggest visual arts gallery in the Western Suburbs of Melbourne, a dance studio and a large-scale multi-purpose performance space. The SUBSTATIONis a one of a kind arts venue in Victoria in that its architecture and spaces invite artists to work across art form and scale. The SUBSTATIONaims to engage with artists to introduce new audiences to new artists and artistic work. We invite artists to utilise our unique spaces in the development and staging of work that responds to ideas that are relevant to our place in Melbourne, Australia and the world.

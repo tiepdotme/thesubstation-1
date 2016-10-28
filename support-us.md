@@ -3,8 +3,8 @@ title: Brick by brick
 date: 2015-12-01 01:00:00 +11:00
 permalink: "/support-us/"
 image: the-substation-support-us
-buy-url: https://www.givenow.com.au/hobsonsbaycommunityartscentre
-buy-button-txt: donate
+button-url: https://www.givenow.com.au/hobsonsbaycommunityartscentre
+button-txt: donate
 ---
 
 The Substation is a not-for-profit community-based arts organisation in the inner west of Melbourne, which strives to engage its local communities in the best that the arts have to offer.

@@ -6,7 +6,7 @@ collections:
     title: About Us
     output: true
   posts:
-    title: Posts
+    title: Events
     output: true
   residents:
     title: Residents
@@ -55,8 +55,8 @@ defaults:
     image:
     image-credit:
     video:
-    buy-url:
-    buy-button-txt:
+    button-url:
+    button-txt:
     presented-by: false
     price: false
     dates:
@@ -76,10 +76,23 @@ defaults:
     supporters:
     -
 description: |
-    Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search   results) and in your feed.xml site description.
+    The SUBSTATION is a unique large-scale multi-purpose gallery, performance space and dance studio for artists of every kind, in Newport, Melbourne, Australia.
 baseurl:
 url: http://thesubstation.org.au
 logo: "/uploads/the-substation-logo.png"
+facebook:
+  app_id: 1234
+  publisher: 1234
+  admins: 1234
+  username: TheSubstationNewport
+twitter:
+  username: thesubstation_
+social:
+    links:
+        - https://www.facebook.com/TheSubstationNewport/
+        - https://www.instagram.com/thesubstation/
+        - https://twitter.com/thesubstation_
+author: patternworks_
 address: 1 Market Street Newport VIC 3015
 address-link: https://goo.gl/maps/3RTKiR89iD72
 phone: "(03) 9391 1110"
@@ -88,8 +101,8 @@ gallery-hours: Tuesday to Saturday 11am–5pm
 office-hours: Tuesday to Friday 9am–5pm
 google-analytics:
 imageurl: "/assets/images/"
-javascriptsurl: "/assets/javascripts/"
 uploadurl: "/uploads/"
+javascriptsurl: "/assets/javascripts/"
 markdown: kramdown
 kramdown:
   input: GFM
@@ -102,10 +115,12 @@ exclude:
 - assets/_source
 - Gemfile
 - Gemfile.lock
+- ".gitignore"
 - editorconfig
 - gulpfile.js
 - package.json
 - node_modules
 - yarn.lock
-- README.md
-- TODO.md
+- DESCRIPTION*
+- README*
+- TODO*

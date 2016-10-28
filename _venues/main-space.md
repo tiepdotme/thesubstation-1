@@ -1,9 +1,9 @@
 ---
 title: Main space
 position: 5
-image: the-substation-main-space
-buy-url: "/uploads/the-substation-tech-specs.pdf"
-buy-button-txt: Full tech spec
+image: /uploads/the-substation-main-space.jpg
+button-url: "/uploads/the-substation-tech-specs.pdf"
+button-txt: Full tech spec
 ---
 
 **SUITABLE AS A PERFORMANCE SPACE.**

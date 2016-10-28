@@ -1,7 +1,7 @@
 ---
 title: Community bookings
 position: 3
-image: the-substation-community-bookings
+image: /uploads/the-substation-community-bookings.jpg
 ---
 
 The Substation understands the time and planning it takes to run a successful conference, AGM or event. For more information please contact our Events Manager:

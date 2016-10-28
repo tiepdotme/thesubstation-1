@@ -1,7 +1,7 @@
 ---
 title: Studio
 position: 6
-image: the-substation-studio
+image: /uploads/the-substation-studio.jpg
 ---
 
 **SUITABLE AS A PERFORMANCE OR REHEARSAL SPACE.**

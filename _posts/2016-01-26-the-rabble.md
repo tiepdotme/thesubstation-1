@@ -3,7 +3,7 @@ title: The Rabble
 date: 2016-01-26 01:00:00 +11:00
 categories:
 - archive
-image: the-rabble-development
+image: /uploads/the-rabble-development.jpg
 image-credit: Kate Davis featuring Dana Miltins
 price: false
 dates:

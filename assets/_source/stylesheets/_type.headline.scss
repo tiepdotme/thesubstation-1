@@ -74,7 +74,8 @@
 @mixin headlineSm() {
     @include headlineTemplate(
         $mixinSize: headline--sm,
-        $mixinLetterSpacing: 0.125em
+        $mixinLetterSpacing: 0.125em,
+    	$mixinLineHeight: 1.5
     );
     font-family: $font-text-medium;
     text-transform: uppercase;

@@ -138,15 +138,21 @@ a.Post--inList {
 		margin: $paragraphSpace * 2 0;
     }
 
-    // for photo credits only
-    em {
-        @include textXs();
-        border-top: 1px solid palette(light);
+    blockquote p {
+        border-left: 1px solid palette(muted);
         color: palette(medium);
-        display: block;
-		margin-top: $paragraphSpace * 2;
-		padding-top: space(0.5);
+        padding-left: space(1);
     }
+
+    // for photo credits only
+    //em {
+    //    @include textXs();
+    //    border-top: 1px solid palette(light);
+    //    color: palette(medium);
+    //    display: block;
+	//	margin-top: $paragraphSpace * 2;
+	//	padding-top: space(0.5);
+    //}
 }
 
 
