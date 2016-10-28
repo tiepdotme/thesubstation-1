@@ -13,7 +13,6 @@ dates:
 - 2016-12-17 17:00:00 AEST
 has-opening-event: true
 supporters:
-- Creative Victoria
 ---
 
 MOTORGENIC is part man part machine. MOTORGENIC is powered by its own vast potentiality.
