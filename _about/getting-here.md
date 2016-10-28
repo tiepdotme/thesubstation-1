@@ -1,7 +1,7 @@
 ---
 title: Getting here
 position: 1
-image: /uploads/the-substation-map.jpg
+image: "/uploads/the-substation-map.jpg"
 ---
 
 **The Substation**<br>

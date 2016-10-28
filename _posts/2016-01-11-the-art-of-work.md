@@ -3,7 +3,7 @@ title: The Art of Work
 date: 2016-01-11 01:00:00 +11:00
 categories:
 - archive
-image: /uploads/projector-bike-back-story.jpg
+image: "/uploads/projector-bike-back-story.jpg"
 button-url: https://www.eventbrite.com/e/the-art-of-work-tickets-24226159094
 button-txt: RSVP for free
 price: false

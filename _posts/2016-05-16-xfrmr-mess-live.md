@@ -3,7 +3,7 @@ title: XFRMR / Mess — Live
 date: 2016-05-16 10:00:00 +10:00
 categories:
 - archive
-image: /uploads/robbie-thomson-live-xfrmr-photo-by-tommy-ga-ken-wan.jpg
+image: "/uploads/robbie-thomson-live-xfrmr-photo-by-tommy-ga-ken-wan.jpg"
 image-credit: Tommy Ga-Ken Wan
 video: https://player.vimeo.com/video/168322480
 button-url: https://thesubstation.iwannaticket.com.au/event/mess-robbie-thomson-MTEwNTA

@@ -3,7 +3,7 @@ title: Plastic Loaves Makes You… Wet
 date: 2016-05-16 10:00:00 +10:00
 categories:
 - archive
-image: /uploads/Plastic-Loaves-photo-by-James-Robinson.jpg
+image: "/uploads/Plastic-Loaves-photo-by-James-Robinson.jpg"
 image-credit: James Robinson
 button-url: http://thesubstation.iwannaticket.com.au/event/plastic-loaves-makes-youwet-MTEwODc
 price:

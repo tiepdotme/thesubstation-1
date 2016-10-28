@@ -3,7 +3,7 @@ title: Noir Trail
 date: 2015-12-07 11:00:00 +11:00
 categories:
 - in-development
-image: /uploads/one-step-taken-by-julian.jpg
+image: "/uploads/one-step-taken-by-julian.jpg"
 image-credit: Julian Rickert
 price: false
 dates:

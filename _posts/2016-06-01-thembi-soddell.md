@@ -3,7 +3,7 @@ title: Thembi Soddell
 date: 2016-06-01 10:00:00 +10:00
 categories:
 - in-development
-image: /uploads/black.jpg
+image: "/uploads/black.jpg"
 supporters: false
 ---
 

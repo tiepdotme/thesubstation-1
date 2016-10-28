@@ -3,7 +3,7 @@ title: Natalie Abbott
 date: 2015-12-07 01:00:00 +11:00
 categories:
 - archive
-image: /uploads/natalie-abbott.jpg
+image: "/uploads/natalie-abbott.jpg"
 price: false
 dates:
 - 2016-03-01 00:00:00 AEST
