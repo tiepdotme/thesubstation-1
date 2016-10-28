@@ -5,15 +5,15 @@ categories:
 - whats-on
 image: "/uploads/motorgenic-photo-by-amanda-betlehem.jpg"
 image-credit: Amanda Betlehem
+presented-by: ROBBIE AVENAIM
 price:
 - Free
 dates:
 - 2016-11-17 19:00:00 AEST
 - 2016-12-17 17:00:00 AEST
 has-opening-event: true
-presented-by: ROBBIE AVENAIM
 supporters:
-- creative-victoria
+- Creative Victoria
 ---
 
 MOTORGENIC is part man part machine. MOTORGENIC is powered by its own vast potentiality.
