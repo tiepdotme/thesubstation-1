@@ -12,7 +12,7 @@ dates:
 - 2016-11-17 19:00:00 AEST
 - 2016-12-17 17:00:00 AEST
 has-opening-event: true
-supporters:
+supporters: 
 ---
 
 MOTORGENIC is part man part machine. MOTORGENIC is powered by its own vast potentiality.
