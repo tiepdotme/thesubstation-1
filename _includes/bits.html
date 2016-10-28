@@ -2,6 +2,17 @@
     {% include javascripts.html %}
 {% endif %}
 
+
+{% assign supporters = site.supporters | where: 'title', page.supporters | first %}
+
+{% for supporter in supporters %}
+    {{ supporter.title }}
+{% endfor %}
+
+{% if page.supporters %}
+    {{ supporters.title }}
+{% endif %}
+
     {% elsif page.video %}
 
         <div class="FlexEmbed">

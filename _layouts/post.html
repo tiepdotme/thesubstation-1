@@ -352,16 +352,29 @@ javascripts: true
             {% comment %}
                 -------------------------
                 supporters
+                see: https://www.siteleaf.com/blog/author-pages-in-jekyll-and-siteleaf/
+                {% for supporter in site.supporters %}
+                    <div class="c-post-meta c-post-meta--logos">
+                        <span>Supported by: </span>
+                        <p><img src="{{ supporter.image }}" alt="{{ supporter.title }}" /></p>
+                    </div>
+                {% endfor %}
                 -------------------------
             {% endcomment %}
-            {% if page.supporters %}
-                <div class="c-post-meta c-post-meta--logos">
-                    <span>Supported by: </span>
-                    {% for supporter in page.supporters %}
-                        <p><img src="{{ site.imageurl }}supporter-{{ supporter }}.png" alt="{{ supporter }}" /></p>
-                    {% endfor %}
-                </div>
+
+            {% for item in site.supporters %}
+                <p>{{ item.title }}</p>
+            {% endfor %}
+
+            <p>{{ page.supporters }}</p>
+
+            {% assign supporter = site.supporters | where: 'title', page.supporters | first %}
+
+            {% if supporter %}
+                <p>{{ supporter.title }}</p>
             {% endif %}
+
+
 
         </aside>
     </div>
