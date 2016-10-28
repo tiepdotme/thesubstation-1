@@ -3,7 +3,7 @@ title: Motorgenic
 date: 2016-05-16 10:00:00 +10:00
 categories:
 - whats-on
-image: /uploads/motorgenic-photo-by-amanda-betlehem.jpg
+image: "/uploads/motorgenic-photo-by-amanda-betlehem.jpg"
 image-credit: Amanda Betlehem
 price:
 - Free

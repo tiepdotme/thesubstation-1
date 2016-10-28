@@ -3,7 +3,7 @@ title: Newport Archives
 date: 2016-05-16 10:00:00 +10:00
 categories:
 - archive
-image: /uploads/newport-archives.jpg
+image: "/uploads/newport-archives.jpg"
 image-credit: Suzie Blake
 button-url: http://thesubstation.iwannaticket.com.au/event/newport-archives-open-house-melbourne-MTEwODI
 price:

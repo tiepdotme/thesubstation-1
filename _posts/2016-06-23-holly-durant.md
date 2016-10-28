@@ -3,7 +3,7 @@ title: Holly Durant
 date: 2016-06-23 10:00:00 +10:00
 categories:
 - in-development
-image: /uploads/holly-durant.jpg
+image: "/uploads/holly-durant.jpg"
 image-credit: Damian Stephans
 supporters: false
 ---

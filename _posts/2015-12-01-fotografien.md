@@ -3,7 +3,7 @@ title: Fotografien
 date: 2015-12-01 11:00:00 +11:00
 categories:
 - archive
-image: /uploads/fotografien.jpg
+image: "/uploads/fotografien.jpg"
 image-credit: Ole Westermann
 price: free
 dates:

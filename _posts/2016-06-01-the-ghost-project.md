@@ -3,7 +3,7 @@ title: The Ghost Project
 date: 2016-06-01 10:00:00 +10:00
 categories:
 - whats-on
-image: /uploads/anna-tregloan-the-ghost-project.jpg
+image: "/uploads/anna-tregloan-the-ghost-project.jpg"
 presented-by: Anna Tregloan
 price: free
 dates:

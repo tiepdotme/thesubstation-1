@@ -3,7 +3,7 @@ title: Cain And Abel
 date: 2016-05-16 00:00:00 +10:00
 categories:
 - archive
-image: /uploads/cain-and-abel-photo-by-brett-boardmann.jpg
+image: "/uploads/cain-and-abel-photo-by-brett-boardmann.jpg"
 image-credit: Brett Boardmann
 button-url: https://thesubstation.iwannaticket.com.au/event/cain-and-abel-MTEwNjc
 price:
