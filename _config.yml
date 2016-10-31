@@ -4,10 +4,13 @@ timezone: Australia/Melbourne
 collections:
   about:
     title: About Us
+    output: false
   posts:
     title: Events
+    output: true
   residents:
     title: Residents
+    output: false
   supporters:
     title: Supporters
     output: false
@@ -16,6 +19,7 @@ collections:
     output: false
   venues:
     title: Venues
+    output: false
 defaults:
 - scope:
     path: ''
