@@ -360,6 +360,7 @@ javascripts: true
                     -------------------------
                     supporters
                     see: https://www.siteleaf.com/blog/author-pages-in-jekyll-and-siteleaf/
+                    see: https://www.siteleaf.com/blog/customizing-the-siteleaf-admin/#smart-fields
                     {% for supporter in site.supporters %}
                         <div class="c-post-meta c-post-meta--logos">
                             <span>Supported by: </span>
@@ -372,14 +373,10 @@ javascripts: true
                     -------------------------
                 {% endcomment %}
 
-
-
-
-
                 <!-- This works if page.supporters is not a list/array -->
 
                 {% if page.supporters %}
-                    <p>{{ page.supporters }}</p>
+                    <!-- <p>{{ page.supporters }}</p> -->
 
                     {% assign logos = site.supporters | where: 'title', page.supporters %}
 
