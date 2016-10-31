@@ -8,7 +8,7 @@ button-url: https://thesubstation.iwannaticket.com.au/event/unpacking-the-vietna
 button-txt: rsvp for free
 dates:
 - 2016-05-12 19:00:00 AEST
-date-is-single: true
+is-single-date: true
 presented-by: PHUONG NGO
 supporters:
 - australia-council-arts

@@ -65,7 +65,7 @@
 
 
 {% comment %}Swap note depending on number in collection{% endcomment %}
-{% if page.dates.size <= 2 and page.date-is-single == true %}
+{% if page.dates.size <= 2 and page.is-single-date == true %}
     <span>Date:</span>
 {% elsif page.dates.size == 2 or 3 %}
     <span>Dates:</span>

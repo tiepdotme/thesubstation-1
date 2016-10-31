@@ -9,7 +9,7 @@ price: false
 dates:
 - 2016-03-01 00:00:00 AEST
 - 2016-03-31 00:00:00 AEST
-time-is-month: true
+is-single-month-duration: true
 notes: Visit <a href="http://therabble.com.au/">The Rabble Website</a>
 supporters:
 - besen-foundation

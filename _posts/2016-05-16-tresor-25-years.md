@@ -9,7 +9,7 @@ price:
 dates:
 - 2016-06-17 21:00:00 AEST
 - 2016-06-18 05:00:00 AEST
-date-is-single: true
+is-single-date: true
 presented-by: Bunker
 supporters: false
 ---

@@ -9,7 +9,7 @@ button-url: http://www.melbournefringe.com.au/program?event/two_parts_of_easy_ac
 dates:
 - 2016-09-21 06:00:00 +10:00
 - 2016-09-26 06:00:00 +10:00
-time-has-mins: true
+has-mins: true
 has-start-time: true
 event-duration-txt: for 35 mins
 price:

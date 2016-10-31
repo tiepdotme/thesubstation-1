@@ -11,7 +11,7 @@ price: "$30 + $1.63 BF"
 dates:
 - 2016-10-13 20:00:00 AEST
 - 2016-10-14 20:00:00 AEST
-dates-is-list: true
+is-list-of-dates: true
 has-start-time: true
 presented-by: Robbie Thomson
 notes: false

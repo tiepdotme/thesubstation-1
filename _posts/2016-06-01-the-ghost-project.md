@@ -10,7 +10,7 @@ dates:
 - 2016-10-22 17:00:00 AEST
 - 2016-10-23 17:00:00 AEST
 has-start-time: true
-dates-is-list: true
+is-list-of-dates: true
 event-duration-txt: Until 9:00pm
 supporters: false
 ---

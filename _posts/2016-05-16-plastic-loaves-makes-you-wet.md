@@ -12,8 +12,8 @@ price:
 dates:
 - 2016-08-12 21:00:00 AEST
 - 2016-08-13 04:30:00 AEST
-date-is-single: true
-time-has-mins: true
+is-single-date: true
+has-mins: true
 notes:
 - 18+ only event
 presented-by: Plastic Loaves

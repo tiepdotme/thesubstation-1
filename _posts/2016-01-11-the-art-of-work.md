@@ -10,7 +10,7 @@ price: false
 dates:
 - 2016-04-29 19:00:00 AEST
 - 2016-04-30 19:00:00 AEST
-dates-is-list: true
+is-list-of-dates: true
 has-start-time: true
 event-duration-txt: for 120 mins
 presented-by: PROJECTOR BIKE

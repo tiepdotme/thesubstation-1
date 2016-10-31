@@ -9,8 +9,8 @@ dates:
 - 2016-09-29 05:30:00 +10:00
 - 2016-09-30 05:30:00 +10:00
 - 2016-10-01 05:30:00 +10:00
-dates-is-list: true
-time-has-mins: true
+is-list-of-dates: true
+has-mins: true
 has-start-time: true
 event-duration-txt: 120 mins
 price:

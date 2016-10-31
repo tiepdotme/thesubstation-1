@@ -111,7 +111,7 @@ javascripts: true
                 <div class="c-post-meta">
                     <span>Preview event:
                     <p>
-                        {% if time-has-mins == true %}
+                        {% if has-mins == true %}
                             {{ page.dates | first | date: "%a %B %d" }}, {{ page.dates | first | date: "%l:%M%p" }}
                         {% else %}
                             {{ page.dates | first | date: "%a %B %d" }}, {{ page.dates | first | date: "%l%p" }}
@@ -121,7 +121,7 @@ javascripts: true
                 <div class="c-post-meta">
                     <span>Opening event:
                     <p>
-                        {% if time-has-mins == true %}
+                        {% if has-mins == true %}
                             {{ page.dates[1] | date: "%a %B %d" }}, {{ page.dates[1] | date: "%l:%M%p" }}
                         {% else %}
                             {{ page.dates[1] | date: "%a %B %d" }}, {{ page.dates[1] | date: "%l%p" }}
@@ -134,7 +134,7 @@ javascripts: true
                 <div class="c-post-meta">
                     <span>Opening event:</span>
                     <p>
-                        {% if time-has-mins == true %}
+                        {% if has-mins == true %}
                             {{ page.dates | first | date: "%a %B %d" }}, {{ page.dates | first | date: "%l:%M%p" }}
                         {% else %}
                             {{ page.dates | first | date: "%a %B %d" }}, {{ page.dates | first | date: "%l%p" }}
@@ -158,16 +158,16 @@ javascripts: true
             {% endcomment %}
 
             {% comment %}Single date array of 2 (start and end times){% endcomment %}
-            {% if page.dates.size == 1 or page.dates.size == 2 and page.date-is-single == true %}
+            {% if page.dates.size == 1 or page.dates.size == 2 and page.is-single-date == true %}
                 <div class="c-post-meta">
                     <span>Date:</span>
 
                     <p>
                         {% comment %}yeah, gotta be ==true here for some unknown reason…{% endcomment %}
-                        {% if time-is-opening-hours == true %}
+                        {% if is-opening-hours-time == true %}
                             {{ page.dates | first | date: "%a %B %d" }}
                         {% else %}
-                            {% if time-has-mins == true %}
+                            {% if has-mins == true %}
                                 {% if page.dates.size == 1 %}
                                     {{ page.dates | first | date: "%a %B %d" }}, {{ page.dates | first | date: "%l:%M%p" }}
                                 {% else %}
@@ -195,7 +195,7 @@ javascripts: true
                 </div>
 
             {% comment %}Multiple dates in a list{% endcomment %}
-            {% elsif page.dates.size >= 2 and page.dates-is-list == true %}
+            {% elsif page.dates.size >= 2 and page.is-list-of-dates == true %}
                 <div class="c-post-meta">
                     <span>Dates:</span>
 
@@ -232,9 +232,9 @@ javascripts: true
             {% elsif page.dates.size == 2 %}
                 <div class="c-post-meta">
                     <span>Program runs:</span>
-                    {% if page.time-is-month == true %}
+                    {% if page.is-single-month-duration == true %}
                         <p>{{ page.dates | first | date: "%B" }} {{ page.dates | first | date: "%Y" }}</p>
-                    {% elsif page.time-is-months == true %}
+                    {% elsif page.is-months-duration == true %}
                         <p>{{ page.dates | first | date: "%B" }} - {{ page.dates | last | date: "%B" }} {{ page.dates | first | date: "%Y" }}</p>
                     {% else %}
                         <p>{{ page.dates | first | date: "%a %B %d" }} - <br>{{ page.dates | last | date: "%a %B %d" }}</p>
@@ -260,7 +260,7 @@ javascripts: true
                     <p>
                         <!-- Starting: -->
                         {% comment %}
-                        {% if time-has-mins == true %}
+                        {% if has-mins == true %}
                             {{ page.dates | first | date: "%l:%M%p" }}
                         {% else %}
                             {{ page.dates | first | date: "%l%p" }}

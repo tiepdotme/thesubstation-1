@@ -11,8 +11,8 @@ price:
 dates:
 - 2016-05-29 11:00:00 AEST
 - 2016-05-29 17:00:00 AEST
-date-is-single: true
-time-is-opening-hours: true
+is-single-date: true
+is-opening-hours-time: true
 supporters: false
 ---
 

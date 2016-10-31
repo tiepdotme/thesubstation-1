@@ -11,7 +11,7 @@ price:
 dates:
 - Sat 30 July, 10am
 - Sat 30 July, 4:30pm
-date-is-single: true
+is-single-date: true
 event-duration-txt: 40 mins
 notes: 'This event is not wheelchair accessible. For more info, visit: <a href="http://www.openhousemelbourne.org/">Open
   House Melbourne</a>'

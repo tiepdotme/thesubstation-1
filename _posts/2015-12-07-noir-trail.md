@@ -9,7 +9,7 @@ price: false
 dates:
 - 2016-03-01 00:00:00 AEST
 - 2016-04-30 00:00:00 AEST
-time-is-months: true
+is-months-duration: true
 presented-by: One Step at a Time Like This
 supporters:
 - australia-council-arts
