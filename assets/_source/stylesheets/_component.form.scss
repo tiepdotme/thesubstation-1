@@ -20,16 +20,22 @@ label {
 input[type="text"],
 input[type="email"],
 input[type="tel"],
+input[type="date"],
+.select select,
 textarea {
 	background: transparent;
     border: 0;
     display: inline-block;
+    //margin: 0; // normalize handles this
     resize: none;
     width: 100%;
-    -webkit-appearance: none;
+    appearance: none;
 
     // theme
     @include textAside();
+    background-color: palette(neutral);
+    border: 1px solid palette(neutral);
+    border-radius: 0;
     line-height: map-fetch($button-height, base);
 	padding: 0 space(0.5);
 	transition: all map-fetch($transition, duration, long) map-fetch($transition, type, base);
@@ -58,16 +64,65 @@ textarea {
 	&:-ms-input-placeholder      { color: $color-placeholder; }
 }
 
+// mimicking placeholder colors
+// Ref: http://stackoverflow.com/questions/8619406/css-selected-pseudo-class-similar-to-checked-but-for-select-elements
+$color-placeholder: rgba( palette(text), 0.5 );
+
+input[type="date"],
+option[type="selected"] {
+    color: $color-placeholder;
+}
+
 
 
 // Theme vars
 // --------------------------------------------------------------------------
 
-input[type="email"] {
-    background-color: palette(neutral);
-    border: 1px solid palette(neutral);
+.c-form {
+    margin-top: space(2);
 }
 
+.c-form label,
+.c-form .label {
+    @include textMetaHeadline();
+    display: block;
+}
+
+.c-form label,
+.c-form .select {
+    &:not(:last-child) {
+        margin-top: space(1);
+    }
+}
+
+.c-form .select {
+    position: relative;
+
+    &:after {
+        position: absolute;
+        top: 50%;
+        right: 1.25rem;
+        display: inline-block;
+        content: "";
+        width: 0;
+        height: 0;
+        margin-top: -.15rem;
+        pointer-events: none;
+        border-top: .35rem solid;
+        border-right: .35rem solid transparent;
+        border-bottom: .35rem solid transparent;
+        border-left: .35rem solid transparent;
+    }
+}
+
+.c-form .select select {
+    //display: inline-block;
+    //width: 100%;
+    //margin: 0;
+    cursor: pointer;
+    outline: 0;
+    appearance: none;
+}
 
 
 

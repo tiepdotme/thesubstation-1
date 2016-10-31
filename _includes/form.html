@@ -1,0 +1,17 @@
+<form class="c-form" id="contact-form" accept-charset="UTF-8" action="https://formspree.io/{{ site.email-events }}" method="POST">
+
+    <label>Name*<input name="name" type="text" placeholder="Your Name" required/></label>
+    <label>Email*<input name="_replyto" type="email" placeholder="Your Email" required/></label>
+
+
+    <!-- CONFIG -->
+	<input class="u-hide" type="text" name="_gotcha">
+	<input type="hidden" name="_subject" value="Event inquiry">
+	<input type="hidden" name="_cc" value="{{ site.email }}">
+	<!-- /CONFIG -->
+
+    <p class="u-textRight u-spaceT">
+        <button type="submit" value="Send" role="button" class="Button t-button--secondary">Send</button>
+    </p>
+
+</form>

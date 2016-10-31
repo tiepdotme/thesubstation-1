@@ -126,6 +126,28 @@ $arrowSize: map-fetch($button-height, base);
     }
 }
 
+.t-button--secondary {
+	@include button();
+    background-color: transparent;
+	border-color: palette(text);
+	color: palette(text);
+    font-family: $font-text-bold;
+    padding: space(0.25) space(1.5);
+    position: relative;
+
+    &:after {
+        //@include Arrow();
+        //border-bottom: 59px solid transparent;
+        //border-left: $arrowSize * 0.5 solid palette(text);
+    }
+
+    @include on-event() {
+        background-color: transparent;
+        //color: palette(white);
+        font-family: $font-text-bold;
+    }
+}
+
 
 // Secondary buttons
 // --------------------------------------------------------------------------

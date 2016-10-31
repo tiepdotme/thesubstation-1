@@ -2,6 +2,7 @@
 title: Wedding bookings
 position: 2
 image: "/uploads/the-substation-wedding-bookings.jpg"
+has-form: true
 button-url: "/uploads/the-substation-wedding-hire-pack-2017.pdf"
 button-txt: wedding hire pack
 notes: Please note, we have NO AVAILABLE DATES left for weekend bookings in 2016.
@@ -19,10 +20,8 @@ As part of your hire, we do not provide a wedding co-ordinator. We highly recomm
 
 Please note, we have NO AVAILABLE DATES left for weekend bookings in 2016.
 
-If you would like to enquire about hiring our space please fill out the enquiry form below. Or alternatively, contact our Events Manager during office hours:
+If you would like to enquire about hiring our space please fill out the enquiry form below, or contact our Events Manager during office hours:
 
 Marisa Fiume, Events Manager<br>
 T: (03) 9391 1110<br>
 E: [events@thesubstation.org.au](events@thesubstation.org.au)
-
-FORM HERE.
