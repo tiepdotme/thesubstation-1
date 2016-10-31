@@ -374,22 +374,26 @@ javascripts: true
 
 
 
-                <!-- <p>{{ page.supporters }}</p> -->
+
 
                 <!-- This works if page.supporters is not a list/array -->
 
-                {% if page.logos %}
-                    {% assign logos = site.supporters | where: 'title', page.logos | first %}
+                {% if page.supporters %}
+                    <p>{{ page.supporters }}</p>
+
+                    {% assign logos = site.supporters | where: 'title', page.supporters %}
+
+                    [{{ logos }}]
 
                     <div class="c-post-meta c-post-meta--logos">
-                        <span>Supported by: </span>
+                        <span>Supported by:</span>
                         {% for logo in logos %}
                             <p><img src="{{ logo.image }}" alt="{{ logo.title }}" /></p>
                         {% endfor %}
                     </div>
                 {% endif %}
 
-                [{{ logos }}]
+
 
 
 
