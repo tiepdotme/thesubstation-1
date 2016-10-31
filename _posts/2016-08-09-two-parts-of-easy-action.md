@@ -1,23 +1,25 @@
 ---
 title: Two parts of easy action
-date: 2016-08-09 17:21:19 +10:00
+date: 2016-08-09 17:21:00 +10:00
 categories:
 - archive
 image: "/uploads/two-parts-of-easy-action.jpg"
 image-credit: Gregory Lorenzutti
 button-url: http://www.melbournefringe.com.au/program?event/two_parts_of_easy_action/1fc526dd-bfb4-40ec-b5b2-b6aaef263389/
-dates:
-- 2016-09-21 06:00:00 +10:00
-- 2016-09-26 06:00:00 +10:00
-has-mins: true
-has-start-time: true
-event-duration-txt: for 35 mins
+presented-by: DEANNE BUTTERWORTH
 price:
 - "$20 CONCESSION"
 - "$22 GROUP 6+"
 - "$25 STANDARD"
-presented-by: DEANNE BUTTERWORTH
-supporters: 
+dates:
+- 2016-09-21 06:00:00 +10:00
+- 2016-09-26 06:00:00 +10:00
+has-start-time: true
+has-mins: true
+event-duration-txt: for 35 mins
+supporters:
+- Creative Victoria
+- Hobsons Bay City Council
 ---
 
 TWO PARTS OF EASY ACTION is a solo work choreographed and performed by DEANNE BUTTERWORTH with critically acclaimed, experimental musician EVELYN MORRIS.  It examines the vulnerability and power of the solo performer using dance and music. Occurring in two parts, one old and one new, DEANNE revisits a work shown at NGV for Melbourne Now in 2014 where she performed with EVELYN in a gallery displaying eighteenth century paintings. The new part is a performance involving a guitar. She is a dancer, not a musician.
