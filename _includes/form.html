@@ -1,39 +1,7 @@
 <form class="c-form" id="contact-form" accept-charset="UTF-8" action="https://formspree.io/{{ site.email-events }}" method="POST">
 
-    <label>Name*<input name="name" type="text" placeholder="Your Name" required/></label>
-    <label>Email*<input name="_replyto" type="email" placeholder="Your Email" required/></label>
-    <label>Phone*<input name="telephone" type="tel" placeholder="Your Phone Number" required/></label>
-
-    <div class="Grid Grid--withGutter u-spaceT">
-        <div class="Grid-cell u-sm-size1of2">
-            <label class="u-space0" for="event">Event type</label>
-            <div class="select">
-                <select aria-label="Select menu example">
-                    <option selected>What type of event is this?</option>
-                    <option value="1">One</option>
-                    <option value="2">Two</option>
-                    <option value="3">Three</option>
-                </select>
-            </div>
-        </div>
-        <div class="Grid-cell u-sm-size1of2">
-            <label>Date*<input name="date" type="date" placeholder="Date" required/></label>
-        </div>
-    </div>
-
-    <div class="Grid Grid--withGutter u-spaceT">
-        <div class="Grid-cell u-sm-size1of3">
-            <label>Duration<input name="duration" type="text" placeholder="How long?"/></label>
-        </div>
-        <div class="Grid-cell u-sm-size1of3">
-            <label>Guests<input name="guests" type="text" placeholder="How many?"/></label>
-        </div>
-        <div class="Grid-cell u-sm-size1of3">
-            <label>Budget<input name="budget" type="text" placeholder="Approximately?"/></label>
-        </div>
-    </div>
-
-    <label>Catering requirements<textarea name="catering" type="message" rows="3" placeholder="What kind of food will you want?"></textarea></label>
+    <label>Name*</label><input name="name" type="text" placeholder="Your Name" required/>
+    <label>Catering requirements</label><textarea name="catering" type="message" rows="3" placeholder="What kind of food will you want?"></textarea>
 
     <!-- CONFIG -->
 	<input class="u-hide" type="text" name="_gotcha">
