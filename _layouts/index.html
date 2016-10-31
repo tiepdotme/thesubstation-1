@@ -7,7 +7,7 @@ layout: default
     {% if page.youtube %}
 
     	<div class="FlexEmbed">
-    		<div class="FlexEmbed-ratio FlexEmbed-ratio--4by3"></div>
+    		<div class="FlexEmbed-ratio FlexEmbed-ratio--hero"></div>
     		<div class="FlexEmbed-content">
     			<iframe
 			        class="u-posAbsoluteCenter"
@@ -20,11 +20,11 @@ layout: default
 		        </iframe>
     		</div>
     	</div>
-    
+
     {% else %}
 
         <div class="FlexEmbed">
-            <div class="FlexEmbed-ratio FlexEmbed-ratio--4by3"></div>
+            <div class="FlexEmbed-ratio FlexEmbed-ratio--hero"></div>
             <div class="FlexEmbed-content">
                 {% assign image = page.banner-image %}
                 {% include responsive-img.html %}

@@ -102,6 +102,11 @@
     text-transform: uppercase;
 }
 
+@mixin textAside {
+    @include textSm();
+    letter-spacing: 0.1em; 
+    text-transform: uppercase;
+}
 
 
 
@@ -118,7 +123,6 @@
 //.c-text--lg       { @include textLg(); margin-bottom: 0; > strong { font-family: $font-text-extrabold; text-transform: initial; } }
 
 
-@mixin textAside { @include textSm(); letter-spacing: 0.1em; text-transform: uppercase; }
 .c-text--aside { @include textAside(); }
 
 
@@ -196,20 +200,6 @@
 	&:first-child {
 		margin-top: 0 !important;
 	}
-}
-
-
-
-// Utility: Responsive line break
-// https://css-tricks.com/injecting-line-break/
-// 1. emulates text-align: center
-// --------------------------------------------------------------------------
-
-@include media-breakpoint-down(sm) {
-    span.u-sm-lineBreak {
-        display: table !important;
-        margin: auto; // 1.
-    }
 }
 
 

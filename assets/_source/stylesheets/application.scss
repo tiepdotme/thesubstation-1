@@ -26,7 +26,7 @@
 @import "vendor.suitcss.c-flexembed";
 @import "vendor.suitcss.c-grid";
 @import "vendor.suitcss.c-grid.settings";
-@import "vendor.flickity";
+//@import "vendor.flickity";
 //@import "vendor.owl.carousel";
 //@import "vendor.lazysizes";
 
@@ -53,20 +53,22 @@
 @import "type.text";
 @import "type.headline";
 @import "type.helpers";
+@import "type.linebreak";
 //@import "type.scope";
 
 //@import "component.loadanimations";
 
 @import "layout.header";
 @import "layout.post";
+@import "layout.footer";
 //@import "layout.blocks";
-//@import "layout.footer";
 //@import "layout.trumps";
 
 @import "component.button";
 @import "component.imageblend";
 @import "component.form";
 @import "component.icon";
+@import "component.stickyfooter";
 //@import "component.block";
 //@import "component.nav";
 //@import "component.owl";

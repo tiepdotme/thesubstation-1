@@ -6,3 +6,28 @@
         order: -1 !important;
     }
 }
+
+.u-hide    { display: none !important; }
+.u-sm-hide { @include media-breakpoint-up(sm) { display: none !important; } }
+
+
+// quick spacers
+
+.u-space0     { margin: 0 !important; }
+
+.u-spaceTD2   { margin-top: space(0.5) !important; }
+.u-spaceT     { margin-top: space(1) !important; }
+.u-spaceT2    { margin-top: space(2) !important; }
+.u-spaceB     { margin-bottom: space(1) !important; }
+.u-spaceB2    { margin-bottom: space(2) !important; }
+
+.u-sm-spaceT  { @include media-breakpoint-down(sm) { margin-top: space(1); } }
+.u-sm-spaceT2 { @include media-breakpoint-down(sm) { margin-top: space(2); } }
+
+.u-smDown-spaceR   { @include media-breakpoint-down(sm) { margin-right: space(1); } }
+.u-smDown-spaceT   { @include media-breakpoint-down(sm) { margin-top: space(1); } }
+.u-smDown-spaceTD2 { @include media-breakpoint-down(sm) { margin-top: space(0.5); } }
+
+.u-smDown-blockR--3by4 { @include media-breakpoint-down(sm) { margin-right: $blockSpace * 0.75; } }
+.u-smDown-blockT--3by4 { @include media-breakpoint-down(sm) { margin-top: $blockSpace * 0.75; } }
+.u-smDown-blockB--3by4 { @include media-breakpoint-down(sm) { margin-bottom: $blockSpace * 0.75; } }

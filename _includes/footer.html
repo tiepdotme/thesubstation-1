@@ -1,57 +1,74 @@
-<footer class="c-footer">
-	<div class="o-container">
-        <div class="Grid Grid--withGutter">
+<footer class="c-footer c-site-footer">
 
-            <div class="Grid-cell u-size7of10">
+    <div class="{% if page.layout == 'post' %}c-footer-block{% endif %}">
+        <div class="o-container">
+            <div class="Grid-cell u-sm-hide" id="nav">
 
-                <div class="Grid Grid--withGutter">
-                    <div class="Grid-cell u-size4of12 u-after1of12">
-                        <a href="/" class="c-footer-logo">
-                            <img class="" src="{{ site.imageurl }}logo.png" alt="{{ site.title }}" />
+                <div class="c-nav-item {% if page.url == '/' %}is-active{% endif %}">
+                    <a class="" href="/">Home</a>
+                </div>
+
+                {% include nav.html %}
+
+            </div>
+        </div>
+    </div>
+
+	<div class="c-footer-block">
+	    <div class="o-container">
+            <div class="Grid Grid--withGutter">
+                <div class="Grid-cell u-sm-size7of10">
+
+                    <div class="Grid Grid--withGutter">
+                        <div class="Grid-cell u-sm-size4of12 u-sm-after1of12">
+                            <a href="/" class="c-footer-logo">
+                                <img class="" src="{{ site.imageurl }}logo.png" alt="{{ site.title }}" />
+                            </a>
+                        </div>
+                        <div class="Grid-cell u-sizeAddress u-smDown-blockT--3by4">
+                            <ul class="o-listClean">
+                                <li><a href="{{ site.address-link }}">{{ site.address }}</a></li>
+                                <li><a href="tel:{{ site.phone }}">{{ site.phone }}</a></li>
+                                <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+                            </ul>
+                        </div>
+                        <div class="Grid-cell u-sm-size4of12 u-smDown-spaceTD2">
+                            <ul class="o-listClean">
+                                <li>
+                                    <span>Gallery open hours</span>
+                                    <!-- <em class="u-sm-lineBreak">{{ site.gallery-hours }}</em> -->
+                                    <br>{{ site.gallery-hours }}
+                                </li>
+                                <li class="u-spaceTD2">
+                                    <span>Office open hours</span>
+                                    <br>{{ site.office-hours }}
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="Grid-cell u-sm-size3of10 u-smDown-blockT--3by4">
+                    <div class="u-textRigh">
+                        <a class="o-iconWrapper" href="{{ site.social.links[0] }}">
+                            <svg class="o-icon o-icon--xl">
+                                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#ic-facebook"></use>
+                            </svg>
+                        </a>
+                        <a class="o-iconWrapper" href="{{ site.social.links[1] }}">
+                            <svg class="o-icon o-icon--xl o-icon--right">
+                                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#ic-instagram"></use>
+                            </svg>
+                        </a>
+                        <a class="o-iconWrapper" href="{{ site.social.links[2] }}">
+                            <svg class="o-icon o-icon--xl o-icon--right">
+                                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#ic-twitter"></use>
+                            </svg>
                         </a>
                     </div>
-                    <div class="Grid-cell u-sizeAddress">
-                        <ul class="o-listClean">
-                            <li><a href="{{ site.address-link }}">{{ site.address }}</a></li>
-                            <li><a href="tel:{{ site.phone }}">{{ site.phone }}</a></li>
-                            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-                        </ul>
-                    </div>
-                    <div class="Grid-cell u-size4of12">
-                        <ul class="o-listClean">
-                            <li>
-                                <span>Gallery open hours</span><br>
-                                {{ site.gallery-hours }}
-                            </li>
-                            <li class="u-spaceTD2">
-                                <span>Office open hours</span><br>
-                                {{ site.office-hours }}
-                            </li>
-                        </ul>
-                    </div>
                 </div>
 
             </div>
-            <div class="Grid-cell u-size3of10">
-                <div class="u-textRigh">
-                    <a class="o-iconWrapper" href="{{ site.social.links[0] }}">
-                        <svg class="o-icon o-icon--xl o-icon--textAlign">
-                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#ic-facebook"></use>
-                        </svg>
-                    </a>
-                    <a class="o-iconWrapper" href="{{ site.social.links[1] }}">
-                        <svg class="o-icon o-icon--xl o-icon--right o-icon--textAlign">
-                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#ic-instagram"></use>
-                        </svg>
-                    </a>
-                    <a class="o-iconWrapper" href="{{ site.social.links[2] }}">
-                        <svg class="o-icon o-icon--xl o-icon--right o-icon--textAlign">
-                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#ic-twitter"></use>
-                        </svg>
-                    </a>
-                </div>
-            </div>
-
-        </div>
+	    </div>
 	</div>
+
 </footer>

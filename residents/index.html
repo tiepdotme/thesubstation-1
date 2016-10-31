@@ -3,13 +3,15 @@ title: Residents
 layout: default
 ---
 
-<div class="Grid Grid--withGutterSm">
+<div class="o-container">
+    <div class="Grid Grid--withGutterSm">
 
-    {% assign sortedPosts = site.residents | where:"current","true" | sort: "position" %}
-    {% for post in sortedPosts %}
+        {% assign sortedPosts = site.residents | where:"current","true" | sort: "position" %}
+        {% for post in sortedPosts %}
 
-        {% include post-cell.html %}
+            {% include post-cell.html %}
 
-    {% endfor %}
+        {% endfor %}
 
+    </div>
 </div>

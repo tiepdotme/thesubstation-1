@@ -8,13 +8,46 @@
 .c-footer {
     margin: $blockSpace 0;
 	position: relative;
+
+    @include media-breakpoint-up(sm) {
+        margin: ($blockSpace * 1.5) 0 ($blockSpace * 0.75);
+    }
+}
+
+.c-footer-block {
+    @include media-breakpoint-down(sm) {
+        border-top: 1px solid palette(light);
+        margin-top: $blockSpace;
+        padding-top: $blockSpace;
+    }
+}
+
+.c-footer li {
+    @include textXs();
+}
+
+.c-footer li span {
+    font-family: $font-text-bold;
+    text-transform: uppercase;
+}
+
+.c-footer .o-listClean {
+    margin-bottom: 0;
 }
 
 .c-footer-logo > img {
-    margin-bottom: $blockSpace;
+    margin-top: 0;
     width: 150px;
 
     @include media-breakpoint-up(sm) {
+        margin-top: -($blockSpace * 0.25);
         width: 200px;
+    }
+}
+
+// special grid class for footer address
+.u-sizeAddress {
+    @include media-breakpoint-up(sm) {
+        width: calc(100% * 7.5 / 24);
     }
 }

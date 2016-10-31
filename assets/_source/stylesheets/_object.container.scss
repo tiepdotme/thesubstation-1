@@ -12,7 +12,7 @@
 	height: inherit;
 	margin: 0 auto;
 	max-width: $width;
-	padding: 0 space(1.5);
+	padding: 0 space(1);
 	position: relative;
 
 	p,
@@ -25,12 +25,16 @@
 	}
 
 	@include media-breakpoint-up(sm) {
-		//padding: 0;
+		padding: 0 space(1.5);
 	}
 }
 
 .o-container {
 	@include container();
+
+	//@include media-breakpoint-up(lg) { max-width: container-width(lg); }
+
+    // sizes
 
 	&--md {
 		@include container( container-width(md) );

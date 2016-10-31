@@ -74,6 +74,7 @@ defaults:
     event-duration-txt:
     notes: false
     supporters:
+    has-form: false
 description: 'The SUBSTATION is a unique large-scale multi-purpose gallery, performance
   space and dance studio for artists of every kind, in Newport, Melbourne, Australia.'
 baseurl:
@@ -93,10 +94,11 @@ social:
     - https://www.instagram.com/thesubstation/
     - https://twitter.com/thesubstation_
 author: patternworks_
-address: 1 Market Street Newport VIC 3015
+address: 1 Market Street, Newport Victoria 3015
 address-link: https://goo.gl/maps/3RTKiR89iD72
 phone: "(03) 9391 1110"
 email: info@thesubstation.org.au
+email-events: callum@patternworks.com.au
 gallery-hours: Tuesday to Saturday 11am–5pm
 office-hours: Tuesday to Friday 9am–5pm
 google-analytics:

@@ -5,13 +5,13 @@
 // --------------------------------------------------------------------------
 
 
-// Post block in a list.
+// Post cell in a list.
 // When a post is also a link.
 // These are vertically & horizontally centered.
 // See: https://philipwalton.github.io/solved-by-flexbox/demos/vertical-centering/
 // --------------------------------------------------------------------------
 
-//a.Post--inList {
+//a.c-post-cell {
 //	@include o-aligner;
 //
 //	> .Post-aligner {
@@ -19,25 +19,25 @@
 //	}
 //}
 
-a.Post--inList {
+a.c-post-cell {
 	@include complexLink();
 	border: 0;
 	margin-bottom: 2px;
 	position: relative;
 
-	+ .Post--inList {
+	+ .c-post-cell {
 		margin-top: $blockSpace / 2;
 	}
 
 	@include on-event() {
-		.Post-headline {
+		.c-post-cell-headline {
 			@include baseTransition();
 			color: palette(brand);
 		}
 	}
 }
 
-.Post-headline {
+.c-post-cell-headline {
 	@include baseTransition();
     @include headlineXs();
     color: palette(white);
@@ -46,21 +46,19 @@ a.Post--inList {
     text-align: center;
 }
 
-.Post-headline + .Post-headline {
+.c-post-cell-headline + .c-post-cell-headline {
     margin-top: space(0.5);
 }
 
 
 
-
-
-
-
-
-
-
-// New shit here
+// Posts
 // --------------------------------------------------------------------------
+
+.FlexEmbed-ratio--hero {
+    padding-bottom: 90%;
+    @include media-breakpoint-up(sm) { padding-bottom: 56.25%; }
+}
 
 .c-post-hgroup {
     //border-bottom: 1px solid palette(light);
@@ -95,8 +93,8 @@ a.Post--inList {
     margin-top: $paragraphSpace * 2;
     padding-top: space(0.5);
 
-    p {
-
+    a {
+        @include underlineLink();
     }
 }
 
@@ -184,7 +182,7 @@ a.Post--inList {
     }
 
     span {
-        display: block;
+        //display: block;
     }
 
     p {

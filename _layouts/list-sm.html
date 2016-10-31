@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div class="o-container">
+    <div class="Grid Grid--withGutterSm">
+
+        {% for post in site.posts %}
+            {% assign categoryname = '' %}
+            {% if post.category == categoryname %}
+
+                {% include posts-list.html %}
+
+            {% endif %}
+        {% endfor %}
+
+    </div>
+</div>

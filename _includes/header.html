@@ -3,7 +3,7 @@
     {% elsif page.categories contains item.categories %}is-active
 {% endcomment %}
 
-<header class="c-header">
+<header class="c-header c-site-header">
     <div class="o-container">
 
         <a href="/" class="c-header-logo">
@@ -15,24 +15,10 @@
         </div>
 
         <div class="c-nav">
-            {% for item in site.data.navigation.header %}
-                <div class="c-nav-item
-                    {% if page.url != '/' and page.url contains item.url %}is-active
-                    {% elsif page.url contains 'show' and page.categories contains item.categories %}is-active
-                    {% endif %}">
-
-                    <a class="" href="{{ item.url }}">{{ item.title }}</a><br>
-
-                    {% comment %}
-                    {{ item.categories }}<br>
-                    {{ page.categories }}<br>
-                    {{ page.url }}<br>
-                    {{ item.url }}
-                    {% endcomment %}
-
-                </div>
-            {% endfor %}
+            {% include nav.html %}
         </div>
+
+        <a class="c-nav-trigger" href="#nav">menu</a>
 
     </div>
 </header>
