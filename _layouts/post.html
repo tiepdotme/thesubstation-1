@@ -367,16 +367,19 @@ javascripts: true
                 {% endcomment %}
 
                 {% if page.supporters %}
+                    <div class="c-post-meta">
+                        <p><span>Supported by:</span></p>
 
-                    {% assign logos = site.supporters | where_exp: "item", "page.supporters contains item.title" %}
+                        <div class="c-post-supporters">
 
-                    <div class="c-post-meta c-post-meta--logos">
-                        <span>Supported by:</span>
-                        {% for logo in logos %}
-                            <p><img src="{{ logo.image }}" alt="{{ logo.title }}" /></p>
-                        {% endfor %}
+                            {% assign supporters = site.supporters | where_exp: "item", "page.supporters contains item.title" %}
+                            {% for supporter in supporters %}
+                                <img src="{{ supporter.image }}" alt="{{ supporter.title }}" />
+                            {% endfor %}
+                            
+                        </div>
+
                     </div>
-
                 {% endif %}
 
 

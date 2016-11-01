@@ -64,8 +64,16 @@ textarea {
 	&:-ms-input-placeholder      { color: $color-placeholder; }
 }
 
-// mimicking placeholder colors
+// reinstate line height for multi-row textareas.
+
+textarea {
+    line-height: $base-line-height-unit;
+    padding-top: space(0.5);
+}
+
+// mimicking placeholder colors.
 // Ref: http://stackoverflow.com/questions/8619406/css-selected-pseudo-class-similar-to-checked-but-for-select-elements
+
 $color-placeholder: rgba( palette(text), 0.5 );
 
 input[type="date"],
@@ -122,6 +130,13 @@ option[type="selected"] {
     cursor: pointer;
     outline: 0;
     appearance: none;
+}
+
+.c-form-alert {
+    color: palette(bad-news);
+    position: absolute;
+    top: 66px;
+    right: 0;
 }
 
 

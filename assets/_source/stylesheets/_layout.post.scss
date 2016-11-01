@@ -201,10 +201,23 @@ a.c-postCell {
         border: 0 !important;
         padding: 0 !important;
     }
+}
 
-    &--logos {
-        p { margin-top: $paragraphSpace; }
-        p + p { margin-top: $paragraphSpace * 1.4; }
-        img { width: 55%; }
+// using vendor.family
+.c-post-supporters {
+    img {
+        margin-top: $paragraphSpace * 0.75;
+        margin-left: $paragraphSpace;
+        width: 25%;
+
+        @include first-child() { margin-left: 0; }
+        @include every(4) { margin-left: 0; }
+
+        @include media-breakpoint-up(sm) {
+            @include first-child() { margin-top: $paragraphSpace; }
+            @include all-but(1) { margin-top: $paragraphSpace * 1.25; }
+            margin-left: 0;
+            width: 55%;
+        }
     }
 }

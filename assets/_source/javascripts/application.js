@@ -27,24 +27,24 @@ $(document).ready(function() {
     // @url: http://codepen.io/oknoblich/pen/wFGIH
     // --------------------------------------------------------------------------
 
-    $('input, textarea').each(function() {
-        $(this).on('focus', function() {
-            $(this).parent('.Form-group').addClass('is-active');
-        });
-        $(this).on('blur', function() {
-            if ($(this).val().length == 0) {
-                $(this).parent('.Form-group').removeClass('is-active');
-            }
-        });
-        if ($(this).val() != '') {
-            $(this).parent('.Form-group').addClass('is-active');
-        }
-    });
-
-    $("label").click(function() {
-        var labelID = $(this).attr("for");
-        $("#" + labelID).focus()
-    })
+    // $('input, textarea').each(function() {
+    //     $(this).on('focus', function() {
+    //         $(this).parent('.Form-group').addClass('is-active');
+    //     });
+    //     $(this).on('blur', function() {
+    //         if ($(this).val().length == 0) {
+    //             $(this).parent('.Form-group').removeClass('is-active');
+    //         }
+    //     });
+    //     if ($(this).val() != '') {
+    //         $(this).parent('.Form-group').addClass('is-active');
+    //     }
+    // });
+    //
+    // $("label").click(function() {
+    //     var labelID = $(this).attr("for");
+    //     $("#" + labelID).focus()
+    // })
 
 
     // Object-fit fallback for IE/Edge
@@ -65,7 +65,13 @@ $(document).ready(function() {
     // }
 
     // https://github.com/wilddeer/stickyfill
-    $('.c-sm-sticky').Stickyfill();
+    // --------------------------------------------------------------------------
+    // $('.c-sm-sticky').Stickyfill();
+
+
+    // // https://github.com/hakimel/Ladda
+    // --------------------------------------------------------------------------
+    // $( 'button[type=submit]' ).ladda( 'bind', { timeout: 2000 } );
 
 
 });

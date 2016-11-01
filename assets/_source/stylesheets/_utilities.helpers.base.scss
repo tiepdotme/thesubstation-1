@@ -10,6 +10,8 @@
 .u-hide    { display: none !important; }
 .u-sm-hide { @include media-breakpoint-up(sm) { display: none !important; } }
 
+.u-posRelative { position: relative!important; }
+
 
 // quick spacers
 
