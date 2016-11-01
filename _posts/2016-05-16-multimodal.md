@@ -17,8 +17,8 @@ has-preview-event: true
 has-start-time: true
 presented-by: LEE SERLE
 supporters:
-- creative-victoria
-- australia-council-arts
+- Creative Victoria
+- Australia Council of Arts
 ---
 
 Director and choreographer LEE SERLE melds audience and artist in the interactive, immersive and participatory performance piece MULTIMODAL, occupying THE SUBSTATION from August 30 - September 4.

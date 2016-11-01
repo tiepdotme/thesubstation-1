@@ -16,7 +16,7 @@ event-duration-txt: for 120 mins
 presented-by: PROJECTOR BIKE
 notes: booking is essential
 supporters:
-- hobsonsbay-cc
+- Hobsons Bay City Council
 ---
 
 Combining archive footage, interviews with artists working at the Substation, and explorations of the lives of the working people of Newport; THE ART OF WORK will guide you through the past and present of work in Newport. THE ART OF WORK is part of a series by [BACK STORY](http://www.theprojects.com.au/index#/back-story/): projection walking tours leading to a domesticated outdoor cinema screening presented by [PROJECTOR BIKE](http://www.projectorbike.com.au/).

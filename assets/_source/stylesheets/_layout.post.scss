@@ -11,7 +11,7 @@
 // See: https://philipwalton.github.io/solved-by-flexbox/demos/vertical-centering/
 // --------------------------------------------------------------------------
 
-//a.c-post-cell {
+//a.c-postCell {
 //	@include o-aligner;
 //
 //	> .Post-aligner {
@@ -19,25 +19,25 @@
 //	}
 //}
 
-a.c-post-cell {
+a.c-postCell {
 	@include complexLink();
 	border: 0;
 	margin-bottom: 2px;
 	position: relative;
 
-	+ .c-post-cell {
+	+ .c-postCell {
 		margin-top: $blockSpace / 2;
 	}
 
 	@include on-event() {
-		.c-post-cell-headline {
+		.c-postCell-headline {
 			@include baseTransition();
 			color: palette(brand);
 		}
 	}
 }
 
-.c-post-cell-headline {
+.c-postCell-headline {
 	@include baseTransition();
     @include headlineXs();
     color: palette(white);
@@ -46,7 +46,7 @@ a.c-post-cell {
     text-align: center;
 }
 
-.c-post-cell-headline + .c-post-cell-headline {
+.c-postCell-headline + .c-postCell-headline {
     margin-top: space(0.5);
 }
 
@@ -205,6 +205,6 @@ a.c-post-cell {
     &--logos {
         p { margin-top: $paragraphSpace; }
         p + p { margin-top: $paragraphSpace * 1.4; }
-        img { width: 66%; }
+        img { width: 55%; }
     }
 }

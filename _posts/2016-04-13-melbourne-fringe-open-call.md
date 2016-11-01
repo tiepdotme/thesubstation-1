@@ -11,8 +11,8 @@ price: false
 dates:
 - 2016-05-06 10:00:00 +10:00
 supporters:
-- hobsons-cc
-- creative-victoria
+- Hobsons Bay City Council
+- Creative Victoria
 ---
 
 The SUBSTATION is inviting applications from Victorian based independent performing artists and groups of artists to develop and present new work during the Melbourne Fringe which responds to our curatorial direction.

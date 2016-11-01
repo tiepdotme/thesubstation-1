@@ -12,8 +12,8 @@ dates:
 is-months-duration: true
 presented-by: One Step at a Time Like This
 supporters:
-- australia-council-arts
-- creative-victoria
+- Australia Council of Arts
+- Creative Victoria
 ---
 
 NOIR TRAIL is an immersive, serialized, location-driven, performance event taking place over consecutive nights & days in multiple locations of an urban nightscape.

@@ -17,10 +17,10 @@ notes: 'This event is not wheelchair accessible. For more info, visit: <a href="
   House Melbourne</a>'
 presented-by: TAMARA SAULWICK, OPEN HOUSE MELBOURNE
 supporters:
-- besen
-- creative-victoria
-- re-ross
-- openhouse
+- Besen
+- Creative Victoria
+- The R. E. Ross Trust
+- Openhouse Melbourne
 ---
 
 [NEWPORT ARCHIVES](http://tamarasaulwick.com/archives/) is an audio walk created for The SUBSTATION, which contemplates the connections between time, place and memory. Inspired by The SUBSTATION building’s own story, the work draws on interviews with local residents to open small windows into a Newport of a different era… an era of ships and trains. Equipped with headphones and an mp3 player as their guide, participants walk unaccompanied through Newport’s streets immersed in a sound world that uncannily knits the present with the past and memory with imagination.

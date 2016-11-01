@@ -19,8 +19,8 @@ price:
 - "$25 STANDARD"
 presented-by: INLAND CONCERT SERIES
 supporters:
-- hobsonsbay-cc
-- melbourne-fringe
+- Hobsons Bay City Council
+- Melbourne Fringe
 ---
 
 INLAND is a concert series of Australian exploratory music, presenting artists working at the intersection of notated, improvised, electro-acoustic and popular disciplines, and spanning a number of Australian cities.

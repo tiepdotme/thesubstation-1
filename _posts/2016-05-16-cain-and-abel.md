@@ -23,15 +23,15 @@ event-duration-txt: for 60 minutes
 notes: 'ARTISTS POST-SHOW TALK: TUESDAY JULY 26, 8:30pm'
 presented-by: the rabble
 supporters:
-- australia-council-arts
-- creative-victoria
+- Australia Council of Arts
+- Creative Victoria
 ---
 
 CAIN AND ABEL is an electrifying theatrical experience, a provocative and bloody retelling of a story that has stained the earth and our psyche for millennia.
 
 The biblical story of [CAIN AND ABEL](http://therabble.com.au/cain-abel/) is the tale of the first act of violence – an act that ricocheted across time. It envisions our history as man on man, brother on brother, blood on the earth. Well beyond its religious beginnings, it is a story that has defined our contemporary understanding of violence. [THE RABBLE](http://therabble.com.au/) has reimagined the story as a female one, with two sisters at the centre of the work (MARY HELEN SASSMAN and DANA MILTINS). The sisters recreate the first act of violence over and over again – from biblical sanctity to the spectacle of Hollywood. This is THE RABBLE at their best: a brave, iconoclastic and visually arresting work that questions our core assumptions about femininity and violence.
 
-## Tuesday July 26: Artists Post-Show Talk
+## Tues July 26: Artists Post-Show Talk
 A History of Violence? EMMA VALENTE with REBECCA FORGASZ and hosted by ADENA JACOBS.
 
 

@@ -8,8 +8,9 @@ price: false
 dates:
 - 2016-03-01 00:00:00 AEST
 - 2016-03-31 00:00:00 AEST
+is-single-month-duration: true
 supporters:
-- besen-foundation
+- Besen
 ---
 
 [NATALIE ABBOTT](http://www.natalieabbott.net/) will take physical and conceptual material from the past (personal and collective history) and the future (science fiction, projection, telepathy, alternate realities) to create a visceral performance of the now. This is an initial creative development and will involve investigation into the pelvis and vagino-centric movement practices, performances, performers and text. [ABBOTT](http://www.natalieabbott.net/) will look into mythology and the representation of women in mythology, and will investigate NIKE – the goddess of victory – and use this as impetus for choreography. [ABBOTT](http://www.natalieabbott.net/) will explore femininity as it is perceived by the western world and delve deep into movement practices that explore, exploit and ignore this.

@@ -16,10 +16,10 @@ has-start-time: true
 presented-by: Robbie Thomson
 notes: false
 supporters:
-- creative-victoria
-- sonica
-- melbourne-festival
-- made-in-scotland
+- Creative Victoria
+- Sonica
+- Melbourne Festival
+- Made In Scotland
 ---
 
 ## AUSTRALIAN EXCLUSIVE from THE SUBSTATION, CRYPTIC AND MELBOURNE FESTIVAL

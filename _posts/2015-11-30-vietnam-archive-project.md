@@ -11,8 +11,8 @@ dates:
 is-single-date: true
 presented-by: PHUONG NGO
 supporters:
-- australia-council-arts
-- creative-victoria
+- Australia Council of Arts
+- Creative Victoria
 ---
 
 [THE VIETNAM ARCHIVE PROJECT](http://www.pthngo.com/vietnam-archive-project) is an ongoing artwork initially starting as a material research project in 2010 in Melbourne. Currently consisting in excess of 5000 items, including slides, photos, film reels and objects. This ever-growing collection has emerged as an act in acquiring and curating found histories and memories that have come to define [PHUONG NGO](http://www.pthngo.com/)'s personal identity of and that of the wider Vietnamese Diaspora that has emerged since the fall of Saigon in 1975.

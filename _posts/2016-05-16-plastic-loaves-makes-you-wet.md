@@ -22,7 +22,4 @@ supporters: false
 
 [PLASTIC LOAVES](http://www.plasticloaves.com/) presents a night where it’s hopeless to stay dry. The flood gates will be open all night long with a flowing stream of music, performers, vocals, sounds, smells, liquid beverages and visuals. Each space built and arranged by a pool of tender artists. Come sailing through the insides of your damp bodies with PLASTIC LOAVES.
 
-With JONNINE STANDISH ([HTRK](http://www.yourcomicbookfantasy.com/)), [HOUSE OF VNHOLY](http://www.houseofvnholy.com/), ST FRANCIS YOUTH CHOIR,  
-[MISTY NIGHTS](https://soundcloud.com/mistynightsdisco), REBECCA JENSEN, [ROBYN TREASURE](https://soundcloud.com/robyntreasure), [GREGOR](http://chaptermusic.com/store/gregor/thoughts-faults/), [BEANIES](https://soundcloud.com/beanies-2) (TOKYO),  
-ELLIOT MUNN, CHARLIE FREEDMAN, [SPIKE FUCK](https://soundcloud.com/spike-fuck), [HYUN LEE](http://www.hyunleee.com/), MIETTA COVENTRY,  
-DEEP LUNGE, DREAMTEAM PROJECTS, MELISSA ATANSVOSKI and BECOMING FRIENDS.
+With JONNINE STANDISH ([HTRK](http://www.yourcomicbookfantasy.com/)), [HOUSE OF VNHOLY](http://www.houseofvnholy.com/), ST FRANCIS YOUTH CHOIR, [MISTY NIGHTS](https://soundcloud.com/mistynightsdisco), REBECCA JENSEN, [ROBYN TREASURE](https://soundcloud.com/robyntreasure), [GREGOR](http://chaptermusic.com/store/gregor/thoughts-faults/), [BEANIES](https://soundcloud.com/beanies-2) (TOKYO), ELLIOT MUNN, CHARLIE FREEDMAN, [SPIKE FUCK](https://soundcloud.com/spike-fuck), [HYUN LEE](http://www.hyunleee.com/), MIETTA COVENTRY, DEEP LUNGE, DREAMTEAM PROJECTS, MELISSA ATANSVOSKI and BECOMING FRIENDS.
