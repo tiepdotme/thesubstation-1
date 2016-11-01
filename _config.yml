@@ -4,10 +4,13 @@ timezone: Australia/Melbourne
 collections:
   about:
     title: About Us
+    output: true
   posts:
     title: Events
+    output: true
   residents:
     title: Residents
+    output: true
   supporters:
     title: Supporters
     output: false
@@ -16,6 +19,7 @@ collections:
     output: false
   venues:
     title: Venues
+    output: true
 defaults:
 - scope:
     path: ''
@@ -46,16 +50,16 @@ defaults:
   values:
     layout: post
     permalink: "/:categories/:title/"
-    title: 
-    categories: 
-    image: 
-    image-credit: 
-    video: 
-    button-url: 
-    button-txt: 
+    title:
+    categories:
+    image:
+    image-credit:
+    video:
+    button-url:
+    button-txt:
     presented-by: false
     price: false
-    dates: 
+    dates:
     has-opening-event: false
     has-preview-event: false
     has-closing-event: false
@@ -67,12 +71,12 @@ defaults:
     is-single-time-duration: false
     is-single-month-duration: false
     is-months-duration: false
-    event-duration-txt: 
+    event-duration-txt:
     notes: false
-    supporters: 
+    supporters:
 description: The SUBSTATION is a unique large-scale multi-purpose gallery, performance
   space and dance studio for artists of every kind, in Newport, Melbourne, Australia.
-baseurl: 
+baseurl:
 url: http://thesubstation.org.au
 logo: "/uploads/the-substation-logo.png"
 facebook:
@@ -96,7 +100,7 @@ email: info@thesubstation.org.au
 email-events: callum@patternworks.com.au
 gallery-hours: Tuesday to Saturday 11am–5pm
 office-hours: Tuesday to Friday 9am–5pm
-google-analytics: 
+google-analytics:
 imageurl: "/assets/images/"
 uploadurl: "/uploads/"
 javascriptsurl: "/assets/javascripts/"
