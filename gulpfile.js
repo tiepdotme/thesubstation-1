@@ -74,7 +74,7 @@ var options = {
 	},
 
 	build : {
-		tasks : [ 'compile:sass', 'minify:js']
+		tasks : [ 'compile:sass']
 	},
 
 	production : {
@@ -127,15 +127,15 @@ var options = {
 	watch : {
 		files : function() {
 			return [
-				options.images.files,
-				options.js.files,
+				// options.images.files,
+				// options.js.files,
 				options.sass.files
 			]
 		},
 		run : function() {
 			return [
-				[ 'images' ],
-				[ 'minify:js' ],
+				// [ 'images' ],
+				// [ 'minify:js' ],
 				[ 'compile:sass' ]
 			]
 		}
