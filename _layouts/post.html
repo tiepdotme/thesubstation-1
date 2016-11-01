@@ -150,9 +150,7 @@ javascripts: true
 
                         {% comment %}Event duration as text{% endcomment %}
                         {% if page.opening-event-text %}
-                            <div class="c-post-meta">
-                                <p><span>{{ page.opening-event-text }}</span></p>
-                            </div>
+                            <span>{{ page.opening-event-text }}</span>
                         {% endif %}
                     </div>
                 {% endif %}
@@ -361,26 +359,16 @@ javascripts: true
                     supporters
                     see: https://www.siteleaf.com/blog/author-pages-in-jekyll-and-siteleaf/
                     see: https://www.siteleaf.com/blog/customizing-the-siteleaf-admin/#smart-fields
-                    {% for supporter in site.supporters %}
-                        <div class="c-post-meta c-post-meta--logos">
-                            <span>Supported by: </span>
-                            <p><img src="{{ supporter.image }}" alt="{{ supporter.title }}" /></p>
-                        </div>
-                    {% endfor %}
+                    see: https://jekyllrb.com/docs/templates/ (where expression!)
                     {% for item in site.supporters %}
                         <p>{{ item.title }}</p>
                     {% endfor %}
                     -------------------------
                 {% endcomment %}
 
-                <!-- This works if page.supporters is not a list/array -->
-
                 {% if page.supporters %}
-                    <!-- <p>{{ page.supporters }}</p> -->
 
-                    {% assign logos = site.supporters | where: 'title', page.supporters %}
-
-                    [{{ logos }}]
+                    {% assign logos = site.supporters | where_exp: "item", "page.supporters contains item.title" %}
 
                     <div class="c-post-meta c-post-meta--logos">
                         <span>Supported by:</span>
@@ -388,10 +376,8 @@ javascripts: true
                             <p><img src="{{ logo.image }}" alt="{{ logo.title }}" /></p>
                         {% endfor %}
                     </div>
+
                 {% endif %}
-
-
-
 
 
             </aside>
