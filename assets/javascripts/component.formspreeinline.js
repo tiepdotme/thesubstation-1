@@ -1,6 +1,7 @@
 
 // https://gist.github.com/jannecederberg/785c1dc78e882b6bf85a5e77b31b0678
-//  If using ladda-button, requires a <button> in the markup, etc.
+// https://www.raymondcamden.com/2016/05/24/building-an-ajax-based-form-for-formspree
+// If using ladda-button, requires a <button> in the markup, etc.
 // --------------------------------------------------------------------------
 
 var $contactForm = $('#contact-form');
