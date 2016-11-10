@@ -56,11 +56,13 @@ a.c-postCell {
 // --------------------------------------------------------------------------
 
 .FlexEmbed-ratio--hero {
-    //padding-bottom: 90%;
-    //@include media-breakpoint-up(sm) { padding-bottom: 56.25%; }
-    //@include media-breakpoint-up(xl) { padding-bottom: 50%; }
-    padding-bottom: 75%;
-    @include media-breakpoint-up(sm) { padding-bottom: 75%; }
+    padding-bottom: 90%;
+    @include media-breakpoint-up(sm) { padding-bottom: 56.25%; }
+    @include media-breakpoint-up(xl) { padding-bottom: 50%; }
+
+    // conservative
+    //padding-bottom: 75%;
+    //@include media-breakpoint-up(sm) { padding-bottom: 75%; }
 }
 
 .c-post-hgroup {
