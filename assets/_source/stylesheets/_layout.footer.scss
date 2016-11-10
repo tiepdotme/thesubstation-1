@@ -10,7 +10,7 @@
 	position: relative;
 
     @include media-breakpoint-up(sm) {
-        margin: ($blockSpace * 1.5) 0 ($blockSpace * 0.75);
+        //margin: $blockSpace 0;
     }
 }
 
@@ -22,8 +22,19 @@
     }
 }
 
-.c-footer li {
-    @include textXs();
+//.c-footer li {
+//    @include textXs();
+//}
+
+.c-footer {
+    p,
+    ul,
+    li,
+    a {
+        @include textSm();
+        color: palette(medium);
+        font-family: $font-serif;
+    }
 }
 
 .c-footer li span {

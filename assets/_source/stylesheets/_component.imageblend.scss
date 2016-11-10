@@ -15,3 +15,4 @@
 }
 
 .c-imageBlend { @include imageBlend(); }
+.c-imageBlend--just { @include imageBlend($color: rgba( palette(text), 0.4) ); }

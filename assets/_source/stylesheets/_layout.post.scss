@@ -34,6 +34,11 @@ a.c-postCell {
 			@include baseTransition();
 			color: palette(brand);
 		}
+
+        .c-imageBlend {
+			@include baseTransition();
+            background-color: rgba( palette(text), 0.88 );
+        }
 	}
 }
 
@@ -57,8 +62,9 @@ a.c-postCell {
 
 .FlexEmbed-ratio--hero {
     padding-bottom: 90%;
-    @include media-breakpoint-up(sm) { padding-bottom: 56.25%; }
-    @include media-breakpoint-up(xl) { padding-bottom: 50%; }
+    padding-bottom: 90%;
+    @include media-breakpoint-up(sm) { padding-bottom: 56.25%; padding-bottom: 50vh; }
+    @include media-breakpoint-up(xl) { padding-bottom: 50%; padding-bottom: 82vh; }
 
     // conservative
     //padding-bottom: 75%;
@@ -66,10 +72,25 @@ a.c-postCell {
 }
 
 .c-post-hgroup {
-    //border-bottom: 1px solid palette(light);
-    //padding: $blockSpace 0;
-    //margin-bottom: space(1);
     margin: ($blockSpace * 0.75) 0;
+
+    &--center {
+        .c-post-headline,
+        .c-post-subheadline p {
+            color: palette(white);
+            font-family: $font-text-bold;
+            text-align: center;
+            width: 100%;
+        }
+
+        .c-post-headline {
+            letter-spacing: 0.45em;
+        }
+    }
+}
+
+.c-post-ledeSpacer {
+    margin-top: ($blockSpace * 0.75);
 }
 
 .c-post-headline {
@@ -111,10 +132,21 @@ a.c-postCell {
         margin-right: $gutterSpace * 2;
     }
 
+    p,
+    ul,
+    a {
+        font-family: $font-serif;
+    }
+
+    // capitalised bold sans
+    strong {
+        text-transform: uppercase;
+    }
+
 	h2 {
 		//@include textRg();
-        //font-family: $font-text-bold;
         @include headlineSm();
+        font-family: $font-text-bold;
 
         @include media-breakpoint-up(sm) {
             width: 85%;
@@ -192,6 +224,7 @@ a.c-postCell {
 
     p {
         @include textMeta();
+        font-family: $font-text-medium;
         margin-bottom: 0;
     }
 

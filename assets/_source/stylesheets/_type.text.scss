@@ -87,6 +87,7 @@
     	$mixinSize: text--meta,
         $mixinLetterSpacing: 0.15em
     );
+	font-family: $font-text-bold;
     margin-bottom: $paragraphSpace * 0.5;
     text-transform: uppercase;
 }
@@ -104,7 +105,8 @@
 
 @mixin textAside {
     @include textSm();
-    letter-spacing: 0.1em; 
+	font-family: $font-text-medium;
+    letter-spacing: 0.125em;
     text-transform: uppercase;
 }
 
@@ -241,7 +243,8 @@ b,
 strong,
 .u-textBold {
 	@include typeReset();
-	font-family: $font-text-bold;
+    @include textMeta();
+	//font-family: $font-text-bold;
 }
 
 blockquote,

@@ -14,7 +14,7 @@ The SUBSTATION is one of Melbourne’s most exciting and exclusive events spaces
 
 The SUBSTATION can accommodate weddings from around 80 to a maximum of 200 guests.
 
-For more detailed information regarding hiring The SUBSTATION for your event, please refer to the hire package available to download from our website HERE
+For more detailed information regarding hiring The SUBSTATION for your event, please refer to the hire package which you can download on this page.
 
 As part of your hire, we do not provide a wedding co-ordinator. We highly recommend you engage a co-ordinator and we can refer you to a number of professionals who provide this service.
 

@@ -13,6 +13,8 @@
 .u-posRelative { position: relative!important; }
 
 .u-colorMuted { color: palette(muted) !important; }
+.u-colorDark { color: palette(charcoal) !important; }
+.u-colorNeutralDark { color: darken( palette(neutral), 10%); }
 
 
 // quick spacers
@@ -35,3 +37,6 @@
 .u-smDown-blockR--3by4 { @include media-breakpoint-down(sm) { margin-right: $blockSpace * 0.75; } }
 .u-smDown-blockT--3by4 { @include media-breakpoint-down(sm) { margin-top: $blockSpace * 0.75; } }
 .u-smDown-blockB--3by4 { @include media-breakpoint-down(sm) { margin-bottom: $blockSpace * 0.75; } }
+
+.u-sm-blockB--1by4 { margin-bottom: $blockSpace * 0.25; }
+.u-sm-blockB--1by2 { margin-bottom: $blockSpace * 0.5; }

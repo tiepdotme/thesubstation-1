@@ -1,10 +1,11 @@
 ---
 title: Residents
 layout: default
+cells-centered: true
 ---
 
-<div class="o-container">
-    <div class="Grid Grid--withGutterSm">
+<div class="c-listPanel">
+    <div class="Grid Grid--withGutterSm{% if page.cells-centered %} Grid--alignCenter{% endif %}">
 
         {% assign sortedPosts = site.residents | where:"current","true" | sort: "position" %}
         {% for post in sortedPosts %}

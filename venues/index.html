@@ -3,8 +3,8 @@ title: Venues
 layout: default
 ---
 
-<div class="o-container">
-    <div class="Grid Grid--withGutterSm">
+<div class="c-listPanel">
+    <div class="Grid Grid--withGutterSm{% if page.cells-centered %} Grid--alignCenter{% endif %}">
 
         {% assign sortedPosts = site.venues | sort: 'position' %}
         {% for post in sortedPosts %}

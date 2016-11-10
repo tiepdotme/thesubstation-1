@@ -5,12 +5,24 @@
 // --------------------------------------------------------------------------
 
 
-body {
-    //border-top: rem(6) solid palette(brand);
+//body {
+//    border-top: rem(6) solid palette(brand);
+//}
+
+//.c-content {
+//    @include media-breakpoint-up(sm) {
+//        min-height: 500px;
+//    }
+//}
+
+.c-listPanel {
+    //background-color: palette(text);
+    //padding: 0 ($blockSpace * 0.75);
+    //padding: 0 2px;
 }
 
-.c-content {
-    @include media-breakpoint-up(sm) {
-        //min-height: 500px;
-    }
+// make backgrounds black during image loading
+.c-content .FlexEmbed,
+.c-postCell .FlexEmbed {
+    background-color: palette(text);
 }

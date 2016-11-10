@@ -60,6 +60,9 @@
     // theme
     a {
         @include textAside();
+    	font-family: $font-text-medium !important;
+        letter-spacing: 0.125em !important;
+
         border-bottom: 1px solid transparent;
         padding-bottom: 4px;
 
@@ -99,4 +102,12 @@
     @include media-breakpoint-up(sm) {
         display: none;
     }
+}
+
+// the address/open text in the header
+
+.c-header-info {
+    @include textSm();
+    color: darken( palette(neutral), 10%);
+    font-family: $font-serif;
 }

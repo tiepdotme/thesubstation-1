@@ -102,17 +102,17 @@ $fontsizes: (
 		rg            : 12px
 	),
 	text--sm: (
-		xs            : 14px,
+		xs            : 13px,
 		sm            : 14px,
 		rg            : 14px
 	),
 	text: (
-		xs            : $base-font-size * 0.875,
-		sm            : $base-font-size,
-		rg            : $base-font-size
+		xs            : 15px,
+		sm            : 17px,
+		rg            : 17px
 	),
 	text--meta: (
-		xs            : $base-font-size * 0.875,
+		xs            : 14px,
 		sm            : 15px,
 		rg            : 15px
 	),
@@ -271,6 +271,18 @@ $font-display         : $font-text-regular;
 //$font-sans-xbold      : join($sans-xbold, $main-font-stack);
 //$font-sans-regular-i  : join($sans-regular-italic, $main-font-stack);
 //$font-display         : join($display, $display-font-stack);
+
+
+
+// Object/component default fonts
+// --------------------------------------------------------------------------
+
+$fonts-path-2           : '/assets/fonts2/';
+$serif                  : regularSerif;
+
+@include font-face($serif, '#{$fonts-path-2}#{$serif}' );
+
+$font-serif             : join($serif, $serif-font-stack);
 
 
 

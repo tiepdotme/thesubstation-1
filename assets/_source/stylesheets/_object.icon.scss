@@ -35,6 +35,13 @@
 		outline: 0;
 	}
 
+	&--stroke {
+        fill: transparent;
+		stroke: currentColor;
+		stroke-width: 2px;
+		stroke-linejoin: round;
+	}
+
 	// 24:18 ratio
 	&--nav {
 		height: 20px;

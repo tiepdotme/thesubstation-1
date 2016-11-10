@@ -140,9 +140,22 @@ option[type="selected"] {
 }
 
 
+// Newsletter signup var
+// --------------------------------------------------------------------------
 
+#mc_embed_signup {
+	input[type="email"] {
+		background-color: transparent;
+		border: 0;
+	    border-bottom: 1px solid palette(text);
+		margin-right: 2px;
+		padding: 0 0 1px 0;
+	}
 
-
+	.t-button {
+		//border: 0;
+	}
+}
 
 
 
