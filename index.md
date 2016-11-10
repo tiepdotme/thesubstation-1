@@ -1,6 +1,6 @@
 ---
 title: Home
-youtube:
+youtube: 
 banner-image: "/uploads/the-substation-homebanner-161110.gif"
 carousel-images:
 - "/uploads/The-Vietnam-Archive-Project-Untitled-Sides-03-Phuong-Ngo.jpg"
@@ -8,3 +8,4 @@ carousel-images:
 - "/uploads/100-years-zine-photo-by-samantha-riegl-rebecca-vinci.jpg"
 layout: index
 ---
+
