@@ -9,6 +9,9 @@
 
 <link rel="stylesheet" href="{{ site.javascriptsurl }}vendor.ladda-themeless.min.css">
 
+{% if page.layout == 'post' %}
+    {% include share.html %}
+{% endif %}
 
 {% if page.categories %}
     {% include javascripts.html %}

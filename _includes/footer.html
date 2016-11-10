@@ -1,31 +1,23 @@
+{% comment %}
+{{ page.slug }}
+{% endcomment %}
+
 <footer class="c-footer c-site-footer">
 
-    <div class="{% if page.layout == 'post' %}c-footer-block{% endif %}">
-        <div class="o-container">
-            <div class="Grid-cell u-sm-hide" id="nav">
-
-                <div class="c-nav-item {% if page.url == '/' %}is-active{% endif %}">
-                    <a class="" href="/">Home</a>
-                </div>
-
-                {% include nav.html %}
-
-            </div>
-        </div>
-    </div>
-
-	<div class="c-footer-block">
+	<div class="{% if page.layout == 'post' %}c-footer-block{% endif %}">
 	    <div class="o-container">
             <div class="Grid Grid--withGutter">
                 <div class="Grid-cell u-sm-size7of10">
 
                     <div class="Grid Grid--withGutter">
-                        <div class="Grid-cell u-sm-size4of12 u-sm-after1of12">
+                        <div class="
+                            Grid-cell u-sm-size4of12 u-sm-after1of12 u-smDown-blockB--3by4
+                            {% unless page.layout == 'post' %}c-footer-hideMobileLogo{% endunless %}">
                             <a href="/" class="c-footer-logo">
                                 <img class="" src="{{ site.imageurl }}logo.png" alt="{{ site.title }}" />
                             </a>
                         </div>
-                        <div class="Grid-cell u-sizeAddress u-smDown-blockT--3by4">
+                        <div class="Grid-cell u-sizeAddress">
                             <ul class="o-listClean">
                                 <li><a href="{{ site.address-link }}">{{ site.address }}</a></li>
                                 <li><a href="tel:{{ site.phone }}">{{ site.phone }}</a></li>
@@ -70,5 +62,19 @@
             </div>
 	    </div>
 	</div>
+
+    <div class="c-footer-block">
+        <div class="o-container">
+            <div class="Grid-cell u-sm-hide" id="nav">
+
+                <div class="c-nav-item {% if page.url == '/' %}is-active{% endif %}">
+                    <a class="" href="/">Home</a>
+                </div>
+
+                {% include nav.html %}
+
+            </div>
+        </div>
+    </div>
 
 </footer>

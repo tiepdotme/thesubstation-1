@@ -1,16 +1,18 @@
 
 
 // --------------------------------------------------------------------------
-//   LAYOUT: BODY
+//   SHARE ASIDE COMPONENT
 // --------------------------------------------------------------------------
 
 
-body {
-    //border-top: rem(6) solid palette(brand);
+.c-shareWrapper {
+    position: relative;
+    height: 100%;
 }
 
-.c-content {
-    @include media-breakpoint-up(sm) {
-        //min-height: 500px;
-    }
+.c-share {
+    height: 100vh;
+    position: fixed;
+    right: 0;
+    top: 0;
 }

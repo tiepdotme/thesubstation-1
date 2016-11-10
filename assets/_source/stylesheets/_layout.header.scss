@@ -100,14 +100,3 @@
         display: none;
     }
 }
-
-
-
-
-// content
-
-.c-content {
-    @include media-breakpoint-up(sm) {
-        min-height: 500px;
-    }
-}

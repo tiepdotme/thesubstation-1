@@ -9,35 +9,39 @@ javascripts: true
     $ JEKYLL_ENV=production bundle exec jekyll serve
 {% endcomment %}
 
-{% if page.video %}
-    <div class="FlexEmbed">
-        <div class="FlexEmbed-ratio FlexEmbed-ratio--hero"></div>
-        <div class="FlexEmbed-content">
-            <iframe
-                class="o-posAbsoluteCenterAlt"
-                frameborder="0" allowtransparency="true" allowfullscreen="" width="100%" height="100%"
-                {% if jekyll.environment == "development" %}
-                    src="https://www.youtube.com/embed/76MgBFVGjiE"
-                {% else %}
-                    src="{{ page.video }}"
-                {% endif %}
-                ></iframe>
+<div class="o-container">
+    {% if page.video %}
+        <div class="FlexEmbed">
+            <div class="FlexEmbed-ratio FlexEmbed-ratio--hero"></div>
+            <div class="FlexEmbed-content">
+                <iframe
+                    class="o-posAbsoluteCenterAlt"
+                    frameborder="0" allowtransparency="true" allowfullscreen="" width="100%" height="100%"
+                    {% if jekyll.environment == "development" %}
+                        src="https://www.youtube.com/embed/76MgBFVGjiE"
+                    {% else %}
+                        src="{{ page.video }}"
+                    {% endif %}
+                    ></iframe>
+            </div>
         </div>
-    </div>
-{% elsif page.image %}
-    <div class="FlexEmbed">
-        <div class="FlexEmbed-ratio FlexEmbed-ratio--hero"></div>
-        <div
-            class="FlexEmbed-content o-coverImage"
-            style="background-image: url('{{ page.image }}')"
-            >
+    {% elsif page.image %}
+        <div class="FlexEmbed">
+            <div class="FlexEmbed-ratio FlexEmbed-ratio--hero"></div>
+            <div
+                class="FlexEmbed-content o-coverImage"
+                style="background-image: url('{{ page.image }}')"
+                >
+            </div>
         </div>
-    </div>
-{% endif %}
+    {% endif %}
+</div>
 
 {% comment %}
 <div>debug… url: {{ page.url }} categories: {{ page.categories }} slug: {{ page.slug }} permalink: {{ page.permalink }}</div>
 {% endcomment %}
+
+
 
 
 <div class="o-container">
@@ -51,8 +55,6 @@ javascripts: true
         </div>
         {% endif %}
     </div>
-
-    {{ page.javascripts }}
 
 
     <div class="Grid Grid--withGutter">
@@ -376,11 +378,26 @@ javascripts: true
                             {% for supporter in supporters %}
                                 <img src="{{ supporter.image }}" alt="{{ supporter.title }}" />
                             {% endfor %}
-                            
+
                         </div>
 
                     </div>
                 {% endif %}
+
+
+                {% comment %}
+                    -------------------------
+                    share the event
+                    see: https://www.siteleaf.com/blog/author-pages-in-jekyll-and-siteleaf/
+                    -------------------------
+                {% endcomment %}
+
+                <div class="c-post-meta">
+                    <p><span>Share:</span></p>
+
+                    {% include share.html %}
+
+                </div>
 
 
             </aside>

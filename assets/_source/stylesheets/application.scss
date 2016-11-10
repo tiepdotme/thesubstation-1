@@ -59,6 +59,7 @@
 
 //@import "component.loadanimations";
 
+@import "layout.body";
 @import "layout.header";
 @import "layout.post";
 @import "layout.footer";
@@ -69,7 +70,8 @@
 @import "component.imageblend";
 @import "component.form";
 @import "component.icon";
-@import "component.stickyfooter";
+@import "component.share";
+//@import "component.stickyfooter";
 //@import "component.block";
 //@import "component.nav";
 //@import "component.owl";

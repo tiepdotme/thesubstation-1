@@ -37,11 +37,18 @@
 
 .c-footer-logo > img {
     margin-top: 0;
-    width: 150px;
+    width: 160px;
 
     @include media-breakpoint-up(sm) {
         margin-top: -($blockSpace * 0.25);
         width: 200px;
+    }
+}
+
+// hide the logo on mobile when the info is not of adequate amount
+.c-footer-hideMobileLogo {
+    @include media-breakpoint-down(sm) {
+        display: none;
     }
 }
 
