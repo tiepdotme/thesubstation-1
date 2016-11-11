@@ -4,11 +4,11 @@ layout: default
 ---
 
 <div class="c-listPanel">
-    <div class="Grid Grid--withGutterSm{% if page.cells-centered %} Grid--alignCenter{% endif %}">
+    <div class="c-postGrid">
 
         {% assign sortedPosts = site.venues | sort: 'position' %}
         {% for post in sortedPosts %}
-            {% include post-cell.html %}
+            {% include post-cell-alt.html %}
         {% endfor %}
 
     </div>

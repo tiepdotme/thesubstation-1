@@ -55,8 +55,13 @@
 	}
 
 	&--md {
-		width: rem(18);
-		height: rem(18);
+		width: 24px;
+		height: 24px;
+
+		@include media-breakpoint-up(sm) {
+			width: 32px;
+			height: 32px;
+		}
 	}
 
 	&--lg {

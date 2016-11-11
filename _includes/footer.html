@@ -4,26 +4,56 @@
 
 <footer class="c-footer c-site-footer">
 
+    {% if page.layout == 'post' %}
+        <div class="c-footer-nav c-nav">
+            {% include nav.html %}
+        </div>
+    {% endif %}
+
 	<div class="{% if page.layout == 'post' %}c-footer-block{% endif %}">
 	    <div class="o-container">
 
-            <div
-                class="u-smDown-blockB--3by4 u-sm-blockB--1by2
-                {% unless page.layout == 'post' %}c-footer-hideMobileLogo{% endunless %}">
-                <a href="/" class="c-footer-logo">
-                    <img class="" src="{{ site.imageurl }}logo.png" alt="{{ site.title }}" />
-                </a>
-            </div>
+            {% if page.layout == 'post' %}
+                <div class="u-smDown-blockB--3by4 u-sm-blockB--1by2
+                    {% unless page.layout == 'post' %}c-footer-hideMobileLogo{% endunless %}">
+                    <a href="/" class="c-footer-logo">
+                        <img class="" src="{{ site.imageurl }}logo.png" alt="{{ site.title }}" />
+                    </a>
+                </div>
+            {% endif %}
 
             <div class="Grid Grid--withGutter">
                 <div class="Grid-cell u-sm-size7of10">
-                    <ul class="o-listClean">
-                        <li><a href="{{ site.address-link }}">{{ site.address }}</a></li>
-                        <li><a href="tel:{{ site.phone }}">Phone: {{ site.phone }}</a></li>
-                        <li><a href="mailto:{{ site.email }}">Email: {{ site.email }}</a></li>
-                        <li>Gallery open: {{ site.gallery-hours }}</li>
-                        <li>Office open: {{ site.office-hours }}</li>
-                    </ul>
+
+                    <div class="Grid">
+
+                        {% comment %}
+                        {% if page.layout == 'post' %}
+                            <div class="Grid-cell u-sm-size4of12">
+                                {% include nav.html %}
+                            </div>
+                        {% endif %}
+                        {% endcomment %}
+
+                        <div class="Grid-cell u-sm-size1of2">
+                            <ul class="o-listClean">
+                                <li><a href="{{ site.address-link }}">{{ site.address }}<br>{{ site.address-second }}</a></li>
+
+                                <li class="u-spaceTD2"><a href="tel:{{ site.phone }}">T: {{ site.phone }}</a></li>
+                                <li><a href="mailto:{{ site.email }}">E: {{ site.email }}</a></li>
+
+                                <li class="u-spaceTD2">Gallery: {{ site.gallery-hours }}</li>
+                                <li>Office: {{ site.office-hours }}</li>
+
+                                <div class="c-footer-socialBlock">
+                                    {% include socials.html %}
+                                </div>
+
+
+                            </ul>
+                        </div>
+
+                    </div>
                 </div>
 
                 {% comment %}
@@ -32,11 +62,26 @@
                         {% include enews-form.html %}
                     </div>
                 </div>
+
+                <div class="Grid-cell u-sm-size3of10 u-smDown-blockT--3by4">
+                    {% include socials.html %}
+                </div>
+
+                {% if page.layout == 'post' %}
+                    <div class="Grid-cell u-sm-size3of10 u-smDown-blockT--3by4">
+                        <div class="u-textRigh">
+                            <a class="u-colorMuted" href="#top">Go Back up ↑</a>
+                        </div>
+                    </div>
+                {% endif %}
                 {% endcomment %}
+
 
             </div>
 	    </div>
 	</div>
+
+
 
     <div class="c-footer-block u-sm-hide">
         <div class="o-container">

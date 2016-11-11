@@ -60,7 +60,7 @@ javascripts: true
 
 
 
-<div class="o-container     c-post-ledeSpacer">
+<div class="o-container c-post">
 
     {% comment %}
     <div class="c-post-hgroup">
@@ -85,20 +85,23 @@ javascripts: true
                 {% include form.html %}
             {% endif %}
 
-            {% if page.image-credit or page.categories contains 'archive' %}
-                <p class="c-post-endline">
-                    {% if page.image-credit %}
-                        Image credit: {{ page.image-credit }}.
-                    {% endif %}
-                    {% if page.categories contains 'archive' %}
-                        This show is <a href="/archive">archived</a>. It originally ran in {{ page.dates | first | date: "%Y" }}.
-                    {% endif %}
-                </p>
+            {% if page.has-form == null %}
+                <div class="c-formWrapper">
+                    {% include enews-form.html %}
+                </div>
             {% endif %}
 
-            {% comment %}{% include enews-form.html %}{% endcomment %}
-
         </div>
+
+
+
+
+
+        {% comment %}
+            ----------------------------------------
+            Meta aside
+            ----------------------------------------
+        {% endcomment %}
 
         <div class="Grid-cell u-sm-size3of10 u-smDown-flexOrderFirst u-smDown-blockR--3by4 c-sm-sticky">
             <aside class="s-aside">
@@ -419,6 +422,25 @@ javascripts: true
                     {% include share.html %}
 
                 </div>
+
+
+                {% comment %}
+                    -------------------------
+                    image credit / archive note
+                    -------------------------
+                {% endcomment %}
+
+                {% if page.image-credit or page.categories contains 'archive' %}
+                    <!-- <p class="c-post-endline"> -->
+                    <div class="c-post-meta c-post-meta--noRule">
+                        {% if page.image-credit %}
+                            <p><span>Image credit: {{ page.image-credit }}</span></p>
+                        {% endif %}
+                        {% if page.categories contains 'archive' %}
+                            <p><span>This show is <a href="/archive">archived</a>. It originally ran in {{ page.dates | first | date: "%Y" }}.</span></p>
+                        {% endif %}
+                    </div>
+                {% endif %}
 
 
             </aside>

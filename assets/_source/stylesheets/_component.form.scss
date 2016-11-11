@@ -56,7 +56,7 @@ textarea {
 	}
 
     // placeholder color
-	$color-placeholder: palette(text);
+	$color-placeholder: rgba( palette(text), 0.7 );
 
 	&::-webkit-input-placeholder { color: $color-placeholder; }
 	&:-moz-placeholder           { color: $color-placeholder; }
@@ -85,6 +85,11 @@ option[type="selected"] {
 
 // Theme vars
 // --------------------------------------------------------------------------
+
+.c-formWrapper {
+    //margin: $blockSpace 0 ($blockSpace * 0.5);
+    margin: $blockSpace 0 0;
+}
 
 .c-form {
     margin-top: space(2);
@@ -142,6 +147,12 @@ option[type="selected"] {
 
 // Newsletter signup var
 // --------------------------------------------------------------------------
+
+.c-formWrapper #mc_embed_signup {
+    @include media-breakpoint-up(sm) {
+        //width: 90%;
+    }
+}
 
 #mc_embed_signup {
 	input[type="email"] {

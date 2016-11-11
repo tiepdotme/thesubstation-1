@@ -14,11 +14,32 @@
     }
 }
 
+.c-footer-nav {
+    margin: $blockSpace * 1.5 0;
+
+    @include media-breakpoint-down(sm) {
+        border-top: 1px solid palette(light);
+        margin-top: $blockSpace;
+        padding-top: $blockSpace;
+    }
+}
+
 .c-footer-block {
     @include media-breakpoint-down(sm) {
         border-top: 1px solid palette(light);
         margin-top: $blockSpace;
         padding-top: $blockSpace;
+    }
+}
+
+.c-footer-logo > img {
+    margin-top: 0;
+    //opacity: 0.25;
+    width: 150px;
+
+    @include media-breakpoint-up(sm) {
+        //margin-top: -($blockSpace * 0.25);
+        width: 180px;
     }
 }
 
@@ -31,41 +52,36 @@
     ul,
     li,
     a {
-        @include textSm();
-        color: palette(medium);
-        font-family: $font-serif;
+        @include textAside();
+        //color: palette(muted);
     }
-}
-
-.c-footer li span {
-    font-family: $font-text-bold;
-    text-transform: uppercase;
 }
 
 .c-footer .o-listClean {
     margin-bottom: 0;
 }
 
-.c-footer-logo > img {
-    margin-top: 0;
-    width: 160px;
+.c-footer .c-nav-item {
+    &:not(:first-child) {
+        margin-top: space(0.25);
+    }
 
-    @include media-breakpoint-up(sm) {
-        margin-top: -($blockSpace * 0.25);
-        width: 200px;
+    &.is-active a {
+        border-color: currentColor;
     }
 }
+
+.c-footer-socialBlock {
+    border-top: 1px solid palette(text);
+    margin-top: space(0.75);
+    padding-top: space(1);
+
+}
+
 
 // hide the logo on mobile when the info is not of adequate amount
 .c-footer-hideMobileLogo {
     @include media-breakpoint-down(sm) {
         display: none;
-    }
-}
-
-// special grid class for footer address
-.u-sizeAddress {
-    @include media-breakpoint-up(sm) {
-        width: calc(100% * 7.5 / 24);
     }
 }

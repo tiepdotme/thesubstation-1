@@ -6,39 +6,45 @@
 <header class="c-header c-site-header">
     <div class="o-container">
 
-        <a href="/" class="c-header-logo">
-            <img class="" src="{{ site.imageurl }}logo.png" alt="{{ site.title }}" />
-        </a>
+        <div class="c-header-brand">
+            <div class="Grid Grid--withGutter">
+                <div class="Grid-cell u-sm-size7of10">
+                    <a href="/" class="c-header-logo">
+                        <img class="" src="{{ site.imageurl }}logo.png" alt="{{ site.title }}" />
+                    </a>
+                </div>
 
-        <div class="c-subscribeForm u-size3of10 u-textRight">
-            <div>
-                <a class="o-iconWrapper u-colorNeutralDark" href="{{ site.social.links[0] }}">
-                    <svg class="o-icon o-icon--xl">
-                        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#ic-facebook-2"></use>
-                    </svg>
-                </a>
-                <a class="o-iconWrapper u-colorNeutralDark" href="{{ site.social.links[1] }}">
-                    <svg class="o-icon o-icon--xl o-icon--right">
-                        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#ic-instagram-2"></use>
-                    </svg>
-                </a>
-                <a class="o-iconWrapper u-colorNeutralDark" href="{{ site.social.links[2] }}">
-                    <svg class="o-icon o-icon--xl o-icon--right">
-                        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#ic-twitter-2"></use>
-                    </svg>
-                </a>
+                {% comment %}
+                <div class="Grid-cell u-sm-size3of10">
+                    <!-- u-flex u-flexAlignItemsEnd -->
+                    <div>
+                        {% include socials.html %}
+                    </div>
+                    <div class="c-header-infoAlign">
+                        <a class="c-header-info" href="{{ site.address-link }}">1 Market Street, Newport</a><br>
+                        <span class="c-header-info">{{ site.gallery-hours }}</span>
+                    </div>
+                </div>
+                {% endcomment %}
+
             </div>
-            <!-- <div>
-                <a class="c-header-info" href="{{ site.address-link }}">1 Market Street, Newport</a><br>
-                <span class="c-header-info">open Tues–Sat, 11am–5pm</span>
-            </div> -->
         </div>
 
+
+
+        {% comment %}
         <div class="c-nav">
             {% include nav.html %}
         </div>
+        {% endcomment %}
 
         <a class="c-nav-trigger" href="#nav">menu</a>
 
     </div>
+
+    <div class="c-nav">
+        {% include nav.html %}
+    </div>
+
+    
 </header>

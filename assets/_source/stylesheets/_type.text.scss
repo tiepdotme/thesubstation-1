@@ -75,8 +75,7 @@
 @mixin textLg() {
 	@include textTemplate(
 		$mixinSize: text--lg,
-        $mixinLetterSpacing: 0.005em,
-        $mixinLineHeight: 1.4
+        $mixinLetterSpacing: 0.0125em
 	);
 }
 
@@ -85,9 +84,9 @@
 @mixin textMeta() {
 	@include textTemplate(
     	$mixinSize: text--meta,
-        $mixinLetterSpacing: 0.15em
+    	$mixinFont: $font-text-bold,
+        $mixinLetterSpacing: 0.1em
     );
-	font-family: $font-text-bold;
     margin-bottom: $paragraphSpace * 0.5;
     text-transform: uppercase;
 }
@@ -104,9 +103,11 @@
 }
 
 @mixin textAside {
-    @include textSm();
-	font-family: $font-text-medium;
-    letter-spacing: 0.125em;
+    @include textTemplate(
+    	$mixinSize: text--sm,
+    	$mixinFont: $font-text-medium,
+        $mixinLetterSpacing: 0.1em
+    );
     text-transform: uppercase;
 }
 
@@ -123,8 +124,6 @@
 .c-text--medium   { @include textRg(); color: palette(medium); }
 .c-text--intro    { @include textRg(); color: palette(medium); margin-bottom: space(0.5); }
 //.c-text--lg       { @include textLg(); margin-bottom: 0; > strong { font-family: $font-text-extrabold; text-transform: initial; } }
-
-
 .c-text--aside { @include textAside(); }
 
 

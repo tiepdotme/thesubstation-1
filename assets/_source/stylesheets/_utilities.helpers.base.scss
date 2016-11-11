@@ -12,14 +12,19 @@
 
 .u-posRelative { position: relative!important; }
 
+.u-colorBase { color: palette(base) !important; }
 .u-colorMuted { color: palette(muted) !important; }
 .u-colorDark { color: palette(charcoal) !important; }
-.u-colorNeutralDark { color: darken( palette(neutral), 10%); }
+
+.u-colorBrand { color: palette(brand) !important; }
+.u-colorNeutralDark { color: palette(neutral-dark) !important; }
 
 
 // quick spacers
 
 .u-space0     { margin: 0 !important; }
+
+.u-spaceT1of4 { margin-top: space(0.25); }
 
 .u-spaceTD2   { margin-top: space(0.5) !important; }
 .u-spaceT     { margin-top: space(1) !important; }

@@ -5,32 +5,47 @@
 // --------------------------------------------------------------------------
 
 
-// Post cell in a list.
-// When a post is also a link.
-// These are vertically & horizontally centered.
-// See: https://philipwalton.github.io/solved-by-flexbox/demos/vertical-centering/
+// Flex adapting grid
+// See: https://github.com/Heydon/fukol-grids
 // --------------------------------------------------------------------------
 
-//a.c-postCell {
-//	@include o-aligner;
-//
-//	> .Post-aligner {
-//		@include o-aligner-item;
-//	}
-//}
+.c-postGrid {
+    display: flex;
+    flex-wrap: wrap;
+    margin: -1px;
+}
+
+.c-postGrid > * {
+    flex: 1 0 5em;
+    flex-basis: calc(50vw - 2px);
+    margin: 1px;
+
+    @include media-breakpoint-up(sm) {
+        flex-basis: calc(20vw - 2px);
+    }
+}
+
+.c-postGrid .FlexEmbed-ratio {
+    padding-bottom: 25vh;
+
+    @include media-breakpoint-up(sm) {
+        padding-bottom: 50vh;
+    }
+}
+
+
+// Post cell in a list
+// --------------------------------------------------------------------------
 
 a.c-postCell {
 	@include complexLink();
 	border: 0;
-	margin-bottom: 2px;
+	margin-bottom: 1px;
 	position: relative;
 
-	+ .c-postCell {
-		margin-top: $blockSpace / 2;
-	}
-
 	@include on-event() {
-		.c-postCell-headline {
+		.c-postCell-headline,
+		.c-postCell-subheadline {
 			@include baseTransition();
 			color: palette(brand);
 		}
@@ -42,17 +57,22 @@ a.c-postCell {
 	}
 }
 
-.c-postCell-headline {
+.c-postCell-headline,
+.c-postCell-subheadline {
 	@include baseTransition();
-    @include headlineXs();
+    @include textAside();
     color: palette(white);
-    display: block;
     padding: 0 15%;
     text-align: center;
+
+    &:not(:first-child) {
+        margin-top: space(0.25);
+    }
 }
 
-.c-postCell-headline + .c-postCell-headline {
-    margin-top: space(0.5);
+.c-postCell-subheadline {
+    display: block;
+    font-family: $font-text-regular;
 }
 
 
@@ -65,10 +85,10 @@ a.c-postCell {
     padding-bottom: 90%;
     @include media-breakpoint-up(sm) { padding-bottom: 56.25%; padding-bottom: 50vh; }
     @include media-breakpoint-up(xl) { padding-bottom: 50%; padding-bottom: 82vh; }
+}
 
-    // conservative
-    //padding-bottom: 75%;
-    //@include media-breakpoint-up(sm) { padding-bottom: 75%; }
+.c-post {
+    margin-top: ($blockSpace * 0.75);
 }
 
 .c-post-hgroup {
@@ -87,10 +107,6 @@ a.c-postCell {
             letter-spacing: 0.45em;
         }
     }
-}
-
-.c-post-ledeSpacer {
-    margin-top: ($blockSpace * 0.75);
 }
 
 .c-post-headline {
@@ -126,16 +142,22 @@ a.c-postCell {
 
 
 // Post markdown scopes
+// --------------------------------------------------------------------------
 
 .s-post {
-    @include media-breakpoint-up(sm) {
-        margin-right: $gutterSpace * 2;
-    }
-
     p,
     ul,
     a {
         font-family: $font-serif;
+    }
+
+    p:first-child {
+        @include textLg();
+        font-family: $font-serif;
+    }
+
+    a {
+        @include underlineLink();
     }
 
     // capitalised bold sans
@@ -162,11 +184,6 @@ a.c-postCell {
 		}
 	}
 
-    a {
-        @include underlineLink();
-    }
-
-
     hr {
         border: 0;
         border-top: 1px solid palette(light);
@@ -179,15 +196,10 @@ a.c-postCell {
         padding-left: space(1);
     }
 
-    // for photo credits only
-    //em {
-    //    @include textXs();
-    //    border-top: 1px solid palette(light);
-    //    color: palette(medium);
-    //    display: block;
-	//	margin-top: $paragraphSpace * 2;
-	//	padding-top: space(0.5);
-    //}
+    @include media-breakpoint-up(sm) {
+        margin-right: $gutterSpace * 2;
+    }
+
 }
 
 
@@ -198,15 +210,9 @@ a.c-postCell {
 // --------------------------------------------------------------------------
 
 .c-post-meta {
-    border-bottom: 1px solid palette(light);
+    border-bottom: 1px solid palette(text);
     margin-bottom: $blockSpace * 0.2;
     padding-bottom: $blockSpace * 0.2;
-
-    &:not(:last-child) {
-        //border-bottom: 1px solid palette(light);
-        //margin-bottom: $blockSpace * 0.25;
-        //padding-bottom: $blockSpace * 0.25;
-    }
 
     .Button {
         margin-bottom: 6px !important;
@@ -216,10 +222,6 @@ a.c-postCell {
     span a,
     li {
         @include textMetaHeadline();
-    }
-
-    span {
-        //display: block;
     }
 
     p {
@@ -235,7 +237,8 @@ a.c-postCell {
         padding-left: 0;
     }
 
-    &--cta {
+    &--cta,
+    &--noRule {
         border: 0 !important;
         padding: 0 !important;
     }
