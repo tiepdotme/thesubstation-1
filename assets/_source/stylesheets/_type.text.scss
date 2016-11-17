@@ -68,14 +68,16 @@
 
 @mixin textRg() {
 	@include textTemplate(
-        $mixinLetterSpacing: 0.015em
+        $mixinLetterSpacing: 0.0125em
     );
 }
 
 @mixin textLg() {
 	@include textTemplate(
 		$mixinSize: text--lg,
-        $mixinLetterSpacing: 0.0125em
+    	$mixinFont: $font-text-medium,
+        $mixinLetterSpacing: 0.0125em,
+    	$mixinLineHeight: 1.35
 	);
 }
 
@@ -85,7 +87,7 @@
 	@include textTemplate(
     	$mixinSize: text--meta,
     	$mixinFont: $font-text-bold,
-        $mixinLetterSpacing: 0.1em
+        $mixinLetterSpacing: 0.075em
     );
     margin-bottom: $paragraphSpace * 0.5;
     text-transform: uppercase;
@@ -95,7 +97,7 @@
     @include textTemplate(
         $mixinColor: palette(medium),
         $mixinSize: text--xs,
-        $mixinLetterSpacing: 0.1em,
+        $mixinLetterSpacing: 0.075em,
         $mixinLineHeight: 1.96
     );
     //margin-bottom: $paragraphSpace * 0.25;
@@ -106,7 +108,7 @@
     @include textTemplate(
     	$mixinSize: text--sm,
     	$mixinFont: $font-text-medium,
-        $mixinLetterSpacing: 0.1em
+        $mixinLetterSpacing: 0.075em
     );
     text-transform: uppercase;
 }

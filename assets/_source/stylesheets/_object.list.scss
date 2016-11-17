@@ -9,8 +9,7 @@
 
 ul {
 	list-style-type: disc;
-	//margin-left: map-fetch($list-inset, margin);
-	margin-left: 0;
+	margin-left: map-fetch($list-inset, margin);
 	padding-left: map-fetch($list-inset, padding);
 }
 

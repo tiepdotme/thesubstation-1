@@ -91,6 +91,11 @@ option[type="selected"] {
     margin: $blockSpace 0 0;
 }
 
+.c-formWrapper--alt {
+    //margin: $blockSpace 0 ($blockSpace * 0.5);
+    margin-top: ($blockSpace * 0.75);
+}
+
 .c-form {
     margin-top: space(2);
 }
@@ -157,10 +162,10 @@ option[type="selected"] {
 #mc_embed_signup {
 	input[type="email"] {
 		background-color: transparent;
-		border: 0;
-	    border-bottom: 1px solid palette(text);
-		margin-right: 2px;
-		padding: 0 0 1px 0;
+		//border: 0;
+	    border: 1px solid palette(text);
+		//margin-right: 2px;
+		padding: 0 0 0 space(0.5);
 	}
 
 	.t-button {

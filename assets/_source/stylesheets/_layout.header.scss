@@ -11,13 +11,14 @@
 	position: relative;
 
     @include media-breakpoint-up(sm) {
-        padding: ($blockSpace * 0.5) 0 ($blockSpace * 0.75);
+        //padding: ($blockSpace * 0.75) 0;
     }
 }
 
 .c-header-brand {
     @include media-breakpoint-up(sm) {
         margin-bottom: $blockSpace * 0.75;
+        //margin-top: $blockSpace * 0.75;
     }
 }
 
@@ -35,9 +36,16 @@
     display: flex;
     justify-content: space-between;
     margin: 0;
-    padding: 0 15%;
+    padding: 0 space(1.5);
+
+    //@include media-breakpoint-up(sm) { max-width: container-width(xl); }
+    //@include media-breakpoint-up(lg) { max-width: none; }
+    @include media-breakpoint-up(lg) { padding: 0 4%; }
+    @include media-breakpoint-up(xl) { padding: 0 12%; }
+    @include media-breakpoint-up(su) { padding: 0 18%; }
 
     @include media-breakpoint-down(sm) {
+        // mobile nav takes over here…
         display: none;
     }
 }
@@ -79,10 +87,9 @@
     border-radius: 3px;
     height: 107%;
     padding: 6px 12px;
-
     position: absolute;
     right: space(1);
-    //top: space(1);
+    top: 0;
 
     @include media-breakpoint-up(sm) {
         display: none;

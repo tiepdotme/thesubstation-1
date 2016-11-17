@@ -33,6 +33,12 @@
     }
 }
 
+// wrapper
+.c-listPanel {
+    //background-color: palette(brand);
+    //padding: 2px 0;
+}
+
 
 // Post cell in a list
 // --------------------------------------------------------------------------
@@ -101,6 +107,10 @@ a.c-postCell {
             font-family: $font-text-bold;
             text-align: center;
             width: 100%;
+
+            @include media-breakpoint-down(sm) {
+                padding: 5%;
+            }
         }
 
         .c-post-headline {
@@ -119,7 +129,7 @@ a.c-postCell {
 }
 
 .c-post-subheadline {
-    margin-top: space(0.25);
+    margin-top: space(0.5);
 
     p {
         @include textMeta();
@@ -154,6 +164,15 @@ a.c-postCell {
     p:first-child {
         @include textLg();
         font-family: $font-serif;
+
+        //@include headlineSm();
+        //font-family: $font-text-bold;
+        //margin-bottom: $blockSpace * 0.75 * 0.5;
+
+
+        //font-size: 27px;
+        //letter-spacing: 0.0125em;
+        //line-height: 1.35;
     }
 
     a {
@@ -209,10 +228,18 @@ a.c-postCell {
 // Aside metas
 // --------------------------------------------------------------------------
 
+.s-aside {
+    border: 1px solid palette(text);
+    padding: space(0.25) space(0.5) space(0.5);
+}
+
 .c-post-meta {
-    border-bottom: 1px solid palette(text);
-    margin-bottom: $blockSpace * 0.2;
-    padding-bottom: $blockSpace * 0.2;
+
+    &:not(:last-child) {
+        border-bottom: 1px solid palette(light);
+        margin-bottom: $blockSpace * 0.2;
+        padding-bottom: $blockSpace * 0.2;
+    }
 
     .Button {
         margin-bottom: 6px !important;
@@ -241,6 +268,13 @@ a.c-postCell {
     &--noRule {
         border: 0 !important;
         padding: 0 !important;
+    }
+
+    &--noRule span,
+    &--noRule span a,
+    &--noRule li {
+        display: inline-block;
+        line-height: $base-line-height-unit;
     }
 }
 

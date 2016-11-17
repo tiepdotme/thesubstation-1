@@ -25,6 +25,9 @@ Volunteers at The SUBSTATION are involved in a broad range of experiences. The b
 - Volunteer program events, activities and training
 - Regular curatorial briefings for exhibitions and performances
 
-**For further information or to register your interest in volunteering at The SUBSTATION, please contact:**  
-Kali Michailidis, General Manager  
-Email: [manger@thesubstation.org.au](mailto:manger@thesubstation.org.au)Tel: (03) 9391 1110
+## For further information
+
+For further information or to register your interest in volunteering at The SUBSTATION, please contact:
+- Kali Michailidis, General Manager  
+- Email: [manger@thesubstation.org.au](mailto:manger@thesubstation.org.au)
+- Tel: (03) 9391 1110

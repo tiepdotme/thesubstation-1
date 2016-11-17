@@ -85,12 +85,6 @@ javascripts: true
                 {% include form.html %}
             {% endif %}
 
-            {% if page.has-form == null %}
-                <div class="c-formWrapper">
-                    {% include enews-form.html %}
-                </div>
-            {% endif %}
-
         </div>
 
 
@@ -444,6 +438,20 @@ javascripts: true
 
 
             </aside>
+
+            {% comment %}
+                -------------------------
+                newsletter signup
+                -------------------------
+            {% endcomment %}
+
+            {% if page.has-form == null %}
+                <div class="c-formWrapper--alt">
+                    {% include enews-form-alt.html %}
+                </div>
+            {% endif %}
+
+
         </div>
     </div>
 </div>

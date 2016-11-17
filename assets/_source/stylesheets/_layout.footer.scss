@@ -6,8 +6,15 @@
 
 
 .c-footer {
-    margin: $blockSpace 0;
+    //background-color: palette(neutral);
+    padding: $blockSpace * 1.25 0;
 	position: relative;
+
+    &--post {
+        //background-color: rgba( palette(brand), 0.4 );
+        border-top: 1px solid palette(text);
+        margin-top: $blockSpace * 1.25 !important;
+    }
 
     @include media-breakpoint-up(sm) {
         //margin: $blockSpace 0;
@@ -15,7 +22,7 @@
 }
 
 .c-footer-nav {
-    margin: $blockSpace * 1.5 0;
+    margin-bottom: $blockSpace * 1.25;
 
     @include media-breakpoint-down(sm) {
         border-top: 1px solid palette(light);
@@ -51,9 +58,11 @@
     p,
     ul,
     li,
+    span,
     a {
         @include textAside();
         //color: palette(muted);
+        //font-family: $font-text-regular;
     }
 }
 
@@ -71,11 +80,25 @@
     }
 }
 
-.c-footer-socialBlock {
-    border-top: 1px solid palette(text);
-    margin-top: space(0.75);
-    padding-top: space(1);
+.c-footer-info {
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
 
+    > * {
+        flex-shrink: 1;
+        margin: 0;
+    }
+}
+
+.c-footer-socialBlock {
+    //margin-top: space(0.75);
+    margin-top: $blockSpace * 0.333333;
+
+    @include media-breakpoint-up(sm) {
+        //border-top: 1px solid palette(text);
+        //padding-top: space(1);
+    }
 }
 
 
@@ -85,3 +108,23 @@
         display: none;
     }
 }
+
+
+
+// reversed
+.c-footer {
+    background-color: palette(text);
+    background-color: palette(brand);
+    background-color: palette(neutral-light);
+    border: 0;
+    margin-top: 2px;
+}
+
+//.c-footer {
+//    p,
+//    ul,
+//    li,
+//    a {
+//        color: palette(muted);
+//    }
+//}

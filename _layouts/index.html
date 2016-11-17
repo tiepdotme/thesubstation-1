@@ -12,7 +12,7 @@ layout: default
                 <div class="FlexEmbed-content">
                     <iframe
                         class="u-posAbsoluteCenter"
-                        src="https://www.youtube.com/embed/{{ page.youtube }}?autoplay=1&loop=1"
+                        src="https://www.youtube.com/embed/{{ page.youtube }}?autoplay=1"
                         frameborder="0"
                         allowTransparency="true"
                         allowfullscreen
@@ -35,4 +35,17 @@ layout: default
         {% endif %}
 
     </a>
+
+    {% assign categoryName = 'whats-on' %}
+    <div class="c-listPanel" style="margin-top:2px">
+        <div class="c-postGrid">
+
+            {% for post in site.categories[categoryName] limit: 4 %}
+
+                    {% include post-cell-alt.html %}
+
+            {% endfor %}
+
+        </div>
+    </div>
 </div>

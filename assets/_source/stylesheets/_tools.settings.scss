@@ -35,7 +35,7 @@ $palette: (
 	neutral                    : #F3F2F1,
 	neutral-text               : darken(#f0eeeb, 27%),
 	neutral-dark               : darken(#f0eeeb, 9%),
-	neutral-light              : lighten(#f0eeeb, 4%),
+	neutral-light              : lighten(#f0eeeb, 2%),
 	brand                      : #65bd24,
 	brand-complement           : #2e2423,
 	brand-counter              : #887E73,
@@ -115,12 +115,12 @@ $fontsizes: (
 	text: (
 		xs            : 15px,
 		sm            : 17px,
-		rg            : 17px
+		rg            : 18px
 	),
 	text--lg: (
-        xs            : 18px,
-        sm            : 21px,
-        lg            : 21px
+        xs            : 19px,
+        sm            : 22px,
+        lg            : 24px
 	),
 	headline--xs: (
 		xs            : 18px,
@@ -161,7 +161,7 @@ $button-height: (
 );
 
 $list-inset: (
-    margin            : space(1.5),
+    margin            : space(0.75),
     padding           : 0
 );
 

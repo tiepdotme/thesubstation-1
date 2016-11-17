@@ -5,15 +5,20 @@
 // --------------------------------------------------------------------------
 
 
-//body {
-//    border-top: rem(6) solid palette(brand);
-//}
+html {
+    background-color: palette(neutral);
+}
 
-//.c-content {
-//    @include media-breakpoint-up(sm) {
-//        min-height: 500px;
-//    }
-//}
+.c-header,
+.c-content {
+    background-color: palette(background);
+}
+
+.c-content {
+    
+}
+
+
 
 .c-listPanel {
     //background-color: palette(text);
