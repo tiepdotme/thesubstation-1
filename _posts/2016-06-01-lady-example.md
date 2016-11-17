@@ -8,7 +8,7 @@ presented-by: Caroline Meaden, Alice Dixon & William Mcbride
 supporters: false
 ---
 
-> “Women of the world, take over, because if you don’t the world will come to an end and we haven’t got long.” <br>— IVOR CUTLER and LINDA HIRST
+> “Women of the world, take over, because if you don’t the world will come to an end and we haven’t got long.” — IVOR CUTLER and LINDA HIRST
 
 Let us turn to our Lady Examples.
 

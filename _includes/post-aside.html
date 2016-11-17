@@ -1,0 +1,111 @@
+<aside class="s-aside">
+
+
+
+
+    {% comment %}
+        ----------------------------
+        free-artist-talk (free text)
+        ----------------------------
+    {% endcomment %}
+    {% if page.free-artist-talk-text %}
+        <div class="c-post-meta">
+            <span>Free artist's talk:</span>
+            <p>{{ page.free-artist-talk-text }}</p>
+        </div>
+    {% endif %}
+
+
+    {% comment %}
+        ----------------------------
+        note, links
+        ----------------------------
+    {% endcomment %}
+
+    {% if page.notes %}
+        <div class="c-post-meta c-post-meta--notes">
+            <!-- <span>Please note: {{ page.note }}</span> -->
+            {% for note in page.notes %}
+                <p><span>{{ note }}</span></p>
+            {% endfor %}
+        </div>
+    {% endif %}
+
+
+    {% comment %}
+        -------------------------
+        supporters
+        see: https://www.siteleaf.com/blog/author-pages-in-jekyll-and-siteleaf/
+        see: https://www.siteleaf.com/blog/customizing-the-siteleaf-admin/#smart-fields
+        see: https://jekyllrb.com/docs/templates/ (where expression!)
+        {% for item in site.supporters %}
+            <p>{{ item.title }}</p>
+        {% endfor %}
+        -------------------------
+    {% endcomment %}
+
+    {% if page.supporters %}
+        <div class="c-post-meta">
+            <p><span>Supported by:</span></p>
+
+            <div class="c-post-supporters">
+
+                {% assign supporters = site.supporters | where_exp: "item", "page.supporters contains item.title" %}
+                {% for supporter in supporters %}
+                    <img src="{{ supporter.image }}" alt="{{ supporter.title }}" />
+                {% endfor %}
+
+            </div>
+
+        </div>
+    {% endif %}
+
+
+    {% comment %}
+        -------------------------
+        share the event
+        see: https://www.siteleaf.com/blog/author-pages-in-jekyll-and-siteleaf/
+        -------------------------
+    {% endcomment %}
+
+    <div class="c-post-meta">
+        <p><span>Share:</span></p>
+
+        {% include share.html %}
+
+    </div>
+
+
+    {% comment %}
+        -------------------------
+        image credit / archive note
+        -------------------------
+    {% endcomment %}
+
+    {% if page.image-credit or page.categories contains 'archive' %}
+        <!-- <p class="c-post-endline"> -->
+        <div class="c-post-meta c-post-meta--noRule">
+            {% if page.image-credit %}
+                <p><span>Image credit: {{ page.image-credit }}</span></p>
+            {% endif %}
+            {% if page.categories contains 'archive' %}
+                <p><span>This show is <a href="/archive">archived</a>. It originally ran in {{ page.dates | first | date: "%Y" }}.</span></p>
+            {% endif %}
+        </div>
+    {% endif %}
+
+
+</aside>
+
+{% comment %}
+    -------------------------
+    newsletter signup
+    -------------------------
+
+{% if page.has-form == null %}
+    <div class="c-formWrapper--alt">
+        {% include enews-form-alt.html %}
+    </div>
+{% endif %}
+
+{% endcomment %}

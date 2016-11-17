@@ -7,7 +7,7 @@
 
 //use padding so we can go exactly 'back to top'
 .c-header {
-    padding: ($blockSpace * 0.75) 0;
+    padding: ($blockSpace * 0.6) 0 ($blockSpace * 0.75);
 	position: relative;
 
     @include media-breakpoint-up(sm) {

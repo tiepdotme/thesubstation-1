@@ -95,26 +95,31 @@ a.c-postCell {
 
 .c-post {
     margin-top: ($blockSpace * 0.75);
+    margin-top: ($blockSpace * 1.25);
 }
 
 .c-post-hgroup {
     margin: ($blockSpace * 0.75) 0;
 
     &--center {
-        .c-post-headline,
-        .c-post-subheadline p {
-            color: palette(white);
+        .c-post-headline {
+            letter-spacing: 0.45em;
+        }
+
+        .c-post-subheadline {
+            @include headlineSm();
             font-family: $font-text-bold;
+        }
+
+        .c-post-headline,
+        .c-post-subheadline {
+            color: palette(white);
             text-align: center;
             width: 100%;
 
             @include media-breakpoint-down(sm) {
                 padding: 5%;
             }
-        }
-
-        .c-post-headline {
-            letter-spacing: 0.45em;
         }
     }
 }
@@ -159,11 +164,12 @@ a.c-postCell {
     ul,
     a {
         font-family: $font-serif;
+        letter-spacing: 0;
     }
 
     p:first-child {
-        @include textLg();
-        font-family: $font-serif;
+        //@include textLg();
+        //font-family: $font-serif;
 
         //@include headlineSm();
         //font-family: $font-text-bold;
@@ -229,8 +235,8 @@ a.c-postCell {
 // --------------------------------------------------------------------------
 
 .s-aside {
-    border: 1px solid palette(text);
-    padding: space(0.25) space(0.5) space(0.5);
+    //border: 1px solid palette(text);
+    //padding: space(0.25) space(0.5) space(0.5);
 }
 
 .c-post-meta {
@@ -292,7 +298,82 @@ a.c-postCell {
             @include first-child() { margin-top: $paragraphSpace; }
             @include all-but(1) { margin-top: $paragraphSpace * 1.25; }
             margin-left: 0;
-            width: 55%;
+            width: auto;
+        }
+    }
+}
+
+
+
+// Alt aside
+// --------------------------------------------------------------------------
+
+.c-post-aside {
+    //background-color: palette(brand);
+    //background-color: palette(text);
+    //margin-top: 1px;
+    //padding: $blockSpace * 0.75 0;
+    margin-top: $blockSpace * 1.25;
+
+    // bottom-aligned in FlexEmbed
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+}
+
+.c-post-aside .c-postGrid > * {
+    flex: 1 0 0;
+    flex-basis: calc(10vw - 2px);
+    flex-basis: 5em;
+
+    @include media-breakpoint-up(sm) {
+        //flex-basis: calc(20vw - 2px);
+    }
+}
+
+.c-post-aside .s-aside {
+    border: 0;
+    padding: 0;
+}
+
+$asideColor: text;
+
+.c-post-aside .c-post-meta {
+    //background-color: rgba( palette(text), 0.7);
+    background-color: palette(background);
+    border: 1px solid palette($asideColor);
+    margin: 0;
+    padding: $blockSpace * 0.125 $blockSpace * 0.25;
+
+    &:not(:first-child) {
+        margin-left: -1px;
+    }
+
+    span,
+    span a,
+    li {
+        color: palette($asideColor);
+        font-family: $font-text-black;
+    }
+
+    p {
+        color: palette($asideColor);
+    }
+}
+
+.c-post-aside .c-post-meta--cta {
+    border: 1px solid palette($asideColor) !important;
+
+    .t-button--primary {
+        background-color: palette(brand);
+        border: 0;
+        color: palette(background);
+        height: 100%;
+        margin: 0 !important;
+        width: 100%;
+
+        &:after {
+            display: none;
         }
     }
 }

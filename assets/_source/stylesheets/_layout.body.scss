@@ -6,16 +6,16 @@
 
 
 html {
-    background-color: palette(neutral);
+    //background-color: palette(neutral);
 }
 
 .c-header,
 .c-content {
-    background-color: palette(background);
+    //background-color: palette(background);
 }
 
-.c-content {
-    
+.c-content--post {
+    padding-bottom: $blockSpace * 1.25 !important;
 }
 
 
