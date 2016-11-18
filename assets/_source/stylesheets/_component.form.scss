@@ -87,13 +87,9 @@ option[type="selected"] {
 // --------------------------------------------------------------------------
 
 .c-formWrapper {
-    //margin: $blockSpace 0 ($blockSpace * 0.5);
+	background-color: rgba( palette(brand), 0.15 );
     margin: $blockSpace 0 0;
-}
-
-.c-formWrapper--alt {
-    //margin: $blockSpace 0 ($blockSpace * 0.5);
-    margin-top: ($blockSpace * 0.75);
+	padding: space(2);
 }
 
 .c-form {
@@ -162,14 +158,17 @@ option[type="selected"] {
 #mc_embed_signup {
 	input[type="email"] {
 		background-color: transparent;
-		//border: 0;
-	    border: 1px solid palette(text);
-		//margin-right: 2px;
-		padding: 0 0 0 space(0.5);
+		border-color: transparent;
+	    border-bottom: 1px solid palette(muted);
+		//padding: 0 0 0 space(0.5);
+		margin-right: space(0.25);
+		padding: 0;
 	}
 
 	.t-button {
-		//border: 0;
+		background-color: palette(brand);
+        border-color: palette(brand);
+		color: palette(background);
 	}
 }
 

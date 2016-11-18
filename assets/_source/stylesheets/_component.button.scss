@@ -109,7 +109,7 @@ $arrowSize: map-fetch($button-height, base);
 	color: palette(white) !important;
     font-family: $font-text-bold;
     min-width: 92%;
-    padding: space(0.25) space(1);
+    padding: space(0.25) space(0.5);
     position: relative;
 
     &:after {

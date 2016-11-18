@@ -5,23 +5,32 @@
 // --------------------------------------------------------------------------
 
 
-// Flex adapting grid
-// See: https://github.com/Heydon/fukol-grids
+// Posts grid using 'c.grid':
+//
+//.o-grid {
+//    display: flex;
+//    flex-wrap: wrap;
+//}
+//
+//.o-grid > * {
+//    flex: 1 0 5em;
+//}
 // --------------------------------------------------------------------------
 
-.c-postGrid {
-    display: flex;
-    flex-wrap: wrap;
-    margin: -1px;
-}
-
 .c-postGrid > * {
-    flex: 1 0 5em;
-    flex-basis: calc(50vw - 2px);
-    margin: 1px;
+    flex-basis: 50vw;
 
     @include media-breakpoint-up(sm) {
-        flex-basis: calc(20vw - 2px);
+        //flex-basis: calc(20vw - 2px);
+        flex-basis: 20vw;
+    }
+}
+
+// 1px border for each cell
+.c-postGrid .c-postCell:not(:first-child),
+.c-postGrid--inPost .c-postCell:not(:first-child) {
+    .FlexEmbed {
+        margin-left: 1px;
     }
 }
 
@@ -33,11 +42,20 @@
     }
 }
 
-// wrapper
-.c-listPanel {
-    //background-color: palette(brand);
-    //padding: 2px 0;
+// for c-post-next/prev
+.c-postGrid--inPost {
+    > * {
+        flex-basis: 50%;
+        @include media-breakpoint-up(sm) { flex-basis: 20%; }
+    }
+
+    .FlexEmbed-ratio {
+        padding-bottom: 12.5vh;
+        @include media-breakpoint-up(sm) { padding-bottom: 25vh; }
+    }
 }
+
+
 
 
 // Post cell in a list
@@ -83,19 +101,14 @@ a.c-postCell {
 
 
 
-// Posts
+// Post hero
 // --------------------------------------------------------------------------
 
 .FlexEmbed-ratio--hero {
     padding-bottom: 90%;
     padding-bottom: 90%;
     @include media-breakpoint-up(sm) { padding-bottom: 56.25%; padding-bottom: 50vh; }
-    @include media-breakpoint-up(xl) { padding-bottom: 50%; padding-bottom: 82vh; }
-}
-
-.c-post {
-    margin-top: ($blockSpace * 0.75);
-    margin-top: ($blockSpace * 1.25);
+    @include media-breakpoint-up(xl) { padding-bottom: 50%; padding-bottom: 81.5vh; }
 }
 
 .c-post-hgroup {
@@ -143,21 +156,29 @@ a.c-postCell {
     }
 }
 
-.c-post-endline {
-    @include textXs();
-    border-top: 1px solid palette(light);
-    color: palette(medium);
-    margin-top: $paragraphSpace * 2;
-    padding-top: space(0.5);
+//.c-post-endline {
+//    @include textXs();
+//    border-top: 1px solid palette(light);
+//    color: palette(medium);
+//    margin-top: $paragraphSpace * 2;
+//    padding-top: space(0.5);
+//
+//    a {
+//        @include underlineLink();
+//    }
+//}
 
-    a {
-        @include underlineLink();
-    }
-}
 
 
-// Post markdown scopes
+
+
+// Post article
 // --------------------------------------------------------------------------
+
+.c-post-article {
+    margin-top: ($blockSpace * 0.75);
+    margin-top: ($blockSpace * 1.25);
+}
 
 .s-post {
     p,
@@ -231,24 +252,23 @@ a.c-postCell {
 
 
 
-// Aside metas
+
+
+
+
+// Post aside
 // --------------------------------------------------------------------------
 
-.s-aside {
-    //border: 1px solid palette(text);
-    //padding: space(0.25) space(0.5) space(0.5);
-}
+//.s-aside {
+//    border: 1px solid palette(text);
+//    padding: space(0.25) space(0.5) space(0.5);
+//}
 
 .c-post-meta {
-
     &:not(:last-child) {
         border-bottom: 1px solid palette(light);
         margin-bottom: $blockSpace * 0.2;
         padding-bottom: $blockSpace * 0.2;
-    }
-
-    .Button {
-        margin-bottom: 6px !important;
     }
 
     span,
@@ -270,10 +290,34 @@ a.c-postCell {
         padding-left: 0;
     }
 
+    //a {
+    //    @include underlineLink();
+    //}
+
+
+    // variations
+    // ----------
+
+    &--endRule {
+        border-bottom-color: transparent !important;
+        border-top: 1px solid palette(light);
+        display: inline-block;
+        margin: $blockSpace * 0.375 0 0 !important;
+        padding: $blockSpace * 0.2 0 0 !important;
+
+        a {
+            @include underlineLink();
+        }
+    }
+
     &--cta,
     &--noRule {
         border: 0 !important;
         padding: 0 !important;
+    }
+
+    &--cta {
+        margin-bottom: $blockSpace * 0.5;
     }
 
     &--noRule span,
@@ -282,10 +326,34 @@ a.c-postCell {
         display: inline-block;
         line-height: $base-line-height-unit;
     }
+
+    &--share {
+        &:not(:first-child) {
+            margin-top: $blockSpace * 0.75;
+        }
+
+        > a {
+            @include underlineLink(none);
+            color: palette(muted);
+            display: block;
+            text-align: center;
+            width: 100%;
+
+            &:not(:first-child) {
+                margin-top: -1px;
+            }
+
+            @include on-event() {
+                color: palette(muted);
+            }
+        }
+    }
 }
 
 // using vendor.family
 .c-post-supporters {
+    margin-bottom: $paragraphSpace * 0.5;
+
     img {
         margin-top: $paragraphSpace * 0.75;
         margin-left: $paragraphSpace;
@@ -295,7 +363,7 @@ a.c-postCell {
         @include every(4) { margin-left: 0; }
 
         @include media-breakpoint-up(sm) {
-            @include first-child() { margin-top: $paragraphSpace; }
+            @include first-child() { margin-top: $paragraphSpace * 0.5; }
             @include all-but(1) { margin-top: $paragraphSpace * 1.25; }
             margin-left: 0;
             width: auto;
@@ -305,48 +373,59 @@ a.c-postCell {
 
 
 
-// Alt aside
+
+
+
+
+
+
+// Post info
 // --------------------------------------------------------------------------
 
-.c-post-aside {
+.c-post-info {
     //background-color: palette(brand);
     //background-color: palette(text);
     //margin-top: 1px;
     //padding: $blockSpace * 0.75 0;
-    margin-top: $blockSpace * 1.25;
+    //margin-top: $blockSpace * 1.25;
 
-    // bottom-aligned in FlexEmbed
-    bottom: 0;
-    position: absolute;
+    //bottom: -#{space(1)};
+    position: absolute; // remove from the flow
+    transform: translateY(-100%);
     width: 100%;
 }
 
-.c-post-aside .c-postGrid > * {
+.c-post-info .c-postGrid {
+    margin: 0;
+}
+
+.c-post-info .c-postGrid > * {
     flex: 1 0 0;
     flex-basis: calc(10vw - 2px);
     flex-basis: 5em;
+    margin: 0;
 
     @include media-breakpoint-up(sm) {
         //flex-basis: calc(20vw - 2px);
     }
 }
 
-.c-post-aside .s-aside {
+.c-post-info .s-aside {
     border: 0;
     padding: 0;
 }
 
 $asideColor: text;
 
-.c-post-aside .c-post-meta {
-    //background-color: rgba( palette(text), 0.7);
+.c-post-info .c-post-meta {
     background-color: palette(background);
-    border: 1px solid palette($asideColor);
+    border: 0;
     margin: 0;
     padding: $blockSpace * 0.125 $blockSpace * 0.25;
 
     &:not(:first-child) {
-        margin-left: -1px;
+        border-left: 1px solid palette($asideColor);
+        //margin-left: -1px;
     }
 
     span,
@@ -361,7 +440,7 @@ $asideColor: text;
     }
 }
 
-.c-post-aside .c-post-meta--cta {
+.c-post-info .c-post-meta--cta {
     border: 1px solid palette($asideColor) !important;
 
     .t-button--primary {
@@ -375,5 +454,20 @@ $asideColor: text;
         &:after {
             display: none;
         }
+    }
+}
+
+
+
+
+
+// Post next/prev
+// --------------------------------------------------------------------------
+
+.c-post-next {
+    margin-top: $blockSpace;
+
+    h3 {
+        margin-bottom: $blockSpace * 0.5;
     }
 }

@@ -1,13 +1,5 @@
-<!-- <div class="Grid Grid--withGutterSm{% if page.cells-centered %} Grid--alignCenter{% endif %}"> -->
-
-<div class="c-listPanel">
-    <div class="c-postGrid">
-
-        {% for post in site.categories[categoryName] %}
-
-                {% include post-cell-alt.html %}
-
-        {% endfor %}
-
-    </div>
+<div class="o-grid c-postGrid">
+    {% for post in site.categories[categoryName] %}
+        {% include post-cell-alt.html %}
+    {% endfor %}
 </div>

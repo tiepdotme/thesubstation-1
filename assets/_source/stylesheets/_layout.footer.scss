@@ -50,6 +50,19 @@
     }
 }
 
+//.c-footer .o-grid > *:not(:first-child) {
+//    margin-left: space(0.5);
+//}
+
+.u-inlineBlockWrapper > * {
+    display: inline-block;
+
+    &:not(:first-child) {
+        //margin-left: space(1); 
+        margin-left: $blockSpace * 0.75;
+    }
+}
+
 //.c-footer li {
 //    @include textXs();
 //}

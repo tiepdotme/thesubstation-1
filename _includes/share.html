@@ -1,12 +1,15 @@
-<div class="u-spaceTD2">
-    <a class="o-iconWrapper" href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | prepend: site.url }}">
-        <svg class="o-icon o-icon--xl">
-            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#ic-facebook-2"></use>
-        </svg>
-    </a>
-	<a class="o-iconWrapper" href="mailto:?subject=Check out {{ page.title }} at {{ site.title }}&body={{ page.excerpt  | strip_html }} …read it all here: {{ page.url | prepend: site.url }}" target="_blank">
-        <svg class="o-icon o-icon--xl o-icon--right">
-            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#ic-email-2"></use>
-        </svg>
-    </a>
-</div>
+<a class="o-iconWrapper" href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | prepend: site.url }}">
+    <svg class="o-icon o-icon--xl">
+        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#ic-facebook-stroke"></use>
+    </svg>
+</a>
+<a class="o-iconWrapper" href="https://twitter.com/intent/tweet?source=&text={{ page.excerpt | strip_html }}&url={{ page.url | prepend: site.url }}" target="_blank">
+    <svg class="o-icon o-icon--xl">
+        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#ic-twitter-stroke"></use>
+    </svg>
+</a>
+<a class="o-iconWrapper" href="mailto:?subject=Check out {{ page.title }} at {{ site.title }}&body={{ page.excerpt | strip_html }} …read it all here: {{ page.url | prepend: site.url }}" target="_blank">
+    <svg class="o-icon o-icon--xl">
+        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#ic-email-stroke"></use>
+    </svg>
+</a>

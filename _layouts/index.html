@@ -37,15 +37,9 @@ layout: default
     </a>
 
     {% assign categoryName = 'whats-on' %}
-    <div class="c-listPanel" style="margin-top:2px">
-        <div class="c-postGrid">
-
-            {% for post in site.categories[categoryName] limit: 4 %}
-
-                    {% include post-cell-alt.html %}
-
-            {% endfor %}
-
-        </div>
+    <div class="o-grid c-postGrid" style="margin-top:2px">
+        {% for post in site.categories[categoryName] limit: 4 %}
+            {% include post-cell-alt.html %}
+        {% endfor %}
     </div>
 </div>

@@ -3,15 +3,13 @@ title: About
 layout: default
 ---
 
-<div class="c-listPanel">
-    <div class="c-postGrid">
+<div class="o-grid c-postGrid">
 
-        {% assign sortedPosts = site.about | sort:"position" %}
-        {% for post in sortedPosts %}
+    {% assign sortedPosts = site.about | sort:"position" %}
+    {% for post in sortedPosts %}
 
-            {% include post-cell.html %}
+        {% include post-cell-alt.html %}
 
-        {% endfor %}
+    {% endfor %}
 
-    </div>
 </div>

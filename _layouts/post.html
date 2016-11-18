@@ -9,108 +9,144 @@ javascripts: true
     $ JEKYLL_ENV=production bundle exec jekyll serve
 {% endcomment %}
 
-{% if page.video %}
-    <div class="FlexEmbed">
-        <div class="FlexEmbed-ratio FlexEmbed-ratio--hero"></div>
-        <div class="FlexEmbed-content">
-            <iframe
-                class="o-posAbsoluteCenterAlt"
-                frameborder="0" allowtransparency="true" allowfullscreen="" width="100%" height="100%"
-                {% if jekyll.environment == "development" %}
-                    src="https://www.youtube.com/embed/76MgBFVGjiE"
-                {% else %}
-                    src="{{ page.video }}"
-                {% endif %}
-                ></iframe>
-        </div>
-    </div>
-{% elsif page.image %}
-    <div class="FlexEmbed">
-        <div class="FlexEmbed-ratio FlexEmbed-ratio--hero"></div>
-        <div
-            class="FlexEmbed-content o-coverImage c-imageBlend--just"
-            style="background-image: url('{{ page.image }}')">
-
-
-            <div class="o-aligner">
-                <div class="o-aligner-item">
-
-                    <div class="c-post-hgroup c-post-hgroup--center">
-                        <h1 class="c-post-headline">{{ page.title }}</h1>
-
-                        {% if page.presented-by %}
-                            <div class="c-post-subheadline">By {{ page.presented-by }}</div>
-                        {% endif %}
-
-                    </div>
-
-
-
-                </div>
+<div class="c-post-hero">
+    {% if page.video %}
+        <div class="FlexEmbed">
+            <div class="FlexEmbed-ratio FlexEmbed-ratio--hero"></div>
+            <div class="FlexEmbed-content">
+                <iframe
+                    class="o-posAbsoluteCenterAlt"
+                    frameborder="0" allowtransparency="true" allowfullscreen="" width="100%" height="100%"
+                    {% if jekyll.environment == "development" %}
+                        src="https://www.youtube.com/embed/76MgBFVGjiE"
+                    {% else %}
+                        src="{{ page.video }}"
+                    {% endif %}
+                    ></iframe>
             </div>
+        </div>
 
-            {% unless page.dates.size == null %}
-                <div class="c-post-aside">
-                    <div class="o-container">
-                        {% include post-info.html %}
+    {% elsif page.image %}
+        <div class="FlexEmbed">
+            <div class="FlexEmbed-ratio FlexEmbed-ratio--hero"></div>
+            <div
+                class="FlexEmbed-content o-coverImage c-imageBlend--just"
+                style="background-image: url('{{ page.image }}')">
+
+                <div class="o-aligner">
+                    <div class="o-aligner-item">
+                        <div class="c-post-hgroup c-post-hgroup--center">
+                            <h1 class="c-post-headline">{{ page.title }}</h1>
+                            {% if page.presented-by %}
+                                <div class="c-post-subheadline">By {{ page.presented-by }}</div>
+                            {% endif %}
+                        </div>
                     </div>
                 </div>
-            {% endunless %}
 
+                {% comment %}
+                {% unless page.dates.size == null %}
+                    <div class="c-post-info">
+                        <div class="o-container o-container--xl">
+                            {% include post-info.html %}
+                        </div>
+                    </div>
+                {% endunless %}
+                {% endcomment %}
 
+            </div>
         </div>
-    </div>
-{% endif %}
-
+    {% endif %}
+</div>
 
 
 {% comment %}
-<div>debug… url: {{ page.url }} categories: {{ page.categories }} slug: {{ page.slug }} permalink: {{ page.permalink }}</div>
-
+<div>debug… url: {{ page.url }} categories: {{ page.categories }} slug: {{ page.slug }} permalink: {{ page.permalink }} title: {{ page.title }}</div>
+{% endcomment %}
 
 
 {% unless page.dates.size == null %}
-    <div class="c-post-aside">
-        <div class="o-container">
+    <div class="c-post-info">
+        <div class="o-container o-container--xl">
             {% include post-info.html %}
         </div>
     </div>
 {% endunless %}
-{% endcomment %}
 
 
-<div class="o-container c-post">
+<div class="c-post-article">
+    <div class="o-container">
+        <div class="Grid Grid--withGutter">
+            <div class="Grid-cell u-sm-size8of10 u-smDown-blockR--3by4 u-smDown-blockT--3by4">
+                <article class="s-post">
+                    {{ page.content | markdownify }}
+                </article>
 
-    {% comment %}
-    <div class="c-post-hgroup">
-        <h1 class="c-post-headline">{{ page.title }}</h1>
+                {% if page.image-credit or page.categories contains 'archive' %}
+                    <div class="c-post-meta c-post-meta--endRule">
+                        {% if page.image-credit %}
+                            <p><span>Image credit: {{ page.image-credit }}</span></p>
+                        {% endif %}
+                        {% if page.categories contains 'archive' %}
+                            <p><span>This show is <a href="/archive">archived</a>. It originally ran in {{ page.dates | first | date: "%Y" }}.</span></p>
+                        {% endif %}
+                    </div>
+                {% endif %}
 
-        {% if page.presented-by %}
-        <div class="c-post-subheadline">
-            <p>By {{ page.presented-by }}</p>
+                {% unless page.categories %}
+                    <div class="c-formWrapper">
+                        {% include enews-form.html %}
+                    </div>
+                {% endunless %}
+
+                {% if page.has-form != null %}
+                    {% include form.html %}
+                {% endif %}
+
+                {% comment %}
+                {% endcomment %}
+                <div class="c-post-next">
+                    <!-- <h3 class="c-nav-item"><a class="is-active" href="">Section name</a></h3> -->
+                    <div class="o-grid c-postGrid--inPost">
+
+                        {% if page.url contains 'whats-on' %}
+                            {% assign categoryName = 'whats-on' %}
+                        {% elsif page.url contains 'in-development' %}
+                            {% assign categoryName = 'in-development' %}
+                        {% elsif page.url contains 'residents' %}
+                            {% assign categoryName = 'residents' %}
+                        {% else %}
+                            {% assign categoryName = 'venues' %}
+                        {% endif %}
+
+                        {% for post in site.categories[categoryName] limit: 4 %}
+                            {% include post-cell-alt.html %}
+                        {% endfor %}
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="Grid-cell u-sm-size2of10 u-smDown-blockT--3by4">
+                {% include post-aside.html %}
+            </div>
+
+
         </div>
-        {% endif %}
-    </div>
-    {% endcomment %}
-
-
-    <div class="Grid Grid--withGutter">
-        <div class="Grid-cell u-sm-size8of10 u-smDown-blockR--3by4 u-smDown-blockT--3by4">
-            <article class="s-post">
-                {{ page.content | markdownify }}
-            </article>
-
-            {% if page.has-form != null %}
-                {% include form.html %}
-            {% endif %}
-
-        </div>
-
-        <div class="Grid-cell u-sm-size2of10 u-smDown-blockT--3by4">
-            {% include post-aside.html %}
-        </div>
-
-
-
     </div>
 </div>
+
+
+{% comment %}
+<div class="c-post-next">
+    <div class="o-container o-container--xl">
+        <!-- <h3 class="c-nav-item"><a class="is-active" href="">Section name</a></h3> -->
+        <div class="o-grid c-postGrid c-postGrid--half">
+            {% assign categoryName = 'in-development' %}
+            {% for post in site.categories[categoryName] limit: 4 %}
+                    {% include post-cell-alt.html %}
+            {% endfor %}
+        </div>
+    </div>
+</div>
+{% endcomment %}

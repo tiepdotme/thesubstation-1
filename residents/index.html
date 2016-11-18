@@ -4,17 +4,13 @@ layout: default
 cells-centered: true
 ---
 
-<!-- <div class="Grid Grid--withGutterSm{% if page.cells-centered %} Grid--alignCenter{% endif %}"> -->
+<div class="o-grid c-postGrid">
 
-<div class="c-listPanel">
-    <div class="c-postGrid">
+    {% assign sortedPosts = site.residents | where:"current","true" | sort: "position" %}
+    {% for post in sortedPosts %}
 
-        {% assign sortedPosts = site.residents | where:"current","true" | sort: "position" %}
-        {% for post in sortedPosts %}
+        {% include post-cell-alt.html %}
 
-            {% include post-cell-alt.html %}
+    {% endfor %}
 
-        {% endfor %}
-
-    </div>
 </div>

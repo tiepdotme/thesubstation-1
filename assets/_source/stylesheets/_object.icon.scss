@@ -7,14 +7,14 @@
 
 
 .o-iconWrapper {
-	cursor: pointer;
-	display: inline-block;
+	//cursor: pointer;
+	//display: inline-block;
 	//margin: -30px;
 	//padding: 30px;
 }
 
 //.o-iconWrapper + .o-iconWrapper {
-//	margin-left: space(0.5);
+//	margin-top: space(0.5);
 //}
 
 // .#{$namespace}Icon,
@@ -50,8 +50,14 @@
 	}
 
 	&--sm {
-		width: 12px;
-		height: 12px;
+        height: 10px;
+        vertical-align: baseline;
+		width: 10px;
+
+		@include media-breakpoint-up(sm) {
+			width: 11px;
+			height: 11px;
+		}
 	}
 
 	&--md {
@@ -70,12 +76,13 @@
 	}
 
 	&--xl {
-		width: 44px;
-		height: 44px;
+        border: 1px solid currentColor;
+		height: 48px;
+        width: 48px;
 
         @include media-breakpoint-up(sm) {
-			width: 40px;
-			height: 40px;
+			height: 60px;
+            width: 60px;
 		}
 	}
 
@@ -90,10 +97,10 @@
 	}
 
 	&--left {
-		margin-right: 5px;
+		margin-right: 3px;
 
 		@include media-breakpoint-up(sm) {
-			margin-right: rem(7);
+			margin-right: 4px;
 		}
 	}
 
