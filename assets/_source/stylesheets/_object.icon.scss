@@ -19,17 +19,15 @@
 
 // .#{$namespace}Icon,
 .o-icon {
-	width: 32px;
-	height: 32px;
-	display: inline-block;
-	fill: currentColor; // The color of the SVG will inherit the parent's `color`.
-
 	cursor: pointer;
 	display: inline-block;
+	fill: currentColor;
+	height: 32px;
 	line-height: 1;
 	position: relative;
 	text-align: center;
 	vertical-align: middle;
+	width: 32px;
 
 	@include on-event() {
 		outline: 0;

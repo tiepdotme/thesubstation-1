@@ -46,7 +46,7 @@
     border: 1px solid palette(text);
     color: palette(text);
     font-family: $font-text-bold;
-    line-height: map-fetch($button-height, base);
+    line-height: map-fetch($button-height, base) !important;
 
     // theme unused
     //color: palette(brand);

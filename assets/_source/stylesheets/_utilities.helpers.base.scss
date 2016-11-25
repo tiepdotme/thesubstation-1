@@ -9,6 +9,7 @@
 
 .u-hide    { display: none !important; }
 .u-sm-hide { @include media-breakpoint-up(sm) { display: none !important; } }
+.u-smDown-hide { @include media-breakpoint-down(sm) { display: none !important; } }
 
 .u-posRelative { position: relative!important; }
 
@@ -21,7 +22,16 @@
 .u-colorNeutralDark { color: palette(neutral-dark) !important; }
 
 
+
+.u-inlineBlockWrapper > * {
+    display: inline-block;
+}
+
+
+
+
 // quick spacers
+// --------------------------------------------------------------------------
 
 .u-space0     { margin: 0 !important; }
 

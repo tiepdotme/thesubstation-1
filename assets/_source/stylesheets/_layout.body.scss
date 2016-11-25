@@ -14,8 +14,10 @@ html {
     //background-color: palette(background);
 }
 
+.c-content--page,
 .c-content--post {
     padding-bottom: $blockSpace * 1.25 !important;
+    //@include media-breakpoint-up(sm) { padding-bottom: $blockSpace * 1.25 !important; }
 }
 
 

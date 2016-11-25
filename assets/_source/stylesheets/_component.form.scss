@@ -36,7 +36,7 @@ textarea {
     background-color: palette(neutral);
     border: 1px solid palette(neutral);
     border-radius: 0;
-    line-height: map-fetch($button-height, base);
+    line-height: map-fetch($button-height, base) !important;
 	padding: 0 space(0.5);
 	transition: all map-fetch($transition, duration, long) map-fetch($transition, type, base);
 
@@ -68,7 +68,7 @@ textarea {
 
 textarea {
     line-height: $base-line-height-unit;
-    padding-top: space(0.5);
+    //padding-top: space(0.5);
 }
 
 // mimicking placeholder colors.
@@ -96,18 +96,26 @@ option[type="selected"] {
     margin-top: space(2);
 }
 
+.c-form-labelBlock {
+    margin-top: space(1);
+
+    &:not(:last-child) {
+        //margin-top: space(1);
+    }
+}
+
 .c-form label,
 .c-form .label {
     @include textMetaHeadline();
     display: block;
 }
 
-.c-form label,
-.c-form .select {
-    &:not(:last-child) {
-        margin-top: space(1);
-    }
-}
+//.c-form label,
+//.c-form .select {
+//    &:not(:last-child) {
+//        margin-top: space(1);
+//    }
+//}
 
 .c-form .select {
     position: relative;

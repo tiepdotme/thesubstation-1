@@ -9,75 +9,31 @@ javascripts: true
     $ JEKYLL_ENV=production bundle exec jekyll serve
 {% endcomment %}
 
-<div class="c-post-hero">
-    {% if page.video %}
-        <div class="FlexEmbed">
-            <div class="FlexEmbed-ratio FlexEmbed-ratio--hero"></div>
-            <div class="FlexEmbed-content">
-                <iframe
-                    class="o-posAbsoluteCenterAlt"
-                    frameborder="0" allowtransparency="true" allowfullscreen="" width="100%" height="100%"
-                    {% if jekyll.environment == "development" %}
-                        src="https://www.youtube.com/embed/76MgBFVGjiE"
-                    {% else %}
-                        src="{{ page.video }}"
-                    {% endif %}
-                    ></iframe>
-            </div>
-        </div>
 
-    {% elsif page.image %}
-        <div class="FlexEmbed">
-            <div class="FlexEmbed-ratio FlexEmbed-ratio--hero"></div>
-            <div
-                class="FlexEmbed-content o-coverImage c-imageBlend--just"
-                style="background-image: url('{{ page.image }}')">
-
-                <div class="o-aligner">
-                    <div class="o-aligner-item">
-                        <div class="c-post-hgroup c-post-hgroup--center">
-                            <h1 class="c-post-headline">{{ page.title }}</h1>
-                            {% if page.presented-by %}
-                                <div class="c-post-subheadline">By {{ page.presented-by }}</div>
-                            {% endif %}
-                        </div>
-                    </div>
-                </div>
-
-                {% comment %}
-                {% unless page.dates.size == null %}
-                    <div class="c-post-info">
-                        <div class="o-container o-container--xl">
-                            {% include post-info.html %}
-                        </div>
-                    </div>
-                {% endunless %}
-                {% endcomment %}
-
-            </div>
-        </div>
-    {% endif %}
-</div>
-
-
-{% comment %}
-<div>debug… url: {{ page.url }} categories: {{ page.categories }} slug: {{ page.slug }} permalink: {{ page.permalink }} title: {{ page.title }}</div>
-{% endcomment %}
+{% include post-hero.html %}
 
 
 {% unless page.dates.size == null %}
     <div class="c-post-info">
-        <div class="o-container o-container--xl">
+        <div class="o-container--postInfo">
             {% include post-info.html %}
         </div>
     </div>
 {% endunless %}
 
 
+{% comment %}
+u-smDown-blockR--3by4
+<div>debug… url: {{ page.url }} categories: {{ page.categories }} slug: {{ page.slug }} permalink: {{ page.permalink }} title: {{ page.title }}</div>
+{{ site.categories }} {{ page.categories }}
+{% endcomment %}
+
+
+
 <div class="c-post-article">
     <div class="o-container">
         <div class="Grid Grid--withGutter">
-            <div class="Grid-cell u-sm-size8of10 u-smDown-blockR--3by4 u-smDown-blockT--3by4">
+            <div class="Grid-cell u-sm-size7of10 u-xl-size8of10 u-smDown-blockT--3by4">
                 <article class="s-post">
                     {{ page.content | markdownify }}
                 </article>
@@ -103,50 +59,72 @@ javascripts: true
                     {% include form.html %}
                 {% endif %}
 
-                {% comment %}
-                {% endcomment %}
-                <div class="c-post-next">
-                    <!-- <h3 class="c-nav-item"><a class="is-active" href="">Section name</a></h3> -->
-                    <div class="o-grid c-postGrid--inPost">
-
-                        {% if page.url contains 'whats-on' %}
-                            {% assign categoryName = 'whats-on' %}
-                        {% elsif page.url contains 'in-development' %}
-                            {% assign categoryName = 'in-development' %}
-                        {% elsif page.url contains 'residents' %}
-                            {% assign categoryName = 'residents' %}
-                        {% else %}
-                            {% assign categoryName = 'venues' %}
-                        {% endif %}
-
-                        {% for post in site.categories[categoryName] limit: 4 %}
-                            {% include post-cell-alt.html %}
-                        {% endfor %}
-                    </div>
-                </div>
-
             </div>
 
-            <div class="Grid-cell u-sm-size2of10 u-smDown-blockT--3by4">
+            <div class="Grid-cell u-sm-size3of10 u-xl-size2of10 u-smDown-flexOrderFirst">
                 {% include post-aside.html %}
             </div>
 
 
+            {% comment %}
+            ------------------------------
+                next / prev
+            ------------------------------
+            {% endcomment %}
+
+            <div class="Grid-cell ">
+                <div class="c-post-next">
+
+                    {% if page.url contains 'whats-on' %}
+                        {% assign categoryName = 'whats-on' %}
+                    {% elsif page.url contains 'in-development' %}
+                        {% assign categoryName = 'in-development' %}
+                    {% elsif page.url contains 'residents' %}
+                        {% assign collectionName = 'residents' %}
+                    {% else %}
+                        {% assign collectionName = 'venues' %}
+                    {% endif %}
+
+                    {% if categoryName %}
+                        <h3 class="c-nav-item"><a class="is-active" href="/{{ categoryName }}">More {{ categoryName | replace: '-', ' ' }}</a></h3>
+                        <div class="o-grid c-postGrid--inPost">
+
+                            {% for post in site.categories[categoryName] limit: 4 %}
+                                {% comment %}
+                                    See: https://github.com/Shopify/liquid/wiki/Liquid-for-Designers
+                                    And: https://help.shopify.com/themes/liquid/tags/iteration-tags
+                                    Skip anything in the array that matches your argument, but keep looping over the rest of the values
+                                {% endcomment %}
+                                {% if post.url contains page.url %}
+                                    {% continue %}
+                                {% endif %}
+                                {% comment %}If it's not hidden, print it{% endcomment %}
+                                {% include post-cell-alt.html %}
+                            {% endfor %}
+
+                        </div>
+
+                    {% elsif collectionName %}
+                        <h3 class="c-nav-item"><a class="is-active" href="/{{ collectionName }}">More {{ collectionName | replace: '-', ' ' }}</a></h3>
+                        <div class="o-grid c-postGrid--inPost">
+
+                            {% for post in site[collectionName] limit: 5 %}
+                                {% if !post.current %}
+                                    {% if post.url contains page.url %}
+                                        {% continue %}
+                                    {% endif %}
+                                    {% include post-cell-alt.html %}
+                                {% endif %}
+                            {% endfor %}
+
+                        </div>
+                    {% endif %}
+
+
+                </div>
+            </div>
+
+
         </div>
     </div>
 </div>
-
-
-{% comment %}
-<div class="c-post-next">
-    <div class="o-container o-container--xl">
-        <!-- <h3 class="c-nav-item"><a class="is-active" href="">Section name</a></h3> -->
-        <div class="o-grid c-postGrid c-postGrid--half">
-            {% assign categoryName = 'in-development' %}
-            {% for post in site.categories[categoryName] limit: 4 %}
-                    {% include post-cell-alt.html %}
-            {% endfor %}
-        </div>
-    </div>
-</div>
-{% endcomment %}

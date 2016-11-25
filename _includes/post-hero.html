@@ -1,0 +1,40 @@
+<div class="c-post-hero">
+    {% if page.video %}
+        <div class="FlexEmbed">
+            <div class="FlexEmbed-ratio FlexEmbed-ratio--hero"></div>
+            <div class="FlexEmbed-content">
+                <iframe
+                    class="o-posAbsoluteCenterAlt"
+                    frameborder="0" allowtransparency="true" allowfullscreen="" width="100%" height="100%"
+                    {% if jekyll.environment == "development" %}
+                        src="https://www.youtube.com/embed/76MgBFVGjiE"
+                    {% else %}
+                        src="{{ page.video }}"
+                    {% endif %}
+                    ></iframe>
+            </div>
+        </div>
+
+    {% elsif page.image %}
+        <div class="FlexEmbed">
+            <div class="FlexEmbed-ratio FlexEmbed-ratio--hero"></div>
+            <div
+                class="FlexEmbed-content o-coverImage c-imageBlend--just"
+                style="background-image: url('{{ page.image }}')">
+
+                <div class="o-aligner">
+                    <div class="o-aligner-item">
+                        <div class="c-post-hgroup">
+                            <h1 class="c-post-headline">{{ page.title }}</h1>
+                            {% if page.presented-by %}
+                                <div class="c-post-subheadline">By {{ page.presented-by }}</div>
+                            {% endif %}
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    {% endif %}
+</div>

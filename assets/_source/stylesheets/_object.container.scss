@@ -44,9 +44,6 @@
 		@include container( container-width(xl) );
 	}
 
-	&--super {
-	}
-
     &--super {
         //@include container( container-width(su) );
 		max-width: 100%;
@@ -55,6 +52,14 @@
         @include media-breakpoint-up(sm) {
             padding: 0 space(4);
         }
+	}
+
+	&--postInfo {
+		@include container( container-width(xl) );
+
+		//padding: 0;
+		@include media-breakpoint-up(xs) { padding: 0 !important; }
+		@include media-breakpoint-up(lg) { padding: 0 space(1.5); }
 	}
 }
 

@@ -1,5 +1,6 @@
 ---
 title: Gallery
+current: true
 position: 7
 image: "/uploads/the-substation-gallery.jpg"
 ---

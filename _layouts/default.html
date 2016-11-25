@@ -3,11 +3,15 @@
 
     {% include head.html %}
 
-<body class="" id="top">
+<body id="top">
 
     {% include header.html %}
 
-    <main class="c-content{% if page.layout == 'post' %} c-content--post{% endif %}" aria-label="Content">
+    <main
+        class="c-content
+        {% if page.layout == 'post' %} c-content--post{% endif %}
+        {% if page.layout == 'page' %} c-content--page{% endif %}"
+        aria-label="Content">
         {{ content }}
     </main>
 

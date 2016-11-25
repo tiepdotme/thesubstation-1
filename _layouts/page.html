@@ -1,0 +1,57 @@
+---
+title: About
+layout: default
+image: "/uploads/the-substation-about-the-building.jpg"
+---
+
+{% include post-hero.html %}
+
+<div class="c-post-article">
+    <div class="o-container">
+        <div class="Grid Grid--withGutter">
+            <div class="Grid-cell u-sm-size7of10 u-xl-size8of10 u-smDown-blockT--3by4">
+
+                <article class="s-post">
+
+                    {% if page.title == 'About us' %}
+                        <h2>Getting here</h2>
+                        <p>The SUBSTATION is located at <a href="{{ site.address-link }}">1 Market Street, Newport, Victoria 3015.</a></p>
+                        <p>Our gallery is open from Tuesday to Saturday, 11am–5pm.</p>
+                        <p>For information on public transport, head to <a href="http://ptv.vic.gov.au/journey#jpsearch%5Baction%5D=showPlanner">PTV Journey Planner</a>.</p>
+                        <figure>
+                            <img src="/uploads/the-substation-map.jpg" alt="">
+                        </figure>
+                    {% endif %}
+
+                    {% for section in page.sections %}
+                        {% if section.image %}
+                            <figure>
+                                <img src="{{ section.image }}" alt="{{ section.image }}" />
+                            </figure>
+                        {% endif %}
+                        {% if section.title %}
+                            <h2>{{ section.title }}</h2>
+                        {% endif %}
+                        {{ section.copy | markdownify }}
+                    {% endfor %}
+
+                </article>
+
+                <div class="c-formWrapper">
+                    {% include enews-form.html %}
+                </div>
+
+
+
+            </div>
+
+            <div class="Grid-cell u-sm-size3of10 u-xl-size2of10 u-smDown-flexOrderFirst">
+                {% include post-aside.html %}
+            </div>
+
+
+
+
+        </div>
+    </div>
+</div>

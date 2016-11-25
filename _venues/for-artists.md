@@ -1,5 +1,6 @@
 ---
 title: For artists
+current: true
 position: 4
 image: "/uploads/the-substation-for-artists.jpg"
 ---

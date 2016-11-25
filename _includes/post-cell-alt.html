@@ -1,8 +1,12 @@
+{% comment %}
+    {% if page.url contains page.slug %} u-hide{% endif%}
+{% endcomment %}
+
 <a class="c-postCell" href="{{ post.url }}">
     <div class="FlexEmbed">
         <div class="FlexEmbed-ratio"></div>
         <div
-            class="FlexEmbed-content o-coverImage c-imageBlend"
+            class="FlexEmbed-content c-postCell-image"
             style="background-image: url('{{ post.image | remove: ".jpg" | append: "-thumb.jpg" }}')"
             >
             <div class="o-aligner">

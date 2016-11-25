@@ -36,7 +36,7 @@
 	// sizes
 	font-size: fontsize($mixinSize, xs);
 	@include media-breakpoint-up(sm) { font-size: fontsize($mixinSize, sm); }
-	@include media-breakpoint-up(md) { font-size: fontsize($mixinSize, rg); }
+	@include media-breakpoint-up(xl) { font-size: fontsize($mixinSize, rg); }
 
 	// very specific children
 	> li,
@@ -91,6 +91,10 @@
     );
     margin-bottom: $paragraphSpace * 0.5;
     text-transform: uppercase;
+
+    @include media-breakpoint-down(sm) {
+        line-height: 1.25;
+    }
 }
 
 @mixin textMetaHeadline() {
@@ -100,8 +104,11 @@
         $mixinLetterSpacing: 0.075em,
         $mixinLineHeight: 1.96
     );
-    //margin-bottom: $paragraphSpace * 0.25;
     text-transform: uppercase;
+
+    @include media-breakpoint-down(sm) {
+        line-height: 1.25;
+    }
 }
 
 @mixin textAside {
@@ -111,6 +118,10 @@
         $mixinLetterSpacing: 0.075em
     );
     text-transform: uppercase;
+
+    @include media-breakpoint-down(sm) {
+        line-height: 1.25;
+    }
 }
 
 

@@ -58,7 +58,7 @@ $space                         : $space-unit * 1;
 
 $gutterSpace                   : space(1);
 $paragraphSpace                : space(0.75);
-$blockSpace                    : 6vh;
+$blockSpace                    : 5.5vh;
 
 
 
@@ -98,18 +98,18 @@ $container-max-widths: (
 
 $fontsizes: (
 	text--xs: (
-		xs            : 12px,
-		sm            : 12px,
+		xs            : 10px,
+		sm            : 11px,
 		rg            : 12px
 	),
 	text--sm: (
-		xs            : 13px,
-		sm            : 14px,
+		xs            : 11px,
+		sm            : 12px,
 		rg            : 14px
 	),
     text--meta: (
-        xs            : 14px,
-        sm            : 15px,
+        xs            : 12px,
+        sm            : 13px,
         rg            : 15px
     ),
 	text: (
@@ -128,12 +128,12 @@ $fontsizes: (
 		lg            : 27px
 	),
 	headline--sm: (
-		xs            : 16px,
-		sm            : 20px,
-		lg            : 21px
+		xs            : 15px,
+		sm            : 17px,
+		lg            : 19px
 	),
 	headline: (
-		xs            : 44px,
+		xs            : 24px,
 		sm            : 54px,
 		lg            : 72px
 	),
@@ -280,10 +280,14 @@ $font-display         : $font-text-regular;
 
 $fonts-path-2           : '/assets/fonts2/';
 $serif                  : regularSerif;
+$serif-i                : regularSerifItalic;
 
 @include font-face($serif, '#{$fonts-path-2}#{$serif}' );
 
 $font-serif             : join($serif, $serif-font-stack);
+//$font-serif-i           : join($serif-i, $serif-font-stack);
+//$font-serif             : $serif;
+$font-serif-i           : $serif-i;
 
 
 
