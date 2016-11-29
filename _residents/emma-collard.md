@@ -8,7 +8,7 @@ dates: false
 supporters: false
 ---
 
-this page does not exist
+[this](http://www.snuffpuppets.com) page does not exist
 
 [EMMA COLLARD](http://cargocollective.com/emmacollard/) is a 23 year old artist from Melbourne. COLLARD employs brightly coloured artificial materials (vinyl fabric, piping, and netting) as well as bodily shaped mirrors and cameras to create elaborate sets for performances. The work explores material misbehaviour, as these sets are installed by their own material needs, as the bodily shaped mirror’s viewpoint often becomes the dictator for where the entire apparatus can function spatially for a performance. COLLARD also explores how colour can facilitate a situation where a specific humour, action, shape or moment can be set up and articulated by a colour like bright pink or yellow.
 
