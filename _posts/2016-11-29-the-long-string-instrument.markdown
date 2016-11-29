@@ -7,7 +7,9 @@ button-url: https://thesubstation.iwannaticket.com.au/event/long-string-instrume
 presented-by: The Substation & Liquid Architecture in association with Room40
 price: "$25 + BOOKING FEE"
 dates: FRIDAY JANUARY  27, 8PM
+has-start-time: true
 is-single-date: true
+is-single-time-duration: false
 ---
 
 [**ELLEN FULLMAN**](http://ellenfullman.com/] ) is the creator of the LONG STRING INSTRUMENT, in which rosin-coated fingers brush across dozens of highly tensioned metallic strings, spanning up to thirty metres in length. When played, this stunning and unique instrument produces a chorus of minimal, organ-like overtones. The experience for an audience has been described akin to standing inside an enormous grand piano.  
