@@ -5,34 +5,29 @@
 // --------------------------------------------------------------------------
 
 
+// use padding so we can go exactly 'back to top'
 .c-header {
-    //margin: space(1) 0 ($blockSpace * 0.75);
-    margin: ($blockSpace * 0.75) 0;
+    padding: ($blockSpace * 0.75) 0;
 	position: relative;
 
     @include media-breakpoint-up(sm) {
-        margin: ($blockSpace * 0.5) 0 ($blockSpace * 0.75);
+        //padding: ($blockSpace * 0.75) 0;
+    }
+}
+
+.c-header-brand {
+    @include media-breakpoint-up(sm) {
+        margin-bottom: $blockSpace * 0.75;
+        //margin-top: $blockSpace * 0.75;
     }
 }
 
 .c-header-logo > img {
     margin-bottom: 0;
-    width: 160px;
+    width: 150px;
 
-    @include media-breakpoint-up(sm) {
-        margin-bottom: $blockSpace * 0.75;
-        width: 300px;
-    }
-}
-
-.c-subscribeForm {
-    position: absolute;
-    right: space(1);
-    top: space(1);
-
-    @include media-breakpoint-up(sm) {
-        right: space(1.5);
-    }
+    @include media-breakpoint-up(sm) { width: 225px; }
+    @include media-breakpoint-up(xl) { width: 260px; }
 }
 
 .c-nav {
@@ -40,17 +35,19 @@
     display: flex;
     justify-content: space-between;
     margin: 0;
-}
+    padding: 0 space(1.5);
 
-// WIP
-.c-subscribeForm,
-.c-nav {
+    //@include media-breakpoint-up(sm) { max-width: container-width(xl); }
+    //@include media-breakpoint-up(lg) { max-width: none; }
+    @include media-breakpoint-up(lg) { padding: 0 4%; }
+    @include media-breakpoint-up(xl) { padding: 0 12%; }
+    @include media-breakpoint-up(su) { padding: 0 18%; }
+
     @include media-breakpoint-down(sm) {
+        // mobile nav takes over here…
         display: none;
     }
 }
-
-
 
 .c-nav-item {
     //@include listInline();
@@ -61,17 +58,18 @@
     a {
         @include textAside();
         border-bottom: 1px solid transparent;
-        padding-bottom: 4px;
+        font-family: $font-text-bold !important;
+        padding-bottom: 6px;
 
         @include media-breakpoint-down(sm) {
             line-height: map-fetch($button-height, concise);
+            padding-bottom: 1px;
         }
     }
 
     &.is-active {
         a {
             border-color: palette(text);
-            font-family: $font-text-bold;
         }
     }
 
@@ -83,20 +81,38 @@
     }
 }
 
-
 .c-nav-trigger {
     @include textAside();
     border: 1px solid palette(light);
     border-radius: 3px;
-    //font-family: $font-text-medium;
-    height: 107%;
+    height: 105%;
+    line-height: 1.5 !important;
     padding: 6px 12px;
-
     position: absolute;
     right: space(1);
-    //top: space(1);
+    top: 0;
+
+    &:before {
+        content: '\2630';
+        margin-right: 3px;
+    }
 
     @include media-breakpoint-up(sm) {
         display: none;
     }
+}
+
+// the address/open text in the header
+.c-header-infoAlign {
+    border-bottom: 1px solid palette(brand);
+    //padding-bottom: $blockSpace * 0.2;
+    padding-bottom: 7px;
+    transform: translate(0, 7px);
+}
+
+.c-header-info {
+    @include textAside();
+    color: palette(brand);
+    //font-family: $font-text-bold;
+    //font-family: $font-serif;
 }

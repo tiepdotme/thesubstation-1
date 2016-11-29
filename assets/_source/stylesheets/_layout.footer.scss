@@ -5,13 +5,37 @@
 // --------------------------------------------------------------------------
 
 
+$footerRowSpacer: $blockSpace * 0.25;
+
 .c-footer {
-    margin: $blockSpace 0;
+    //background-color: palette(neutral);
+    //padding: $blockSpace * 1.25 0;
+    @include blockSpacePadding();
 	position: relative;
 
-    @include media-breakpoint-up(sm) {
-        margin: ($blockSpace * 1.5) 0 ($blockSpace * 0.75);
+    &--post {
+        border-top: 1px solid palette(text);
+        @include media-breakpoint-up(sm) {
+        }
     }
+}
+
+.c-footer-nav {
+    margin-bottom: $blockSpace * 1.25;
+
+    @include media-breakpoint-down(sm) {
+        border-top: 1px solid palette(light);
+        margin-top: $blockSpace;
+        padding-top: $blockSpace;
+    }
+}
+
+.c-footer .c-nav-item {
+    @include media-breakpoint-down(sm) {
+        &:not(:first-child) { margin-top: $footerRowSpacer; }
+    }
+
+    &.is-active a { border-color: currentColor; }
 }
 
 .c-footer-block {
@@ -22,28 +46,15 @@
     }
 }
 
-.c-footer li {
-    @include textXs();
-}
-
-.c-footer li span {
-    font-family: $font-text-bold;
-    text-transform: uppercase;
-}
-
-.c-footer .o-listClean {
-    margin-bottom: 0;
-}
-
 .c-footer-logo > img {
     margin-top: 0;
-    width: 160px;
+    width: 150px;
 
     @include media-breakpoint-up(sm) {
-        margin-top: -($blockSpace * 0.25);
-        width: 200px;
+        width: 180px;
     }
 }
+
 
 // hide the logo on mobile when the info is not of adequate amount
 .c-footer-hideMobileLogo {
@@ -52,9 +63,70 @@
     }
 }
 
-// special grid class for footer address
-.u-sizeAddress {
+.c-footer-infoBlockWrapper > * {
+    &:not(:first-child) {
+        margin-top: $blockSpace * 0.25;
+    }
+
+    @include media-breakpoint-up(md) {
+        display: inline-block;
+
+        &:not(:first-child) {
+            margin-top: 0;
+            margin-left: $blockSpace * 0.5;
+        }
+    }
+
+    @include media-breakpoint-up(xl) {
+        &:not(:first-child) {
+            margin-left: $blockSpace * 0.75;
+        }
+    }
+}
+
+
+// footer typography
+.u-footerRowItem {
+    display: inline-block;
+    line-height: $base-line-height-unit !important;
+    margin-top: calc( #{$footerRowSpacer} + 3px);
+}
+
+.u-footerBackTop {
+    display: none;
+    position: absolute;
+    top: 0;
+    right: space(1);
+
     @include media-breakpoint-up(sm) {
-        width: calc(100% * 7.5 / 24);
+        display: block;
+        right: space(1.5);
+    }
+}
+
+.c-footer {
+    p,
+    ul,
+    li,
+    span,
+    a {
+        @include textAside();
+    }
+}
+
+.c-footer .o-listClean {
+    margin-bottom: 0;
+}
+
+// grey blocks
+.c-footer-block,
+.c-footer-info {
+    p,
+    ul,
+    li,
+    span,
+    a {
+        //color: rgba( palette(text), 0.7 );
+        color: palette(charcoal);
     }
 }

@@ -9,15 +9,33 @@
 
 .u-hide    { display: none !important; }
 .u-sm-hide { @include media-breakpoint-up(sm) { display: none !important; } }
+.u-smDown-hide { @include media-breakpoint-down(sm) { display: none !important; } }
 
 .u-posRelative { position: relative!important; }
 
+.u-colorBase { color: palette(base) !important; }
 .u-colorMuted { color: palette(muted) !important; }
+.u-colorMedium { color: palette(medium) !important; }
+.u-colorDark { color: palette(charcoal) !important; }
+
+.u-colorBrand { color: palette(brand) !important; }
+.u-colorNeutralDark { color: palette(neutral-dark) !important; }
+
+
+
+.u-inlineBlockWrapper > * {
+    display: inline-block;
+}
+
+
 
 
 // quick spacers
+// --------------------------------------------------------------------------
 
 .u-space0     { margin: 0 !important; }
+
+.u-spaceT1of4 { margin-top: space(0.25); }
 
 .u-spaceTD2   { margin-top: space(0.5) !important; }
 .u-spaceT     { margin-top: space(1) !important; }
@@ -25,8 +43,12 @@
 .u-spaceB     { margin-bottom: space(1) !important; }
 .u-spaceB2    { margin-bottom: space(2) !important; }
 
-.u-sm-spaceT  { @include media-breakpoint-down(sm) { margin-top: space(1); } }
-.u-sm-spaceT2 { @include media-breakpoint-down(sm) { margin-top: space(2); } }
+// wrong naming, should be 'smDown':
+.u-sm-spaceT   { @include media-breakpoint-down(sm) { margin-top: space(1); } }
+.u-sm-spaceT2  { @include media-breakpoint-down(sm) { margin-top: space(2); } }
+
+// right naming
+.u-sm-spaceLN1 { @include media-breakpoint-up(sm) { margin-left: -1px; } }
 
 .u-smDown-spaceR   { @include media-breakpoint-down(sm) { margin-right: space(1); } }
 .u-smDown-spaceT   { @include media-breakpoint-down(sm) { margin-top: space(1); } }
@@ -35,3 +57,11 @@
 .u-smDown-blockR--3by4 { @include media-breakpoint-down(sm) { margin-right: $blockSpace * 0.75; } }
 .u-smDown-blockT--3by4 { @include media-breakpoint-down(sm) { margin-top: $blockSpace * 0.75; } }
 .u-smDown-blockB--3by4 { @include media-breakpoint-down(sm) { margin-bottom: $blockSpace * 0.75; } }
+
+.u-sm-blockB--1by4 { margin-bottom: $blockSpace * 0.25; }
+.u-sm-blockB--1by3 { margin-bottom: $blockSpace * 0.333333; }
+.u-sm-blockB--1by2 { margin-bottom: $blockSpace * 0.5; }
+
+.u-sm-blockT--1by4 { margin-top: $blockSpace * 0.25; }
+.u-sm-blockT--1by3 { margin-top: $blockSpace * 0.333333; }
+.u-sm-blockT--1by2 { margin-top: $blockSpace * 0.5; }

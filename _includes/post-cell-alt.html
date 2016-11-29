@@ -1,0 +1,32 @@
+{% comment %}
+    {% if page.url contains page.slug %} u-hide{% endif%}
+{% endcomment %}
+
+<a class="c-postCell" href="{{ post.url }}">
+    <div class="FlexEmbed">
+        <div class="FlexEmbed-ratio"></div>
+        <div
+            class="FlexEmbed-content c-postCell-image"
+            style="background-image: url('{{ post.image | remove: ".jpg" | append: "-thumb.jpg" }}')"
+            >
+            <div class="o-aligner">
+                <div class="o-aligner-item">
+                    <h1 class="c-postCell-headline">{{ post.title }}</h1>
+                    <!-- <date class="c-postCell-headline">{{ post.timeframe }}</date> -->
+
+                    {% if post.dates %}
+                        {% if post.dates.size == 1 %}
+                            <date class="c-postCell-subheadline">{{ post.dates | first | date: "%b %d" }}</date>
+                        {% elsif post.is-months-duration == true %}
+                            <date class="c-postCell-subheadline">{{ post.dates | first | date: "%B" }} - {{ post.dates | last | date: "%B" }} {{ post.dates | first | date: "%Y" }}</date>
+                        {% else %}
+                            <date class="c-postCell-subheadline">{{ post.dates | first | date: "%b %d" }} - {{ post.dates | last | date: "%b %d" }}</date>
+                        {% endif %}
+                    {% endif %}
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+</a>

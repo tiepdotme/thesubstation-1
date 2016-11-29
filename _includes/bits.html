@@ -4,6 +4,51 @@
     <!-- <p class="u-textCenter u-textSm u-marginTX15"><em>Don’t like forms? You can <a href="mailto:{{ site.email }}">email us</a> instead, or call us on 0402 318 973.</em></p> -->
 
 
+
+<!-- <div class="Grid Grid--withGutterSm{% if page.cells-centered %} Grid--alignCenter{% endif %}"> -->
+
+                        <!-- src="https://www.youtube.com/embed/{{ page.youtube }}?autoplay=1&loop=1" -->
+
+
+
+<!-- footer -->
+{% comment %}
+<div class="Grid-cell u-sm-size3of10 u-smDown-blockT--3by4">
+    <div class="u-textRight">
+        {% include enews-form.html %}
+    </div>
+</div>
+
+<div class="Grid-cell u-sm-size3of10 u-smDown-blockT--3by4">
+    {% include socials.html %}
+</div>
+
+{% if page.layout == 'post' %}
+    <div class="Grid-cell u-sm-size3of10 u-smDown-blockT--3by4">
+        <div class="u-textRigh">
+            <a class="u-colorMuted" href="#top">Go Back up ↑</a>
+        </div>
+    </div>
+{% endif %}
+{% endcomment %}
+
+<!-- old footer grid -->
+<div class="Grid Grid--withGutter">
+    <div class="Grid-cell u-sm-size1of3">
+        <a href="{{ site.address-link }}">{{ site.address }}<br>{{ site.address-second }}</a><br>
+        <a href="tel:{{ site.phone }}">T: {{ site.phone }}</a>
+    </div>
+    <div class="Grid-cell u-sm-size1of3">
+        <span>Gallery: {{ site.gallery-hours }}</span><br>
+        <span>Office: {{ site.office-hours }}</span><br>
+        <a href="mailto:{{ site.email }}">E: {{ site.email }}</a>
+    </div>
+    <div class="Grid-cell u-sm-size1of3">
+        {% include socials.html %}
+    </div>
+</div>
+
+
 <script src="{{ site.javascriptsurl }}lib.spin.min.js"></script>
 <script src="{{ site.javascriptsurl }}lib.ladda.min.js"></script>
 

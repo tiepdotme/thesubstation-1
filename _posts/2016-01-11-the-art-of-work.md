@@ -5,8 +5,8 @@ categories:
 - archive
 image: "/uploads/projector-bike-back-story.jpg"
 button-url: https://www.eventbrite.com/e/the-art-of-work-tickets-24226159094
-button-txt: RSVP for free
-price: false
+button-txt: RSVP
+price: free, booking is essential
 dates:
 - 2016-04-29 19:00:00 AEST
 - 2016-04-30 19:00:00 AEST
@@ -14,7 +14,7 @@ is-list-of-dates: true
 has-start-time: true
 event-duration-txt: for 120 mins
 presented-by: PROJECTOR BIKE
-notes: booking is essential
+notes: false
 supporters:
 - Hobsons Bay City Council
 ---

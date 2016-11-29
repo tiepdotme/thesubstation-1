@@ -29,7 +29,7 @@
 	// sizes
 	font-size: fontsize($mixinSize, xs);
 	@include media-breakpoint-up(sm) { font-size: fontsize($mixinSize, sm); }
-	@include media-breakpoint-up(lg) { font-size: fontsize($mixinSize, lg); }
+	@include media-breakpoint-up(xl) { font-size: fontsize($mixinSize, lg); }
 
 	// children
 	> li,

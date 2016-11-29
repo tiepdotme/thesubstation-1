@@ -33,8 +33,9 @@ $palette: (
 	white                      : $base-white,
 	background                 : #fdfdfd,
 	neutral                    : #F3F2F1,
+	neutral-text               : darken(#f0eeeb, 27%),
 	neutral-dark               : darken(#f0eeeb, 9%),
-	neutral-light              : lighten(#f0eeeb, 4%),
+	neutral-light              : lighten(#f0eeeb, 2%),
 	brand                      : #65bd24,
 	brand-complement           : #2e2423,
 	brand-counter              : #887E73,
@@ -57,7 +58,7 @@ $space                         : $space-unit * 1;
 
 $gutterSpace                   : space(1);
 $paragraphSpace                : space(0.75);
-$blockSpace                    : 6vh;
+$blockSpace                    : 5.5vh;
 
 
 
@@ -86,7 +87,7 @@ $grid-breakpoints: (
 $container-max-widths: (
 	sm: 576px,
 	md: 660px,
-	lg: 992px,
+	lg: 1040px,
 	xl: 1200px,
 	su: 1700px,
 ) !default;
@@ -97,29 +98,29 @@ $container-max-widths: (
 
 $fontsizes: (
 	text--xs: (
-		xs            : 12px,
-		sm            : 12px,
+		xs            : 10px,
+		sm            : 11px,
 		rg            : 12px
 	),
 	text--sm: (
-		xs            : 14px,
-		sm            : 14px,
+		xs            : 11px,
+		sm            : 12px,
 		rg            : 14px
 	),
+    text--meta: (
+        xs            : 12px,
+        sm            : 13px,
+        rg            : 15px
+    ),
 	text: (
-		xs            : $base-font-size * 0.875,
-		sm            : $base-font-size,
-		rg            : $base-font-size
-	),
-	text--meta: (
-		xs            : $base-font-size * 0.875,
-		sm            : 15px,
-		rg            : 15px
+		xs            : 16px,
+		sm            : 18px,
+		rg            : 21px
 	),
 	text--lg: (
-        xs            : 25px,
-        sm            : 32px,
-        lg            : 39px
+        xs            : 19px,
+        sm            : 22px,
+        lg            : 24px
 	),
 	headline--xs: (
 		xs            : 18px,
@@ -127,14 +128,14 @@ $fontsizes: (
 		lg            : 27px
 	),
 	headline--sm: (
-		xs            : 16px,
-		sm            : 20px,
-		lg            : 21px
+		xs            : 15px,
+		sm            : 17px,
+		lg            : 19px
 	),
 	headline: (
-		xs            : 32px,
-		sm            : 39px,
-		lg            : 44px
+		xs            : 24px,
+		sm            : 54px,
+		lg            : 72px
 	),
 	display: (
 		xs            : 40px,
@@ -160,7 +161,7 @@ $button-height: (
 );
 
 $list-inset: (
-    margin            : space(1.5),
+    margin            : space(0.75),
     padding           : 0
 );
 
@@ -271,6 +272,22 @@ $font-display         : $font-text-regular;
 //$font-sans-xbold      : join($sans-xbold, $main-font-stack);
 //$font-sans-regular-i  : join($sans-regular-italic, $main-font-stack);
 //$font-display         : join($display, $display-font-stack);
+
+
+
+// Object/component default fonts
+// --------------------------------------------------------------------------
+
+$fonts-path-2           : '/assets/fonts2/';
+$serif                  : regularSerif;
+$serif-i                : regularSerifItalic;
+
+@include font-face($serif, '#{$fonts-path-2}#{$serif}' );
+
+$font-serif             : join($serif, $serif-font-stack);
+//$font-serif-i           : join($serif-i, $serif-font-stack);
+//$font-serif             : $serif;
+$font-serif-i           : $serif-i;
 
 
 

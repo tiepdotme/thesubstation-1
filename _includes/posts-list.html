@@ -1,11 +1,5 @@
-<div class="o-container">
-    <div class="Grid Grid--withGutterSm">
-
-        {% for post in site.categories[categoryName] %}
-
-                {% include post-cell.html %}
-
-        {% endfor %}
-
-    </div>
+<div class="o-grid c-postGrid">
+    {% for post in site.categories[categoryName] %}
+        {% include post-cell-alt.html %}
+    {% endfor %}
 </div>

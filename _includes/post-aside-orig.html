@@ -1,0 +1,352 @@
+<aside class="s-aside">
+
+    {% comment %}
+        ----------------------------------------
+        CTA: buy tickets & presented-by
+        ----------------------------------------
+    {% endcomment %}
+    {% if page.button-url %}
+        <div class="c-post-meta c-post-meta--cta">
+            <a class="Button t-button--primary" href="{{ page.button-url }}">
+                {% if page.button-txt %}
+                    {{ page.button-txt }}
+                {% else %}
+                    Buy tickets
+                {% endif %}
+            </a>
+        </div>
+    {% endif %}
+
+    {% comment %}
+    {% if page.presented-by %}
+        <div class="c-post-meta">
+            <p>
+                <span>Presented by: </span>
+                {{ page.presented-by }}
+            </p>
+        </div>
+    {% endif %}
+    {% endcomment %}
+
+
+    {% comment %}
+        ----------------------------------------
+        Opening/preview night
+        ----------------------------------------
+    {% endcomment %}
+    {% if page.has-preview-event and page.has-preview-event %}
+        <div class="c-post-meta">
+            <span>Preview event:
+            <p>
+                {% if has-mins == true %}
+                    {{ page.dates | first | date: "%a %B %d" }}, {{ page.dates | first | date: "%l:%M%p" }}
+                {% else %}
+                    {{ page.dates | first | date: "%a %B %d" }}, {{ page.dates | first | date: "%l%p" }}
+                {% endif %}
+            </p>
+        </div>
+        <div class="c-post-meta">
+            <span>Opening event:
+            <p>
+                {% if has-mins == true %}
+                    {{ page.dates[1] | date: "%a %B %d" }}, {{ page.dates[1] | date: "%l:%M%p" }}
+                {% else %}
+                    {{ page.dates[1] | date: "%a %B %d" }}, {{ page.dates[1] | date: "%l%p" }}
+                {% endif %}
+            </p>
+        </div>
+    {% endif %}
+
+    {% if page.has-opening-event and page.has-preview-event == false %}
+        <div class="c-post-meta">
+            <span>Opening event:</span>
+            <p>
+                {% if has-mins == true %}
+                    {{ page.dates | first | date: "%a %B %d" }}, {{ page.dates | first | date: "%l:%M%p" }}
+                {% else %}
+                    {{ page.dates | first | date: "%a %B %d" }}, {{ page.dates | first | date: "%l%p" }}
+                {% endif %}
+            </p>
+
+            {% comment %}Event duration as text{% endcomment %}
+            {% if page.opening-event-text %}
+                <span>{{ page.opening-event-text }}</span>
+            {% endif %}
+        </div>
+    {% endif %}
+
+
+    {% comment %}
+        ----------------------------------------
+        Show dates
+        ----------------------------------------
+    {% endcomment %}
+
+    {% comment %}Single date array of 2 (start and end times){% endcomment %}
+    {% if page.dates.size == 1 or page.dates.size == 2 and page.is-single-date == true %}
+        <div class="c-post-meta">
+            <span>Date:</span>
+
+            <p>
+                {% comment %}yeah, gotta be ==true here for some unknown reason…{% endcomment %}
+                {% if is-opening-hours-time == true %}
+                    {{ page.dates | first | date: "%a %B %d" }}
+                {% else %}
+                    {% if has-mins == true %}
+                        {% if page.dates.size == 1 %}
+                            {{ page.dates | first | date: "%a %B %d" }}, {{ page.dates | first | date: "%l:%M%p" }}
+                        {% else %}
+                            {{ page.dates | first | date: "%a %B %d" }}, {{ page.dates | first | date: "%l:%M%p" }} - {{ page.dates | last | date: "%l:%M%p" }}
+                        {% endif %}
+                    {% else %}
+                        {% if page.dates.size == 1 %}
+                            {{ page.dates | first | date: "%a %B %d" }}, {{ page.dates | first | date: "%l%p" }}
+                        {% else %}
+                            {{ page.dates | first | date: "%a %B %d" }}, {{ page.dates | first | date: "%l%p" }} - {{ page.dates | last | date: "%l%p" }}
+                        {% endif %}
+
+                    {% endif %}
+                {% endif %}
+            </p>
+
+            {% comment %}Event duration
+            {% if page.event-duration-txt %}
+                <div class="c-post-meta">
+                    <p><span>Show duration: {{ page.event-duration-txt }}</span></p>
+                </div>
+            {% endif %}
+            {% endcomment %}
+
+        </div>
+
+    {% comment %}Multiple dates in a list{% endcomment %}
+    {% elsif page.dates.size >= 2 and page.is-list-of-dates == true %}
+        <div class="c-post-meta">
+            <span>Dates:</span>
+
+            {% comment %}Iterate thru event dates collection
+            {% for event in page.dates %}
+                {% if page.dates.size == 2 and page.program-is-single-date == true %}
+                    <p>
+                        {{ event | date: "%a %B %d" }}, {{ event | first | date: "%l:%M%p" }}-{{ event | first | date: "%l:%M%p" }}
+                    </p>
+                {% elsif page.dates.size >= 2 and page.program-is-single-date != true %}
+                    <p>
+                        {% if page.show-event-in-mins %}{{ event | date: "%a %B %d" }}, {{ event | date: "%l:%M%p" }}{% else %}{{ event | date: "%a %B %d" }}, {{ event | date: "%l%p" }}{% endif %}
+                    </p>
+                {% endif %}
+            {% endfor %}
+            {% endcomment %}
+
+            {% comment %}Iterate thru event dates collection{% endcomment %}
+            {% for event in page.dates %}
+                <p>{{ event | date: "%a %B %d" }}</p>
+            {% endfor %}
+
+            {% comment %}Event duration
+            {% if page.event-duration %}
+                <div class="c-post-meta">
+                    <p><span>Show duration: {{ page.event-duration }}</span></p>
+                </div>
+            {% endif %}
+            {% endcomment %}
+
+        </div>
+
+    {% comment %}Between dates{% endcomment %}
+    {% elsif page.dates.size == 2 %}
+        <div class="c-post-meta">
+            <span>Program runs:</span>
+            {% if page.is-single-month-duration == true %}
+                <p>{{ page.dates | first | date: "%B" }} {{ page.dates | first | date: "%Y" }}</p>
+            {% elsif page.is-months-duration == true %}
+                <p>{{ page.dates | first | date: "%B" }} - {{ page.dates | last | date: "%B" }} {{ page.dates | first | date: "%Y" }}</p>
+            {% else %}
+                <p>{{ page.dates | first | date: "%a %B %d" }} - <em class="u-sm-lineBreak">{{ page.dates | last | date: "%a %B %d" }}</em></p>
+            {% endif %}
+        </div>
+    {% endif %}
+
+
+    {% comment %}
+        ----------------------------------------
+        Show the start time & duration
+        ----------------------------------------
+    {% endcomment %}
+
+    {% if page.event-duration-txt and page.has-start-time != true %}
+        <div class="c-post-meta">
+            <span>Event duration:</span>
+            <p>{{ page.event-duration-txt }}</p>
+        </div>
+    {% elsif page.has-start-time %}
+        <div class="c-post-meta">
+            <span>Start time:</span>
+            <p>
+                <!-- Starting: -->
+                {% comment %}
+                {% if has-mins == true %}
+                    {{ page.dates | first | date: "%l:%M%p" }}
+                {% else %}
+                    {{ page.dates | first | date: "%l%p" }}
+                {% endif %}
+                {% endcomment %}
+                {{ page.dates | first | date: "%l:%M%p" }}
+
+                {% comment %}Event duration{% endcomment %}
+                {% if page.event-duration-txt %}
+                    {{ page.event-duration-txt }}
+                {% endif %}
+            </p>
+
+            {% comment %}Alternate program times as text{% endcomment %}
+            {% if page.program-alt-start-time %}
+                <p><span>{{ page.program-alt-start-time }}</span></p>
+            {% endif %}
+        </div>
+    {% endif %}
+
+
+    {% comment %}
+        ----------------------------------------
+        Newport library opening hours
+        ----------------------------------------
+    {% endcomment %}
+    {% if page.title contains 'Library' %}
+    <div class="c-post-meta">
+        <span>Opening hours:</span>
+        <p>MON-THURS, 10AM-5PM</p>
+        <p>FRI, 8AM-6PM</p>
+        <p>SAT, 10AM-1PM</p>
+    </div>
+    {% endif %}
+
+
+    {% comment %}
+        ----------------------------
+        free-artist-talk (free text)
+        ----------------------------
+    {% endcomment %}
+    {% if page.free-artist-talk-text %}
+        <div class="c-post-meta">
+            <span>Free artist's talk:</span>
+            <p>{{ page.free-artist-talk-text }}</p>
+        </div>
+    {% endif %}
+
+
+    {% comment %}
+        -----------------------------------------
+        end-date-is-closing-event (uses end-date)
+        -----------------------------------------
+    {% endcomment %}
+    {% if page.has-closing-event %}
+        <div class="c-post-meta">
+            <span>Closing event:</span>
+            <p>
+                {{ page.dates | last | date: "%a %B %d" }}, {{ page.dates | last | date: "%l%p" }}
+            </p>
+        </div>
+    {% endif %}
+
+
+    {% comment %}
+        ----------------------------
+        price, note, links
+        ----------------------------
+    {% endcomment %}
+    {% if page.price %}
+        <div class="c-post-meta">
+            <span>Price: </span>
+            {% for item in page.price %}
+                <p>{{ item }}</p>
+            {% endfor %}
+        </div>
+    {% endif %}
+
+    {% if page.notes %}
+        <div class="c-post-meta c-post-meta--notes">
+            <!-- <span>Please note: {{ page.note }}</span> -->
+            {% for note in page.notes %}
+                <p><span>{{ note }}</span></p>
+            {% endfor %}
+        </div>
+    {% endif %}
+
+
+    {% comment %}
+        -------------------------
+        supporters
+        see: https://www.siteleaf.com/blog/author-pages-in-jekyll-and-siteleaf/
+        see: https://www.siteleaf.com/blog/customizing-the-siteleaf-admin/#smart-fields
+        see: https://jekyllrb.com/docs/templates/ (where expression!)
+        {% for item in site.supporters %}
+            <p>{{ item.title }}</p>
+        {% endfor %}
+        -------------------------
+    {% endcomment %}
+
+    {% if page.supporters %}
+        <div class="c-post-meta">
+            <p><span>Supported by:</span></p>
+
+            <div class="c-post-supporters">
+
+                {% assign supporters = site.supporters | where_exp: "item", "page.supporters contains item.title" %}
+                {% for supporter in supporters %}
+                    <img src="{{ supporter.image }}" alt="{{ supporter.title }}" />
+                {% endfor %}
+
+            </div>
+
+        </div>
+    {% endif %}
+
+
+    {% comment %}
+        -------------------------
+        share the event
+        see: https://www.siteleaf.com/blog/author-pages-in-jekyll-and-siteleaf/
+        -------------------------
+    {% endcomment %}
+
+    <div class="c-post-meta">
+        <p><span>Share:</span></p>
+
+        {% include share.html %}
+
+    </div>
+
+
+    {% comment %}
+        -------------------------
+        image credit / archive note
+        -------------------------
+    {% endcomment %}
+
+    {% if page.image-credit or page.categories contains 'archive' %}
+        <!-- <p class="c-post-endline"> -->
+        <div class="c-post-meta c-post-meta--noRule">
+            {% if page.image-credit %}
+                <p><span>Image credit: {{ page.image-credit }}</span></p>
+            {% endif %}
+            {% if page.categories contains 'archive' %}
+                <p><span>This show is <a href="/archive">archived</a>. It originally ran in {{ page.dates | first | date: "%Y" }}.</span></p>
+            {% endif %}
+        </div>
+    {% endif %}
+
+
+</aside>
+
+{% comment %}
+    -------------------------
+    newsletter signup
+    -------------------------
+{% endcomment %}
+
+{% if page.has-form == null %}
+    <div class="c-formWrapper--alt">
+        {% include enews-form-alt.html %}
+    </div>
+{% endif %}

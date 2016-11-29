@@ -1,5 +1,6 @@
 ---
 title: Community bookings
+current: true
 position: 3
 image: "/uploads/the-substation-community-bookings.jpg"
 has-form: true
