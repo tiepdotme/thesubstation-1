@@ -11,11 +11,13 @@ dates:
 - 2016-10-08 17:00:00 AEST
 has-opening-event: true
 has-mins: true
+is-list-of-dates: false
 supporters:
 - Metro
 - Hobsons Bay City Council
 - Mountain Goat
 - Melbourne Fringe
+- Go West
 opening-event-text: Until 10pm
 ---
 
