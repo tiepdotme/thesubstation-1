@@ -27,6 +27,11 @@ u-smDown-blockR--3by4
                             <h2>{{ section.title }}</h2>
                         {% endif %}
                         {{ section.copy | markdownify }}
+                        {% if section.list %}
+                            <div class="s-post-list">
+                                {{ section.list | markdownify }}
+                            </div>
+                        {% endif %}
                         {% if section.image-bottom %}
                             <figure><img src="{{ section.image-bottom }}" alt="{{ section.image-bottom }}" /></figure>
                         {% endif %}
