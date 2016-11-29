@@ -1,6 +1,8 @@
 ---
 title: Pose Like This
 date: 2016-11-29 15:21:00 +11:00
+categories:
+- whats-on
 image-credit: Emma Collard & Rafaella McDonald, 2 Socks
 presented-by: The SUBSTATION
 price: FREE
