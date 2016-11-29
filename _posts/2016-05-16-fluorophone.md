@@ -6,6 +6,7 @@ categories:
 image: "/uploads/fluorophone.jpg"
 image-credit: LASALLE College of the Arts
 button-url: http://thesubstation.iwannaticket.com.au/event/fluorophone-MTEwNjM
+button-txt: RSVP
 presented-by: SPEAK PERCUSSION
 price:
 - "$30 / $20 Concession"
