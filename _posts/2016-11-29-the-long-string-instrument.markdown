@@ -1,5 +1,5 @@
 ---
-title: The Long String Instrument
+title: THE LONG STRING INSTRUMENT
 date: 2016-11-29 13:39:00 +11:00
 categories:
 - whats-on
