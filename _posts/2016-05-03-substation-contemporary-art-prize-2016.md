@@ -17,7 +17,7 @@ supporters:
 - Hobsons Bay City Council
 - Mountain Goat
 - Melbourne Fringe
-- Go West
+- Australia Council of Arts
 opening-event-text: Until 10pm
 ---
 
