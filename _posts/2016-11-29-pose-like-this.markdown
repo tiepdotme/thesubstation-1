@@ -12,7 +12,7 @@ dates:
 - march 11, 5pm
 has-opening-event: true
 has-preview-event: false
-has-closing-event: true
+has-closing-event: true  CATWALK FASHION SHOW BY RAFAELLA MCDONALD
 has-mins: true
 notes: |-
   ARTIST TALK & LIVE PERFORMANCE: SAT FEB 4,  2PM
