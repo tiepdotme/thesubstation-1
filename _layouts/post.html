@@ -29,11 +29,11 @@ u-smDown-blockR--3by4
 {% endcomment %}
 
 
-
 <div class="c-post-article">
     <div class="o-container">
         <div class="Grid Grid--withGutter">
             <div class="Grid-cell u-sm-size7of10 u-xl-size8of10 u-smDown-blockT--3by4">
+
                 <article class="s-post">
                     {{ page.content | markdownify }}
                 </article>
@@ -72,28 +72,27 @@ u-smDown-blockR--3by4
             ------------------------------
             {% endcomment %}
 
-            <div class="Grid-cell ">
-                <div class="c-post-next">
+            {% if page.url contains 'whats-on' %}
+                {% assign categoryName = 'whats-on' %}
+            {% elsif page.url contains 'in-development' %}
+                {% assign categoryName = 'in-development' %}
+            {% elsif page.url contains 'residents' %}
+                {% assign collectionName = 'residents' %}
+            {% elsif page.url contains 'venues' %}
+                {% assign collectionName = 'venues' %}
+            {% endif %}
 
-                    {% if page.url contains 'whats-on' %}
-                        {% assign categoryName = 'whats-on' %}
-                    {% elsif page.url contains 'in-development' %}
-                        {% assign categoryName = 'in-development' %}
-                    {% elsif page.url contains 'residents' %}
-                        {% assign collectionName = 'residents' %}
-                    {% else %}
-                        {% assign collectionName = 'venues' %}
-                    {% endif %}
-
-                    {% if categoryName %}
+            {% if categoryName %}
+                <div class="Grid-cell ">
+                    <div class="c-post-next">
                         <h3 class="c-nav-item"><a class="is-active" href="/{{ categoryName }}">More {{ categoryName | replace: '-', ' ' }}</a></h3>
                         <div class="o-grid c-postGrid--inPost">
 
-                            {% for post in site.categories[categoryName] limit: 4 %}
+                            {% for post in site.categories[categoryName] limit: 5 %}
                                 {% comment %}
+                                    Skip anything in the array that matches your argument, but keep looping over the rest of the values
                                     See: https://github.com/Shopify/liquid/wiki/Liquid-for-Designers
                                     And: https://help.shopify.com/themes/liquid/tags/iteration-tags
-                                    Skip anything in the array that matches your argument, but keep looping over the rest of the values
                                 {% endcomment %}
                                 {% if post.url contains page.url %}
                                     {% continue %}
@@ -103,8 +102,12 @@ u-smDown-blockR--3by4
                             {% endfor %}
 
                         </div>
+                    </div>
+                </div>
 
-                    {% elsif collectionName %}
+            {% elsif collectionName %}
+                <div class="Grid-cell ">
+                    <div class="c-post-next">
                         <h3 class="c-nav-item"><a class="is-active" href="/{{ collectionName }}">More {{ collectionName | replace: '-', ' ' }}</a></h3>
                         <div class="o-grid c-postGrid--inPost">
 
@@ -118,11 +121,10 @@ u-smDown-blockR--3by4
                             {% endfor %}
 
                         </div>
-                    {% endif %}
-
-
+                    </div>
                 </div>
-            </div>
+            {% endif %}
+
 
 
         </div>
