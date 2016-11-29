@@ -6,13 +6,12 @@ categories:
 image: "/uploads/fluorophone.jpg"
 image-credit: LASALLE College of the Arts
 button-url: http://thesubstation.iwannaticket.com.au/event/fluorophone-MTEwNjM
-button-txt: RSVP
 presented-by: SPEAK PERCUSSION
 price:
 - "$30 / $20 Concession"
 dates:
 - 2016-11-22 20:00:00 AEST
-- Friday November 25, 8pm
+- 8pm Fri 25 Nov
 has-start-time: true
 supporters:
 - Australia Council of Arts
