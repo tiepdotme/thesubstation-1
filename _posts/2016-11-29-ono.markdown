@@ -1,6 +1,8 @@
 ---
 title: ONO
 date: 2016-11-29 18:21:00 +11:00
+categories:
+- whats-on
 image: "/uploads/ONO.jpg"
 presented-by: The SUBSTATION & ONO
 price: Tickets from $30 + booking fee
