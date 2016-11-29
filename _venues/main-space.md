@@ -1,7 +1,7 @@
 ---
 title: Main space
-current: true
 position: 5
+current: true
 image: "/uploads/the-substation-main-space.jpg"
 button-url: "/uploads/the-substation-tech-specs.pdf"
 button-txt: Full tech spec

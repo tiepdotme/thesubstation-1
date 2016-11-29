@@ -1,7 +1,7 @@
 ---
 title: Board room
-current: true
 position: 8
+current: true
 image: "/uploads/the-substation-boardroom.jpg"
 ---
 

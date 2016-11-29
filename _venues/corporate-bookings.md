@@ -1,7 +1,7 @@
 ---
 title: Corporate bookings
-current: true
 position: 1
+current: true
 image: "/uploads/the-substation-corporate-bookings.jpg"
 has-form: true
 ---

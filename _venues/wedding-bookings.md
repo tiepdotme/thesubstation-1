@@ -1,7 +1,7 @@
 ---
 title: Wedding bookings
-current: true
 position: 2
+current: true
 image: "/uploads/the-substation-wedding-bookings.jpg"
 has-form: true
 button-url: "/uploads/the-substation-wedding-hire-pack-2017.pdf"
