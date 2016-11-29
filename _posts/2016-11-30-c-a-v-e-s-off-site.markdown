@@ -11,13 +11,11 @@ dates:
 - April 29, 5pm
 has-opening-event: true
 has-preview-event: false
-has-start-time: true
-has-mins: true
-is-opening-hours-time: true
+has-start-time: false
+has-mins: false
+is-opening-hours-time: false
 is-months-duration: false
-notes: |-
-  ARTIST TALK: SAT 25 MARCH, 2PM
-  GALLERY OPEN: TUES - SAT 11AM - 5PM
+notes: 'ARTIST TALK: SAT 25 MARCH, 2PM'
 supporters: Creative Victoria
 ---
 
