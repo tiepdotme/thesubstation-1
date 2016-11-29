@@ -3,6 +3,7 @@ title: Pose Like This
 date: 2016-11-29 15:21:00 +11:00
 categories:
 - whats-on
+image: "/uploads/pose-like-this.jpg"
 image-credit: Emma Collard & Rafaella McDonald, 2 Socks
 presented-by: The SUBSTATION
 price: FREE
@@ -12,6 +13,7 @@ dates:
 has-opening-event: true
 has-preview-event: false
 has-closing-event: true
+has-mins: true
 closing-event notes: |-
   ARTIST TALK & LIVE PERFORMANCE: SAT FEB 4,  2PM
   CATWALK FASHION SHOW BY RAFAELLA MCDONALD: SAT MARCH 11, 5PM
