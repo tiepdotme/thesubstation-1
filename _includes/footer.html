@@ -10,9 +10,9 @@ o-grid o-grid--spaceBetween
 
 <footer
     class="c-footer
-    {% if page.layout == 'post' or page.layout == 'page' %} c-footer--post{% endif %}">
+    {% if page.layout == 'post' or page.layout == 'page' and page.url != '/404.html' %} c-footer--rule{% endif %}">
 
-    {% if page.layout == 'post' or page.layout == 'page' %}
+    {% if page.layout == 'post' or page.layout == 'page' or page.url == '/404.html' %}
         <div class="c-footer-nav c-nav">
             {% include nav.html %}
         </div>
