@@ -6,10 +6,16 @@
 // --------------------------------------------------------------------------
 
 
+/**
+ * 1. If IE10/11 compatibility req'd, use height.
+ * 2. If you need min-height, wrap in 'u-ieMinHeightBug'.
+ * See http://bit.ly/1gy8OJS for details.
+ */
 @mixin o-aligner {
 	display: flex;
 	align-items: center;
-	min-height: 100%;
+	height: 100%; /* 1 */
+	min-height: 100%; /* 2 */
 	justify-content: center;
 }
 
@@ -38,9 +44,19 @@
 	max-width: 50%;
 }
 
+/**
+ * Fixes the min-height bug in IE10-11.
+ * This class should be added to a container element as described in
+ * Flexbug #3. See http://bit.ly/1gy8OJS for details.
+ */
+.u-ieMinHeightBugFix {
+  display: flex;
+  flex-direction: column;
+}
+
 
 // --------------------------------------------------------------------------
-//   VERTICAL ALIGNER
+//   ALT VERTICAL ALIGNER
 //   Ripped from: instrument.com
 // --------------------------------------------------------------------------
 
