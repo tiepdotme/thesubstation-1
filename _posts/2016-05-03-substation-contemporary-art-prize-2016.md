@@ -2,7 +2,7 @@
 title: The Substation Contemporary Art Prize 2016
 date: 2016-05-03 20:51:00 +10:00
 categories:
-- whats-on
+- archive
 image: "/uploads/The-Substation-Contemporary-Art-Prize-2016.jpg"
 image-credit: Deborah Kelly, LYING WOMEN (video still), 2016, animated collage with
   original score
