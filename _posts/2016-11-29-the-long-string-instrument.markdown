@@ -11,6 +11,9 @@ dates:
 has-start-time: true
 is-single-date: true
 is-single-time-duration: true
+supporters:
+- Liquid Architecture
+- Room40
 ---
 
 [**ELLEN FULLMAN**](http://ellenfullman.com/] ) is the creator of the LONG STRING INSTRUMENT, in which rosin-coated fingers brush across dozens of highly tensioned metallic strings, spanning up to thirty metres in length. When played, this stunning and unique instrument produces a chorus of minimal, organ-like overtones. The experience for an audience has been described akin to standing inside an enormous grand piano.  
