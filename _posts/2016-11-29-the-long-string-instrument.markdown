@@ -6,7 +6,8 @@ categories:
 button-url: https://thesubstation.iwannaticket.com.au/event/long-string-instrument-MTE5MjU
 presented-by: The Substation & Liquid Architecture in association with Room40
 price: "$25 + BOOKING FEE"
-dates: 2017-01-27 20:00:00 AEST
+dates:
+- friday 27 nov, 8pm
 has-start-time: true
 is-single-date: true
 is-single-time-duration: true
