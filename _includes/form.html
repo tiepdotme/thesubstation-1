@@ -1,50 +1,63 @@
-<form class="c-form" id="contact-form" accept-charset="UTF-8" action="https://formspree.io/{{ site.email-events }}" method="POST">
+{% comment %}
+<p class="c-formWrapper-note">
+    To hire this space please fill in this form, or contact our Events Manager, Marisa Fiume, during office hours on <a href="tel:{{ site.phone }}">{{ site.phone }}</a> or via <a href="mailto:{{ site.email-events }}">{{ site.email-events }}</a>.
+</p>
+To hire this space please fill in this form:
+{% endcomment %}
 
-    <label class="c-form-labelBlock">Name*<input name="name" type="text" placeholder="Your Name" required/></label>
-    <label class="c-form-labelBlock">Email*<input name="_replyto" type="email" placeholder="Your Email" required/></label>
-    <label class="c-form-labelBlock">Phone*<input name="telephone" type="tel" placeholder="Your Phone Number" required/></label>
+<p class="c-formWrapper-note">
+    Hire this space
+</p>
 
-    <div class="Grid Grid--withGutter">
-        <div class="Grid-cell u-sm-size1of2">
-            <label class="c-form-labelBlock" for="event">Event type</label>
-            <div class="select">
-                <select aria-label="Select menu example">
-                    <option selected>What type of event is this?</option>
-                    <option value="1">Wedding</option>
-                    <option value="2">Corporate</option>
-                    <option value="3">Community</option>
-                </select>
+<div class="c-formWrapper">
+    <form class="c-form" id="contact-form" accept-charset="UTF-8" action="https://formspree.io/{{ site.email-events }}" method="POST">
+
+        <label class="c-form-labelBlock u-marginT0">Name*<input name="name" type="text" placeholder="Your Name" required/></label>
+        <label class="c-form-labelBlock">Email*<input name="_replyto" type="email" placeholder="Your Email" required/></label>
+        <label class="c-form-labelBlock">Phone*<input name="telephone" type="tel" placeholder="Your Phone Number" required/></label>
+
+        <div class="Grid Grid--withGutter">
+            <div class="Grid-cell u-sm-size1of2">
+                <label class="c-form-labelBlock" for="event">Event type</label>
+                <div class="select">
+                    <select aria-label="Select menu example">
+                        <option selected>What type of event is this?</option>
+                        <option value="1">Wedding</option>
+                        <option value="2">Corporate</option>
+                        <option value="3">Community</option>
+                    </select>
+                </div>
+            </div>
+            <div class="Grid-cell u-sm-size1of2">
+                <label class="c-form-labelBlock">Date*<input name="date" type="date" placeholder="Date" required/></label>
             </div>
         </div>
-        <div class="Grid-cell u-sm-size1of2">
-            <label class="c-form-labelBlock">Date*<input name="date" type="date" placeholder="Date" required/></label>
+
+        <div class="Grid Grid--withGutter">
+            <div class="Grid-cell u-sm-size1of3">
+                <label class="c-form-labelBlock">Duration<input name="duration" type="text" placeholder="How long?"/></label>
+            </div>
+            <div class="Grid-cell u-sm-size1of3">
+                <label class="c-form-labelBlock">Guests<input name="guests" type="text" placeholder="How many?"/></label>
+            </div>
+            <div class="Grid-cell u-sm-size1of3">
+                <label class="c-form-labelBlock">Budget<input name="budget" type="text" placeholder="Approximately?"/></label>
+            </div>
         </div>
-    </div>
 
-    <div class="Grid Grid--withGutter">
-        <div class="Grid-cell u-sm-size1of3">
-            <label class="c-form-labelBlock">Duration<input name="duration" type="text" placeholder="How long?"/></label>
-        </div>
-        <div class="Grid-cell u-sm-size1of3">
-            <label class="c-form-labelBlock">Guests<input name="guests" type="text" placeholder="How many?"/></label>
-        </div>
-        <div class="Grid-cell u-sm-size1of3">
-            <label class="c-form-labelBlock">Budget<input name="budget" type="text" placeholder="Approximately?"/></label>
-        </div>
-    </div>
+        <label class="c-form-labelBlock">Catering requirements
+            <textarea name="catering" type="message" rows="4" placeholder="What kind of food will you want?"></textarea>
+        </label>
 
-    <label class="c-form-labelBlock">Catering requirements
-        <textarea name="catering" type="message" rows="4" placeholder="What kind of food will you want?"></textarea>
-    </label>
+        <!-- CONFIG -->
+        <input class="u-hide" type="text" name="_gotcha">
+        <input type="hidden" name="_subject" value="Event inquiry">
+        <input type="hidden" name="_cc" value="{{ site.email }}">
+        <!-- /CONFIG -->
 
-    <!-- CONFIG -->
-	<input class="u-hide" type="text" name="_gotcha">
-	<input type="hidden" name="_subject" value="Event inquiry">
-	<input type="hidden" name="_cc" value="{{ site.email }}">
-	<!-- /CONFIG -->
+        <p class="u-textRight u-spaceT u-posRelative">
+            <input type="submit" value="Send" role="button" class="Button t-button--secondary u-posRelative">
+        </p>
 
-    <p class="u-textRight u-spaceT u-posRelative">
-        <input type="submit" value="Send" role="button" class="Button t-button--secondary u-posRelative">
-    </p>
-
-</form>
+    </form>
+</div>

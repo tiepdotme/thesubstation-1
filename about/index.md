@@ -20,13 +20,32 @@ sections:
     The building has strong associations with the inauguration of electric services, due to its construction during the first phase of the scheme. It is also important for its associations with the engineering firm Merz and MacLellan, who designed the electrification scheme as well as the early substations in association with the VR Way and Works Branch. Its construction by the Victorian Railways sets the building apart from contemporary Railways structures built under contract.
 - title: Staff and board
   image: "/uploads/the-substation-work-with-us.jpg"
-  copy: "**Brad Spolding**  \n_Director_<br>\n[director@thesubstation.org.au](director@thesubstation.org.au)\n\n**Kali
-    Michailidis**  \nGeneral Manager  \nmanager@thesubstation.org.au\n\n**Susannah
-    Day**  \nProducer  \nprogram@thesubstation.org.au\n\n**Marisa Fiume**  \nEvents
-    Manager  \nevents@thesubstation.org.au\n\n**Jon Hawkes**  \nFinance Manager  \naccounts@thesubstation.org.au\n\n**General
-    Enquiries**  \ninfo@thesubstation.org.au<br>\nT: (03) 9391 1110\n\nIn addition
-    to our staff, The SUBSTATION also relies heavily upon the tireless efforts of
-    our volunteers.\n"
+  copy: |
+    **Brad Spolding**<br>
+    _Director_<br>
+    [director@thesubstation.org.au](mailto:director@thesubstation.org.au)
+
+    **Kali Michailidis**<br>
+    _General Manager_<br>
+    [manager@thesubstation.org.au](mailto:manager@thesubstation.org.au)
+
+    **Susannah Day**<br>
+    _Producer_<br>
+    [program@thesubstation.org.au](mailto:program@thesubstation.org.au)
+
+    **Marisa Fiume**<br>
+    _Events Manager_<br>
+    [events@thesubstation.org.au](mailto:events@thesubstation.org.au)
+
+    **Jon Hawkes**<br>
+    _Finance Manager_<br>
+    [accounts@thesubstation.org.au](mailto:accounts@thesubstation.org.au)
+
+    **General Enquiries**<br>
+    [info@thesubstation.org.au](mailto:info@thesubstation.org.au)<br>
+    T: [(03) 9391 1110](tel:9391 1110)
+
+    In addition to our staff, The SUBSTATION also relies heavily upon the tireless efforts of our volunteers.
 - title: Work with us
   image: "/uploads/the-substation-staff.jpg"
   copy: |

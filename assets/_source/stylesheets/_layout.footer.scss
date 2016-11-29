@@ -13,29 +13,19 @@ $footerRowSpacer: $blockSpace * 0.25;
     @include blockSpacePadding();
 	position: relative;
 
-    &--post {
+    p,
+    ul,
+    li,
+    span,
+    a {
+        @include textAside();
+    }
+
+    &--rule {
         border-top: 1px solid palette(text);
         @include media-breakpoint-up(sm) {
         }
     }
-}
-
-.c-footer-nav {
-    margin-bottom: $blockSpace * 1.25;
-
-    @include media-breakpoint-down(sm) {
-        border-top: 1px solid palette(light);
-        margin-top: $blockSpace;
-        padding-top: $blockSpace;
-    }
-}
-
-.c-footer .c-nav-item {
-    @include media-breakpoint-down(sm) {
-        &:not(:first-child) { margin-top: $footerRowSpacer; }
-    }
-
-    &.is-active a { border-color: currentColor; }
 }
 
 .c-footer-block {
@@ -101,16 +91,6 @@ $footerRowSpacer: $blockSpace * 0.25;
     @include media-breakpoint-up(sm) {
         display: block;
         right: space(1.5);
-    }
-}
-
-.c-footer {
-    p,
-    ul,
-    li,
-    span,
-    a {
-        @include textAside();
     }
 }
 

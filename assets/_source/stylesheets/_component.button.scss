@@ -102,10 +102,12 @@ $arrowSize: map-fetch($button-height, base);
 
 }
 
+/* uncss:ignore */
 .t-button--primary {
 	@include button();
     background-color: palette(brand);
-	border-color: palette(brand);
+	border-color: palette(brand) !important;
+	//border: 1px solid palette(brand);
 	color: palette(white) !important;
     font-family: $font-text-bold;
     min-width: 92%;
@@ -128,9 +130,12 @@ $arrowSize: map-fetch($button-height, base);
 
 .t-button--secondary {
 	@include button();
-    background-color: transparent;
-	border-color: palette(text);
-	color: palette(text);
+    //background-color: transparent;
+	//border-color: palette(text);
+	//color: palette(text);
+    background-color: palette(brand);
+	border-color: palette(brand);
+	color: palette(background);
     font-family: $font-text-bold;
     padding: space(0.25) space(1.5);
     position: relative;

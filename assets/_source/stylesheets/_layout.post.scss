@@ -123,7 +123,10 @@ a.c-postCell {
 }
 
 .c-post-hgroup {
-    margin: ($blockSpace * 0.75) 0;
+    margin: ($blockSpace * 0.75) auto;
+
+    @include media-breakpoint-up(sm) { max-width: 80vw; }
+    @include media-breakpoint-up(xl) { max-width: 60vw; }
 
     .c-post-headline {
         letter-spacing: 0.45em;
@@ -193,6 +196,7 @@ a.c-postCell {
     @include blockSpaceMarginTop();
 }
 
+// markdown scope
 .s-post {
     p,
     ul,
@@ -271,6 +275,49 @@ a.c-postCell {
     @include media-breakpoint-up(sm) { margin-right: $gutterSpace; }
     @include media-breakpoint-up(xl) { margin-right: $gutterSpace * 2; }
 
+}
+
+// markdown tables scope
+.s-post table {
+    //background-color: rgba( palette(brand), 0.15);
+    //border: 1px solid palette(base);
+    border-collapse: collapse;
+    font-family: $font-serif;
+    letter-spacing: 0;
+    margin: $blockSpace * 0.75 0;
+
+    thead tr {
+        background-color: rgba( palette(brand), 0.15);
+    }
+
+    th {
+        @include headlineSm();
+        //border-bottom: 1px solid palette(base);
+        font-family: $font-text-bold;
+        padding: space(0.5);
+    }
+
+    tbody tr {
+        @include odd() { background-color: rgba( palette(brand), 0.15); }
+        @include even() { background-color: rgba( palette(brand), 0.09); }
+    }
+
+    td {
+        //border-bottom: 1px solid palette(base);
+        padding: space(0.5);
+        vertical-align: baseline;
+
+        &:first-child {
+            @include textAside();
+            border-right: 1px solid palette(muted);
+            line-height: 1.5;
+            text-align: right;
+
+            @include media-breakpoint-up(sm) {
+                width: calc(100% / 3);
+            }
+        }
+    }
 }
 
 

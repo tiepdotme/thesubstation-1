@@ -19,6 +19,8 @@ $namespace             : '';
 $base-black                    : #000;
 $base-white                    : #FFF;
 
+$season2016                    : #65bd24;
+
 $palette: (
 	black                      : $base-black,
 	text                       : #151515,
@@ -35,8 +37,8 @@ $palette: (
 	neutral                    : #F3F2F1,
 	neutral-text               : darken(#f0eeeb, 27%),
 	neutral-dark               : darken(#f0eeeb, 9%),
-	neutral-light              : lighten(#f0eeeb, 2%),
-	brand                      : #65bd24,
+	neutral-light              : lighten(#f0eeeb, 4%),
+	brand                      : #343963,
 	brand-complement           : #2e2423,
 	brand-counter              : #887E73,
 	modal-background           : #151515,

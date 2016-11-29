@@ -5,10 +5,8 @@ current: true
 image: "/uploads/the-substation-boardroom.jpg"
 ---
 
-**SUITABLE AS A CONFERENCE BREAK-OUT ROOM, BOARD ROOM OR CATERING SPACE.**
+The board room is suitable as a conference break-out room, board room or catering space, with the ability hold:
 
-30 guests: theatre style
-
-16 guests: boardroom
-
-14 guests: u-shape set-up
+* 30 guests: theatre style
+* 16 guests: boardroom
+* 14 guests: u-shape set-up

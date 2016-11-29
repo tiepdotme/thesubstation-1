@@ -36,6 +36,10 @@ u-smDown-blockR--3by4
 
                 <article class="s-post">
                     {{ page.content | markdownify }}
+
+                    {% if !page.venue-cta %}
+                        {% include venue-cta.html %}
+                    {% endif %}
                 </article>
 
                 {% if page.image-credit or page.categories contains 'archive' %}

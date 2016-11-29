@@ -252,8 +252,6 @@ gulp.task( 'minify:css', function () {
 		.pipe( plugins.uncss ( {
             // for Jekyll:
 			html: [
-				'_includes/*.html',
-				'_layouts/*.html',
 				'_site/**/*.html'
 			],
 			uncssrc: '.uncssrc'

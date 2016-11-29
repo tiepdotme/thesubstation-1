@@ -33,8 +33,11 @@ textarea {
 
     // theme
     @include textAside();
-    background-color: palette(neutral);
-    border: 1px solid palette(neutral);
+    //background-color: palette(neutral);
+    //border: 1px solid palette(neutral);
+    //background-color: palette(neutral-light);
+    background-color: palette(background);
+    border: 1px solid palette(base);
     border-radius: 0;
     line-height: map-fetch($button-height, base) !important;
 	padding: 0 space(0.5);
@@ -65,7 +68,6 @@ textarea {
 }
 
 // reinstate line height for multi-row textareas.
-
 textarea {
     line-height: $base-line-height-unit;
     //padding-top: space(0.5);
@@ -73,7 +75,6 @@ textarea {
 
 // mimicking placeholder colors.
 // Ref: http://stackoverflow.com/questions/8619406/css-selected-pseudo-class-similar-to-checked-but-for-select-elements
-
 $color-placeholder: rgba( palette(text), 0.5 );
 
 input[type="date"],
@@ -86,14 +87,40 @@ option[type="selected"] {
 // Theme vars
 // --------------------------------------------------------------------------
 
-.c-formWrapper {
-	background-color: rgba( palette(brand), 0.15 );
+.c-formWrapper-note {
+    @include textAside();
+    //@include textRg();
+    //font-family: $font-serif;
+
+	background-color: rgba( palette(brand), 0.2 );
     margin: $blockSpace 0 0;
-	padding: space(2);
+	padding: space(0.5) space(1);
+
+    @include media-breakpoint-up(md) {
+    	padding: space(1) 20% space(1) space(2);
+    }
+
+    ~ .c-formWrapper {
+        margin-top: 0;
+    }
+}
+
+.c-formWrapper {
+	background-color: rgba( palette(brand), 0.1 );
+    margin: $blockSpace 0 0;
+	padding: space(1);
+
+    @include media-breakpoint-up(md) {
+        padding: space(2);
+    }
 }
 
 .c-form {
     margin-top: space(2);
+
+    @include when-inside(".c-formWrapper") {
+        margin-top: 0;
+    }
 }
 
 .c-form-labelBlock {
@@ -107,7 +134,12 @@ option[type="selected"] {
 .c-form label,
 .c-form .label {
     @include textMetaHeadline();
+    color: palette(text);
     display: block;
+
+    @include media-breakpoint-down(sm) {
+        line-height: 2;
+    }
 }
 
 //.c-form label,
@@ -141,6 +173,7 @@ option[type="selected"] {
     //display: inline-block;
     //width: 100%;
     //margin: 0;
+    color: lighten( palette(medium), 10%);
     cursor: pointer;
     outline: 0;
     appearance: none;
