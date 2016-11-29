@@ -5,7 +5,7 @@ categories:
 - whats-on
 image: "/uploads/pose-like-this.jpg"
 image-credit: Emma Collard & Rafaella McDonald, 2 Socks
-presented-by: COMMISSIONED BY The SUBSTATION
+presented-by: The SUBSTATION
 price: FREE
 dates:
 - FEBRUARY 3, 6.30pm
