@@ -3,6 +3,14 @@ title: About us
 layout: page
 image: "/uploads/the-substation-about-the-building.jpg"
 sections:
+- title: Getting here
+  image-bottom: "/uploads/the-substation-map.jpg"
+  copy: |
+    The SUBSTATION is located at [1 Market Street, Newport, Victoria 3015](https://goo.gl/maps/3RTKiR89iD72).
+
+    Our gallery is open from Tuesday to Saturday, 11am–5pm.
+
+    For information on public transport, head to [PTV Journey Planner](http://ptv.vic.gov.au/journey#jpsearch%5Baction%5D=showPlanner).
 - title: About the building
   copy: |
     The SUBSTATION is a multi arts centre located in Newport, Victoria. One of Melbourne’s newest arts venues, the building houses the biggest visual arts gallery in the Western Suburbs of Melbourne, a dance studio and a large-scale multi-purpose performance space. The SUBSTATIONis a one of a kind arts venue in Victoria in that its architecture and spaces invite artists to work across art form and scale. The SUBSTATIONaims to engage with artists to introduce new audiences to new artists and artistic work. We invite artists to utilise our unique spaces in the development and staging of work that responds to ideas that are relevant to our place in Melbourne, Australia and the world.
@@ -21,26 +29,29 @@ sections:
     our volunteers.\n"
 - title: Work with us
   image: "/uploads/the-substation-staff.jpg"
-  copy: "The SUBSTATION is on the look-out for volunteers who are enthusiastic and
-    dedicated to the promotion of visual and performing arts in its myriad forms.
-    The SUBSTATION volunteers play an active role in delivering excellent customer
-    experiences and ensuring The SUBSTATION remains a valued cultural destination.\n\nWhether
-    you want to gain experience in the industry, learn more about visual and performing
-    arts, pass on your skills and knowledge to others or just want to socialise with
-    people with similar interests – we want to hear from you!\n\n## WHY VOLUNTEER
-    AT THE SUBSTATION?\n\nVolunteers at The SUBSTATION are involved in a broad range
-    of experiences. The benefits of volunteering include:\n\n- The development of
-    new skills\n- Gaining insight into the daily operations of a leading multi-arts
-    organisation\n- Meeting new people with shared interests\n- Building industry
-    contacts and networks\n- Volunteer program events, activities and training\n-
-    Regular curatorial briefings for exhibitions and performances\n\n## WHAT DO VOLUNTEERS
-    DO?\n\nThe SUBSTATION volunteers operate primarily in front of house roles, invigilating
-    exhibitions, ushering for performances and assisting with private and corporate
-    events.\n\nThe SUBSTATION is also open to Expressions of Interest for internships
-    from tertiary or post-graduate students in areas of marketing, production and
-    general administration (subject to availability).\n\n## Register your interest\n\nTo
-    register your interest for volunteering with us, please contact:\n- Kali Michailidis,
-    General Manager  \n- Email: [manger@thesubstation.org.au](mailto:manger@thesubstation.org.au)\n-
-    Tel: (03) 9391 1110\n"
----
+  copy: |
+    The SUBSTATION is on the look-out for volunteers who are enthusiastic and dedicated to the promotion of visual and performing arts in its myriad forms. The SUBSTATION volunteers play an active role in delivering excellent customer experiences and ensuring The SUBSTATION remains a valued cultural destination. Whether you want to gain experience in the industry, learn more about visual and performing arts, pass on your skills and knowledge to others or just want to socialise with people with similar interests – we want to hear from you!
 
+    ## WHY VOLUNTEER AT THE SUBSTATION?
+
+    Volunteers at The SUBSTATION are involved in a broad range of experiences. The benefits of volunteering include:
+
+    - The development of new skills
+    - Gaining insight into the daily operations of a leading multi-arts organisation
+    - Meeting new people with shared interests
+    - Building industry contacts and networks
+    - Volunteer program events, activities and training
+    - Regular curatorial briefings for exhibitions and performances
+
+    ## WHAT DO VOLUNTEERS DO?
+
+    The SUBSTATION volunteers operate primarily in front of house roles, invigilating exhibitions, ushering for performances and assisting with private and corporate events.
+
+    The SUBSTATION is also open to Expressions of Interest for internships from tertiary or post-graduate students in areas of marketing, production and    general administration (subject to availability).
+
+    ## Register your interest
+
+    To register your interest for volunteering with us, please contact Kali Michailidis, General Manager:
+    - Email: [manger@thesubstation.org.au](mailto:manger@thesubstation.org.au)
+    - Tel: (03) 9391 1110
+---
