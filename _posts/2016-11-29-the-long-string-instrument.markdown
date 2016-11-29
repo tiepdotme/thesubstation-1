@@ -3,6 +3,7 @@ title: THE LONG STRING INSTRUMENT
 date: 2016-11-29 13:39:00 +11:00
 categories:
 - whats-on
+button-url: https://thesubstation.iwannaticket.com.au/event/long-string-instrument-MTE5MjU
 presented-by: The Substation & Liquid Architecture in association with Room40
 price: "$25 + BOOKING FEE"
 dates: FRIDAY JANUARY  27, 8PM
