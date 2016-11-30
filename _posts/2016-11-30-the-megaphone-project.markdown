@@ -3,7 +3,7 @@ title: The Megaphone Project
 date: 2016-11-30 11:34:00 +11:00
 categories:
 - whats-on
-image: "/uploads/The%20many%20ways%20Credit%20The%20Artists.jpg"
+image: "/uploads/the-megaphone-project.jpg"
 presented-by: The Substation
 price: FREE
 dates:
