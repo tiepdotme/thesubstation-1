@@ -3,7 +3,7 @@ title: Alice Dixon, William McBride & Caroline Meaden
 date: 2016-11-30 15:04:00 +11:00
 categories:
 - in-development
-image: "/uploads/lady-example-6fa984.jpg"
+image: "/uploads/dixon-mcbride-meaden.jpg"
 image-credit: Jessica Devereux
 supporters: Besen
 ---
