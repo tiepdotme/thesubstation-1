@@ -2,7 +2,7 @@
 title: Fluorophone
 date: 2016-05-16 00:00:00 +10:00
 categories:
-- whats-on
+- archive
 image: "/uploads/fluorophone.jpg"
 image-credit: LASALLE College of the Arts
 button-url: http://thesubstation.iwannaticket.com.au/event/fluorophone-MTEwNjM
