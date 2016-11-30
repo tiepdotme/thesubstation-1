@@ -1,6 +1,8 @@
 ---
 title: BUNKER
 date: 2016-11-30 12:29:00 +11:00
+categories:
+- whats-on
 image: "/uploads/bunker.jpg"
 image-credit: Duncan Jacob
 presented-by: The Substation and Bunker
