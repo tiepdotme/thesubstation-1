@@ -4,7 +4,7 @@ date: 2016-11-30 15:34:00 +11:00
 image: "/uploads/channels-festival.jpg"
 image-credit: Jody Haines. Sam Smith, NOTES, 2015, Performance at ACMI Studio for
   Channels Festival 2015
-notes: Visit <a href="http://channelsfestival.net.au/"><Channels Festival</a> Website
+notes: Visit <a href="http://channelsfestival.net.au/"<Channels Festival</a> Website
 ---
 
 [CHANNELS FESTIVAL](http://channelsfestival.net.au/) is Australia’s only biennial celebration of video culture since 2013. Showcasing contemporary video practice across Australia and around the world, CHANNELS continues to explore the ultimate mirror medium of our time, challenge the historical contexts of video art and its future progressions in an increasingly tech-saturated world.<br> 
