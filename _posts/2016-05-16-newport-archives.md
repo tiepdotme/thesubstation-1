@@ -1,11 +1,12 @@
 ---
-title: Newport Archives
+title: Newport Archives 2016
 date: 2016-05-16 10:00:00 +10:00
 categories:
 - archive
 image: "/uploads/newport-archives.jpg"
 image-credit: Suzie Blake
 button-url: http://thesubstation.iwannaticket.com.au/event/newport-archives-open-house-melbourne-MTEwODI
+presented-by: TAMARA SAULWICK, OPEN HOUSE MELBOURNE
 price:
 - Free, bookings essential
 dates:
@@ -15,7 +16,6 @@ is-single-date: true
 event-duration-txt: 40 mins
 notes: 'This event is not wheelchair accessible. For more info, visit: <a href="http://www.openhousemelbourne.org/">Open
   House Melbourne</a>'
-presented-by: TAMARA SAULWICK, OPEN HOUSE MELBOURNE
 supporters:
 - Besen
 - Creative Victoria
