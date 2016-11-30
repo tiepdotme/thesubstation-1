@@ -1,4 +1,4 @@
-<aside class="s-aside">
+<aside class="s-aside" data-spy="affix" data-offset-top="1400" data-offset-bottom="850">
 
 
     {% comment %}
@@ -6,6 +6,7 @@
         CTA: buy tickets & presented-by
         ----------------------------------------
     {% endcomment %}
+
     {% if page.button-url %}
         <div class="c-post-meta c-post-meta--cta">
             <a class="Button t-button--primary" href="{{ page.button-url }}">
@@ -20,64 +21,6 @@
 
 
     {% comment %}
-        ----------------------------
-        free-artist-talk (free text)
-        ----------------------------
-    {% endcomment %}
-    {% if page.free-artist-talk-text %}
-        <div class="c-post-meta">
-            <span>Free artist's talk:</span>
-            <p>{{ page.free-artist-talk-text }}</p>
-        </div>
-    {% endif %}
-
-
-    {% comment %}
-        ----------------------------
-        note, links
-        ----------------------------
-    {% endcomment %}
-
-    {% if page.notes %}
-        <div class="c-post-meta c-post-meta--notes">
-            <!-- <span>Please note: {{ page.note }}</span> -->
-            {% for note in page.notes %}
-                <p><span>{{ note }}</span></p>
-            {% endfor %}
-        </div>
-    {% endif %}
-
-
-    {% comment %}
-        -------------------------
-        supporters
-        see: https://www.siteleaf.com/blog/author-pages-in-jekyll-and-siteleaf/
-        see: https://www.siteleaf.com/blog/customizing-the-siteleaf-admin/#smart-fields
-        see: https://jekyllrb.com/docs/templates/ (where expression!)
-        {% for item in site.supporters %}
-            <p>{{ item.title }}</p>
-        {% endfor %}
-        -------------------------
-    {% endcomment %}
-
-    {% if page.supporters %}
-        <div class="c-post-meta">
-            <p><span>Supported by:</span></p>
-
-            <div class="c-post-supporters">
-
-                {% assign supporters = site.supporters | where_exp: "item", "page.supporters contains item.title" %}
-                {% for supporter in supporters %}
-                    <img src="{{ supporter.image }}" alt="{{ supporter.title }}" />
-                {% endfor %}
-
-            </div>
-
-        </div>
-    {% endif %}
-
-
-    {% comment %}
         -------------------------
         share the event
         see: https://www.siteleaf.com/blog/author-pages-in-jekyll-and-siteleaf/
@@ -85,9 +28,7 @@
     {% endcomment %}
 
     <div class="c-post-meta c-post-meta--share">
-
         {% include share.html %}
-
     </div>
 
 

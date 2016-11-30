@@ -18,8 +18,11 @@
     {% include footer.html %}
     {% include icons.html %}
 
-    {% if page.has-form != null %}
-        {% include javascripts-form.html %}
+    {% if page.has-javascripts == true %}
+        {% include javascripts.html %}
+        {% if page.has-form == true %}
+            {% include javascripts-form.html %}
+        {% endif %}
     {% endif %}
 
     {% include google-analytics.html %}
