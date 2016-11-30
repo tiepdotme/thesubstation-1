@@ -3,7 +3,7 @@ title: Newport Archives
 date: 2016-11-30 12:56:00 +11:00
 categories:
 - whats-on
-image: "/uploads/newport-archives-da1908.jpg"
+image: "/uploads/newport-archives-2017.jpg"
 image-credit: Suzie Blake
 presented-by: The Substation
 price: Free
