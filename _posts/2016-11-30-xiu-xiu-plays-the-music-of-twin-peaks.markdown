@@ -7,7 +7,8 @@ image: "/uploads/xiu-xiu-plays-twin-peaks.jpg"
 image-credit: Cara Robbins
 presented-by: The Substation in association with Room40
 price: "$30 + booking fee"
-dates: June 23, 8pm
+dates:
+- June 23, 8pm
 has-start-time: true
 is-single-date: true
 supporters: Room40
