@@ -4,7 +4,7 @@ date: 2016-11-30 11:34:00 +11:00
 categories:
 - whats-on
 image: "/uploads/the-megaphone-project.jpg"
-artist: Maddy & Tim
+presented-by: Maddy & Tim
 price: FREE
 dates:
 - April 5
