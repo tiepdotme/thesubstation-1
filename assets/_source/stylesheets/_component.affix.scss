@@ -5,16 +5,21 @@
 // --------------------------------------------------------------------------
 
 
-.affix {
+.affix,
+.affix-bottom {
     top: space(2);
-    width: space(10);
+    width: 155px;
+}
 
-    // only affix on larger viewports
+// only affix on larger viewports
+.affix {
     @include media-breakpoint-up(sm) {
         position: fixed;
     }
 }
 
 .affix-bottom {
-    position: absolute;
+    @include media-breakpoint-up(sm) {
+        position: absolute;
+    }
 }
