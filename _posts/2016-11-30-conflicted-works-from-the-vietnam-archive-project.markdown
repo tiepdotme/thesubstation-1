@@ -12,7 +12,7 @@ dates:
 has-opening-event: true
 has-start-time: false
 has-mins: true
-notes: artist talk sat 13 may, 2pm
+artists-talk: Saturday 13 May, 2.00pm
 supporters: Creative Victoria
 ---
 
