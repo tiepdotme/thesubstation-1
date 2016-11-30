@@ -14,10 +14,8 @@ has-opening-event: true
 has-preview-event: false
 has-closing-event: true
 has-mins: true
-artists-talk: |-
-  SAT 4 FEB, 2PM with LIVE PERFORMANCE
-notes: |-
-  CATWALK FASHION SHOW BY RAFAELLA MCDONALD: SAT 11 MARCH, 5PM
+artists-talk: SAT 4 FEB, 2PM with LIVE PERFORMANCE
+notes: 'CATWALK FASHION SHOW BY RAFAELLA MCDONALD: SAT 11 MARCH, 5PM'
 supporters: Creative Victoria
 ---
 

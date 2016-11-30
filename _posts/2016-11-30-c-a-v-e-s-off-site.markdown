@@ -15,7 +15,7 @@ has-start-time: false
 has-mins: false
 is-opening-hours-time: false
 is-months-duration: false
-notes: 'ARTIST TALK SAT 25 MARCH, 2PM'
+notes: ARTIST TALK SAT 25 MARCH, 2PM
 supporters: Creative Victoria
 ---
 
