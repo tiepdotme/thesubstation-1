@@ -2,7 +2,7 @@
 title: The Tribe
 date: 2016-11-30 10:54:00 +11:00
 categories:
-- whats on
+- whats-on
 image: "/uploads/the-tribe.jpg"
 image-credit: Catherine Cranston
 presented-by: The SUBSTATION and Urban Theatre Projects
