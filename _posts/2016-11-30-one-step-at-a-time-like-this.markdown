@@ -4,6 +4,7 @@ date: 2016-11-30 15:13:00 +11:00
 categories:
 - in-development
 image: "/uploads/one-step-at-a-time-like-this.jpg"
+image-credit: Clair Korobacz
 supporters: Creative Victoria
 ---
 
