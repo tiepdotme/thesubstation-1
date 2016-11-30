@@ -7,10 +7,13 @@
 
 @mixin buttonTheme() {
 	@include baseTransition();
+	background-color: palette(brand);
+	border-color: palette(brand);
 	border-radius: 0;
 	border-style: solid;
-	border-width: 0;
-	padding: 0 space(0.5);
+	border-width: 1px;
+	//padding: 0 space(0.5);
+	padding: space(0.25) space(1.5);
 
     // theme unused
     // border-color: currentColor comes from Suit…
@@ -32,7 +35,7 @@
 	}
 
 	@include on-event() {
-		background-color: currentColor;
+        background-color: palette(brand);
 		outline: none !important;
 
         // theme unused
@@ -43,8 +46,7 @@
 @mixin buttonText() {
     @include typeReset();
     @include textAside();
-    border: 1px solid palette(text);
-    color: palette(text);
+    color: palette(background);
     font-family: $font-text-bold;
     line-height: map-fetch($button-height, base) !important;
 
@@ -55,7 +57,8 @@
     //letter-spacing: 0.05em;
 
     @include on-event() {
-        background-color: transparent;
+        color: palette(background);
+        font-family: $font-text-bold;
     }
 }
 
@@ -72,17 +75,23 @@
 	@include button;
 }
 
-.t-button--rev {
-	@include button;
-	background-color: transparent;
-	border-color: currentColor;
-	border-width: 1px;
-}
-
 .t-button--full {
 	//@include button;
 	text-align: center;
 	width: 100%;
+}
+
+.t-button--lineHeight {
+    line-height: map-fetch($button-height, base) !important;
+	padding-top: 0;
+	padding-bottom: 0;
+}
+
+.t-button--rev {
+    @include button;
+    background-color: transparent;
+    border-color: currentColor;
+    border-width: 1px;
 }
 
 
@@ -105,53 +114,41 @@ $arrowSize: map-fetch($button-height, base);
 /* uncss:ignore */
 .t-button--primary {
 	@include button();
-    background-color: palette(brand);
-	border-color: palette(brand) !important;
-	//border: 1px solid palette(brand);
-	color: palette(white) !important;
-    font-family: $font-text-bold;
     min-width: 92%;
-    padding: space(0.25) space(0.5);
+    padding: space(0.25) space(0.25) space(0.25) space(0.5);
     position: relative;
 
     &:after {
         @include Arrow();
-        //border-top: $arrowSize solid transparent;
         border-bottom: 59px solid transparent;
         border-left: $arrowSize * 0.5 solid palette(brand);
     }
-
-    @include on-event() {
-        background-color: palette(brand);
-        color: palette(white);
-        font-family: $font-text-bold;
-    }
 }
 
-.t-button--secondary {
-	@include button();
-    //background-color: transparent;
-	//border-color: palette(text);
-	//color: palette(text);
-    background-color: palette(brand);
-	border-color: palette(brand);
-	color: palette(background);
-    font-family: $font-text-bold;
-    padding: space(0.25) space(1.5);
-    position: relative;
-
-    &:after {
-        //@include Arrow();
-        //border-bottom: 59px solid transparent;
-        //border-left: $arrowSize * 0.5 solid palette(text);
-    }
-
-    @include on-event() {
-        background-color: transparent;
-        //color: palette(white);
-        font-family: $font-text-bold;
-    }
-}
+//.t-button--secondary {
+//	@include button();
+//    //background-color: transparent;
+//	//border-color: palette(text);
+//	//color: palette(text);
+//    background-color: palette(brand);
+//	border-color: palette(brand);
+//	color: palette(background);
+//    font-family: $font-text-bold;
+//    padding: space(0.25) space(1.5);
+//    position: relative;
+//
+//    &:after {
+//        //@include Arrow();
+//        //border-bottom: 59px solid transparent;
+//        //border-left: $arrowSize * 0.5 solid palette(text);
+//    }
+//
+//    @include on-event() {
+//        background-color: transparent;
+//        //color: palette(white);
+//        font-family: $font-text-bold;
+//    }
+//}
 
 
 // Secondary buttons

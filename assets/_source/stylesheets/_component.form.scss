@@ -88,29 +88,37 @@ option[type="selected"] {
 // --------------------------------------------------------------------------
 
 .c-formWrapper-note {
-    @include textAside();
+    @include headlineSm();
+    font-family: $font-text-bold;
+    //@include textAside();
     //@include textRg();
     //font-family: $font-serif;
 
-	background-color: rgba( palette(brand), 0.2 );
+	background-color: rgba( palette(brand), 0.15 );
+    //border-bottom: 1px solid palette(muted);
     margin: $blockSpace 0 0;
 	padding: space(0.5) space(1);
 
-    @include media-breakpoint-up(md) {
+    @include media-breakpoint-up(lg) {
     	padding: space(1) 20% space(1) space(2);
     }
 
     ~ .c-formWrapper {
         margin-top: 0;
+        padding-top: space(0.75);
+
+        @include media-breakpoint-up(lg) {
+            padding-top: space(1.5);
+        }
     }
 }
 
 .c-formWrapper {
-	background-color: rgba( palette(brand), 0.1 );
+	background-color: rgba( palette(brand), 0.09 );
     margin: $blockSpace 0 0;
 	padding: space(1);
 
-    @include media-breakpoint-up(md) {
+    @include media-breakpoint-up(lg) {
         padding: space(2);
     }
 }
@@ -190,28 +198,28 @@ option[type="selected"] {
 // Newsletter signup var
 // --------------------------------------------------------------------------
 
-.c-formWrapper #mc_embed_signup {
-    @include media-breakpoint-up(sm) {
-        //width: 90%;
-    }
-}
+//.c-formWrapper #mc_embed_signup {
+//    @include media-breakpoint-up(sm) {
+//        width: 90%;
+//    }
+//}
 
-#mc_embed_signup {
-	input[type="email"] {
-		background-color: transparent;
-		border-color: transparent;
-	    border-bottom: 1px solid palette(muted);
-		//padding: 0 0 0 space(0.5);
-		margin-right: space(0.25);
-		padding: 0;
-	}
-
-	.t-button {
-		background-color: palette(brand);
-        border-color: palette(brand);
-		color: palette(background);
-	}
-}
+//#mc_embed_signup {
+//	input[type="email"] {
+//		background-color: transparent;
+//		border-color: transparent;
+//	    border-bottom: 1px solid palette(muted);
+//		//padding: 0 0 0 space(0.5);
+//		margin-right: space(0.25);
+//		padding: 0;
+//	}
+//
+//	.t-button {
+//		background-color: palette(brand);
+//        border-color: palette(brand);
+//		color: palette(background);
+//	}
+//}
 
 
 

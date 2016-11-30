@@ -2,18 +2,20 @@
 {% assign mailchimp-name-code = "b_21cfc09295377f72f03e377c6_f0c98b414b" %}
 
 <div id="mc_embed_signup" class="">
-	<form action="{{ mailchimp-action-code }}" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+	<form class="c-form validate" action="{{ mailchimp-action-code }}" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" novalidate>
 		<div id="mc_embed_signup_scroll">
 			<div class="mc-field-group">
 
-                <div class="Grid Grid--withGutterSm">
+                <div class="Grid">
                     <div class="Grid-cell u-sm-size8of12">
-                        <!-- <label for="mce-EMAIL">Add your email</label> -->
-                        <input class="" id="mce-EMAIL" type="email" value="" name="EMAIL" placeholder="get news. add your email here" required>
+                        <label class="c-form-labelBlock u-marginT0">
+                            Get the substation updates
+                            <input class="" id="mce-EMAIL" type="email" value="" name="EMAIL" placeholder="add your email here" required>
+                        </label>
                         <div style="position: absolute; left: -5000px;"><input type="text" name="{{ mailchimp-name-code }}" tabindex="-1" value=""/></div>
                     </div>
-                    <div class="Grid-cell u-sm-size4of12 u-sm-spaceT u-sm-spaceLN1">
-                        <input class="Button t-button t-button--full" id="mc-embedded-subscribe" type="submit" value="signup" name="subscribe">
+                    <div class="Grid-cell u-sm-size4of12 u-sm-spaceT u-sm-spaceLN1 u-flex">
+                        <input class="Button t-button t-button--full t-button--lineHeight u-flexAlignSelfEnd" id="mc-embedded-subscribe" type="submit" value="signup" name="subscribe">
                     </div>
                 </div>
 
