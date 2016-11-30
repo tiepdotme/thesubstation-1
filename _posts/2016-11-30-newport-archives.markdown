@@ -12,11 +12,13 @@ dates:
 - Dec 15, 4pm
 has-start-time: true
 is-months-duration: true
-event-duration-txt: available by appointment
-notes: |-
-  Duration: 40 mins
-  Tues - Fri  11am - 4pm
+event-duration-txt: "- 4PM, DURATION: 40 MINS"
+notes: 'AVAILABLE BY APPOINTMENT: INFO@THESUBSTATION.ORG.AU'
 supporters: The R. E. Ross Trust
 ---
 
+## PERMANENT ARTWORK BY TAMARA SAULWICK
+
 NEWPORT ARCHIVES is an audio tour commissioned by The SUBSTATION in 2016, which explores The SUBSTATION’s own building and surrounding landmarks in Newport.  Drawing on interviews with local residents, NEWPORT ARCHIVES explores the origins of Newport and its surrounds. Equipped with headphones and an mp3 player as their guide, participants walk unaccompanied through Newport’s streets in a journey that uncannily knits the present with past memories. 
+
+Audio Design: JOE TALIA
