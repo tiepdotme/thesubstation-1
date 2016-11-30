@@ -15,7 +15,7 @@ has-start-time: false
 has-mins: false
 is-opening-hours-time: false
 is-months-duration: false
-notes: ARTIST TALK SAT 25 MARCH, 2PM
+artists-talk: Saturday 25 March, 2.00pm
 supporters: Creative Victoria
 ---
 
