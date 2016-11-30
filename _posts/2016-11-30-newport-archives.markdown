@@ -12,7 +12,7 @@ dates:
 - Dec 15, 4pm
 has-start-time: true
 is-months-duration: true
-event-duration-txt: "- 4PM, DURATION: 40 MINS"
+event-duration-txt: "- 4PM<BR> DURATION: 40 MINS"
 notes: 'AVAILABLE BY APPOINTMENT: INFO@THESUBSTATION.ORG.AU'
 supporters: The R. E. Ross Trust
 ---
