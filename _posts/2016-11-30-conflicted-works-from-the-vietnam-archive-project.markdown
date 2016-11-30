@@ -11,7 +11,8 @@ dates:
 - july 1
 has-opening-event: true
 has-start-time: false
-notes: 'artist talk: saturday 13 may, 2pm'
+has-mins: true
+notes: 'artist talk: sat 13 may, 2pm'
 supporters: Creative Victoria
 ---
 
