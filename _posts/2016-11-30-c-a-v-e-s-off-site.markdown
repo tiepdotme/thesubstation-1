@@ -15,7 +15,7 @@ has-start-time: false
 has-mins: false
 is-opening-hours-time: false
 is-months-duration: false
-notes: 'ARTIST TALK: SAT 25 MARCH, 2PM'
+notes: 'ARTIST TALK SAT 25 MARCH, 2PM'
 supporters: Creative Victoria
 ---
 
@@ -25,6 +25,6 @@ supporters: Creative Victoria
 
 Exhibiting artists:
 
-Olga Bennett, Lily Benson (USA), Fernando do Campo (USA/AUS), William Daniels (UK), Naomi Eller, 
-Andrea Jewel, Annika Koops, Alex Pittendrigh, Daniel Sinsel (UK), Ross Taylor (UK), Michelle Ussher (UK/AUS), Anna Varendorff, Rudi Williams, 
-Zilverster (Sharon Goodwin & Irene Hanenbergh) 
+Olga Bennett, Lily Benson (USA), Fernando do Campo (USA/AUS), William Daniels (UK), Naomi Eller,
+Andrea Jewel, Annika Koops, Alex Pittendrigh, Daniel Sinsel (UK), Ross Taylor (UK), Michelle Ussher (UK/AUS), Anna Varendorff, Rudi Williams,
+Zilverster (Sharon Goodwin & Irene Hanenbergh)

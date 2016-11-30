@@ -1,9 +1,15 @@
+
+
+// --------------------------------------------------------------------------
 // Utility: Responsive line break
 // https://css-tricks.com/injecting-line-break/
 // 1. emulates text-align: center
 // --------------------------------------------------------------------------
 
-@include media-breakpoint-down(lg) {
+
+// up
+
+@include media-breakpoint-up(lg) {
     span.u-lg-lineBreak {
         display: table !important;
         margin: auto; // 1.
@@ -14,6 +20,15 @@
     .u-sm-lineBreak {
         display: table !important;
         //margin: auto; // 1.
+    }
+}
+
+// down
+
+@include media-breakpoint-down(lg) {
+    span.u-lgDown-lineBreak {
+        display: table !important;
+        margin: auto; // 1.
     }
 }
 

@@ -13,6 +13,10 @@ $footerRowSpacer: $blockSpace * 0.25;
     @include blockSpacePadding();
 	position: relative;
 
+
+    //background: linear-gradient(to bottom, palette(background), palette(neutral-dark) );
+
+
     p,
     ul,
     li,

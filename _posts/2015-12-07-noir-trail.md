@@ -10,6 +10,7 @@ dates:
 - 2016-03-01 00:00:00 AEST
 - 2016-04-30 00:00:00 AEST
 is-months-duration: true
+is-single-info-block: true
 presented-by: One Step at a Time Like This
 supporters:
 - Australia Council of Arts

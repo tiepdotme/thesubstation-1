@@ -38,7 +38,7 @@ $palette: (
 	neutral-text               : darken(#f0eeeb, 27%),
 	neutral-dark               : darken(#f0eeeb, 9%),
 	neutral-light              : lighten(#f0eeeb, 4%),
-	brand                      : #343963,
+	brand                      : #383d78,
 	brand-complement           : #2e2423,
 	brand-counter              : #887E73,
 	modal-background           : #151515,
@@ -115,9 +115,9 @@ $fontsizes: (
         rg            : 15px
     ),
 	text: (
-		xs            : 16px,
-		sm            : 18px,
-		rg            : 21px
+		xs            : 15px,
+		sm            : 17px,
+		rg            : 20px
 	),
 	text--lg: (
         xs            : 19px,
@@ -130,9 +130,9 @@ $fontsizes: (
 		lg            : 27px
 	),
 	headline--sm: (
-		xs            : 15px,
-		sm            : 17px,
-		lg            : 19px
+		xs            : 18px,
+		sm            : 21px,
+		lg            : 23px
 	),
 	headline: (
 		xs            : 24px,
@@ -280,16 +280,24 @@ $font-display         : $font-text-regular;
 // Object/component default fonts
 // --------------------------------------------------------------------------
 
-$fonts-path-2           : '/assets/fonts2/';
-$serif                  : regularSerif;
-$serif-i                : regularSerifItalic;
+$fonts-path-2           : '/assets/fonts4/';
+//$serif                  : regularSerif;
+//$serif-i                : regularSerifItalic;
+$serif                  : NoticiaText-Regular;
+$serif-i                : NoticiaText-Italic;
 
 @include font-face($serif, '#{$fonts-path-2}#{$serif}' );
 
 $font-serif             : join($serif, $serif-font-stack);
 //$font-serif-i           : join($serif-i, $serif-font-stack);
-//$font-serif             : $serif;
 $font-serif-i           : $serif-i;
+
+//$font-serif             : 'Maitree';
+//$font-serif             : 'Yrsa';
+//$font-serif             : 'Lora';
+//$font-serif             : 'Merriweather';
+//$font-serif             : 'Noticia Text';
+//$font-serif             : $serif;
 
 
 
