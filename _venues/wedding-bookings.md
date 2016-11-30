@@ -3,10 +3,11 @@ title: Wedding bookings
 position: 2
 current: true
 image: "/uploads/the-substation-wedding-bookings.jpg"
-has-form: true
 button-url: "/uploads/the-substation-wedding-hire-pack-2017.pdf"
 button-txt: wedding pack
 notes: Please note, we have NO AVAILABLE DATES left for weekend bookings in 2016.
+has-javascripts: true
+has-form: true
 ---
 
 <!-- http://jekyllrb.com/docs/templates/#link -->
