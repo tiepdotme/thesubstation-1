@@ -1,16 +1,16 @@
 ---
-title: Noir Trail
+title: Noir Trail 2016
 date: 2015-12-07 11:00:00 +11:00
 categories:
-- in-development
+- archive
 image: "/uploads/one-step-taken-by-julian.jpg"
 image-credit: Julian Rickert
+presented-by: One Step at a Time Like This
 price: false
 dates:
 - 2016-03-01 00:00:00 AEST
 - 2016-04-30 00:00:00 AEST
 is-months-duration: true
-presented-by: One Step at a Time Like This
 supporters:
 - Australia Council of Arts
 - Creative Victoria
