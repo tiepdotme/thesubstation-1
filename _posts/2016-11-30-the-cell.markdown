@@ -10,6 +10,9 @@ price: FREE
 dates:
 - May 26
 - June 10
+supporters:
+- Creative Victoria
+- Hobsons Bay City Council
 ---
 
 [BROOK ANDREW](http://www.brookandrew.com) is one of Australia’s premiere contemporary artists, having exhibited internationally since 1996. His work examines Western history, specifically relating to colonialism, and places Australia at the centre of a global inquisition. ANDREW’s work spans across video, sculpture, photography and immersive installations. 
