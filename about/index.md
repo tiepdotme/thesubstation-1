@@ -3,7 +3,7 @@ title: About us
 image: "/uploads/the-substation-about-the-building.jpg"
 sections:
 - title: Getting here
-  image-bottom: "/uploads/the-substation-map.jpg"
+  image-bottom: "/uploads/the-substation-map-lr.jpg"
   copy: |
     The SUBSTATION is located at [1 Market Street, Newport, Victoria 3015](https://goo.gl/maps/3RTKiR89iD72).
 
