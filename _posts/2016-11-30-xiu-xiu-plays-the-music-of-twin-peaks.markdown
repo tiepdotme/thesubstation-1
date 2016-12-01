@@ -21,4 +21,4 @@ Led by JAMIE STEWART, ANGELA SEO and SHAYNA DUNKELMAN, the music of XIU XIU defi
 
 XIU XIU’s performance isn’t simply a recreation of the Twin Peaks music, but provides an entirely new interpretation that emphasises its chaos, drama, fear, noise and sidelong leering glances. 
 
-Presented by The SUBSTATION in association with Room40
+Presented by The SUBSTATION in association with Room40![CreativeVictoria_logo-print_rev.jpg](/uploads/CreativeVictoria_logo-print_rev.jpg)
