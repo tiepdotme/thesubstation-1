@@ -4,7 +4,6 @@ date: 2016-11-29 18:21:00 +11:00
 categories:
 - whats-on
 image: "/uploads/ono.jpg"
-presented-by: The SUBSTATION & ONO
 price: Tickets from $30 + booking fee
 dates:
 - Feb 24, 9pm
@@ -15,3 +14,5 @@ is-single-date: true
 Part music performance, part installation, ONO is a place to gather, listen and share. Drawing on traditions of oral storytelling, four musical offerings will each spin a yarn of ambient and abstract sounds in the belly of The SUBSTATION. ONO seeks to break down the usual back and forth between artist and listener, to create an inclusive and reverberating space of exchange. Bring your imagination on an excursion into outer sound.
 
 Featuring [ALBRECHT LA’BROOY](http://soundcloud.com/analogueattic) (Analogue Attic), [BURNT FRIEDMAN](http://burntfriedman.com) (Nonplace/GER), [NUEL](http://soundcloud.com/nuel) (Aquaplano/ITA) and [SLEEP D](http://soundcloud.com/sleepd) (Butter Sessions)
+
+Presented by The SUBSTATION and ONO
