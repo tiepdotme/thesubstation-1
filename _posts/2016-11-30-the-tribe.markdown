@@ -9,6 +9,7 @@ presented-by: Urban Theatre Projects
 price: "$35 / $25 + BOOKING FEE"
 dates:
 - March 30
+- March 31
 - April 1
 is-list-of-dates: true
 notes: Would you like to host the tribe in your backyard? Open call in February 2017
