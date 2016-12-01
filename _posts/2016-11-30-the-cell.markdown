@@ -5,7 +5,7 @@ categories:
 - whats-on
 image: "/uploads/the-cell.jpg"
 image-credit: 'Brook Andrew, The Cell. 2010. Photo: Roger D''Souza'
-presented-by: The Substation and Brook Andrew
+presented-by: Brook Andrew
 price: FREE
 dates:
 - May 26
@@ -22,3 +22,5 @@ The SUBSTATION presents the Melbourne premiere of ANDREW’s major installation 
 Commissioned by Sherman Contemporary Art Foundation, Sydney, 2010
 
 Courtesy of the artist, Tolarno Galleries, Melbourne; Roslyn Oxley9 Gallery, Sydney; and Galerie Nathalie Obadia, Paris and Brussels.
+
+Presented by The SUBSTATION and Brook Andrew
