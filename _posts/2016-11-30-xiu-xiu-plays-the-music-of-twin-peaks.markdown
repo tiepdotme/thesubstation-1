@@ -15,7 +15,7 @@ is-single-date: true
 supporters: Room40
 ---
 
-The iconic music of American TV series [Twin Peaks](https://en.wikipedia.org/wiki/Twin_Peaks) by composer Angelo Badalamenti and David Lynch is given a makeover in this special live performance by acclaimed experimental pop group XIU XIU.
+The iconic music of American TV series [Twin Peaks](https://en.wikipedia.org/wiki/Twin_Peaks) by composer Angelo Badalamenti and David Lynch is given a makeover in this special live performance by acclaimed experimental pop group [XIU XIU](http://www.xiuxiu.org/).
 
 Led by JAMIE STEWART, ANGELA SEO and SHAYNA DUNKELMAN, the music of XIU XIU defies simple description. It is a complex mix of post punk and synth pop, classical and experimental styles, full of brutality and emotional depth.
 
