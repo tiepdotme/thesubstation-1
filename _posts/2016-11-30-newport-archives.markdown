@@ -8,8 +8,8 @@ image-credit: Suzie Blake
 presented-by: Permanent Artwork by Tamara Saulwick
 price: Free
 dates:
-- 11am
-- 
+- Jan 10 2017, 11am
+- Dec 16 2017, 4pm
 has-start-time: true
 is-months-duration: false
 event-duration-txt: "- 4.00PM<BR>TUES - SAT<BR>DURATION: 40 MINS"
