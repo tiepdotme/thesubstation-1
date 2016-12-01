@@ -5,7 +5,7 @@ categories:
 - whats-on
 image: "/uploads/long-string-instrument.jpg"
 button-url: https://thesubstation.iwannaticket.com.au/event/long-string-instrument-MTE5MjU
-presented-by: The Substation & Liquid Architecture in association with Room40
+presented-by: Ellen Fullman with Theresa Wong (USA)
 price: "$25 + BOOKING FEE"
 dates:
 - Wednesday 27 January, 8pm
@@ -21,4 +21,4 @@ supporters:
 
 In Melbourne, FULLMAN will collaborate with acclaimed composer and cellist [THERESA WONG](http://www.theresawong.org/). Together they layer the harmonic possibilities of the cello with the undulating overtones of the LONG STRING INSTRUMENT. FULLMAN and WONG will perform their duet Harbors, drawing from soundscapes, stories and atmospheres that manifest around bodies of water.
 
-
+Presented by The SUBSTATION and Liquid Architecture in association with Room40
