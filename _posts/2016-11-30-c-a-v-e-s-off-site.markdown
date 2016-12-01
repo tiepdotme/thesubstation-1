@@ -5,7 +5,6 @@ categories:
 - whats-on
 image: "/uploads/caves-offsite.jpg"
 presented-by: Curated by Storm Gold & Kez Hughes
-price: FREE
 dates:
 - March 24, 6.30pm
 - April 29, 5pm
@@ -16,6 +15,7 @@ has-mins: true
 is-opening-hours-time: false
 is-months-duration: false
 artists-talk: Saturday 25 March, 2.00pm
+notes: 'Gallery Open: Tues - Sat<br>11am - 5pm'
 supporters: Creative Victoria
 ---
 
