@@ -6,16 +6,16 @@ categories:
 image: "/uploads/pose-like-this.jpg"
 image-credit: Emma Collard & Rafaella McDonald, 2 Socks
 presented-by: Emma Collard & Rafaella McDonald
-price: FREE
 dates:
 - FEBRUARY 3, 6.30pm
 - march 11, 5pm
 has-opening-event: true
 has-preview-event: false
-has-closing-event: true
+has-closing-event: false
 has-mins: true
 artists-talk: SAT 4 FEB, 2PM with LIVE PERFORMANCE
-notes: 'CATWALK FASHION SHOW BY RAFAELLA MCDONALD: SAT 11 MARCH, 5PM'
+notes: 'Gallery Open: Tues - Sat, 11am - 5pm<br>CATWALK FASHION SHOW BY RAFAELLA MCDONALD:
+  SAT 11 MARCH, 5PM'
 supporters: Creative Victoria
 ---
 
