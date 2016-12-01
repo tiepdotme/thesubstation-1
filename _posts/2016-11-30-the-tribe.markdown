@@ -5,6 +5,7 @@ categories:
 - whats-on
 image: "/uploads/the-tribe.jpg"
 image-credit: Catherine Cranston
+button-url: http://thesubstation.iwannaticket.com.au/event/the-tribe-MTIwNjM
 presented-by: Urban Theatre Projects
 price: "$35 / $25 + BOOKING FEE"
 dates:
