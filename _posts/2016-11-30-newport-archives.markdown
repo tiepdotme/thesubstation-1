@@ -8,10 +8,10 @@ image-credit: Suzie Blake
 presented-by: Permanent Artwork by Tamara Saulwick
 price: Free
 dates:
-- jan 3, 11am
-- Dec 15, 4pm
+- 11am
+- 
 has-start-time: true
-is-months-duration: true
+is-months-duration: false
 event-duration-txt: "- 4.00PM<BR>TUES - SAT<BR>DURATION: 40 MINS"
 notes: 'AVAILABLE BY APPOINTMENT: INFO@THESUBSTATION.ORG.AU'
 supporters: The R. E. Ross Trust
