@@ -1,7 +1,6 @@
 ---
-title: Brick by brick
+title: Donate
 permalink: "/support-us/"
-layout: page
 image: "/uploads/the-substation-support-us.jpg"
 button-url: https://www.givenow.com.au/hobsonsbaycommunityartscentre
 button-txt: donate
@@ -81,5 +80,6 @@ sections:
     * Dominic Arcaro
     * Peter Outhred
     * Tim Watts
+layout: page
 ---
 
