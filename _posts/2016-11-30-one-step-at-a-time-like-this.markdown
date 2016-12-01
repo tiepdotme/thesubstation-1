@@ -8,7 +8,7 @@ image-credit: Clair Korobacz
 supporters: Creative Victoria
 ---
 
-**NOIR TRAIL** is an immersive performance event taking place over consecutive days in multiple urban locations.
+NOIR TRAIL is an immersive performance event taking place over consecutive days in multiple urban locations.
 
 The work is conceived as a mini-series, exploring mystery, the unknown, and the nature of fear. Audience members are directed to precincts such as abandoned halls, bars, rail yards, pool halls and unused public spaces where actions, cues and revelations happen. 
 
