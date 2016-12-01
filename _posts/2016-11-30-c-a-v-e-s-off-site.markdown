@@ -12,7 +12,7 @@ dates:
 has-opening-event: true
 has-preview-event: false
 has-start-time: false
-has-mins: false
+has-mins: true
 is-opening-hours-time: false
 is-months-duration: false
 artists-talk: Saturday 25 March, 2.00pm
