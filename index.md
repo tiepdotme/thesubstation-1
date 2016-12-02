@@ -1,7 +1,7 @@
 ---
 title: Home
 youtube: 
-banner-image: "/uploads/the-substation-homebanner-161110.gif"
+banner-image: 
 carousel-images:
 - "/uploads/The-Vietnam-Archive-Project-Untitled-Sides-03-Phuong-Ngo.jpg"
 - "/uploads/05-Phuong-Ngo-The-Vietnam-Archive-Project-Untitled-Sides.jpg"
