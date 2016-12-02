@@ -4,6 +4,7 @@ date: 2016-12-02 11:41:00 +11:00
 categories:
 - in-development
 image: "/uploads/residency-margie-medlin.jpg"
+presented-by: "(AUS/UK)"
 ---
 
 ## RESIDENCY
