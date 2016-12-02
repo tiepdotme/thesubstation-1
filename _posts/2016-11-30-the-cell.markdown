@@ -10,7 +10,7 @@ price: FREE
 dates:
 - May 26
 - June 10
-notes: 'Gallery Open: Tues - Sat<br>11am - 5pm'
+notes: 'Gallery Open: Tues - Sat 11am - 5pm'
 supporters:
 - Creative Victoria
 - Hobsons Bay City Council

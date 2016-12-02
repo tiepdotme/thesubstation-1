@@ -6,13 +6,13 @@ categories:
 image: "/uploads/conflicted-vietnam-archive-project.jpg"
 presented-by: Phuong Ngo
 dates:
-- MAY 12, 6.30pm
-- july 1
+- 2017-05-12 18:30:00 AEST
+- 2017-07-01 17:00:00 AEST
 has-opening-event: true
 has-start-time: false
 has-mins: true
 artists-talk: Saturday 13 May, 2.00pm
-notes: 'Gallery Open: Tues - Sat<br>11am - 5pm'
+notes: 'Gallery Open: Tues - Sat 11am - 5pm'
 supporters: Creative Victoria
 ---
 

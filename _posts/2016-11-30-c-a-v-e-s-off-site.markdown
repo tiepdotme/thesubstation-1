@@ -15,7 +15,7 @@ has-mins: true
 is-opening-hours-time: false
 is-months-duration: false
 artists-talk: Saturday 25 March, 2.00pm
-notes: 'Gallery Open: Tues - Sat<br>11am - 5pm'
+notes: 'Gallery Open: Tues - Sat 11am - 5pm'
 supporters: Creative Victoria
 ---
 
