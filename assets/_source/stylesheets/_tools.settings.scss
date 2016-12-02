@@ -115,9 +115,9 @@ $fontsizes: (
         rg            : 15px
     ),
 	text: (
-		xs            : 15px,
-		sm            : 17px,
-		rg            : 20px
+		xs            : 14px,
+		sm            : 16px,
+		rg            : 19px
 	),
 	text--lg: (
         xs            : 19px,
@@ -280,17 +280,16 @@ $font-display         : $font-text-regular;
 // Object/component default fonts
 // --------------------------------------------------------------------------
 
-$fonts-path-2           : '/assets/fonts4/';
-//$serif                  : regularSerif;
-//$serif-i                : regularSerifItalic;
+$fonts-path-2           : '/assets/fonts-serif/';
+
 $serif                  : NoticiaText-Regular;
 $serif-i                : NoticiaText-Italic;
 
 @include font-face($serif, '#{$fonts-path-2}#{$serif}' );
+@include font-face($serif-i, '#{$fonts-path-2}#{$serif}' );
 
 $font-serif             : join($serif, $serif-font-stack);
-//$font-serif-i           : join($serif-i, $serif-font-stack);
-$font-serif-i           : $serif-i;
+$font-serif-i           : join($serif-i, $serif-font-stack);
 
 //$font-serif             : 'Maitree';
 //$font-serif             : 'Yrsa';
