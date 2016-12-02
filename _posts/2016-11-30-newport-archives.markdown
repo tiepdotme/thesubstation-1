@@ -8,8 +8,8 @@ image-credit: Suzie Blake
 presented-by: Permanent Artwork by Tamara Saulwick
 price: Free
 dates:
-- 
-- 
+- 'TUES, 10 JAN '
+- SAT, 16 DEC
 has-start-time: false
 is-months-duration: false
 notes: 'AVAILABLE BY APPOINTMENT: INFO@THESUBSTATION.ORG.AU'
