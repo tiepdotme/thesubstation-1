@@ -11,7 +11,7 @@ dates:
 - 'TUES, 10 JAN '
 - SAT, 16 DEC
 has-start-time: false
-is-months-duration: false
+is-months-duration: true
 notes: 'AVAILABLE BY APPOINTMENT: INFO@THESUBSTATION.ORG.AU'
 supporters: The R. E. Ross Trust
 ---
