@@ -4,11 +4,10 @@ date: 2016-12-02 11:41:00 +11:00
 categories:
 - in-development
 image: "/uploads/residency-margie-medlin.jpg"
-presented-by: "(AUS/UK)"
+presented-by: RESIDENCY
 ---
 
-## RESIDENCY
-**THE SUBSTATION**
+## THE SUBSTATION
 
 During her residency at The SUBSTATION, [MARGIE MEDLIN](https://unsited.org/2016/01/20/160/) will research two projects. One, a dance and media public art project that links incidental spectators with large-scale video dance projections and mobile image technologies. 
 
