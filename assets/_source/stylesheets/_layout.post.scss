@@ -128,11 +128,16 @@ a.c-postCell {
     @include media-breakpoint-up(sm) { padding-bottom: 56.25%; padding-bottom: 50vh; }
     @include media-breakpoint-up(xl) { padding-bottom: 50%; padding-bottom: 82vh; }
 
-    @include when-inside(".c-content--page") {
-        //padding-bottom: 45%;
-        //@include media-breakpoint-up(sm) { padding-bottom: 28.125%; padding-bottom: 25vh; }
-        @include media-breakpoint-up(xl) { padding-bottom: 25%; padding-bottom: 41vh; }
-    }
+    //@include when-inside(".c-content--page") {
+    //    //padding-bottom: 45%;
+    //    //@include media-breakpoint-up(sm) { padding-bottom: 28.125%; padding-bottom: 25vh; }
+    //    @include media-breakpoint-up(xl) { padding-bottom: 25%; padding-bottom: 41vh; }
+    //}
+}
+
+.FlexEmbed-ratio--heroVideo {
+    padding-bottom: 90%;
+    @include media-breakpoint-up(sm) { padding-bottom: 56.25%; }
 }
 
 .c-post-hgroup {
