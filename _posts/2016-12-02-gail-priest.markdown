@@ -5,6 +5,7 @@ categories:
 - in-development
 image: "/uploads/int-residency-gail-priest.jpg"
 image-credit: Dimitri Djuric, courtesy Kammer Klang
+supporters: Sonica
 ---
 
 ## INTERNATIONAL RESIDENCY<BR>
