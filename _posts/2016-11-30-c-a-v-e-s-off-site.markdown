@@ -6,7 +6,7 @@ categories:
 image: "/uploads/caves-offsite.jpg"
 presented-by: Curated by Storm Gold & Kez Hughes
 dates:
-- March 24, 6.30pm
+- March 24, 6.30pm AEST
 - April 29, 5pm
 has-opening-event: true
 has-preview-event: false
