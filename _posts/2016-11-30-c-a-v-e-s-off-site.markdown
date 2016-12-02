@@ -6,8 +6,8 @@ categories:
 image: "/uploads/caves-offsite.jpg"
 presented-by: Curated by Storm Gold & Kez Hughes
 dates:
-- 2017-03-24, 18:30:00 AEST
-- 2017-04-29, 17:00:00 AEST
+- 2017-03-24 18:30:00 AEST
+- 2017-04-29 17:00:00 AEST
 has-opening-event: true
 has-preview-event: false
 has-start-time: false
