@@ -1,6 +1,8 @@
 ---
 title: Gail Priest
 date: 2016-12-02 11:22:00 +11:00
+categories:
+- in-development
 image: "/uploads/int-residency-gail-priest.jpg"
 image-credit: Dimitri Djuric, courtesy Kammer Klang
 ---
