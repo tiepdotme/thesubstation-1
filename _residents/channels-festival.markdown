@@ -14,3 +14,5 @@ In 2015, CHANNELS presented an impressive program of 29 events with over 70 arti
 CHANNELS will be presenting a 10-day festival in September 2017 across Melbourne and online including exhibitions, screenings, performances, talks, residencies and workshops.<br>
 <br>
 The 2017 festival is led by Artistic Directors [NIKKI LAM](http://nikkilam.info/) and [ALICIA RENEW](http://heresheis.org.au/design-and-architecture/2013/08/alicia-renew/)
+
+Visit [CHANNELS FESTIVAL here>](http://channelsfestival.net.au/)
