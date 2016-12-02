@@ -1,6 +1,6 @@
 ---
 title: Home
-youtube:
+youtube: 
 vimeo: 193992210
 banner-image: "/uploads/the-substation-homebanner-161110.gif"
 carousel-images:
@@ -9,3 +9,4 @@ carousel-images:
 - "/uploads/100-years-zine-photo-by-samantha-riegl-rebecca-vinci.jpg"
 layout: index
 ---
+
