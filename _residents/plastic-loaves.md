@@ -15,3 +15,5 @@ supporters: false
 Alliances include: Ladies Of Leisure, Charlie Harding, Oli Bradley, Melissa Atanasovski, Fashion Journal, VICE, Nan, AEVOE etc.
 
 Education: Bachelor of Communication Design RMIT 2013 graduate, Cert IV in Small Business Management.
+
+Visit [PLASTIC LOAVES website here>](http://www.plasticloaves.com/)
