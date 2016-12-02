@@ -8,7 +8,7 @@ presented-by: "(AUS/UK)"
 ---
 
 ## RESIDENCY
-## THE SUBSTATION
+**THE SUBSTATION**
 
 During her residency at The SUBSTATION, [MARGIE MEDLIN](https://unsited.org/2016/01/20/160/) will research two projects. One, a dance and media public art project that links incidental spectators with large-scale video dance projections and mobile image technologies. 
 
