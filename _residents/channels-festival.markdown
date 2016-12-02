@@ -15,4 +15,4 @@ CHANNELS will be presenting a 10-day festival in September 2017 across Melbourn
 <br>
 The 2017 festival is led by Artistic Directors [NIKKI LAM](http://nikkilam.info/) and [ALICIA RENEW](http://heresheis.org.au/design-and-architecture/2013/08/alicia-renew/)
 
-Visit [CHANNELS FESTIVAL here>](http://channelsfestival.net.au/)
+Visit [CHANNELS FESTIVAL website here>](http://channelsfestival.net.au/)
