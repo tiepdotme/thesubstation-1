@@ -16,7 +16,7 @@ notes: 'AVAILABLE BY APPOINTMENT: INFO@THESUBSTATION.ORG.AU'
 supporters: The R. E. Ross Trust
 ---
 
-**TUES - SAT**<BR>
+**AVAILABLE: TUES - SAT**<BR>
 **11.00AM - 4.00PM**<BR>
 **DURATION: 40MINS**
 
