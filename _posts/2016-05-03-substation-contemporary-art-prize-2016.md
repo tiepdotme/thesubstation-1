@@ -6,12 +6,12 @@ categories:
 image: "/uploads/the-substation-contemporary-art-prize-2016.jpg"
 image-credit: Deborah Kelly, LYING WOMEN (video still), 2016, animated collage with
   original score
-dates:
+datetime:
 - 2016-09-08 18:30:00 AEST
 - 2016-10-08 17:00:00 AEST
 has-opening-event: true
 has-mins: true
-is-list-of-dates: false
+is-list-of-datetime: false
 supporters:
 - Metro
 - Hobsons Bay City Council

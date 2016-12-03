@@ -6,7 +6,7 @@ categories:
 image: "/uploads/pose-like-this.jpg"
 image-credit: Emma Collard & Rafaella McDonald, 2 Socks
 presented-by: Emma Collard & Rafaella McDonald
-dates:
+datetime:
 - 2017-02-03 18:30:00 AEST
 - 2017-03-11 17:00:00 AEST
 has-opening-event: true

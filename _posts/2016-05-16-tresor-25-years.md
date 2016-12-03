@@ -6,7 +6,7 @@ categories:
 image: "/uploads/tresor-25-years.jpg"
 button-url: https://www.residentadvisor.net/event.aspx?804325
 price: 
-dates:
+datetime:
 - 2016-06-17 21:00:00 AEST
 - 2016-06-18 05:00:00 AEST
 is-single-date: true

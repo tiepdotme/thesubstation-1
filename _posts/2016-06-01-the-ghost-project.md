@@ -6,11 +6,11 @@ categories:
 image: "/uploads/anna-tregloan-the-ghost-project.jpg"
 presented-by: Anna Tregloan
 price: free
-dates:
+datetime:
 - 2016-10-22 17:00:00 AEST
 - 2016-10-23 17:00:00 AEST
 has-start-time: true
-is-list-of-dates: true
+is-list-of-datetime: true
 event-duration-txt: Until 9:00pm
 supporters: false
 ---

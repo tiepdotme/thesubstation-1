@@ -6,7 +6,7 @@ categories:
 image: "/uploads/bunker.jpg"
 image-credit: Duncan Jacob
 price: "$25 - $45"
-dates:
+datetime:
 - June 16, 9pm
 has-start-time: true
 is-single-date: true

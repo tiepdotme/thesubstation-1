@@ -12,7 +12,7 @@ price:
 - "$25 ARTISTS"
 - "$35 STANDARD"
 - "$50 RABBLE LOVERS"
-dates:
+datetime:
 - 2016-07-20 19:30:00 AEST
 - 2016-07-30 19:30:00 AEST
 has-opening-night: true

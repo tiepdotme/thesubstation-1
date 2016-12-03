@@ -8,10 +8,10 @@ image-credit: Tommy Ga-Ken Wan
 video: https://player.vimeo.com/video/168322480
 button-url: https://thesubstation.iwannaticket.com.au/event/mess-robbie-thomson-MTEwNTA
 price: "$30 + $1.63 BF"
-dates:
+datetime:
 - 2016-10-13 20:00:00 AEST
 - 2016-10-14 20:00:00 AEST
-is-list-of-dates: true
+is-list-of-datetime: true
 has-start-time: true
 presented-by: Robbie Thomson
 notes: false

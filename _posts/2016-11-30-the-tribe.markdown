@@ -8,11 +8,11 @@ image-credit: Catherine Cranston
 button-url: http://thesubstation.iwannaticket.com.au/event/the-tribe-MTIwNjM
 presented-by: Urban Theatre Projects
 price: "$35 / $25 + BOOKING FEE"
-dates:
+datetime:
 - March 30
 - March 31
 - April 1
-is-list-of-dates: true
+is-list-of-datetime: true
 notes: Would you like to host the tribe in your backyard? Open call in February 2017
 supporters:
 - Australia Council of Arts

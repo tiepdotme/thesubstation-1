@@ -5,7 +5,7 @@ categories:
 - whats-on
 image: "/uploads/conflicted-vietnam-archive-project.jpg"
 presented-by: Phuong Ngo
-dates:
+datetime:
 - 2017-05-12 18:30:00 AEST
 - 2017-07-01 17:00:00 AEST
 has-opening-event: true

@@ -6,7 +6,7 @@ categories:
 image: "/uploads/the-megaphone-project.jpg"
 presented-by: Madeleine Flynn & Tim Humphrey
 price: FREE
-dates:
+datetime:
 - April 5
 - April 9
 notes: 'Opening Hours: 11am - 5pm<br>suitable for all ages, children and families'

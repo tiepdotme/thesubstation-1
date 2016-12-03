@@ -6,7 +6,7 @@ categories:
 image: "/uploads/the-rabble-development.jpg"
 image-credit: Kate Davis featuring Dana Miltins
 price: false
-dates:
+datetime:
 - 2016-03-01 00:00:00 AEST
 - 2016-03-31 00:00:00 AEST
 is-single-month-duration: true

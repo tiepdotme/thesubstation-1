@@ -9,7 +9,7 @@ price:
 - "$25 PREVIEW"
 - "$30 standard"
 - "$25 CONCESSION"
-dates:
+datetime:
 - 2016-08-31 19:00:00 AEST
 - 2016-09-04 19:00:00 AEST
 has-opening-event: true

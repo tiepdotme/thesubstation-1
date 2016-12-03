@@ -5,7 +5,7 @@ categories:
 - archive
 image: "/uploads/natalie-abbott.jpg"
 price: false
-dates:
+datetime:
 - 2016-03-01 00:00:00 AEST
 - 2016-03-31 00:00:00 AEST
 is-single-month-duration: true

@@ -8,7 +8,7 @@ image-credit: Morgan Jones
 presented-by: EMMA COLLARD
 price:
 - Free
-dates:
+datetime:
 - 2016-05-29 11:00:00 AEST
 - 2016-05-29 17:00:00 AEST
 is-single-date: true

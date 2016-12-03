@@ -7,7 +7,7 @@ image: "/uploads/newport-archives-2017.jpg"
 image-credit: Suzie Blake
 presented-by: Permanent Artwork by Tamara Saulwick
 price: Free
-dates:
+datetime:
 - TUES, 10 JAN 2017
 - SAT, 16 DEC 2017
 has-start-time: false

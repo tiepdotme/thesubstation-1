@@ -6,7 +6,7 @@ categories:
 image: "/uploads/emma-collard.jpg"
 image-credit: EMMA COLLARD in collaboration with HARRY HAYES, 2016
 price: false
-dates: false
+datetime: false
 supporters: false
 ---
 

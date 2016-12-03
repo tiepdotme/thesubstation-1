@@ -5,11 +5,11 @@ categories:
 - archive
 image: "/uploads/inland-concert-series-dry-land-ecology.jpg"
 button-url: https://www.melbournefringe.com.au/program?event/inland_concert_series_dry_land_ecology/42ae105a-3a19-4d1a-a7d4-6724aa8af524/
-dates:
+datetime:
 - 2016-09-29 05:30:00 +10:00
 - 2016-09-30 05:30:00 +10:00
 - 2016-10-01 05:30:00 +10:00
-is-list-of-dates: true
+is-list-of-datetime: true
 has-mins: true
 has-start-time: true
 event-duration-txt: 120 mins

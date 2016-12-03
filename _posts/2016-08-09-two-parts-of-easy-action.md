@@ -11,7 +11,7 @@ price:
 - "$20 CONCESSION"
 - "$22 GROUP 6+"
 - "$25 STANDARD"
-dates:
+datetime:
 - 2016-09-21 06:00:00 +10:00
 - 2016-09-26 06:00:00 +10:00
 has-start-time: true

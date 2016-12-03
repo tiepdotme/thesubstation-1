@@ -6,7 +6,7 @@ categories:
 image: "/uploads/The-Vietnam-Archive-Project-Untitled-Sides-03-Phuong-Ngo.jpg"
 button-url: https://thesubstation.iwannaticket.com.au/event/unpacking-the-vietnam-archive-project-MTA1NjA
 button-txt: rsvp for free
-dates:
+datetime:
 - 2016-05-12 19:00:00 AEST
 is-single-date: true
 presented-by: PHUONG NGO

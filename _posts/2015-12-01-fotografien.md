@@ -6,7 +6,7 @@ categories:
 image: "/uploads/fotografien.jpg"
 image-credit: Ole Westermann
 price: free
-dates:
+datetime:
 - 2016-04-29 05:00:00 +10:00
 - 2016-05-31 10:00:00 +10:00
 has-opening-event: true

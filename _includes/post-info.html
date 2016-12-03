@@ -24,13 +24,13 @@
         <div class="c-post-meta">
             <span>Preview event:
             <p>
-                {{ page.dates | first | date: "%a %B %d" }}, {{ page.dates | first | date: "%l:%M%p" }}
+                {{ page.datetime | first | date: "%a %B %d" }}, {{ page.datetime | first | date: "%l:%M%p" }}
             </p>
         </div>
         <div class="c-post-meta">
             <span>Opening event:
             <p>
-                {{ page.dates[1] | date: "%a %B %d" }}, {{ page.dates[1] | date: "%l:%M%p" }}
+                {{ page.datetime[1] | date: "%a %B %d" }}, {{ page.datetime[1] | date: "%l:%M%p" }}
             </p>
         </div>
     {% endif %}
@@ -39,7 +39,7 @@
         <div class="c-post-meta">
             <span>Opening event:</span>
             <p>
-                {{ page.dates | first | date: "%a %B %d" }}, {{ page.dates | first | date: "%l:%M%p" }}
+                {{ page.datetime | first | date: "%a %B %d" }}, {{ page.datetime | first | date: "%l:%M%p" }}
             </p>
 
             {% comment %}Event duration as text{% endcomment %}
@@ -52,24 +52,24 @@
 
     {% comment %}
         ----------------------------------------
-        Show dates
+        Show datetime
         ----------------------------------------
     {% endcomment %}
 
     {% comment %}Single date array of 2 (start and end times){% endcomment %}
-    {% if page.dates.size == 1 or page.dates.size == 2 and page.is-single-date == true %}
+    {% if page.datetime.size == 1 or page.datetime.size == 2 and page.is-single-date == true %}
         <div class="c-post-meta">
             <span>Date:</span>
 
             <p>
                 {% comment %}yeah, gotta be ==true here for some unknown reason…{% endcomment %}
                 {% if is-opening-hours-time == true %}
-                    {{ page.dates | first | date: "%a %B %d" }}
+                    {{ page.datetime | first | date: "%a %B %d" }}
                 {% else %}
-                    {% if page.dates.size == 1 %}
-                        {{ page.dates | first | date: "%a %B %d" }}
+                    {% if page.datetime.size == 1 %}
+                        {{ page.datetime | first | date: "%a %B %d" }}
                     {% else %}
-                        {{ page.dates | first | date: "%a %B %d" }}, {{ page.dates | first | date: "%l:%M%p" }} - {{ page.dates | last | date: "%l:%M%p" }}
+                        {{ page.datetime | first | date: "%a %B %d" }}, {{ page.datetime | first | date: "%l:%M%p" }} - {{ page.datetime | last | date: "%l:%M%p" }}
                     {% endif %}
                 {% endif %}
             </p>
@@ -84,18 +84,18 @@
 
         </div>
 
-    {% comment %}Multiple dates in a list{% endcomment %}
-    {% elsif page.dates.size >= 2 and page.is-list-of-dates == true %}
+    {% comment %}Multiple datetime in a list{% endcomment %}
+    {% elsif page.datetime.size >= 2 and page.is-list-of-datetime == true %}
         <div class="c-post-meta">
             <span>Dates:</span>
 
-            {% comment %}Iterate thru event dates collection
-            {% for event in page.dates %}
-                {% if page.dates.size == 2 and page.program-is-single-date == true %}
+            {% comment %}Iterate thru event datetime collection
+            {% for event in page.datetime %}
+                {% if page.datetime.size == 2 and page.program-is-single-date == true %}
                     <p>
                         {{ event | date: "%a %B %d" }}, {{ event | first | date: "%l:%M%p" }}-{{ event | first | date: "%l:%M%p" }}
                     </p>
-                {% elsif page.dates.size >= 2 and page.program-is-single-date != true %}
+                {% elsif page.datetime.size >= 2 and page.program-is-single-date != true %}
                     <p>
                         {% if page.show-event-in-mins %}{{ event | date: "%a %B %d" }}, {{ event | date: "%l:%M%p" }}{% else %}{{ event | date: "%a %B %d" }}, {{ event | date: "%l%p" }}{% endif %}
                     </p>
@@ -103,8 +103,8 @@
             {% endfor %}
             {% endcomment %}
 
-            {% comment %}Iterate thru event dates collection{% endcomment %}
-            {% for event in page.dates %}
+            {% comment %}Iterate thru event datetime collection{% endcomment %}
+            {% for event in page.datetime %}
                 <p>{{ event | date: "%a %B %d" }}</p>
             {% endfor %}
 
@@ -118,16 +118,16 @@
 
         </div>
 
-    {% comment %}Between dates{% endcomment %}
-    {% elsif page.dates.size == 2 %}
+    {% comment %}Between datetime{% endcomment %}
+    {% elsif page.datetime.size == 2 %}
         <div class="c-post-meta {% if page.is-single-info-block %} c-post-meta--single{% endif %}">
             <span>Program runs:</span>
             {% if page.is-single-month-duration == true %}
-                <p>{{ page.dates | first | date: "%B" }} {{ page.dates | first | date: "%Y" }}</p>
+                <p>{{ page.datetime | first | date: "%B" }} {{ page.datetime | first | date: "%Y" }}</p>
             {% elsif page.is-months-duration == true %}
-                <p>{{ page.dates | first | date: "%B" }} - {{ page.dates | last | date: "%B" }} {{ page.dates | first | date: "%Y" }}</p>
+                <p>{{ page.datetime | first | date: "%B" }} - {{ page.datetime | last | date: "%B" }} {{ page.datetime | first | date: "%Y" }}</p>
             {% else %}
-                <p>{{ page.dates | first | date: "%a %B %d" }} - <em class="u-lg-lineBreak">{{ page.dates | last | date: "%a %B %d" }}</em></p>
+                <p>{{ page.datetime | first | date: "%a %B %d" }} - <em class="u-lg-lineBreak">{{ page.datetime | last | date: "%a %B %d" }}</em></p>
             {% endif %}
         </div>
     {% endif %}
@@ -151,12 +151,12 @@
                 <!-- Starting: -->
                 {% comment %}
                 {% if has-mins == true %}
-                    {{ page.dates | first | date: "%l:%M%p" }}
+                    {{ page.datetime | first | date: "%l:%M%p" }}
                 {% else %}
-                    {{ page.dates | first | date: "%l%p" }}
+                    {{ page.datetime | first | date: "%l%p" }}
                 {% endif %}
                 {% endcomment %}
-                {{ page.dates | first | date: "%l:%M%p" }}
+                {{ page.datetime | first | date: "%l:%M%p" }}
 
                 {% comment %}Event duration{% endcomment %}
                 {% if page.event-duration-txt %}
@@ -209,7 +209,7 @@
         <div class="c-post-meta">
             <span>Closing event:</span>
             <p>
-                {{ page.dates | last | date: "%a %B %d" }}, {{ page.dates | last | date: "%l:%M%p" }}
+                {{ page.datetime | last | date: "%a %B %d" }}, {{ page.datetime | last | date: "%l:%M%p" }}
             </p>
         </div>
     {% endif %}

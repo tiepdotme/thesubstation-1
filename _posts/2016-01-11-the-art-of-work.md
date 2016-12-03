@@ -7,10 +7,10 @@ image: "/uploads/projector-bike-back-story.jpg"
 button-url: https://www.eventbrite.com/e/the-art-of-work-tickets-24226159094
 button-txt: RSVP
 price: free, booking is essential
-dates:
+datetime:
 - 2016-04-29 19:00:00 AEST
 - 2016-04-30 19:00:00 AEST
-is-list-of-dates: true
+is-list-of-datetime: true
 has-start-time: true
 event-duration-txt: for 120 mins
 presented-by: PROJECTOR BIKE

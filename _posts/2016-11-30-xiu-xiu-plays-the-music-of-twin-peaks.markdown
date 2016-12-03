@@ -8,7 +8,7 @@ image-credit: Cara Robbins
 button-url: http://thesubstation.iwannaticket.com.au/event/xiu-xiu-plays-the-music-of-twin-peaks-MTIwNjE
 presented-by: Xiu Xiu (USA)
 price: "$30 + booking fee"
-dates:
+datetime:
 - June 23, 8pm
 has-start-time: true
 is-single-date: true

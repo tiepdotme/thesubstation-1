@@ -6,7 +6,7 @@ categories:
 image: "/uploads/screen-as-a-room-image-by-fanni-futterknecht.jpg"
 button-url: http://thesubstation.iwannaticket.com.au/event/newport-archives-open-house-melbourne-MTEwODI
 price: Free
-dates:
+datetime:
 - 2016-06-16 18:00:00 AEST
 - 2016-08-06 15:00:00 AEST
 has-opening-event: true
