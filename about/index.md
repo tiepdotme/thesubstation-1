@@ -18,7 +18,7 @@ sections:
 
     The building has strong associations with the inauguration of electric services, due to its construction during the first phase of the scheme. It is also important for its associations with the engineering firm Merz and MacLellan, who designed the electrification scheme as well as the early substations in association with the VR Way and Works Branch. Its construction by the Victorian Railways sets the building apart from contemporary Railways structures built under contract.
 - title: Staff and board
-  image:
+  image: 
   copy: |
     **Brad Spolding**<br>
     _Director_<br>
@@ -42,7 +42,7 @@ sections:
 
     In addition to our staff, The SUBSTATION also relies heavily upon the tireless efforts of our volunteers.
 - title: Work with us
-  image:
+  image: 
   copy: |
     The SUBSTATION is on the look-out for volunteers who are enthusiastic and dedicated to the promotion of visual and performing arts in its myriad forms. The SUBSTATION volunteers play an active role in delivering excellent customer experiences and ensuring The SUBSTATION remains a valued cultural destination. Whether you want to gain experience in the industry, learn more about visual and performing arts, pass on your skills and knowledge to others or just want to socialise with people with similar interests – we want to hear from you!
 
@@ -70,3 +70,4 @@ sections:
     - Tel: (03) 9391 1110
 layout: page
 ---
+
