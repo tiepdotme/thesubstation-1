@@ -239,6 +239,18 @@ a.c-postCell {
         //font-style: italic;
     }
 
+    h2,
+    h3 {
+        &:not(:first-child) {
+            margin-top: $blockSpace * 0.75;
+		}
+
+        &:not(:last-child) {
+            margin-bottom: $paragraphSpace;
+            //margin-bottom: $blockSpace * 0.75 * 0.5;
+        }
+    }
+
 	h2 {
 		//@include textRg();
         @include headlineSm();
@@ -247,16 +259,12 @@ a.c-postCell {
         @include media-breakpoint-up(sm) {
             width: 85%;
         }
+    }
 
-        &:not(:first-child) {
-            margin-top: $blockSpace * 0.75;
-		}
-
-        &:not(:last-child) {
-            margin-bottom: $paragraphSpace;
-            //margin-bottom: $blockSpace * 0.75 * 0.5;
-		}
-	}
+    h3 {
+        @include textAside();
+        font-family: $font-text-bold;
+    }
 
     hr {
         border: 0;
@@ -385,13 +393,21 @@ a.c-postCell {
     &--endRule {
         border-bottom-color: transparent !important;
         border-top: 1px solid palette(light);
-        display: inline-block;
+        // display: inline-block;
         margin: $blockSpace * 0.375 0 0 !important;
         padding: $blockSpace * 0.2 0 0 !important;
 
         a {
             @include underlineLink();
         }
+    }
+
+    &--supportersRule {
+        border-bottom-color: transparent !important;
+        border-top: 1px solid palette(light);
+        // display: inline-block;
+        margin: $blockSpace * 0.375 0 0 !important;
+        padding: $blockSpace * 0.2 0 0 !important;
     }
 
     &--cta,
@@ -454,34 +470,40 @@ a.c-postCell {
 
 // using vendor.family
 .c-post-supporters {
-    margin-bottom: $paragraphSpace * 0.5;
-    opacity: 0.3;
+    margin: $paragraphSpace * 0.5 0;
+    opacity: 0.5;
 
     img {
-        margin-top: $paragraphSpace * 0.75;
+        height: 40px;
+        // margin-top: $paragraphSpace * 0.75;
         margin-left: $paragraphSpace;
-        width: 33.333%;
+        // width: 33.333%;
 
-        @include first-child() { margin-left: 0; }
-        @include every(4) { margin-left: 0; }
+        // @include first-child() { margin-top: $paragraphSpace * 0.5; }
+        @include every(4) { margin-top: $paragraphSpace * 0.5; }
 
         @include media-breakpoint-up(sm) {
-            @include first-child() { margin-top: $paragraphSpace * 0.5; }
-            @include all-but(1) { margin-top: $paragraphSpace * 1.25; }
-            display: block;
-            margin-left: 0;
-            width: 66.666%;
+            // @include first-child() { margin-top: $paragraphSpace * 0.5; }
+            // @include all-but(1) { margin-left: $paragraphSpace * 1; }
+            // display: block;
+            // margin-left: $paragraphSpace * 0.5;
+            // width: 66.666%;
+        }
+
+        @include media-breakpoint-up(lg) {
+            margin-top: 0 !important;
         }
 
         @include media-breakpoint-up(xl) {
+            height: 50px;
             width: auto;
-            width: 80%;
         }
 
         &.portrait {
-            @include media-breakpoint-up(xs) { width: 16%; }
-            @include media-breakpoint-up(sm) { width: 27%; }
-            @include media-breakpoint-up(xl) { width: 43%; }
+            width: auto;
+            @include media-breakpoint-up(xs) { height: 60px; }
+            @include media-breakpoint-up(sm) { height: 80px; }
+            @include media-breakpoint-up(xl) { height: 80px; }
         }
     }
 }

@@ -21,4 +21,4 @@ supporters:
 
 In Melbourne, FULLMAN will collaborate with acclaimed composer and cellist [THERESA WONG](http://www.theresawong.org/). Together they layer the harmonic possibilities of the cello with the undulating overtones of the LONG STRING INSTRUMENT. FULLMAN and WONG will perform their duet Harbors, drawing from soundscapes, stories and atmospheres that manifest around bodies of water.
 
-Presented by The SUBSTATION and Liquid Architecture in association with Room40
+_Presented by The SUBSTATION and Liquid Architecture in association with Room40._

@@ -11,8 +11,8 @@ datetime:
 has-opening-event: true
 has-start-time: false
 has-mins: true
+is-within-gallery-open-time: true
 artists-talk: Saturday 13 May, 2.00pm
-notes: 'Gallery Open: Tues - Sat 11am - 5pm'
 supporters: Creative Victoria
 ---
 
@@ -20,4 +20,4 @@ THE VIETNAM ARCHIVE PROJECT by [PHUONG NGO](http://www.pthngo.com) is an ongoing
 
 CONFLICTED explores the political and social aspects of war through the lens of service men and women. Utilising found images and objects from the VIETNAM ARCHIVE PROJECT, the exhibition comprises a series of intimate moments and large scale installations offering a nuanced and alternative reading of the Vietnam War.
 
-Presented by The SUBSTATION and the Human Rights Arts and Film Festival
+_Presented by The SUBSTATION and the Human Rights Arts and Film Festival._

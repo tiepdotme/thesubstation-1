@@ -10,18 +10,17 @@ price: FREE
 datetime:
 - May 26
 - June 10
-notes: 'Gallery Open: Tues - Sat 11am - 5pm'
+is-within-gallery-open-time: true
 supporters:
 - Creative Victoria
 - Hobsons Bay City Council
 ---
 
-[BROOK ANDREW](http://www.brookandrew.com) is one of Australia’s premiere contemporary artists, having exhibited internationally since 1996. His work examines Western history, specifically relating to colonialism, and places Australia at the centre of a global inquisition. ANDREW’s work spans across video, sculpture, photography and immersive installations. 
+[BROOK ANDREW](http://www.brookandrew.com) is one of Australia’s premiere contemporary artists, having exhibited internationally since 1996. His work examines Western history, specifically relating to colonialism, and places Australia at the centre of a global inquisition. ANDREW’s work spans across video, sculpture, photography and immersive installations.
 
-The SUBSTATION presents the Melbourne premiere of ANDREW’s major installation THE CELL. Decorated in Wiradjuri patterns and inviting audience participation, THE CELL is a jumping castle of sorts, that blurs the lines between sanctuary and detention. 
+The SUBSTATION presents the Melbourne premiere of ANDREW’s major installation THE CELL. Decorated in Wiradjuri patterns and inviting audience participation, THE CELL is a jumping castle of sorts, that blurs the lines between sanctuary and detention.
 
-Commissioned by Sherman Contemporary Art Foundation, Sydney, 2010
+_Commissioned by Sherman Contemporary Art Foundation, Sydney, 2010._<br>
+_Courtesy of the artist, Tolarno Galleries, Melbourne; Roslyn Oxley9 Gallery, Sydney; and Galerie Nathalie Obadia, Paris and Brussels._
 
-Courtesy of the artist, Tolarno Galleries, Melbourne; Roslyn Oxley9 Gallery, Sydney; and Galerie Nathalie Obadia, Paris and Brussels.
-
-Presented by The SUBSTATION and Brook Andrew
+_Presented by The SUBSTATION and Brook Andrew._

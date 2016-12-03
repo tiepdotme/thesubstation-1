@@ -37,10 +37,50 @@ u-smDown-blockR--3by4
                 <article class="s-post">
                     {{ page.content | markdownify }}
 
-                    {% if !page.venue-cta %}
+                    {% unless page.venue-cta != true %}
                         {% include venue-cta.html %}
-                    {% endif %}
+                    {% endunless %}
                 </article>
+
+
+
+                {% comment %}
+                    -------------------------
+                    supporters
+                    see: https://www.siteleaf.com/blog/author-pages-in-jekyll-and-siteleaf/
+                    see: https://www.siteleaf.com/blog/customizing-the-siteleaf-admin/#smart-fields
+                    see: https://jekyllrb.com/docs/templates/ (where expression!)
+                    {% for item in site.supporters %}
+                        <p>{{ item.title }}</p>
+                    {% endfor %}
+                    -------------------------
+                {% endcomment %}
+
+                {% if page.supporters %}
+                    <div class="c-post-meta c-post-meta--supportersRule">
+                        <p><span>Supported by:</span></p>
+
+                        <div class="c-post-supporters">
+
+                            {% assign supporters = site.supporters | where_exp: "item", "page.supporters contains item.title" %}
+                            {% for supporter in supporters %}
+                                <img
+                                    class="{% if supporter.portrait == true %}portrait{% endif %}"
+                                    src="{{ supporter.image }}"
+                                    alt="{{ supporter.title }}" />
+                            {% endfor %}
+
+                        </div>
+
+                    </div>
+                {% endif %}
+
+
+                {% comment %}
+                    -------------------------
+                    image credit or archive
+                    -------------------------
+                {% endcomment %}
 
                 {% if page.image-credit or page.categories contains 'archive' %}
                     <div class="c-post-meta c-post-meta--endRule">
@@ -48,10 +88,17 @@ u-smDown-blockR--3by4
                             <p><span>Image credit: {{ page.image-credit }}</span></p>
                         {% endif %}
                         {% if page.categories contains 'archive' %}
-                            <p><span>This show is <a href="/archive">archived</a>. It originally ran in {{ page.dates | first | date: "%Y" }}.</span></p>
+                            <p><span>This show is <a href="/archive">archived</a>. It originally ran in {{ page.datetime | first | date: "%Y" }}.</span></p>
                         {% endif %}
                     </div>
                 {% endif %}
+
+
+                {% comment %}
+                    -------------------------
+                    forms
+                    -------------------------
+                {% endcomment %}
 
                 {% unless page.categories %}
                     <div class="c-formWrapper">
@@ -71,9 +118,9 @@ u-smDown-blockR--3by4
 
 
             {% comment %}
-            ------------------------------
+                ------------------------------
                 next / prev
-            ------------------------------
+                ------------------------------
             {% endcomment %}
 
             {% if page.url contains 'whats-on' %}

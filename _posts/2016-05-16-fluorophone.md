@@ -11,7 +11,7 @@ price:
 - "$30 / $20 Concession"
 datetime:
 - 2016-11-22 20:00:00 AEST
-- 8pm Fri 25 Nov
+- 2016-11-25 20:00:00 AEST
 has-start-time: true
 supporters:
 - Australia Council of Arts

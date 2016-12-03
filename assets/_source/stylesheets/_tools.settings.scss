@@ -286,10 +286,11 @@ $serif                  : NoticiaText-Regular;
 $serif-i                : NoticiaText-Italic;
 
 @include font-face($serif, '#{$fonts-path-2}#{$serif}' );
-@include font-face($serif-i, '#{$fonts-path-2}#{$serif}' );
+@include font-face($serif-i, '#{$fonts-path-2}#{$serif-i}' );
 
 $font-serif             : join($serif, $serif-font-stack);
 $font-serif-i           : join($serif-i, $serif-font-stack);
+$font-serif-i           : $serif-i;
 
 //$font-serif             : 'Maitree';
 //$font-serif             : 'Yrsa';

@@ -12,7 +12,7 @@ datetime:
 - 2016-11-17 19:00:00 AEST
 - 2016-12-17 17:00:00 AEST
 has-opening-event: true
-notes: 'Gallery open: Tues - Sat 11.00am - 5.00pm'
+is-within-gallery-open-time: true
 supporters: Creative Victoria
 ---
 
