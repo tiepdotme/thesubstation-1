@@ -5,7 +5,7 @@ image: "/uploads/the-substation-support-us.jpg"
 button-url: https://www.givenow.com.au/hobsonsbaycommunityartscentre
 button-txt: donate
 sections:
-- title:
+- title: 
   copy: |
     The Substation is a not-for-profit community-based arts organisation in the inner west of Melbourne, which strives to engage its local communities in the best that the arts have to offer.
 
@@ -82,3 +82,4 @@ sections:
     * Tim Watts
 layout: page
 ---
+
