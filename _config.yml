@@ -86,9 +86,6 @@ baseurl:
 url: http://thesubstation.org.au
 logo: "/uploads/the-substation-logo.png"
 facebook:
-  app_id: 1234
-  publisher: 1234
-  admins: 1234
   username: TheSubstationNewport
 twitter:
   username: thesubstation_
