@@ -5,7 +5,8 @@ date: 2016-12-02 17:34:00 +11:00
 
 > what does this do?<br>
 
-
 Not sure!
 
 Perhaps it greys out the text?
+
+> Hi Sheah, the '>' creates a blockquote. We have styling in the site for this. It creates a call-out quote ;)
