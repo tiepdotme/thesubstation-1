@@ -148,9 +148,9 @@ a.c-postCell {
 }
 
 .c-post-hgroup {
-    margin: ($blockSpace * 0.75) auto;
+    margin: ($blockSpace * 0.75);
 
-    @include media-breakpoint-up(sm) { max-width: 80vw; }
+    @include media-breakpoint-up(sm) { max-width: 80vw; margin: 0 auto; }
     @include media-breakpoint-up(xl) { max-width: 60vw; }
 }
 
