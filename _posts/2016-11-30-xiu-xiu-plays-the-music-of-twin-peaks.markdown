@@ -9,7 +9,7 @@ button-url: http://thesubstation.iwannaticket.com.au/event/xiu-xiu-plays-the-mus
 presented-by: Xiu Xiu (USA)
 price: "$30 + booking fee"
 datetime:
-- June 23, 8pm
+- 2023-05-31 23:00:00 +10:00
 has-start-time: true
 is-single-date: true
 supporters: Room40
@@ -21,4 +21,4 @@ Led by JAMIE STEWART, ANGELA SEO and SHAYNA DUNKELMAN, the music of XIU XIU defi
 
 XIU XIU’s performance isn’t simply a recreation of the Twin Peaks music, but provides an entirely new interpretation that emphasises its chaos, drama, fear, noise and sidelong leering glances.
 
-_Presented by The SUBSTATION in association with Room40._
+Presented by The SUBSTATION in association with Room40.
