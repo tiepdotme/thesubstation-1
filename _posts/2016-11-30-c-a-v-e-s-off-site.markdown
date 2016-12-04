@@ -6,16 +6,16 @@ categories:
 image: "/uploads/caves-offsite.jpg"
 presented-by: Curated by Storm Gold & Kez Hughes
 datetime:
-- 2017-03-24 18:30:00 AEST
-- 2017-04-29 17:00:00 AEST
+- 2017-03-24 18:30:00 +11:00
+- 2017-04-29 17:00:00 +10:00
 has-opening-event: true
 has-preview-event: false
 has-start-time: false
 has-mins: true
 is-opening-hours-time: false
 is-months-duration: false
-artists-talk: Saturday 25 March, 2.00pm
 is-within-gallery-open-time: true
+artists-talk: Saturday 25 March, 2.00pm
 supporters: Creative Victoria
 ---
 
@@ -26,4 +26,4 @@ supporters: Creative Victoria
 Olga Bennett, Lily Benson (USA), Fernando do Campo (USA/AUS), William Daniels (UK), Naomi Eller,
 Andrea Jewel, Annika Koops, Alex Pittendrigh, Daniel Sinsel (UK), Ross Taylor (UK), Michelle Ussher (UK/AUS), Anna Varendorff, Rudi Williams, Zilverster (Sharon Goodwin & Irene Hanenbergh)
 
-_Presented by The SUBSTATION and CAVES._
+Presented by The SUBSTATION and CAVES.
