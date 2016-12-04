@@ -34,7 +34,7 @@
 
     <title>About us ~ The SUBSTATION</title>
 
-    <link rel="stylesheet" href="/assets/stylesheets/application.css">
+    <link rel="stylesheet" href="/assets/stylesheets/application.min.css">
 
     
 </head>
@@ -282,7 +282,7 @@ T: <a href="tel:9391 1110">(03) 9391 1110</a></p>
                         </label>
                         <div style="position: absolute; left: -5000px;"><input type="text" name="b_21cfc09295377f72f03e377c6_f0c98b414b" tabindex="-1" value=""/></div>
                     </div>
-                    <div class="Grid-cell u-sm-size4of12 u-sm-spaceT u-sm-spaceLN1 u-flex">
+                    <div class="Grid-cell u-sm-size4of12 u-sm-spaceLN1 u-flex">
                         <input class="Button t-button t-button--full t-button--lineHeight u-flexAlignSelfEnd" id="mc-embedded-subscribe" type="submit" value="signup" name="subscribe">
                     </div>
                 </div>
@@ -299,7 +299,7 @@ T: <a href="tel:9391 1110">(03) 9391 1110</a></p>
             </div>
 
             <div class="Grid-cell u-sm-size3of10 u-xl-size2of10 u-smDown-flexOrderFirst">
-                <aside class="s-aside" data-spy="affix" data-offset-top="1400" data-offset-bottom="850">
+                <aside class="s-aside" data-spy="affix" data-offset-top="1200" data-offset-bottom="850">
 
 
     
@@ -344,9 +344,7 @@ T: <a href="tel:9391 1110">(03) 9391 1110</a></p>
 
     
 
-<footer
-    class="c-footer
-     c-footer--rule">
+<footer class="c-footer  c-footer--rule">
 
     
         <div class="c-footer-nav c-nav">
@@ -413,17 +411,17 @@ T: <a href="tel:9391 1110">(03) 9391 1110</a></p>
 	<div class="c-footer-info">
 	    <div class="o-container">
             <div class="u-sm-size9of10">
-                <div class="c-footer-infoBlockWrapper">
-                    <div class="">
-                        <a href="https://goo.gl/maps/3RTKiR89iD72">1 Market Street, Newport<br>Victoria 3015, Australia</a><br>
-                        <a href="tel:(03) 9391 1110">T: (03) 9391 1110</a>
-                    </div>
-                    <div class="">
-                        <span>Gallery: Tues–Sat, 11am–5pm</span><br>
-                        <span>Office: Tues–Fri, 9am–5pm</span><br>
-                        <a href="mailto:info@thesubstation.org.au">E: info@thesubstation.org.au</a>
-                    </div>
-                    <div class="">
+                <div class="c-footer-infoBlock">
+                    <ul>
+                        <li><a href="https://goo.gl/maps/3RTKiR89iD72">1 Market Street, Newport<br>Victoria 3015, Australia</a></li>
+                        <li><a href="tel:(03) 9391 1110">T: (03) 9391 1110</a></li>
+                    </ul>
+                    <ul>
+                        <li>Gallery: Tues–Sat, 11am–5pm</li>
+                        <li>Office: Tues–Fri, 9am–5pm</li>
+                        <li><a href="mailto:info@thesubstation.org.au">E: info@thesubstation.org.au</a></li>
+                    </ul>
+                    <div>
                         <a class="o-iconWrapper" href="https://www.facebook.com/TheSubstationNewport/">
     <svg class="o-icon o-icon--sm o-icon--left u-colorMedium">
         <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#ic-facebook"></use>
@@ -448,7 +446,13 @@ T: <a href="tel:9391 1110">(03) 9391 1110</a></p>
             </div>
 
             
-                <a class="u-footerBackTop" href="#top">↑ Back to top</a>
+                <!-- <a class="u-footerBackTop" href="#top">↑ Back to top</a> -->
+                <a class="o-iconWrapper u-footerBackTop" href="#top">
+                    <svg class="o-icon o-icon--sm o-icon--left u-colorMedium">
+                        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#ic-up"></use>
+                    </svg>
+                    Back to top
+                </a>
             
 
 	    </div>
@@ -577,6 +581,12 @@ T: <a href="tel:9391 1110">(03) 9391 1110</a></p>
 </svg>
 
 
+    
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+<script src="/assets/javascripts/component.affix.js"></script>
+<!-- <script src="/assets/javascripts/application.js"></script> -->
+
+        
     
 
     
