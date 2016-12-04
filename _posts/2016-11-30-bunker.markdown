@@ -7,11 +7,11 @@ image: "/uploads/bunker.jpg"
 image-credit: Duncan Jacob
 price: "$25 - $45"
 datetime:
-- June 16, 9pm
+- 2016-06-01 00:00:00 +10:00
 has-start-time: true
 is-single-date: true
 ---
 
 Following from Tresor 25 Years, presented in June 2016 with DJ Pete and Marcelus, [BUNKER](http://bunker-music.com) returns to The SUBSTATION to celebrate four years of Melbourne electronic music, featuring two special guests (to be announced) from the US and UK.
 
-_Presented by The SUBSTATION and Bunker._
+Presented by The SUBSTATION and Bunker.
