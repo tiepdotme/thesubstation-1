@@ -144,6 +144,7 @@ option[type="selected"] {
     @include textMetaHeadline();
     color: palette(text);
     display: block;
+    font-family: $font-text-regular;
 
     @include media-breakpoint-down(sm) {
         line-height: 2;
