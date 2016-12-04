@@ -8,14 +8,8 @@
 $footerRowSpacer: $blockSpace * 0.25;
 
 .c-footer {
-    //background-color: palette(neutral);
-    //padding: $blockSpace * 1.25 0;
     @include blockSpacePadding();
 	position: relative;
-
-
-    //background: linear-gradient(to bottom, palette(background), palette(neutral-dark) );
-
 
     p,
     ul,
@@ -23,6 +17,11 @@ $footerRowSpacer: $blockSpace * 0.25;
     span,
     a {
         @include textAside();
+    }
+
+    ul {
+        list-style-type: none;
+        margin-left: 0;
     }
 
     &--rule {
@@ -57,13 +56,21 @@ $footerRowSpacer: $blockSpace * 0.25;
     }
 }
 
-.c-footer-infoBlockWrapper > * {
+// footer address & contact details grid
+.c-footer-infoBlock > * {
+    // type
+    li {
+        line-height: 1.96;
+    }
+
+    // spacings
     &:not(:first-child) {
         margin-top: $blockSpace * 0.25;
     }
 
     @include media-breakpoint-up(md) {
         display: inline-block;
+        margin-bottom: 0;
 
         &:not(:first-child) {
             margin-top: 0;
@@ -79,17 +86,17 @@ $footerRowSpacer: $blockSpace * 0.25;
 }
 
 
-// footer typography
+// footer typography utils
 .u-footerRowItem {
     display: inline-block;
     line-height: $base-line-height-unit !important;
-    margin-top: calc( #{$footerRowSpacer} + 6px);
+    margin-top: calc( #{$footerRowSpacer} + 9px);
 }
 
 .u-footerBackTop {
     display: none;
     position: absolute;
-    top: 0;
+    top: 2px;
     right: space(1);
 
     @include media-breakpoint-up(sm) {

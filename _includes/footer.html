@@ -8,9 +8,7 @@ c-nav u-flexJustifyAround
 o-grid o-grid--spaceBetween
 {% endcomment %}
 
-<footer
-    class="c-footer
-    {% if page.layout == 'post' or page.layout == 'page' and page.url != '/404.html' %} c-footer--rule{% endif %}">
+<footer class="c-footer {% if page.layout == 'post' or page.layout == 'page' and page.url != '/404.html' %} c-footer--rule{% endif %}">
 
     {% if page.layout == 'post' or page.layout == 'page' or page.url == '/404.html' %}
         <div class="c-footer-nav c-nav">
@@ -21,24 +19,30 @@ o-grid o-grid--spaceBetween
 	<div class="c-footer-info">
 	    <div class="o-container">
             <div class="u-sm-size9of10">
-                <div class="c-footer-infoBlockWrapper">
-                    <div class="">
-                        <a href="{{ site.address-link }}">{{ site.address }}<br>{{ site.address-second }}</a><br>
-                        <a href="tel:{{ site.phone }}">T: {{ site.phone }}</a>
-                    </div>
-                    <div class="">
-                        <span>Gallery: {{ site.gallery-hours }}</span><br>
-                        <span>Office: {{ site.office-hours }}</span><br>
-                        <a href="mailto:{{ site.email }}">E: {{ site.email }}</a>
-                    </div>
-                    <div class="">
+                <div class="c-footer-infoBlock">
+                    <ul>
+                        <li><a href="{{ site.address-link }}">{{ site.address }}<br>{{ site.address-second }}</a></li>
+                        <li><a href="tel:{{ site.phone }}">T: {{ site.phone }}</a></li>
+                    </ul>
+                    <ul>
+                        <li>Gallery: {{ site.gallery-hours }}</li>
+                        <li>Office: {{ site.office-hours }}</li>
+                        <li><a href="mailto:{{ site.email }}">E: {{ site.email }}</a></li>
+                    </ul>
+                    <div>
                         {% include socials.html %}
                     </div>
                 </div>
             </div>
 
             {% if page.layout == 'post' or page.layout == 'page' %}
-                <a class="u-footerBackTop" href="#top">↑ Back to top</a>
+                <!-- <a class="u-footerBackTop" href="#top">↑ Back to top</a> -->
+                <a class="o-iconWrapper u-footerBackTop" href="#top">
+                    <svg class="o-icon o-icon--sm o-icon--left u-colorMedium">
+                        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#ic-up"></use>
+                    </svg>
+                    Back to top
+                </a>
             {% endif %}
 
 	    </div>

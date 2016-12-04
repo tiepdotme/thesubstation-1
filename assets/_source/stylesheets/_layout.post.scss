@@ -18,22 +18,22 @@
 //}
 
 .c-postGrid > * {
-    flex-basis: calc(100vw / 2);
-    @include media-breakpoint-up(sm) { flex-basis: calc(100vw / 3); }
-    @include media-breakpoint-up(xl) { flex-basis: calc(100vw / 5); }
+    flex-basis: calc(100% / 2);
+    @include media-breakpoint-up(sm) { flex-basis: calc(100% / 3); }
+    @include media-breakpoint-up(xl) { flex-basis: calc(100% / 5); }
 
     // Post-info grid
     @include when-inside(".c-post-info") {
         margin: 0;
-        flex-basis: calc(100vw / 4 - 3px); // 1.
-        // @include media-breakpoint-up(sm) { flex-basis: calc(100vw / 3); }
-        @include media-breakpoint-up(xl) { flex-basis: calc(100vw / 5); }
+        flex-basis: calc(100% / 4);
+        // @include media-breakpoint-up(sm) { flex-basis: calc(100% / 3); }
+        @include media-breakpoint-up(sm) { flex-basis: calc(100% / 7); }
     }
 
     // Post-info grid
     @include when-inside(".c-post-next") {
-        flex-basis: calc(100vw / 2);
-        @include media-breakpoint-up(sm) { flex-basis: calc(100vw / 5); }
+        flex-basis: calc(100% / 2);
+        @include media-breakpoint-up(sm) { flex-basis: calc(100% / 5); }
     }
 }
 
