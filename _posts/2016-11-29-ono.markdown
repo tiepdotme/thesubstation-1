@@ -7,7 +7,7 @@ image: "/uploads/ono.jpg"
 button-url: http://thesubstation.iwannaticket.com.au/event/ono-MTIwNjI
 price: Tickets from $30 + booking fee
 datetime:
-- Feb 24, 9pm
+- 2024-02-01 00:00:00 +11:00
 has-start-time: true
 is-single-date: true
 ---
@@ -16,4 +16,4 @@ Part music performance, part installation, ONO is a place to gather, listen and 
 
 Featuring [ALBRECHT LA’BROOY](http://soundcloud.com/analogueattic) (Analogue Attic), [BURNT FRIEDMAN](http://burntfriedman.com) (Nonplace/GER), [NUEL](http://soundcloud.com/nuel) (Aquaplano/ITA) and [SLEEP D](http://soundcloud.com/sleepd) (Butter Sessions).
 
-_Presented by The SUBSTATION and ONO._
+Presented by The SUBSTATION and ONO.
