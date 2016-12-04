@@ -6,8 +6,8 @@ categories:
 image: "/uploads/conflicted-vietnam-archive-project.jpg"
 presented-by: Phuong Ngo
 datetime:
-- 2017-05-12 18:30:00 AEST
-- 2017-07-01 17:00:00 AEST
+- 2017-05-12 18:30:00 +10:00
+- 2017-07-01 17:00:00 +10:00
 has-opening-event: true
 has-start-time: false
 has-mins: true
@@ -20,4 +20,4 @@ THE VIETNAM ARCHIVE PROJECT by [PHUONG NGO](http://www.pthngo.com) is an ongoing
 
 CONFLICTED explores the political and social aspects of war through the lens of service men and women. Utilising found images and objects from the VIETNAM ARCHIVE PROJECT, the exhibition comprises a series of intimate moments and large scale installations offering a nuanced and alternative reading of the Vietnam War.
 
-_Presented by The SUBSTATION and the Human Rights Arts and Film Festival._
+Presented by The SUBSTATION and the Human Rights Arts and Film Festival.
