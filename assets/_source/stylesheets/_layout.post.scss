@@ -143,8 +143,8 @@ a.c-postCell {
 }
 
 .FlexEmbed-ratio--heroVideo {
-    padding-bottom: 90%;
-    @include media-breakpoint-up(sm) { padding-bottom: 56.25%; }
+    padding-bottom: 56.25%;
+    // @include media-breakpoint-up(sm) { padding-bottom: 56.25%; }
 }
 
 .c-post-hgroup {
