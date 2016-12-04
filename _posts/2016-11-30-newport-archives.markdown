@@ -5,13 +5,13 @@ categories:
 - whats-on
 image: "/uploads/newport-archives-2017.jpg"
 image-credit: Suzie Blake
-presented-by: Permanent Artwork by Tamara Saulwick
 button-url: mailto:info@thesubstation.org.au
 button-txt: by appointment
+presented-by: Permanent Artwork by Tamara Saulwick
 price: Free
 datetime:
-- TUES, 10 JAN 2017
-- SAT, 16 DEC 2017
+- 2017-01-10 11:00:00 +11:00
+- 2017-12-16 11:00:00 +11:00
 has-start-time: false
 is-months-duration: true
 is-within-gallery-open-time: true
@@ -23,5 +23,6 @@ NEWPORT ARCHIVES is an audio tour commissioned by The SUBSTATION in 2016, which 
 
 Newport Archives is available by appointment. Email [info@thesubstation.org.au](mailto:info@thesubstation.org.au) to book. Each session runs for 40 minutes.
 
-_Audio Design by JOE TALIA._<br>
-_Commissioned by The SUBSTATION._
+Audio Design by JOE TALIA.<br>
+
+Commissioned by The SUBSTATION.
