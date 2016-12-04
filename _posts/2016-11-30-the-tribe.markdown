@@ -9,16 +9,16 @@ button-url: http://thesubstation.iwannaticket.com.au/event/the-tribe-MTIwNjM
 presented-by: Urban Theatre Projects
 price: "$35 / $25 + BOOKING FEE"
 datetime:
-- March 30
-- March 31
-- April 1
-is-list-of-datetime: true
+- 2001-03-30 10:00:00 +10:00
+- 2001-03-31 10:00:00 +10:00
+- 2001-04-01 10:00:00 +10:00
 notes: host the tribe in your backyard. Open call February 2017
 supporters:
 - Australia Council of Arts
 - Hobsons Bay City Council
-- Creative Victoria
-- Liquid Architecture
+- 
+- 
+is-list-of-datetime: true
 ---
 
 ## LIVE FROM A BACKYARD IN NEWPORT
@@ -29,13 +29,13 @@ Performed by HAZEM SHAMMAS, THE TRIBE is a story of belonging and family, told b
 
 Taking place in a Newport backyard, performed alongside cellist and composer OONAGH SHERRARD, SHAMMAS’s Bani is like a visionary child channeling a Bedouin storyteller. Based on MICHAEL MOHAMMED AHMAD’s award-winning novel, [THE TRIBE](http://giramondopublishing.com/product/the-tribe) is an open invitation to listen to an Arab-Australian story from our backyard, in our backyards.
 
-_Adapted by Michael Mohammed Ahmad and Janice Muller._<br>
-_Based on the novel by Michael Mohammed Ahmad._
+Adapted by Michael Mohammed Ahmad and Janice Muller.<br>
+Based on the novel by Michael Mohammed Ahmad.
 
-_Director: Janice Muller_<br>
-_Performer: Hazem Shammas_<br>
-_Composer and Performer: Oonagh Sherrard_<br>
-_Production Manager: Frank Mainoo_<br>
-_Producer: Urban Theatre Projects_
+Director: Janice Muller<br>
+Performer: Hazem Shammas<br>
+Composer and Performer: Oonagh Sherrard<br>
+Production Manager: Frank Mainoo<br>
+Producer: Urban Theatre Projects
 
-_Presented by The SUBSTATION and Urban Theatre Projects._
+Presented by The SUBSTATION and Urban Theatre Projects.
