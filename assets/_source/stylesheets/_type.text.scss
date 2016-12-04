@@ -86,7 +86,7 @@
 @mixin textMeta() {
 	@include textTemplate(
     	$mixinSize: text--meta,
-    	$mixinFont: $font-text-bold,
+    	$mixinFont: $font-text-medium,
         $mixinLetterSpacing: 0.075em
     );
     margin-bottom: $paragraphSpace * 0.5;
@@ -99,8 +99,9 @@
 
 @mixin textMetaHeadline() {
     @include textTemplate(
-        $mixinColor: palette(medium),
+        $mixinColor: palette(text),
         $mixinSize: text--xs,
+    	$mixinFont: $font-text-bold,
         $mixinLetterSpacing: 0.075em,
         $mixinLineHeight: 1.96
     );

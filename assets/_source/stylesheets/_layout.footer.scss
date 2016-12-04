@@ -83,7 +83,7 @@ $footerRowSpacer: $blockSpace * 0.25;
 .u-footerRowItem {
     display: inline-block;
     line-height: $base-line-height-unit !important;
-    margin-top: calc( #{$footerRowSpacer} + 3px);
+    margin-top: calc( #{$footerRowSpacer} + 6px);
 }
 
 .u-footerBackTop {

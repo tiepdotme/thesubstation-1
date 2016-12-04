@@ -55,11 +55,21 @@
 	}
 
 	&--postInfo {
-		@include container( container-width(xl) );
-
+		@include container( container-width(lg) );
 		//padding: 0;
-		@include media-breakpoint-up(xs) { padding: 0 !important; }
-		@include media-breakpoint-up(lg) { padding: 0 space(1.5); }
+
+		@include media-breakpoint-up(xs) {
+			padding: 0 !important;
+		}
+
+		@include media-breakpoint-up(xl) {
+			// @include container( container-width(xl) );
+			padding: 0 space(1.5);
+		}
+
+		@include media-breakpoint-up(su) {
+			@include container( container-width(xl) );
+		}
 	}
 }
 

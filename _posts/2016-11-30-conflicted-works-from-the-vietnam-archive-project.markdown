@@ -12,7 +12,7 @@ has-opening-event: true
 has-start-time: false
 has-mins: true
 is-within-gallery-open-time: true
-artists-talk: Saturday 13 May, 2.00pm
+artists-talk: 2017-05-13 14:00:00 AEST
 supporters: Creative Victoria
 ---
 

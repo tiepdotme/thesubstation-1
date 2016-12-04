@@ -57,8 +57,8 @@ u-smDown-blockR--3by4
                 {% endcomment %}
 
                 {% if page.supporters %}
-                    <div class="c-post-meta c-post-meta--supportersRule">
-                        <p><span>Supported by:</span></p>
+                    <div class="c-post-endBlock">
+                        Supported by:
 
                         <div class="c-post-supporters">
 
@@ -83,12 +83,12 @@ u-smDown-blockR--3by4
                 {% endcomment %}
 
                 {% if page.image-credit or page.categories contains 'archive' %}
-                    <div class="c-post-meta c-post-meta--endRule">
+                    <div class="c-post-endBlock">
                         {% if page.image-credit %}
-                            <p><span>Image credit: {{ page.image-credit }}</span></p>
+                            Image credit: {{ page.image-credit }}
                         {% endif %}
                         {% if page.categories contains 'archive' %}
-                            <p><span>This show is <a href="/archive">archived</a>. It originally ran in {{ page.datetime | first | date: "%Y" }}.</span></p>
+                            <br>This show is <a href="/archive">archived</a>. It originally ran in {{ page.datetime | first | date: "%Y" }}.
                         {% endif %}
                     </div>
                 {% endif %}
@@ -137,7 +137,7 @@ u-smDown-blockR--3by4
                 <div class="Grid-cell ">
                     <div class="c-post-next">
                         <h3 class="c-nav-item"><a class="is-active" href="/{{ categoryName }}">More {{ categoryName | replace: '-', ' ' }}</a></h3>
-                        <div class="o-grid c-postGrid--inPost">
+                        <div class="o-grid c-postGrid">
 
                             {% for post in site.categories[categoryName] limit: 5 %}
                                 {% comment %}
@@ -160,7 +160,7 @@ u-smDown-blockR--3by4
                 <div class="Grid-cell ">
                     <div class="c-post-next">
                         <h3 class="c-nav-item"><a class="is-active" href="/{{ collectionName }}">More {{ collectionName | replace: '-', ' ' }}</a></h3>
-                        <div class="o-grid c-postGrid--inPost">
+                        <div class="o-grid c-postGrid">
 
                             {% for post in site[collectionName] limit: 5 %}
                                 {% if !post.current %}

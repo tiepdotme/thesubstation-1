@@ -12,8 +12,8 @@ price:
 - "$22 GROUP 6+"
 - "$25 STANDARD"
 datetime:
-- 2016-09-21 06:00:00 +10:00
-- 2016-09-26 06:00:00 +10:00
+- 2016-09-21 18:00:00 +10:00
+- 2016-09-26 18:00:00 +10:00
 has-start-time: true
 has-mins: true
 event-duration-txt: for 35 mins

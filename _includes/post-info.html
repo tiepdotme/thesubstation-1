@@ -230,21 +230,23 @@
     {% endif %}
 
     {% if page.is-within-gallery-open-time %}
-        <div class="c-post-meta c-post-meta--notes">
+        <div class="c-post-meta">
             <span>Gallery open:</span>
             <p>TUES–SAT, 11AM–5PM</p>
         </div>
     {% endif %}
 
     {% if page.artists-talk %}
-        <div class="c-post-meta c-post-meta--notes">
+        <div class="c-post-meta">
             <span>Artist's talk:</span>
-            <p>{{ page.artists-talk }}</p>
+            <p>
+                {{ page.artists-talk | date: "%a %B %d" }}, {{ page.artists-talk | date: "%l:%M%p" }}
+            </p>
         </div>
     {% endif %}
 
     {% if page.notes %}
-        <div class="c-post-meta c-post-meta--notes">
+        <div class="c-post-meta">
             <span>Note:</span>
             {% for note in page.notes %}
             <p>{{ note }}</p>

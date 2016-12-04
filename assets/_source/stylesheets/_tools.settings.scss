@@ -82,6 +82,7 @@ $grid-breakpoints: (
 	sm: 544px,
 	md: 768px,
 	lg: 992px,
+	lg-for-container-lg: 1080px,
 	xl: 1200px,
 	su: 1700px
 ) !default;
@@ -89,7 +90,7 @@ $grid-breakpoints: (
 $container-max-widths: (
 	sm: 576px,
 	md: 660px,
-	lg: 1040px,
+	lg: 1080px,
 	xl: 1200px,
 	su: 1700px,
 ) !default;
@@ -110,7 +111,7 @@ $fontsizes: (
 		rg            : 14px
 	),
     text--meta: (
-        xs            : 12px,
+        xs            : 11px,
         sm            : 13px,
         rg            : 15px
     ),
