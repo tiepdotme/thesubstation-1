@@ -7,8 +7,8 @@ image: "/uploads/the-megaphone-project.jpg"
 presented-by: Madeleine Flynn & Tim Humphrey
 price: FREE
 datetime:
-- 2001-04-05 10:00:00 +10:00
-- 2001-04-09 10:00:00 +10:00
+- 2017-04-05 10:00:00 +10:00
+- 2017-04-09 17:00:00 +10:00
 is-within-gallery-open-time: true
 notes: suitable for all ages, children and families
 supporters:
