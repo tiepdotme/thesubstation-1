@@ -9,7 +9,9 @@ price: FREE
 datetime:
 - 2017-04-05 10:00:00 +10:00
 - 2017-04-09 17:00:00 +10:00
-is-within-gallery-open-time: true
+has-start-time: false
+is-opening-hours-time: true
+is-within-gallery-open-time: false
 notes: suitable for all ages, children and families
 supporters:
 - Creative Victoria
