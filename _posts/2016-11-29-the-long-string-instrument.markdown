@@ -8,7 +8,7 @@ button-url: https://thesubstation.iwannaticket.com.au/event/long-string-instrume
 presented-by: Ellen Fullman with Theresa Wong (USA)
 price: "$25 + BOOKING FEE"
 datetime:
-- 2027-01-01 00:00:00 +11:00
+- 2017-01-27 20:00:00 +11:00
 has-start-time: true
 is-single-date: true
 is-single-time-duration: true
