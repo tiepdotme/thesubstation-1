@@ -9,7 +9,7 @@ button-url: http://thesubstation.iwannaticket.com.au/event/xiu-xiu-plays-the-mus
 presented-by: Xiu Xiu (USA)
 price: "$30 + booking fee"
 datetime:
-- 2023-05-31 23:00:00 +10:00
+- 2017-06-23 20:00:00 +10:00
 has-start-time: true
 is-single-date: true
 supporters: Room40
