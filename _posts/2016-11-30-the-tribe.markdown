@@ -9,9 +9,9 @@ button-url: http://thesubstation.iwannaticket.com.au/event/the-tribe-MTIwNjM
 presented-by: Urban Theatre Projects
 price: "$35 / $25 + BOOKING FEE"
 datetime:
-- 2001-03-30 10:00:00 +10:00
-- 2001-03-31 10:00:00 +10:00
-- 2001-04-01 10:00:00 +10:00
+- 2017-03-30 19:30:00 +11:00
+- 2017-03-31 19:30:00 +11:00
+- 2017-04-01 19:30:00 +11:00
 notes: host the tribe in your backyard. Open call February 2017
 supporters:
 - Australia Council of Arts
