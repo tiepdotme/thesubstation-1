@@ -8,8 +8,8 @@ image-credit: 'Brook Andrew, The Cell. 2010. Photo: Roger D''Souza'
 presented-by: Brook Andrew
 price: FREE
 datetime:
-- 2001-05-26 10:00:00 +10:00
-- 2001-06-10 10:00:00 +10:00
+- 2017-05-26 11:00:00 +10:00
+- 2017-06-10 17:00:00 +10:00
 is-within-gallery-open-time: true
 supporters:
 - Creative Victoria
