@@ -10,8 +10,9 @@ datetime:
 - 2017-04-05 10:00:00 +10:00
 - 2017-04-09 17:00:00 +10:00
 has-start-time: false
-is-opening-hours-time: true
+is-opening-hours-time: false
 is-within-gallery-open-time: false
+event-duration-txt: 10am - 5pm
 notes: suitable for all ages, children and families
 supporters:
 - Creative Victoria
