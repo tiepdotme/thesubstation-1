@@ -15,7 +15,7 @@ has-mins: true
 is-opening-hours-time: false
 is-months-duration: false
 is-within-gallery-open-time: true
-artists-talk: Saturday 25 March, 2.00pm
+artists-talk: 2017-03-25 14:00:00 AEST
 supporters: Creative Victoria
 ---
 
