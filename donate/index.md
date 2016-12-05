@@ -1,7 +1,7 @@
 ---
 title: Donate
 permalink: "/donate/"
-image: "/uploads/the-substation-support-us.jpg"
+image: "/uploads/the-substation-donate.jpg"
 button-url: https://www.givenow.com.au/hobsonsbaycommunityartscentre
 button-txt: donate
 sections:
