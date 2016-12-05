@@ -7,7 +7,7 @@ image: "/uploads/bunker.jpg"
 image-credit: Duncan Jacob
 price: "$25 - $45"
 datetime:
-- 2016-06-01 00:00:00 +10:00
+- 2017-06-16 21:00:00 +10:00
 has-start-time: true
 is-single-date: true
 ---
