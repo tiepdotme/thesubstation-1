@@ -8,6 +8,7 @@ image-credit: Catherine Cranston
 button-url: http://thesubstation.iwannaticket.com.au/event/the-tribe-MTIwNjM
 presented-by: Urban Theatre Projects
 price: "$35 / $25 + BOOKING FEE"
+is-on-home-page: true
 datetime:
 - 2017-03-30 19:30:00 +11:00
 - 2017-03-31 19:30:00 +11:00
@@ -16,8 +17,8 @@ notes: host the tribe in your backyard. Open call February 2017
 supporters:
 - Australia Council of Arts
 - Hobsons Bay City Council
-- 
-- 
+-
+-
 is-list-of-datetime: true
 ---
 

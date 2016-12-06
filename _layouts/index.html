@@ -62,8 +62,11 @@ layout: default
 
     {% assign categoryName = 'whats-on' %}
     <div class="o-grid c-postGrid" style="margin-top:2px">
-        {% for post in site.categories[categoryName] limit: 4 %}
-            {% include post-cell-alt.html %}
+        {% assign homePosts = site.categories[categoryName] | sort: "date" %}
+        {% for post in homePosts %}
+            {% if post.is-on-home-page %}
+                {% include post-cell-alt.html %}
+            {% endif %}
         {% endfor %}
     </div>
 </div>
