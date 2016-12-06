@@ -9,6 +9,7 @@ presented-by: Emma Collard & Rafaella McDonald
 datetime:
 - 2017-02-03 18:30:00 +11:00
 - 2017-03-11 17:00:00 +11:00
+is-on-home-page: true
 has-opening-event: true
 is-within-gallery-open-time: true
 artists-talk: 2017-02-04 14:00:00 AEST with LIVE PERFORMANCE
