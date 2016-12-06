@@ -8,10 +8,10 @@ image-credit: Amanda Betlehem
 presented-by: ROBBIE AVENAIM
 price:
 - Free
-is-on-home-page: true
 datetime:
-- 2016-11-17 19:00:00 AEST
-- 2016-12-17 17:00:00 AEST
+- 2016-11-17 19:00:00 +11:00
+- 2016-12-17 17:00:00 +11:00
+is-on-home-page: false
 has-opening-event: true
 is-within-gallery-open-time: true
 supporters: Creative Victoria
