@@ -9,6 +9,7 @@ presented-by: Ellen Fullman with Theresa Wong (USA)
 price: "$25 + BOOKING FEE"
 datetime:
 - 2017-01-27 20:00:00 +11:00
+is-on-home-page: true
 has-start-time: true
 is-single-date: true
 is-single-time-duration: true
