@@ -17,8 +17,8 @@ notes: host the tribe in your backyard. Open call February 2017
 supporters:
 - Australia Council of Arts
 - Hobsons Bay City Council
--
--
+- 
+- 
 is-list-of-datetime: true
 ---
 
