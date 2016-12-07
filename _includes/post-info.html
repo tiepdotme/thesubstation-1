@@ -240,7 +240,7 @@
         <div class="c-post-meta">
             <span>Artist's talk:</span>
             <p>
-                {{ page.artists-talk | date: "%a %B %d" }}, {{ page.artists-talk | date: "%l:%M%p" }}
+                {{ page.artists-talk[0] | date: "%a %B %d" }}, {{ page.artists-talk[0] | date: "%l:%M%p" }} {{ page.artists-talk[1] }}
             </p>
         </div>
     {% endif %}
