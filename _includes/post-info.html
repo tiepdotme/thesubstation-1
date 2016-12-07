@@ -239,8 +239,14 @@
     {% if page.artists-talk %}
         <div class="c-post-meta">
             <span>Artist's talk:</span>
+            {% assign date = page.artists-talk[date] %}
+
+            {% if date %}
+                <p>{{ date | date: "%a %B %d" }}</p>
+            {% endif %}
+
             <p>
-                {{ page.artists-talk[0] | date: "%a %B %d" }}, {{ page.artists-talk[0] | date: "%l:%M%p" }} {{ page.artists-talk[1] }}
+                {{ page.artists-talk.date | date: "%a %B %d" }}, {{ page.artists-talk.date | date: "%l:%M%p" }} {{ page.artists-talk.note }}
             </p>
         </div>
     {% endif %}
