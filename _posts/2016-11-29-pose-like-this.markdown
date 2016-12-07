@@ -13,8 +13,8 @@ is-on-home-page: true
 has-opening-event: true
 is-within-gallery-open-time: true
 artists-talk:
-- 2017-02-04 14:00:00 AEST
-- with LIVE PERFORMANCE
+- date: 2017-02-04 14:00:00 +11:00
+- note: with LIVE PERFORMANCE
 notes: 'CATWALK FASHION SHOW BY RAFAELLA MCDONALD: SAT 11 MARCH, 5PM'
 supporters: Creative Victoria
 ---
