@@ -16,6 +16,8 @@ has-mins: true
 is-opening-hours-time: false
 is-months-duration: false
 is-within-gallery-open-time: true
+artists-talk:
+  date: 2017-03-25 14:00:00 +11:00
 supporters: Creative Victoria
 ---
 
