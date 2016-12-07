@@ -5,10 +5,10 @@ categories:
 - whats-on
 image: "/uploads/caves-offsite.jpg"
 presented-by: Curated by Storm Gold & Kez Hughes
-is-on-home-page: true
 datetime:
 - 2017-03-24 18:30:00 +11:00
 - 2017-04-29 17:00:00 +10:00
+is-on-home-page: true
 has-opening-event: true
 has-preview-event: false
 has-start-time: false
@@ -16,7 +16,6 @@ has-mins: true
 is-opening-hours-time: false
 is-months-duration: false
 is-within-gallery-open-time: true
-artists-talk: 2017-03-25 14:00:00 AEST
 supporters: Creative Victoria
 ---
 
