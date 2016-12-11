@@ -23,22 +23,22 @@ sections:
   copy: |
     **Brad Spolding**<br>
     _Director_<br>
-    [director@thesubstation.org.au](mailto:director@thesubstation.org.au)
+    [director (@) thesubstation.org.au](mailto:director@thesubstation.org.au)
 
     **Kali Michailidis**<br>
     _General Manager_<br>
-    [manager@thesubstation.org.au](mailto:manager@thesubstation.org.au)
+    [manager (@) thesubstation.org.au](mailto:manager@thesubstation.org.au)
 
     **Marisa Fiume**<br>
     _Events Manager_<br>
-    [events@thesubstation.org.au](mailto:events@thesubstation.org.au)
+    [events (@) thesubstation.org.au](mailto:events@thesubstation.org.au)
 
     **Jon Hawkes**<br>
     _Finance Manager_<br>
-    [accounts@thesubstation.org.au](mailto:accounts@thesubstation.org.au)
+    [accounts (@) thesubstation.org.au](mailto:accounts@thesubstation.org.au)
 
     **General Enquiries**<br>
-    [info@thesubstation.org.au](mailto:info@thesubstation.org.au)<br>
+    [info( @) thesubstation.org.au](mailto:info@thesubstation.org.au)<br>
     T: [(03) 9391 1110](tel:9391 1110)
 
     In addition to our staff, The SUBSTATION also relies heavily upon the tireless efforts of our volunteers.
