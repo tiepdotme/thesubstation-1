@@ -69,8 +69,12 @@ sections:
     To register your interest for volunteering with us, please contact Kali Michailidis, General Manager:
     - Email: [manager@thesubstation.org.au](mailto:manager@thesubstation.org.au)
     - Tel: (03) 9391 1110
-supporters:
-- Gandel Philanthropy
+  '5.':
+    title: Organisation Supporters
+    supporters: Gandel Philanthropy
+Field name:
+  title: Organisational Supporters
+  supporters: Gandel Philanthropy
 layout: page
 ---
 
