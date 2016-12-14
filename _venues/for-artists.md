@@ -10,5 +10,5 @@ The Substation presents a curated program of artist development, residencies and
 
 Artists wishing to enquire about using our spaces should contact either of:
 
-* Brad Spolding, Director, [director@thesubstation.org.au](mailto:director@thesubstation.org.au)
-* Kali Michailidis, General Manager, [manager@thesubstation.org.au](mailto:manager@thesubstation.org.au)
+* Brad Spolding, Director, [director (@) thesubstation.org.au](mailto:director@thesubstation.org.au)
+* Kali Michailidis, General Manager, [manager (@) thesubstation.org.au](mailto:manager@thesubstation.org.au)
