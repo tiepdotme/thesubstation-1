@@ -7,6 +7,11 @@ layout: default
 
         {% if page.vimeo %}
 
+            {% comment %}
+                vimeo looping doesn't work: &loop=1
+                www.vimeorepeat.com ?
+            {% endcomment %}
+
             <div class="FlexEmbed">
                 <div class="FlexEmbed-ratio FlexEmbed-ratio--heroVideo"></div>
                 <div class="FlexEmbed-content">
