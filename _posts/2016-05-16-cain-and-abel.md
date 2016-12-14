@@ -20,7 +20,9 @@ has-preview-night: true
 has-start-time: true
 program-alt-start-time: SUN JULY 24 starts at 6PM
 event-duration-txt: for 60 minutes
-notes: 'ARTISTS POST-SHOW TALK: TUESDAY JULY 26, 8:30pm'
+artists-talk:
+    date: TUESDAY JULY 26, 8:30pm
+    note: ARTISTS POST-SHOW TALK
 presented-by: the rabble
 supporters:
 - Australia Council of Arts

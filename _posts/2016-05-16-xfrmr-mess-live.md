@@ -14,7 +14,6 @@ datetime:
 is-list-of-datetime: true
 has-start-time: true
 presented-by: Robbie Thomson
-notes: false
 supporters:
 - Creative Victoria
 - Sonica

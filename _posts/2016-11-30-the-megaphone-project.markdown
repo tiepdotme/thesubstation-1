@@ -13,7 +13,8 @@ has-start-time: false
 is-opening-hours-time: false
 is-within-gallery-open-time: false
 event-duration-txt: 10am - 5pm
-notes: suitable for all ages, children and families
+notes:
+    note: suitable for all ages, children and families
 supporters:
 - Creative Victoria
 ---

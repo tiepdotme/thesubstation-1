@@ -101,7 +101,7 @@
     @include textTemplate(
         $mixinColor: palette(text),
         $mixinSize: text--xs,
-    	$mixinFont: $font-text-bold,
+    	$mixinFont: $font-text-black,
         $mixinLetterSpacing: 0.075em,
         $mixinLineHeight: 1.96
     );

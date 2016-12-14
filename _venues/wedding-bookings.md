@@ -5,7 +5,8 @@ current: true
 image: "/uploads/the-substation-wedding-bookings.jpg"
 button-url: "/uploads/the-substation-wedding-hire-pack-2017.pdf"
 button-txt: wedding pack
-notes: Please note, we have NO AVAILABLE DATES left for weekend bookings in 2016.
+notes:
+  note: Please note, we have NO AVAILABLE DATES left for weekend bookings in 2016.
 has-javascripts: true
 has-form: true
 ---

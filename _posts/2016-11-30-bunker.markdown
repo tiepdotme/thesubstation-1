@@ -10,7 +10,8 @@ datetime:
 - 2017-06-16 21:00:00 +10:00
 has-start-time: true
 is-single-date: true
-notes: TICKETS ON SALE EARLY 2017
+notes:
+  note: TICKETS ON SALE EARLY 2017
 ---
 
 Following Tresor 25 Years, presented in June 2016 with DJ Pete and Marcelus, [BUNKER](http://bunker-music.com) returns to The SUBSTATION to celebrate four years of Melbourne electronic music, featuring two special guests (to be announced) from the US and UK.

@@ -11,7 +11,9 @@ datetime:
 - 2016-08-06 15:00:00 AEST
 has-opening-event: true
 has-closing-event: true
-notes: 'Free artist talk: SAT JULY 02, 5.30-6.30PM'
+artists-talk:
+    date: 2016-07-02 17:30:00 AEST
+    note: for one hour
 presented-by: Nikki Lam
 supporters: Creative Victoria
 ---

@@ -14,7 +14,6 @@ is-list-of-datetime: true
 has-start-time: true
 event-duration-txt: for 120 mins
 presented-by: PROJECTOR BIKE
-notes: false
 supporters:
 - Hobsons Bay City Council
 ---

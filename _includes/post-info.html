@@ -173,21 +173,6 @@
 
 
     {% comment %}
-        ----------------------------------------
-        Newport library opening hours
-        ----------------------------------------
-    {% endcomment %}
-    {% if page.title contains 'Library' %}
-    <div class="c-post-meta">
-        <span>Opening hours:</span>
-        <p>MON-THURS, 10AM-5PM</p>
-        <p>FRI, 8AM-6PM</p>
-        <p>SAT, 10AM-1PM</p>
-    </div>
-    {% endif %}
-
-
-    {% comment %}
         ----------------------------
         free-artist-talk (free text)
         ----------------------------
@@ -245,13 +230,34 @@
         </div>
     {% endunless %}
 
-    {% if page.notes %}
+    {% unless page.notes.note == null %}
         <div class="c-post-meta">
             <span>Note:</span>
+            {% comment %}
             {% for note in page.notes %}
             <p>{{ note }}</p>
             {% endfor %}
+            {% endcomment %}
+            <p>
+                {% if page.notes.date %}{{ page.notes.date | date: "%a %B %d" }}, {{ page.notes.date | date: "%l:%M%p" }}{% endif %}
+                {{ page.notes.note }}
+            </p>
         </div>
+    {% endunless %}
+
+
+    {% comment %}
+        ----------------------------------------
+        Newport library opening hours
+        ----------------------------------------
+    {% endcomment %}
+    {% if page.title contains 'Library' %}
+    <div class="c-post-meta">
+        <span>Opening hours:</span>
+        <p>MON-THURS, 10AM-5PM</p>
+        <p>FRI, 8AM-6PM</p>
+        <p>SAT, 10AM-1PM</p>
+    </div>
     {% endif %}
 
 

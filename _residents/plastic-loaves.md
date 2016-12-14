@@ -6,7 +6,8 @@ current: true
 image: "/uploads/plastic-loaves-credit-by-plastic-loaves.jpg"
 image-credit: Plastic Loaves
 price: false
-notes: Visit the <a href="http://www.plasticloaves.com/">Plastic Loaves website</a>
+notes:
+  note: Visit the <a href="http://www.plasticloaves.com/">Plastic Loaves website</a>
 supporters: false
 ---
 

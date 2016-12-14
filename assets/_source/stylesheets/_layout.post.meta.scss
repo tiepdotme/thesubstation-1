@@ -47,6 +47,11 @@
         margin-bottom: 0;
     }
 
+    p a {
+        @include underlineLink();
+        letter-spacing: 0.075em;
+    }
+
 
     // for when there's only one meta item
     // -----------------------------------

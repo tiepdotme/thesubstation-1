@@ -5,7 +5,8 @@ position: 1
 current: true
 image: "/uploads/the-rabble.jpg"
 price: false
-notes: Visit <a href="http://therabble.com.au/">the Rabble website</a>
+notes:
+  note: Visit <a href="http://therabble.com.au/">the Rabble website</a>
 supporters: false
 ---
 

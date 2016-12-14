@@ -15,7 +15,9 @@ is-within-gallery-open-time: true
 artists-talk:
   date: 2017-02-04 14:00:00 +11:00
   note: with live performance
-notes: SAT MARCH 11, 5.00PM  CATWALK FASHION SHOW BY RAFAELLA MCDONALD
+notes:
+  date: 2017-03-11 17:00:00 +11:00
+  note: CATWALK FASHION SHOW BY RAFAELLA MCDONALD
 supporters: Creative Victoria
 ---
 
