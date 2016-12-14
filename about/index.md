@@ -72,9 +72,6 @@ sections:
   '5.':
     title: Organisation Supporters
     supporters: Gandel Philanthropy
-Field name:
-  title: Organisational Supporters
-  supporters: Gandel Philanthropy
 layout: page
 ---
 
