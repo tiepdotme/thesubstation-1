@@ -13,7 +13,7 @@ has-start-time: false
 has-mins: true
 is-within-gallery-open-time: true
 artists-talk:
-  date: 2017-05-13 14:00:00 AEST
+  date: 2017-05-13 14:00:00 +10:00
 supporters:
 - Creative Victoria
 ---
