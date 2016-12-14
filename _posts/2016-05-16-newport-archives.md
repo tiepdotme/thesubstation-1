@@ -15,7 +15,8 @@ datetime:
 is-single-date: true
 event-duration-txt: 40 mins
 notes:
-    note: 'This event is not wheelchair accessible. For more info, visit <a href="http://www.openhousemelbourne.org/">Open House Melbourne</a>'
+  note: This event is not wheelchair accessible. For more info, visit <a href="http://www.openhousemelbourne.org/">Open
+    House Melbourne</a>
 supporters:
 - Besen
 - Creative Victoria

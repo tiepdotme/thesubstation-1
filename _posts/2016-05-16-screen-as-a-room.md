@@ -12,8 +12,8 @@ datetime:
 has-opening-event: true
 has-closing-event: true
 artists-talk:
-    date: 2016-07-02 17:30:00 AEST
-    note: for one hour
+  date: 2016-07-02 17:30:00 AEST
+  note: for one hour
 presented-by: Nikki Lam
 supporters: Creative Victoria
 ---
