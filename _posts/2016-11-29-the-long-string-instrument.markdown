@@ -13,6 +13,8 @@ is-on-home-page: true
 has-start-time: true
 is-single-date: true
 is-single-time-duration: true
+notes:
+  note: 'NOTE: This is a seated event'
 supporters:
 - Liquid Architecture
 - Room40
