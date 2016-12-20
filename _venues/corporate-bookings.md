@@ -1,6 +1,5 @@
 ---
 title: Corporate bookings
-published: false
 tags:
 - venues
 - Melbourne
