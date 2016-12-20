@@ -1,14 +1,5 @@
 ---
 title: Corporate bookings
-tags:
-- venues
-- Melbourne
-- meeting room hire
-- conference venue
-- large hire space melbourne
-- corporate venue hire
-- corporate bookings
-- large event booking
 position: 1
 current: true
 image: "/uploads/the-substation-corporate-bookings.jpg"
