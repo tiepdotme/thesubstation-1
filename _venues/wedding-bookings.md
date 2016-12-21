@@ -5,8 +5,6 @@ current: true
 image: "/uploads/the-substation-wedding-bookings.jpg"
 button-url: "/uploads/the-substation-wedding-hire-pack-2017.pdf"
 button-txt: wedding pack
-notes:
-  note: 
 has-javascripts: true
 has-form: true
 ---
