@@ -97,4 +97,5 @@ $Button: (
 .Button.is-disabled {
   cursor: default;
   opacity: var(--Button-disabled-opacity);
+  opacity: map-fetch($Button, Button-disabled-opacity);
 }
