@@ -6,7 +6,7 @@ image: "/uploads/the-substation-wedding-bookings.jpg"
 button-url: "/uploads/the-substation-wedding-hire-pack-2017.pdf"
 button-txt: wedding pack
 has-javascripts: true
-has-form: 
+has-form: true
 ---
 
 <!-- http://jekyllrb.com/docs/templates/#link -->
