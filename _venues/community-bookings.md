@@ -7,4 +7,6 @@ has-javascripts: true
 has-form: true
 ---
 
-The Substation understands the time and planning it takes to run a successful conference, AGM or event. Simply fill in the form below, and we'll contact you within 24 hours to discuss your needs.
+The SUBSTATION is dedicated to working with the local community through venue hire. The SUBSTATION has a number of hires each year allocated to community bookings. Community bookings provide opportunities for The Substation to engage in activities within their community. 
+
+If you are a local not for profit community organisation please fill in a form below or alternatively contact Marisa Fiume on 9391 1110 or events@thesubstation.org.au to discuss your event 
