@@ -4,7 +4,7 @@ position: 2
 current: true
 image: "/uploads/the-substation-wedding-bookings.jpg"
 button-url: 
-button-txt: wedding pack
+button-txt: 
 has-javascripts: true
 has-form: true
 ---
