@@ -38,12 +38,12 @@
 }
 
 // 1px border for each cell
-.c-postGrid .c-postCell:not(:first-child),
-.c-postGrid--inPost .c-postCell:not(:first-child) {
-    .FlexEmbed {
-        margin-left: 1px;
-    }
-}
+//.c-postGrid .c-postCell:not(:first-child),
+//.c-postGrid--inPost .c-postCell:not(:first-child) {
+//    .FlexEmbed {
+//        margin-left: 1px;
+//    }
+//}
 
 // Cell height
 .c-postGrid .FlexEmbed-ratio {
@@ -71,8 +71,13 @@
 a.c-postCell {
 	@include complexLink();
 	border: 0;
-	margin-bottom: 1px;
+	//margin: 1px;
 	position: relative;
+
+    // add the border here to simplify the flex-basis calculations
+    .FlexEmbed {
+        margin: 0.5px;
+    }
 
 	@include on-event() {
         .c-postCell-image {
