@@ -12,7 +12,7 @@ datetime:
 - 2017-03-30 19:30:00 +11:00
 - 2017-03-31 19:30:00 +11:00
 - 2017-04-01 19:30:00 +11:00
-is-on-home-page: false
+is-on-home-page: true
 notes:
   note: host the tribe in your backyard. Open call February 2017
 supporters:
