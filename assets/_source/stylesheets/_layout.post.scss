@@ -137,8 +137,11 @@ a.c-postCell {
 
 .FlexEmbed-ratio--hero {
     padding-bottom: 90%;
-    @include media-breakpoint-up(sm) { padding-bottom: 56.25%; padding-bottom: 50vh; }
-    @include media-breakpoint-up(xl) { padding-bottom: 50%; padding-bottom: 82vh; }
+    @include media-breakpoint-up(sm) { padding-bottom: 56.25%; }
+    @include media-breakpoint-up(xl) { padding-bottom: 50%; }
+
+    //@include media-breakpoint-up(sm) { padding-bottom: 56.25%; padding-bottom: 50vh; }
+    //@include media-breakpoint-up(xl) { padding-bottom: 50%; padding-bottom: 82vh; }
 
     //@include when-inside(".c-content--page") {
     //    //padding-bottom: 45%;
