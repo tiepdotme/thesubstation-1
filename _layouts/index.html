@@ -63,7 +63,7 @@ layout: default
     </a>
 
     {% assign categoryName = 'whats-on' %}
-    <div class="o-grid c-postGrid" style="margin-top:2px">
+    <div class="o-grid c-postGrid" style="margin-top:1px">
         {% assign homePosts = site.categories[categoryName] | sort: "date" %}
         {% for post in homePosts %}
             {% if post.is-on-home-page %}
