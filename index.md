@@ -1,8 +1,8 @@
 ---
 title: Home
 youtube: 
-vimeo: 193992210
-banner-image: "/uploads/the-substation-homebanner-161110.gif"
+vimeo: 
+banner-image: "/uploads/Substation_WebsiteHomeBanner-2017Season1-EllenFullman_17.1.17_v1.1_128.gif"
 carousel-images:
 - "/uploads/The-Vietnam-Archive-Project-Untitled-Sides-03-Phuong-Ngo.jpg"
 - "/uploads/05-Phuong-Ngo-The-Vietnam-Archive-Project-Untitled-Sides.jpg"
