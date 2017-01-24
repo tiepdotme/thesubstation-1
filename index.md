@@ -1,6 +1,6 @@
 ---
 title: Home
-Pages: 
+Pages: What's On
 Events: 
 youtube: 
 vimeo: 
