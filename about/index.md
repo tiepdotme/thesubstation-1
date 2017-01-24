@@ -70,7 +70,7 @@ sections:
     - Email: [manager (@) thesubstation.org.au](mailto:manager@thesubstation.org.au)
     - Tel: (03) 9391 1110
 - title: Organisation Supporters
-  list-org-logos: true
+  list-orgs: true
   copy: |
     Add copy here about supporter organisations…
 layout: page
