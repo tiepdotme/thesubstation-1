@@ -74,9 +74,6 @@ sections:
   logos: true
   copy: |
     Add copy here about supporter organisations…
-org-supporters-title: Organisation Supporters
-org-supporters-copy: |
-    Add copy here about supporter organisations…
 layout: page
 ---
 
