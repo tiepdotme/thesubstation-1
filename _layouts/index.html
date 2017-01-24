@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="c-hero" role="banner">
-    <a href="/">
+    <a href="{% if page.Pages %}/{{ page.Pages | replace: ' ', '-' | downcase }}{% else %}/whats-on{% endif %}">
         {% if page.Pages %}/{{ page.Pages | replace: ' ', '-' | downcase }}{% else %}/whats-on{% endif %}
         
         {% if page.vimeo %}
