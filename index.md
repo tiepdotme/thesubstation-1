@@ -1,5 +1,6 @@
 ---
 title: Home
+posts:
 youtube: 
 vimeo: 
 banner-image: "/uploads/Substation_WebsiteHomeBanner-2017Season1-EllenFullman_17.1.17_v1.1_128.gif"
