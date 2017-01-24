@@ -3,7 +3,11 @@ layout: default
 ---
 
 <div class="c-hero" role="banner">
-    <a href="/whats-on/the-long-string-instrument/">
+    <a 
+        {% if page.Pages != null %}
+            href="{{ page.Pages }}"
+        {% else %}
+            href="/whats-on">
 
         {% if page.vimeo %}
 
