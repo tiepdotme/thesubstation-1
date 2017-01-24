@@ -71,8 +71,9 @@ sections:
     - Tel: (03) 9391 1110
 - title: Organisation Supporters
   list-orgs: true
-  copy: |
-    Add copy here about supporter organisations…
+  copy: 'Add copy here about supporter organisations…
+
+'
 layout: page
 ---
 
