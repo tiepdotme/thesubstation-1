@@ -35,14 +35,34 @@ u-smDown-blockR--3by4
                         {% if section.image-bottom %}
                             <figure><img src="{{ section.image-bottom }}" alt="{{ section.image-bottom }}" /></figure>
                         {% endif %}
+                        {% comment %}
+                            -------------------------
+                            'supporters' duplicated code from `post.html`.
+                            Used only for the 'about' page.
+                            -------------------------
+                        {% endcomment %}
+                        {% if section.logos == true %}
+                            <div class="c-post-endBlock">
+                                Supported by:
+                                <div class="c-post-supporters">
+                                    {% for supporter in site.supporters %}
+                                        <img
+                                            class="{% if supporter.portrait == true %}portrait{% endif %}"
+                                            src="{{ supporter.image }}"
+                                            alt="{{ supporter.title }}" />
+                                    {% endfor %}
+                                </div>
+                            </div>
+                        {% endif %}
                     {% endfor %}
-
+                    
                 </article>
 
                 <div class="c-formWrapper">
                     {% include enews-form.html %}
                 </div>
-
+                
+                
 
 
             </div>

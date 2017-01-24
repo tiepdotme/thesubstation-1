@@ -42,7 +42,7 @@ sections:
     T: [(03) 9391 1110](tel:9391 1110)
 
     In addition to our staff, The SUBSTATION also relies heavily upon the tireless efforts of our volunteers.
-- title: Organisation Supporters
+- title: Volunteer Supporters
   image: 
   copy: |
     The SUBSTATION is on the look-out for volunteers who are enthusiastic and dedicated to the promotion of visual and performing arts in its myriad forms. The SUBSTATION volunteers play an active role in delivering excellent customer experiences and ensuring The SUBSTATION remains a valued cultural destination. Whether you want to gain experience in the industry, learn more about visual and performing arts, pass on your skills and knowledge to others or just want to socialise with people with similar interests – we want to hear from you!
@@ -69,7 +69,14 @@ sections:
     To register your interest for volunteering with us, please contact Kali Michailidis, General Manager:
     - Email: [manager (@) thesubstation.org.au](mailto:manager@thesubstation.org.au)
     - Tel: (03) 9391 1110
-  supporters: Gandel Philanthropy
+
+- title: Organisation Supporters
+  logos: true
+  copy: |
+    Add copy here about supporter organisations…
+org-supporters-title: Organisation Supporters
+org-supporters-copy: |
+    Add copy here about supporter organisations…
 layout: page
 ---
 
