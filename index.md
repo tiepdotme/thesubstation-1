@@ -1,6 +1,6 @@
 ---
 title: Home
-Pages: What's On
+Pages: In Development
 Events: 
 youtube: 
 vimeo: 
