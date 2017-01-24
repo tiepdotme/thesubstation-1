@@ -3,12 +3,7 @@ layout: default
 ---
 
 <div class="c-hero" role="banner">
-    <a href="
-        {% if page.Pages %}
-            /{{ page.Pages }}
-        {% elsif %}
-            /whats-on
-        {% endif %}">
+    <a href="{% if page.Pages %}/{{ page.Pages }}{% else %}/whats-on{% endif %}">
 
         {% if page.vimeo %}
 
