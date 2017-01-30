@@ -76,7 +76,7 @@ a.c-postCell {
 
     // add the border here to simplify the flex-basis calculations
     .FlexEmbed {
-        margin: 1px 0.5px;
+        margin: 1px 0.5px 0;
     }
 
 	@include on-event() {
