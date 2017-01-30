@@ -69,6 +69,11 @@ sections:
     To register your interest for volunteering with us, please contact Kali Michailidis, General Manager:
     - Email: [manager (@) thesubstation.org.au](mailto:manager@thesubstation.org.au)
     - Tel: (03) 9391 1110
+- title: Organisation Supporters
+  list-orgs: true
+  copy: 'Add copy here about supporter organisations…
+
+'
 layout: page
 ---
 
