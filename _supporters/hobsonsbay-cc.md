@@ -1,5 +1,6 @@
 ---
 title: Hobsons Bay City Council
-image: "/uploads/supporter-hobsonsbay-cc.png"
+image: "/uploads/supporter-hobsons-bay-cc.png"
+organisational: true
 ---
 

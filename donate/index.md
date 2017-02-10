@@ -4,6 +4,7 @@ permalink: "/donate/"
 image: "/uploads/the-substation-donate.jpg"
 button-url: https://www.givenow.com.au/hobsonsbaycommunityartscentre
 button-txt: donate
+has-newsletter-signup: true
 sections:
 - title: 
   copy: |

@@ -242,12 +242,6 @@ gulp.task( 'lint:sass', function() {
 
 gulp.task( 'minify:css', function () {
 	gulp.src( options.css.file )
-        // pipe order example…
-        // .pipe(order([
-        //     "vendor.css",
-        //     "flickity.css",
-        //     "styles.css"
-        // ]))
 		.pipe( plugins.plumber() )
 		.pipe( plugins.uncss ( {
             // for Jekyll:

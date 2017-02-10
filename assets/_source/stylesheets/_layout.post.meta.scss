@@ -136,12 +136,16 @@
 // --------------------------------------------------------------------------
 
 .c-post-supporters {
-    margin: $paragraphSpace * 0.5 0;
+    margin: $paragraphSpace * 0.5 0 0;
     opacity: 0.5;
 
     img {
         height: 40px;
-        margin-left: $paragraphSpace;
+        margin-bottom: $paragraphSpace * 0.5;
+        
+        &:not(:first-child) {
+            margin-left: $gutterSpace * 1.5;
+        }
 
         // @include first-child() { margin-top: $paragraphSpace * 0.5; }
         @include every(4) { margin-top: $paragraphSpace * 0.5; }
