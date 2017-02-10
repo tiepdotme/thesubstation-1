@@ -8,7 +8,7 @@ button-url: http://thesubstation.iwannaticket.com.au/event/ono-MTIwNjI
 price: Tickets from $30 + booking fee
 datetime:
 - 2017-02-24 21:00:00 +11:00
-is-on-home-page: true
+is-on-home-page: false
 has-start-time: true
 is-single-date: true
 ---
