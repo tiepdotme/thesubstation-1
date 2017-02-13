@@ -5,7 +5,9 @@ categories:
 - in-development
 image: "/uploads/dixon-mcbride-meaden.jpg"
 image-credit: Jessica Devereux
-supporters: Besen
+supporters:
+- Besen
+- Creative Victoria
 ---
 
 "_Women of the world take over, because if you don't the world will come to an end, and we haven't got long._" - Ivor Cutler and Linda Hirst.<br>
