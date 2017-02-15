@@ -141,7 +141,7 @@
 
     img {
         height: 40px;
-        margin-bottom: $paragraphSpace * 0.5;
+        margin-bottom: $paragraphSpace * 1;
         
         &:not(:first-child) {
             margin-left: $gutterSpace * 1.5;
