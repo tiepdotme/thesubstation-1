@@ -26,6 +26,6 @@ supporters: Creative Victoria
 ### Exhibiting artists:
 
 Olga Bennett, Lily Benson (USA), Fernando do Campo (USA/AUS), William Daniels (UK), Naomi Eller,
-Andrea Jewel, Annika Koops, Alex Pittendrigh, Daniel Sinsel (UK), Ross Taylor (UK), Michelle Ussher (UK/AUS), Anna Varendorff, Rudi Williams, Zilverster (Sharon Goodwin & Irene Hanenbergh)
+Andrea Jewell, Annika Koops, Alex Pittendrigh, Daniel Sinsel (UK), Ross Taylor (UK), Michelle Ussher (UK/AUS), Anna Varendorff, Rudi Williams, Zilverster (Sharon Goodwin & Irene Hanenbergh)
 
 Presented by The SUBSTATION and CAVES.
