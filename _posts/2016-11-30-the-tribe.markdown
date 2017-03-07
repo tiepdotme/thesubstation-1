@@ -13,8 +13,6 @@ datetime:
 - 2017-03-31 19:30:00 +11:00
 - 2017-04-01 19:30:00 +11:00
 is-on-home-page: true
-notes:
-  note: Expressions of interest close Wednesday 8 March
 supporters:
 - Australia Council of Arts
 - Hobsons Bay City Council
