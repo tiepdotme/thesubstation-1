@@ -23,7 +23,7 @@ sections:
   copy: |
     **Brad Spolding**<br>
     _Director_<br>
-    [director (@) thesubstation.org.au](mailto:director@thesubstation.org.au)
+    [info (@) thesubstation.org.au](mailto:info@thesubstation.org.au)
 
     **Kali Michailidis**<br>
     _General Manager_<br>
