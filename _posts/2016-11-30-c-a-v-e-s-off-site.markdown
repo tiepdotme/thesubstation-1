@@ -8,7 +8,7 @@ presented-by: Curated by Storm Gold & Kez Hughes
 datetime:
 - 2017-03-24 18:30:00 +11:00
 - 2017-04-29 17:00:00 +10:00
-is-on-home-page: false
+is-on-home-page: true
 has-opening-event: true
 has-preview-event: false
 has-start-time: false
