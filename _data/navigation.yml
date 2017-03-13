@@ -8,6 +8,9 @@ header:
 - title: Residents
   url: /residents/
   categories: 'residents'
+- title: Past events
+  url: /archive/
+  categories: 'archive'
 - title: Venues
   url: /venues/
   categories: 'venues'
