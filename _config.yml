@@ -23,6 +23,9 @@ defaults:
     type: Supporters
   values:
     portrait-ratio: false
+    organisational:
+    program:
+    presenting:
 - scope:
     path: ''
     type: about
