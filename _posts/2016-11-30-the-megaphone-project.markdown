@@ -9,7 +9,7 @@ price: FREE
 datetime:
 - 2017-04-05 10:00:00 +10:00
 - 2017-04-09 17:00:00 +10:00
-is-on-home-page: true
+is-on-home-page: false
 has-start-time: false
 is-opening-hours-time: false
 is-within-gallery-open-time: false
