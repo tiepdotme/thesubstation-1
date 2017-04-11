@@ -1,10 +1,11 @@
 ---
-title: C A V E S  Off-site
+title: C A V E S Off-site
 date: 2016-11-30 10:35:00 +11:00
 categories:
 - whats-on
 image: "/uploads/caves-offsite.jpg"
 presented-by: Curated by Storm Gold & Kez Hughes
+date: 2017-03-25 14:00:00 +11:00
 datetime:
 - 2017-03-24 18:30:00 +11:00
 - 2017-04-29 17:00:00 +10:00
@@ -17,7 +18,6 @@ is-opening-hours-time: false
 is-months-duration: false
 is-within-gallery-open-time: true
 artists-talk:
-  date: 2017-03-25 14:00:00 +11:00
 supporters:
 - Creative Victoria
 - Australia Council of Arts
