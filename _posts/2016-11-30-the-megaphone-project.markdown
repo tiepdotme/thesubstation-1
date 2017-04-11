@@ -2,7 +2,7 @@
 title: The Megaphone Project
 date: 2016-11-30 11:34:00 +11:00
 categories:
-- whats-on
+- archive
 image: "/uploads/the-megaphone-project.jpg"
 presented-by: Madeleine Flynn & Tim Humphrey
 price: FREE
