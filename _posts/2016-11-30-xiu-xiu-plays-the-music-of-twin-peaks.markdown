@@ -9,8 +9,8 @@ button-url: http://thesubstation.iwannaticket.com.au/event/xiu-xiu-plays-the-mus
 presented-by: Xiu Xiu (USA)
 price: "$45 + booking fee"
 datetime:
-- 2017-06-23 20:00:00 +10:00
 - 2017-06-22 20:00:00 +10:00
+- 2017-06-23 20:00:00 +10:00
 is-on-home-page: true
 has-start-time: true
 is-single-date: true
@@ -24,13 +24,19 @@ Led by JAMIE STEWART, ANGELA SEO and SHAYNA DUNKELMAN, the music of XIU XIU defi
 XIU XIU’s performance isn’t simply a recreation of the Twin Peaks music, but provides an entirely new interpretation that emphasises its chaos, drama, fear, noise and sidelong leering glances.
 
 THURSDAY 22 JUNE 
+
 DOUBLE BILL
+
 ALESSANDRO CORTINI (ITA)
+
 Best known for his dream-like compositions on synths and his extensive touring with American industrial rock band Nine Inch Nails, [ALESSANDRO CORTINI](https://soundcloud.com/alessandrocortini) will combine music and memory in his live performance of AVANTI. The performance combines visuals curated and compiled by SEAN CURTIS PATRICK that draw on the vintage Super 8 films shot by the musician’s grandfather and snapshots of family life from his early childhood years, to create a dynamic self-portrait strung together with the melancholy of remembrance as sung by CORTINI’s modular instruments. Both meditative and sonically expansive, AVANTI (or moving forward), is a triumphant encounter of a living memory through sound, and a continuation on CORTINI’s previous SONNO and RISVEGLIO projects.
 
 FRIDAY 23 JUNE 
+
 DOUBLE BILL
+
 SARAH DAVACHI (CAN)
+
 [SARAH DAVACHI](http://sarahdavachi.com/index.html) is a master of her craft. As an accomplished researcher and holding a masters in electronic music and recording media, DAVACHI explores aspects of experimentalism, organology and archival study, and phenomenology and perception.
 
 In this special performance, DAVACHI’s work will engulf The SUBSTATION with the forgotten sonics from bygone era of analogue synthesis, combined with the concurrent treatment and de-familiarisation of organ, piano, strings, and woodwinds. Utilising extended durations, psychoacoustic manipulations, and simple harmonic structures, DAVACHI’s work emphasises variations in overtone complexity and natural phasing patterns. 
