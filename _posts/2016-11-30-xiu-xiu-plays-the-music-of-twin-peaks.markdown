@@ -13,7 +13,8 @@ datetime:
 - 2017-06-23 20:00:00 +10:00
 is-on-home-page: true
 has-start-time: true
-is-single-date: true
+is-single-date: false
+is-list-of-dates: true
 supporters: Room40
 ---
 
