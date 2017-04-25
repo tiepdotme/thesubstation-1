@@ -5,7 +5,7 @@ has-javascripts: true
 sections:
 - title: Getting here
   image-bottom: "/uploads/the-substation-map-lr.jpg"
-  copy: "The SUBSTATION is located at [1 Market Street, Newport, Victoria 3015](https://goo.gl/maps/3RTKiR89iD72).\n\nOur
+  copy: "The SUBSTATION is located at [1 Market Street, Newport, Victoria 3015](https://goo.gl/maps/WG1MkodsgHP2).\n\nOur
     gallery is open from Tuesday to Saturday, 11am–5pm.\n\nFor information on public
     transport, head to [PTV Journey Planner](http://ptv.vic.gov.au/journey#jpsearch%5Baction%5D=showPlanner).\n\nThe
     SUBSTATION is proud to be a part of [Arts West](https://artswest.com.au/), a unique
