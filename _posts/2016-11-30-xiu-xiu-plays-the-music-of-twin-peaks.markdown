@@ -1,5 +1,5 @@
 ---
-title: Xiu Xiu Plays the Music of Twin Peaks
+title: Xiu Xiu Plays the Music of Twin Peaks | 22 - 23 JUNE
 date: 2016-11-30 12:35:00 +11:00
 categories:
 - whats-on
