@@ -1,5 +1,5 @@
 ---
-title: 'Conflicted: Works from the Vietnam Archive Project | 12 MAY - 1 JULY'
+title: 'Conflicted: Works from the Vietnam Archive Project'
 date: 2016-11-30 11:56:00 +11:00
 categories:
 - whats-on
