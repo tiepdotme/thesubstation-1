@@ -92,7 +92,7 @@ defaults:
 description: The SUBSTATION is a unique large-scale multi-purpose gallery, performance
   space and dance studio for artists of every kind, in Newport, Melbourne, Australia.
 baseurl: 
-url: http://thesubstation.org.au
+url: https://thesubstation.org.au
 logo: "/uploads/the-substation-logo.png"
 facebook:
   username: TheSubstationNewport
