@@ -20,28 +20,18 @@ sections:
     The building has strong associations with the inauguration of electric services, due to its construction during the first phase of the scheme. It is also important for its associations with the engineering firm Merz and MacLellan, who designed the electrification scheme as well as the early substations in association with the VR Way and Works Branch. Its construction by the Victorian Railways sets the building apart from contemporary Railways structures built under contract.
 - title: Staff and board
   image: 
-  copy: |
-    **Brad Spolding**<br>
-    _Director_<br>
-    [info (@) thesubstation.org.au](mailto:info@thesubstation.org.au)
-
-    **Kali Michailidis**<br>
-    _General Manager_<br>
-    [manager (@) thesubstation.org.au](mailto:manager@thesubstation.org.au)
-
-    **Marisa Fiume**<br>
-    _Events Manager_<br>
-    [events (@) thesubstation.org.au](mailto:events@thesubstation.org.au)
-
-    **Jon Hawkes**<br>
-    _Finance Manager_<br>
-    [accounts (@) thesubstation.org.au](mailto:accounts@thesubstation.org.au)
-
-    **General Enquiries**<br>
-    [info (@) thesubstation.org.au](mailto:info@thesubstation.org.au)<br>
-    T: [(03) 9391 1110](tel:9391 1110)
-
-    In addition to our staff, The SUBSTATION also relies heavily upon the tireless efforts of our volunteers.
+  copy: "**Brad Spolding**<br>\n_Director_<br>\n[info (@) thesubstation.org.au](mailto:info@thesubstation.org.au)\n\n**Kali
+    Michailidis**<br>\n_General Manager_<br>\n[manager (@) thesubstation.org.au](mailto:manager@thesubstation.org.au)\n\n**Marisa
+    Fiume**<br>\n_Events Manager_<br>\n[events (@) thesubstation.org.au](mailto:events@thesubstation.org.au)\n\n**Jon
+    Hawkes**<br>\n_Finance Manager_<br>\n[accounts (@) thesubstation.org.au](mailto:accounts@thesubstation.org.au)\n\n**Jamie
+    Dale**<br>\n_Production Manager_<br>\n[production (@) thesubstation.org.au](mailto:production@thesubstation.org.au)\n\n**Carolyn
+    Lambert**<br>\n_Marketing and Audience Engagement Coordinator_<br>\n[marketing
+    (@) thesubstation.org.au](mailto:marketing@thesubstation.org.au)\n\n**General
+    Enquiries**<br>\n[info (@) thesubstation.org.au](mailto:info@thesubstation.org.au)<br>\nT:
+    [(03) 9391 1110](tel:9391 1110)\n\nThe SUBSTATION is currently on the look out
+    for an Intern.\nApplications close Monday 22 May, 5pm. \nFull details on how to
+    apply can be found in the [position description.]\n\nIn addition to our staff,
+    The SUBSTATION also relies heavily upon the tireless efforts of our volunteers.\n"
 - title: Volunteer Supporters
   image: 
   copy: |
