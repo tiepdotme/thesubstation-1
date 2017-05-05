@@ -30,10 +30,10 @@ sections:
     Enquiries**<br>\n[info (@) thesubstation.org.au](mailto:info@thesubstation.org.au)<br>\nT:
     [(03) 9391 1110](tel:9391 1110)\n\nThe SUBSTATION is currently on the look out
     for an Intern.\nApplications close Monday 22 May, 5pm. \nFull details on how to
-    apply can be found in the [position description](http://www.thesubstation.org.au/uploads/Intern-Position-Description-–-The-SUBSTATION.pdf)\n\nIn
-    addition to our staff, The SUBSTATION also relies heavily upon the tireless efforts
-    of our volunteers.\n"
-  Key: 
+    apply can be found in the position description.\n\nIn addition to our staff, The
+    SUBSTATION also relies heavily upon the tireless efforts of our volunteers.\n"
+  button-url: "/uploads/Intern%20Position%20Description%20%E2%80%93%20The%20SUBSTATION.pdf"
+  button-txt: INTERN POSITION DESCRIPTION
 - title: Volunteer Supporters
   image: 
   copy: |
