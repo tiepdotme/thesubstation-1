@@ -32,8 +32,6 @@ sections:
     for an Intern.\nApplications close Monday 22 May, 5pm. \nFull details on how to
     apply can be found in the position description.\n\nIn addition to our staff, The
     SUBSTATION also relies heavily upon the tireless efforts of our volunteers.\n"
-  button-url: "/uploads/Intern%20Position%20Description%20%E2%80%93%20The%20SUBSTATION.pdf"
-  button-txt: INTERN POSITION DESCRIPTION
 - title: Volunteer Supporters
   image: 
   copy: |
