@@ -84,8 +84,9 @@ sections:
   copy: "The SUBSTATION is currently seeking an enthusiastic  Intern.\nApplications
     close Monday 22 May, 5pm. \nFull details on how to apply can be found in the position
     description."
-button-url: "/uploads/Intern%20Position%20Description%20%E2%80%93%20The%20SUBSTATION.pdf"
-button-txt: POSITION DESCRIPTION
+  Key:
+    button-url: "/uploads/Intern%20Position%20Description%20%E2%80%93%20The%20SUBSTATION.pdf"
+    button-txt: POSITION DESCRIPTION
 layout: page
 ---
 
