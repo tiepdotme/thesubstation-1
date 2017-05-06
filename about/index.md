@@ -4,10 +4,11 @@ image: "/uploads/the-substation-about-the-building.jpg"
 has-javascripts: true
 sections:
 - title: Internship position available
-  copy: "The SUBSTATION is currently seeking an enthusiastic  Intern for a one day
-    per week role from July - October 2017. <BR>\n\nFor the position description and
-    further information about this opportunity,  click apply. <br>\n\nApplications
-    close Monday 22 May, 5pm. "
+  copy: "The SUBSTATION is currently seeking an enthusiastic  Intern to assist with
+    the delivery of our Season 2 program.\n\nThe role is  for a one day per week from
+    July - October 2017. \n\nPlease note: This is an unpaid internship.\n\nFor full
+    details including the position description and further information about this
+    role, please click APPLY.\n\nApplications close Monday 22 May, 5pm. "
 - title: Getting here
   image-bottom: "/uploads/the-substation-map-lr.jpg"
   copy: |+
