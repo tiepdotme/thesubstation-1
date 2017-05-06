@@ -4,11 +4,12 @@ image: "/uploads/the-substation-about-the-building.jpg"
 has-javascripts: true
 sections:
 - title: Internship position available
-  copy: "The SUBSTATION is currently seeking an enthusiastic  Intern to assist with
-    the delivery of our Season 2 program. The role is  for one day per week from July
-    - October 2017. \n\nFor full details including the position description and further
-    information about this role, please click APPLY.\n\nApplications close Monday
-    22 May, 5pm.\n\n**Please note: This is an unpaid internship.**"
+  copy: |-
+    The SUBSTATION is currently seeking an enthusiastic  Intern to assist with the delivery of our Season 2 program. The role is  for one day per week from July - October 2017. For full details including the position description and further information about this role, please click APPLY.
+
+    Applications close Monday 22 May, 5pm.
+
+    **Please note: This is an unpaid internship.**
 - title: Getting here
   image-bottom: "/uploads/the-substation-map-lr.jpg"
   copy: |+
