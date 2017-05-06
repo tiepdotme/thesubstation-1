@@ -4,9 +4,10 @@ image: "/uploads/the-substation-about-the-building.jpg"
 has-javascripts: true
 sections:
 - title: Internship position available
-  copy: "The SUBSTATION is currently seeking an enthusiastic  Intern. <BR>\nApplications
-    close Monday 22 May, 5pm. \nFull details on how to apply can be found in the position
-    description."
+  copy: |-
+    The SUBSTATION is currently seeking an enthusiastic  Intern for a one day per week role from July - October 2017. <BR>
+    Applications close Monday 22 May, 5pm. <bR>
+    For the position description and further information about this opportunity,  click apply.
 - title: Getting here
   image-bottom: "/uploads/the-substation-map-lr.jpg"
   copy: "The SUBSTATION is located at [1 Market Street, Newport, Victoria 3015](https://goo.gl/maps/WG1MkodsgHP2).\n\nOur
