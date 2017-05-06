@@ -7,8 +7,8 @@ sections:
   copy: "The SUBSTATION is currently seeking an enthusiastic  Intern to assist with
     the delivery of our Season 2 program.\n\nThe role is  for one day per week from
     July - October 2017. \n\nFor full details including the position description and
-    further information about this role, please click APPLY.\n\n**Applications close
-    Monday 22 May, 5pm.**<BR>\n\n**Please note: This is an unpaid internship.**"
+    further information about this role, please click APPLY.\n\nApplications close
+    Monday 22 May, 5pm.\n\n**Please note: This is an unpaid internship.**"
 - title: Getting here
   image-bottom: "/uploads/the-substation-map-lr.jpg"
   copy: |+
