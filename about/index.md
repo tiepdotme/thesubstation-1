@@ -4,18 +4,21 @@ image: "/uploads/the-substation-about-the-building.jpg"
 has-javascripts: true
 sections:
 - title: Internship position available
-  copy: |-
-    The SUBSTATION is currently seeking an enthusiastic  Intern for a one day per week role from July - October 2017. <BR>
-    Applications close Monday 22 May, 5pm. <bR>
-    For the position description and further information about this opportunity,  click apply.
+  copy: "The SUBSTATION is currently seeking an enthusiastic  Intern for a one day
+    per week role from July - October 2017. <BR>\n\nFor the position description and
+    further information about this opportunity,  click apply. <br>\n\nApplications
+    close Monday 22 May, 5pm. "
 - title: Getting here
   image-bottom: "/uploads/the-substation-map-lr.jpg"
-  copy: "The SUBSTATION is located at [1 Market Street, Newport, Victoria 3015](https://goo.gl/maps/WG1MkodsgHP2).\n\nOur
-    gallery is open from Tuesday to Saturday, 11am–5pm.\n\nFor information on public
-    transport, head to [PTV Journey Planner](http://ptv.vic.gov.au/journey#jpsearch%5Baction%5D=showPlanner).\n\nThe
-    SUBSTATION is proud to be a part of [Arts West](https://artswest.com.au/), a unique
-    alliance of arts organisations who reflect the exciting, vibrant and diverse arts
-    and culture thriving in Melbourne’s inner west. "
+  copy: |+
+    The SUBSTATION is proud to be a part of [Arts West](https://artswest.com.au/), a unique alliance of arts organisations who reflect the exciting, vibrant and diverse arts and culture thriving in Melbourne’s inner west.
+
+    The SUBSTATION is located at [1 Market Street, Newport, Victoria 3015](https://goo.gl/maps/WG1MkodsgHP2).
+
+    Our gallery is open from Tuesday to Saturday, 11am–5pm.
+
+    For information on public transport, head to [PTV Journey Planner](http://ptv.vic.gov.au/journey#jpsearch%5Baction%5D=showPlanner).
+
 - title: About the building
   copy: |
     The SUBSTATION is a multi arts centre located in Newport, Victoria. One of Melbourne’s newest arts venues, the building houses the biggest visual arts gallery in the Western Suburbs of Melbourne, a dance studio and a large-scale multi-purpose performance space. The SUBSTATION is a one of a kind arts venue in Victoria in that its architecture and spaces invite artists to work across art form and scale. The SUBSTATION aims to engage with artists to introduce new audiences to new artists and artistic work. We invite artists to utilise our unique spaces in the development and staging of work that responds to ideas that are relevant to our place in Melbourne, Australia and the world.
