@@ -9,7 +9,7 @@ sections:
 
     Applications close Monday 22 May, 5pm.
 
-    **Please note: This is an unpaid internship.**
+    **Please note: This is an unpaid internship and must contribute towards tertiary study credit points.**
 - title: Getting here
   image-bottom: "/uploads/the-substation-map-lr.jpg"
   copy: |+
