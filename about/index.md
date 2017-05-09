@@ -90,7 +90,7 @@ sections:
 - title: Supporters
   list-orgs: true
   copy: We wish to highlight and thank our supporter organisations.
-button-url: "/uploads/Intern%20Position%20Description%20%E2%80%93%20The%20SUBSTATION.pdf"
+button-url: "/uploads/Intern%20PD%20The%20SUBSTATION.pdf"
 button-txt: APPLY
 layout: page
 ---
