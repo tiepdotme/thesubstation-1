@@ -69,32 +69,32 @@
 // --------------------------------------------------------------------------
 
 a.c-postCell {
-	@include complexLink();
-	border: 0;
-	//margin: 1px;
-	position: relative;
+    @include complexLink();
+    border: 0;
+    //margin: 1px;
+    position: relative;
 
     // add the border here to simplify the flex-basis calculations
     .FlexEmbed {
         margin: 1px 0.5px 0;
     }
 
-	@include on-event() {
+    @include on-event() {
         .c-postCell-image {
-			@include baseTransition();
+            @include baseTransition();
             background-color: $lightBlendColor;
             filter: grayscale(0);
         }
 
         .c-postCell-subheadline {
-			@include baseTransition();
+            @include baseTransition();
             color: palette(white);
         }
-	}
+    }
 }
 
 .c-postCell-image {
-	@include baseTransition();
+    @include baseTransition();
     @include imageBlend();
     @include coverImage();
     filter: grayscale(100%);
@@ -283,7 +283,7 @@ a.c-postCell {
     h3 {
         &:not(:first-child) {
             margin-top: $blockSpace * 0.75;
-		}
+        }
 
         &:not(:last-child) {
             margin-bottom: $paragraphSpace;
@@ -291,8 +291,8 @@ a.c-postCell {
         }
     }
 
-	h2 {
-		//@include textRg();
+    h2 {
+        //@include textRg();
         @include headlineSm();
         font-family: $font-text-bold;
 
@@ -309,7 +309,7 @@ a.c-postCell {
     hr {
         border: 0;
         border-top: 1px solid palette(light);
-		margin: $paragraphSpace * 2 0;
+        margin: $paragraphSpace * 2 0;
     }
 
     blockquote p {
@@ -321,7 +321,7 @@ a.c-postCell {
     figure {
         &:not(:first-child) {
             margin-top: $blockSpace * 0.75;
-		}
+        }
 
         padding-bottom: $paragraphSpace * 0.5;
     }

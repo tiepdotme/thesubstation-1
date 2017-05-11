@@ -12,15 +12,14 @@
             <div class="o-aligner">
                 <div class="o-aligner-item">
                     <h1 class="c-postCell-headline">{{ post.title }}</h1>
-                    <!-- <date class="c-postCell-headline">{{ post.timeframe }}</date> -->
 
-                    {% if post.dates %}
-                        {% if post.dates.size == 1 %}
-                            <date class="c-postCell-subheadline">{{ post.dates | first | date: "%b %d" }}</date>
+                    {% if post.datetime %}
+                        {% if post.datetime.size == 1 %}
+                            <date class="c-postCell-subheadline">{{ post.datetime | first | date: "%B %d %Y" }}</date>
                         {% elsif post.is-months-duration == true %}
-                            <date class="c-postCell-subheadline">{{ post.dates | first | date: "%B" }} - {{ post.dates | last | date: "%B" }} {{ post.dates | first | date: "%Y" }}</date>
+                            <date class="c-postCell-subheadline">{{ post.datetime | first | date: "%B" }} - {{ post.datetime | last | date: "%B %Y" }}</date>
                         {% else %}
-                            <date class="c-postCell-subheadline">{{ post.dates | first | date: "%b %d" }} - {{ post.dates | last | date: "%b %d" }}</date>
+                            <date class="c-postCell-subheadline">{{ post.datetime | first | date: "%B %d" }} - {{ post.datetime | last | date: "%B %d %Y" }}</date>
                         {% endif %}
                     {% endif %}
 
