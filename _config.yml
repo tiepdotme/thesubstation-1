@@ -128,7 +128,6 @@ gems:
 - jekyll-seo-tag
 exclude:
 - assets/_source
-- Gemfile
 - Gemfile.lock
 - ".gitignore"
 - editorconfig
