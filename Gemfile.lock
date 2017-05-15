@@ -43,8 +43,8 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll-feed
-  jekyll-seo-tag
+  jekyll-seo-tag (= 2.0.0)
   jekyll-sitemap
 
 BUNDLED WITH
-   1.12.5
+   1.14.6
