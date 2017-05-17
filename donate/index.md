@@ -8,9 +8,9 @@ has-newsletter-signup: true
 sections:
 - title: 
   copy: |
-    The Substation is a not-for-profit community-based arts organisation in the inner west of Melbourne, which strives to engage its local communities in the best that the arts have to offer.
+    The SUBSTATION is a not-for-profit community-based arts organisation in the inner west of Melbourne, which strives to engage its local communities in the best that the arts have to offer.
 
-    The Substation aims to present a unique brand of programming that seamlessly brings together innovative community-based projects as well as the best of national and international contemporary artists. With a firm commitment to making the arts accessible to all, we aim to enhance Melbourne audiences’ appreciation and knowledge of arts in the west by encouraging active participation in public programs including classes, workshops, forums, learning and artists’ talks, as well as presenting challenging, thought-provoking and stimulating artistic experiences across all artforms.
+    The SUBSTATION aims to present a unique brand of programming that seamlessly brings together innovative community-based projects as well as the best of national and international contemporary artists. With a firm commitment to making the arts accessible to all, we aim to enhance Melbourne audiences’ appreciation and knowledge of arts in the west by encouraging active participation in public programs including classes, workshops, forums, learning and artists’ talks, as well as presenting challenging, thought-provoking and stimulating artistic experiences across all artforms.
 
     Donations form an important part of our ongoing sustainability, so we really appreciate your effort and support.
 
