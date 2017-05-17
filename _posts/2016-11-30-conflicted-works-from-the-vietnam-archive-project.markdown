@@ -8,7 +8,7 @@ presented-by: Phuong Ngo
 datetime:
 - 2017-05-12 18:30:00 +10:00
 - 2017-07-01 17:00:00 +10:00
-is-on-home-page: false
+is-on-home-page: true
 has-opening-event: true
 has-start-time: false
 has-mins: true
