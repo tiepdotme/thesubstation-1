@@ -1,6 +1,6 @@
 ---
 title: Newport Archives
-date: 2016-11-30 12:56:00 +11:00
+date: 2016-11-01 12:56:00 +11:00
 categories:
 - whats-on
 image: "/uploads/newport-archives-2017.jpg"
