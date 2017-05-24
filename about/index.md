@@ -82,7 +82,6 @@ sections:
     - Tel: (03) 9391 1110
 - title: Supporters
   list-orgs: true
-  copy: We wish to highlight and thank our supporter organisations. [Test](https://thesubstation.org.au/uploads/Intern%20PD%20The%20SUBSTATION.pdf)
+  copy: We wish to highlight and thank our supporter organisations.
 layout: page
 ---
-
