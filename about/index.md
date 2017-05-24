@@ -6,7 +6,7 @@ sections:
 - title: Getting here
   image-bottom: "/uploads/the-substation-map-lr.jpg"
   copy: |+
-    The SUBSTATION is proud to be a part of [Arts West](https://artswest.com.au/), a unique alliance of arts organisations who reflect the exciting, vibrant and diverse arts and culture thriving in Melbourne’s inner west.
+    [The SUBSTATION](https://thesubstation.org.au/uploads/Intern%20PD%20The%20SUBSTATION.pdf) is proud to be a part of [Arts West](https://artswest.com.au/), a unique alliance of arts organisations who reflect the exciting, vibrant and diverse arts and culture thriving in Melbourne’s inner west.
 
     The SUBSTATION is located at [1 Market Street, Newport, Victoria 3015](https://goo.gl/maps/WG1MkodsgHP2).
 
