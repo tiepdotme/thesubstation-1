@@ -14,6 +14,8 @@ datetime:
 - 2017-06-10 17:00:00 +10:00
 is-on-home-page: false
 is-within-gallery-open-time: true
+artists-talk:
+  date: 2017-06-03 14:00:00 +10:00
 supporters:
 - Creative Victoria
 - Hobsons Bay City Council
