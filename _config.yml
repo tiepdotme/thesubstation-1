@@ -67,6 +67,7 @@ defaults:
     button-txt: 
     presented-by: false
     price: false
+    sortdate: 
     datetime: 
     is-on-home-page: false
     has-opening-event: false
