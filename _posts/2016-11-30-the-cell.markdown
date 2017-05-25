@@ -6,7 +6,7 @@ categories:
 image: "/uploads/the-cell.jpg"
 image-credit: 'Brook Andrew, The Cell. 2010. Photo: Roger D''Souza'
 button-url: "/uploads/Brook-Andrew-The-Cell.pdf"
-button-txt: THE CELL BY BROOK ANDREW
+button-txt: THE CELL PUBLICATION
 presented-by: Brook Andrew
 price: FREE
 sortdate:
