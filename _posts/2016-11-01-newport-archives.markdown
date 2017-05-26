@@ -9,6 +9,7 @@ button-url: mailto:info@thesubstation.org.au
 button-txt: by appointment
 presented-by: Permanent Artwork by Tamara Saulwick
 price: Free
+sort-date: 2017-12-31 09:00:00 +11:00
 datetime:
 - 2017-01-10 11:00:00 +11:00
 - 2017-12-16 11:00:00 +11:00
