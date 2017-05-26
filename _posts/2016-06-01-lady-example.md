@@ -6,7 +6,7 @@ categories:
 image: "/uploads/lady-example.jpg"
 presented-by: Caroline Meaden, Alice Dixon & William Mcbride
 sort-date: 2016-10-17 09:00:00 AEST
-datetime: 
+datetime:
 - 2016-10-17 09:00:00 AEST
 is-year-duration: true
 supporters: false
