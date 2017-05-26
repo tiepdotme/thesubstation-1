@@ -5,12 +5,12 @@ categories:
 - archive
 image: "/uploads/tresor-25-years.jpg"
 button-url: https://www.residentadvisor.net/event.aspx?804325
-price: 
-datetime:
-- 2016-06-17 21:00:00 AEST
-- 2016-06-18 05:00:00 AEST
-is-single-date: true
 presented-by: Bunker
+sort-date: 2016-06-17 21:00:00 +10:00
+datetime:
+- 2016-06-17 21:00:00 +10:00
+- 2016-06-18 05:00:00 +10:00
+is-single-date: true
 supporters: false
 ---
 
