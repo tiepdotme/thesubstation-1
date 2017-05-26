@@ -6,17 +6,18 @@ categories:
 image: "/uploads/Plastic-Loaves-photo-by-James-Robinson.jpg"
 image-credit: James Robinson
 button-url: http://thesubstation.iwannaticket.com.au/event/plastic-loaves-makes-youwet-MTEwODc
+presented-by: Plastic Loaves
 price:
 - 1st RELEASE – $20  – SOLD OUT
 - 2n RELEASE – $25
+sort-date: 2016-08-13 21:00:00 +10:00
 datetime:
-- 2016-08-12 21:00:00 AEST
-- 2016-08-13 04:30:00 AEST
-is-single-date: true
+- 2016-08-12 21:00:00 +10:00
+- 2016-08-13 04:30:00 +10:00
 has-mins: true
+is-single-date: true
 notes:
 - 18+ only event
-presented-by: Plastic Loaves
 supporters: false
 ---
 
