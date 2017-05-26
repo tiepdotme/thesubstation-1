@@ -14,7 +14,9 @@
                     <h1 class="c-postCell-headline">{{ post.title }}</h1>
 
                     {% if post.datetime %}
-                        {% if post.datetime.size == 1 %}
+                        {% if post.is-year-duration == true %}
+                            <date class="c-postCell-subheadline">{{ post.datetime | first | date: "%Y" }}</date>
+                        {% elsif post.datetime.size == 1 or post.is-single-date %}
                             <date class="c-postCell-subheadline">{{ post.datetime | first | date: "%B %d %Y" }}</date>
                         {% elsif post.is-months-duration == true %}
                             <date class="c-postCell-subheadline">{{ post.datetime | first | date: "%B" }} - {{ post.datetime | last | date: "%B %Y" }}</date>
