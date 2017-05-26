@@ -5,6 +5,7 @@ categories:
 - in-development
 image: "/uploads/residency-margie-medlin.jpg"
 presented-by: RESIDENCY
+sort-date: 2017-04-01 09:00:00 +11:00
 ---
 
 ## THE SUBSTATION
