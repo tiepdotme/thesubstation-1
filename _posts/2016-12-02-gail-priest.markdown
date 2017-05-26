@@ -6,6 +6,7 @@ categories:
 image: "/uploads/int-residency-gail-priest.jpg"
 image-credit: Dimitri Djuric, courtesy Kammer Klang
 presented-by: INTERNATIONAL RESIDENCY
+sort-date: 2017-03-01 09:00:00 +11:00
 supporters: Sonica
 ---
 
