@@ -1,5 +1,5 @@
 <div class="o-grid c-postGrid">
-    {% assign sortedPosts = site.categories[categoryName] | sort: "date" | reverse %}
+    {% assign sortedPosts = site.categories[categoryName] | sort: "sort-date" | reverse %}
     {% for post in sortedPosts%}
         {% include post-cell-alt.html %}
     {% endfor %}
