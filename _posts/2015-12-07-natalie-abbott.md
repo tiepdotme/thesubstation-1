@@ -5,9 +5,10 @@ categories:
 - archive
 image: "/uploads/natalie-abbott.jpg"
 price: false
+sort-date: 2016-03-01 21:00:00 +11:00
 datetime:
-- 2016-03-01 00:00:00 AEST
-- 2016-03-31 00:00:00 AEST
+- 2016-03-01 00:00:00 +11:00
+- 2016-03-31 00:00:00 +11:00
 is-single-month-duration: true
 supporters:
 - Besen
