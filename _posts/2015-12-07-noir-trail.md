@@ -7,14 +7,15 @@ image: "/uploads/one-step-taken-by-julian.jpg"
 image-credit: Julian Rickert
 presented-by: One Step at a Time Like This
 price: false
+sort-date: 2016-03-01 09:00:00 +11:00
 datetime:
-- 2016-03-01 00:00:00 AEST
-- 2016-04-30 00:00:00 AEST
+- 2016-03-01 00:00:00 +11:00
+- 2016-04-30 00:00:00 +10:00
 is-months-duration: true
-is-single-info-block: true
 supporters:
 - Australia Council of Arts
 - Creative Victoria
+is-single-info-block: true
 ---
 
 NOIR TRAIL is an immersive, serialized, location-driven, performance event taking place over consecutive nights & days in multiple locations of an urban nightscape.
