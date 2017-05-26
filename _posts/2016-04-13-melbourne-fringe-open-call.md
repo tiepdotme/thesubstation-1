@@ -8,6 +8,7 @@ image-credit: Lauren Dunn
 button-url: https://www.judgify.me/substation-fringe
 button-txt: APPLY by MAY 6
 price: false
+sort-date: 2016-05-06 10:00:00 +10:00
 datetime:
 - 2016-05-06 10:00:00 +10:00
 supporters:
