@@ -5,6 +5,7 @@ categories:
 - in-development
 image: "/uploads/one-step-at-a-time-like-this.jpg"
 image-credit: Clair Korobacz
+sort-date: 2017-05-01 09:00:00 +10:00
 supporters: Creative Victoria
 ---
 
