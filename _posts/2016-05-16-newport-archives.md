@@ -11,8 +11,8 @@ price:
 - Free, bookings essential
 sort-date: 2016-07-30 10:00:00 AEST
 datetime:
-- 2030-01-01 00:00:00 +11:00
-- 2030-01-01 00:00:00 +11:00
+- Sat 30 July 2016, 10am
+- Sat 30 July 2016, 4:30pm
 is-single-date: true
 event-duration-txt: 40 mins
 notes:

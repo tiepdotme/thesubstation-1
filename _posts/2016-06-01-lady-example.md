@@ -1,11 +1,14 @@
 ---
-title: Lady Example 2016
+title: Lady Example
 date: 2016-06-01 10:00:00 +10:00
 categories:
 - archive
 image: "/uploads/lady-example.jpg"
 presented-by: Caroline Meaden, Alice Dixon & William Mcbride
-sort-date: 2017-10-17 09:00:00 AEST
+sort-date: 2016-10-17 09:00:00 AEST
+datetime: 
+- 2016-10-17 09:00:00 AEST
+is-year-duration: true
 supporters: false
 ---
 
