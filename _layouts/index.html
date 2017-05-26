@@ -68,7 +68,7 @@ layout: default
 
     <div class="o-grid c-postGrid">
         {% assign categoryName = 'whats-on' %}
-        {% assign homePosts = (site.categories[categoryName] | sort: "sort-date") | reverse %}
+        {% assign homePosts = (site.categories[categoryName] | sort: "sort-date") %}
         {% for post in homePosts %}
             {% if post.is-on-home-page %}
                 {% include post-cell-alt.html %}
