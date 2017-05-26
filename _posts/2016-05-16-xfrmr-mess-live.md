@@ -7,18 +7,19 @@ image: "/uploads/robbie-thomson-live-xfrmr-photo-by-tommy-ga-ken-wan.jpg"
 image-credit: Tommy Ga-Ken Wan
 video: https://player.vimeo.com/video/168322480
 button-url: https://thesubstation.iwannaticket.com.au/event/mess-robbie-thomson-MTEwNTA
-price: "$30 + $1.63 BF"
-datetime:
-- 2016-10-13 20:00:00 AEST
-- 2016-10-14 20:00:00 AEST
-is-list-of-datetime: true
-has-start-time: true
 presented-by: Robbie Thomson
+price: "$30 + $1.63 BF"
+sort-date: 2017-10-13 20:00:00 +11:00
+datetime:
+- 2016-10-13 20:00:00 +11:00
+- 2016-10-14 20:00:00 +11:00
+has-start-time: true
 supporters:
 - Creative Victoria
 - Sonica
 - Melbourne Festival
 - Made In Scotland
+is-list-of-datetime: true
 ---
 
 ## AUSTRALIAN EXCLUSIVE from THE SUBSTATION, CRYPTIC AND MELBOURNE FESTIVAL
