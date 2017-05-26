@@ -6,6 +6,7 @@ categories:
 image: "/uploads/the-megaphone-project.jpg"
 presented-by: Madeleine Flynn & Tim Humphrey
 price: FREE
+sort-date: 2017-04-05 10:00:00 +10:00
 datetime:
 - 2017-04-05 10:00:00 +10:00
 - 2017-04-09 17:00:00 +10:00
