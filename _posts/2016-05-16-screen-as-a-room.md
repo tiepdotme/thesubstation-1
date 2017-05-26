@@ -5,16 +5,17 @@ categories:
 - archive
 image: "/uploads/screen-as-a-room-image-by-fanni-futterknecht.jpg"
 button-url: http://thesubstation.iwannaticket.com.au/event/newport-archives-open-house-melbourne-MTEwODI
+presented-by: Nikki Lam
 price: Free
+sort-date: 2017-06-16 18:00:00 +10:00
 datetime:
-- 2016-06-16 18:00:00 AEST
-- 2016-08-06 15:00:00 AEST
+- 2016-06-16 18:00:00 +10:00
+- 2016-08-06 15:00:00 +10:00
 has-opening-event: true
 has-closing-event: true
 artists-talk:
-  date: 2016-07-02 17:30:00 AEST
+  date: 2016-07-02 17:30:00 +10:00
   note: for one hour
-presented-by: Nikki Lam
 supporters: Creative Victoria
 ---
 
