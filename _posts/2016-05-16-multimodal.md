@@ -5,17 +5,18 @@ categories:
 - archive
 image: "/uploads/multimodal-photo-by-mateo-lopez.jpg"
 button-url: http://thesubstation.iwannaticket.com.au/event/multimodal-MTEwNjY
+presented-by: LEE SERLE
 price:
 - "$25 PREVIEW"
 - "$30 standard"
 - "$25 CONCESSION"
+sort-date: 2016-08-31 19:00:00 +10:00
 datetime:
-- 2016-08-31 19:00:00 AEST
-- 2016-09-04 19:00:00 AEST
+- 2016-08-31 19:00:00 +10:00
+- 2016-09-04 19:00:00 +10:00
 has-opening-event: true
 has-preview-event: true
 has-start-time: true
-presented-by: LEE SERLE
 supporters:
 - Creative Victoria
 - Australia Council of Arts
