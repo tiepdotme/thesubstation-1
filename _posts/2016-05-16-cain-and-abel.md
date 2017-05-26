@@ -6,27 +6,28 @@ categories:
 image: "/uploads/cain-and-abel-photo-by-brett-boardmann.jpg"
 image-credit: Brett Boardmann
 button-url: https://thesubstation.iwannaticket.com.au/event/cain-and-abel-MTEwNjc
+presented-by: the rabble
 price:
 - "$25 PREVIEW"
 - "$25 STUDENT/CONCESSION"
 - "$25 ARTISTS"
 - "$35 STANDARD"
 - "$50 RABBLE LOVERS"
+sort-date: 2017-05-26 19:30:00 +10:00
 datetime:
-- 2016-07-20 19:30:00 AEST
-- 2016-07-30 19:30:00 AEST
-has-opening-night: true
-has-preview-night: true
+- 2016-07-20 19:30:00 +10:00
+- 2016-07-30 19:30:00 +10:00
 has-start-time: true
-program-alt-start-time: SUN JULY 24 starts at 6PM
 event-duration-txt: for 60 minutes
 artists-talk:
-  date: TUESDAY JULY 26, 8:30pm
+  date: 2026-01-01 00:00:00 +11:00
   note: ARTISTS POST-SHOW TALK
-presented-by: the rabble
 supporters:
 - Australia Council of Arts
 - Creative Victoria
+has-opening-night: true
+has-preview-night: true
+program-alt-start-time: SUN JULY 24 starts at 6PM
 ---
 
 CAIN AND ABEL is an electrifying theatrical experience, a provocative and bloody retelling of a story that has stained the earth and our psyche for millennia.
