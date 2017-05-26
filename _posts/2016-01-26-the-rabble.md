@@ -6,9 +6,10 @@ categories:
 image: "/uploads/the-rabble-development.jpg"
 image-credit: Kate Davis featuring Dana Miltins
 price: false
+sort-date: 2016-03-02 09:00:00 +11:00
 datetime:
-- 2016-03-01 00:00:00 AEST
-- 2016-03-31 00:00:00 AEST
+- 2016-03-01 00:00:00 +11:00
+- 2016-03-31 00:00:00 +11:00
 is-single-month-duration: true
 notes:
   note: Visit <a href="http://therabble.com.au/">The Rabble Website</a>
