@@ -4,4 +4,15 @@ layout: default
 ---
 
 {% assign categoryName = 'archive' %}
-{% include posts-list.html %}
+
+{% comment %}
+    {% include posts-list.html %}
+    We're not using the include here because we want the archive to show from most recent to oldest.
+{% endcomment %}
+
+<div class="o-grid c-postGrid">
+    {% assign sortedPosts = site.categories[categoryName] | sort: "sort-date" | reverse %}
+    {% for post in sortedPosts%}
+        {% include post-cell-alt.html %}
+    {% endfor %}
+</div>
