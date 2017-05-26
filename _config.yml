@@ -19,41 +19,41 @@ collections:
     output: true
 defaults:
 - scope:
-    type: Supporters
     path: ''
+    type: Supporters
   values:
     portrait-ratio: false
     organisational: 
     program: 
     presenting: 
 - scope:
-    type: about
     path: ''
+    type: about
   values:
     layout: post
     permalink: "/:collection/:path/"
 - scope:
-    type: residents
     path: ''
+    type: residents
   values:
     layout: post
     permalink: "/:collection/:path/"
     position: 
 - scope:
-    type: venues
     path: ''
+    type: venues
   values:
     layout: post
     permalink: "/:collection/:path/"
     venue-cta: true
 - scope:
-    type: pages
     path: ''
+    type: pages
   values:
     layout: post
 - scope:
-    type: posts
     path: ''
+    type: posts
   values:
     layout: post
     permalink: "/:categories/:title/"
