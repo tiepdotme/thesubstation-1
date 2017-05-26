@@ -6,16 +6,17 @@ categories:
 image: "/uploads/projector-bike-back-story.jpg"
 button-url: https://www.eventbrite.com/e/the-art-of-work-tickets-24226159094
 button-txt: RSVP
+presented-by: PROJECTOR BIKE
 price: free, booking is essential
+sort-date: 2016-04-29 19:00:00 +10:00
 datetime:
-- 2016-04-29 19:00:00 AEST
-- 2016-04-30 19:00:00 AEST
-is-list-of-datetime: true
+- 2016-04-29 19:00:00 +10:00
+- 2016-04-30 19:00:00 +10:00
 has-start-time: true
 event-duration-txt: for 120 mins
-presented-by: PROJECTOR BIKE
 supporters:
 - Hobsons Bay City Council
+is-list-of-datetime: true
 ---
 
 Combining archive footage, interviews with artists working at the Substation, and explorations of the lives of the working people of Newport; THE ART OF WORK will guide you through the past and present of work in Newport. THE ART OF WORK is part of a series by [BACK STORY](http://www.theprojects.com.au/index#/back-story/): projection walking tours leading to a domesticated outdoor cinema screening presented by [PROJECTOR BIKE](http://www.projectorbike.com.au/).
