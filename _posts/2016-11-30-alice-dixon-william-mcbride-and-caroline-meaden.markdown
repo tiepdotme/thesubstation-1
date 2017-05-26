@@ -5,6 +5,7 @@ categories:
 - in-development
 image: "/uploads/dixon-mcbride-meaden.jpg"
 image-credit: Jessica Devereux
+sort-date: 2017-05-15 09:00:00 +10:00
 supporters:
 - Besen
 - Creative Victoria
