@@ -6,13 +6,14 @@ categories:
 image: "/uploads/anna-tregloan-the-ghost-project.jpg"
 presented-by: Anna Tregloan
 price: free
+sort-date: 2016-10-22 17:00:00 +11:00
 datetime:
-- 2016-10-22 17:00:00 AEST
-- 2016-10-23 17:00:00 AEST
+- 2016-10-22 17:00:00 +11:00
+- 2016-10-23 17:00:00 +11:00
 has-start-time: true
-is-list-of-datetime: true
 event-duration-txt: Until 9:00pm
 supporters: false
+is-list-of-datetime: true
 ---
 
 THE GHOST PROJECT is an installation. And it is a museum. But mostly, it is a discussion. A discussion about imagination, about belief, about cultures. About what you may have experienced and what you may not have.
