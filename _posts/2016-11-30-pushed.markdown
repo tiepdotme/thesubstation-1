@@ -6,7 +6,7 @@ categories:
 image: "/uploads/paea-leach.jpg"
 image-credit: "© Gregory Lorenzutti for Dancehouse / Keir Choreographic Award 2016.
   Paea Leach, One and one and one"
-sort-date: 2017-11-01 09:00:00 +11:00
+sort-date: 2017-11-01 09:00:00 AEST
 supporters: Besen
 ---
 

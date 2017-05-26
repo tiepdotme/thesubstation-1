@@ -9,7 +9,7 @@ button-url: http://thesubstation.iwannaticket.com.au/event/newport-archives-open
 presented-by: TAMARA SAULWICK, OPEN HOUSE MELBOURNE
 price:
 - Free, bookings essential
-sort-date: 2016-07-30 10:00:00 +10:00
+sort-date: 2016-07-30 10:00:00 AEST
 datetime:
 - 2030-01-01 00:00:00 +11:00
 - 2030-01-01 00:00:00 +11:00

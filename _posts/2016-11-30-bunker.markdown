@@ -9,7 +9,7 @@ button-url: https://www.residentadvisor.net/event.aspx?961514
 button-txt: BUY TICKETS
 presented-by: false
 price: "$25 - $45"
-sort-date: 2017-06-16 21:00:00 +10:00
+sort-date: 2017-06-16 21:00:00 AEST
 datetime:
 - 2017-06-16 21:00:00 +10:00
 is-on-home-page: true

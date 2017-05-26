@@ -10,7 +10,7 @@ price:
 - "$25 PREVIEW"
 - "$30 standard"
 - "$25 CONCESSION"
-sort-date: 2016-08-31 19:00:00 +10:00
+sort-date: 2016-08-31 19:00:00 AEST
 datetime:
 - 2016-08-31 19:00:00 +10:00
 - 2016-09-04 19:00:00 +10:00

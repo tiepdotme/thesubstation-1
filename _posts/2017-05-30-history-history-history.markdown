@@ -7,7 +7,7 @@ image: "/uploads/HISTORY%20HISTORY%20HISTORY-9_Image%20Credit%20Paul%20Blakemore
 image-credit: Paul Blakemore
 button-txt: BUY TICKETS
 presented-by: Deborah Pearson
-sort-date: 2017-09-20 20:00:00 +10:00
+sort-date: 2017-09-20 20:00:00 AEST
 ---
 
 In 1956, there was a popular uprising against the USSR in Hungary. The battle was fought primarily from the Corvin Cinema, and led to one of the largest refugee crises of the twentieth century. In a screening of the 1956 comedy about football that was scheduled to premiere at the Corvin Cinema the week of the uprising, [DEBORAH PEARSON](https://deborahpearson123.wordpress.com/) unlocks a surprisingly personal story. 

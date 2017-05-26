@@ -7,7 +7,7 @@ image: "/uploads/one-step-taken-by-julian.jpg"
 image-credit: Julian Rickert
 presented-by: One Step at a Time Like This
 price: false
-sort-date: 2016-03-01 09:00:00 +11:00
+sort-date: 2016-03-01 09:00:00 AEST
 datetime:
 - 2016-03-01 00:00:00 +11:00
 - 2016-04-30 00:00:00 +10:00

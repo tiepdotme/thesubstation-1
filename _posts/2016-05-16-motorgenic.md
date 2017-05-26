@@ -8,7 +8,7 @@ image-credit: Amanda Betlehem
 presented-by: ROBBIE AVENAIM
 price:
 - Free
-sort-date: 2016-11-16 19:00:00 +11:00
+sort-date: 2016-11-16 19:00:00 AEST
 datetime:
 - 2016-11-17 19:00:00 +11:00
 - 2016-12-17 17:00:00 +11:00

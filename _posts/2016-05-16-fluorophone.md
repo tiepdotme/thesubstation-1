@@ -9,7 +9,7 @@ button-url: http://thesubstation.iwannaticket.com.au/event/fluorophone-MTEwNjM
 presented-by: SPEAK PERCUSSION
 price:
 - "$30 / $20 Concession"
-sort-date: 2017-05-26 20:00:00 +10:00
+sort-date: 2017-05-26 20:00:00 AEST
 datetime:
 - 2016-11-22 20:00:00 +11:00
 - 2016-11-25 20:00:00 +11:00

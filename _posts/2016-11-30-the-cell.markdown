@@ -9,8 +9,7 @@ button-url: "/uploads/Brook-Andrew-The-Cell.pdf"
 button-txt: THE CELL PUBLICATION
 presented-by: Brook Andrew
 price: FREE
-sort-date:
-- 2017-05-26 11:00:00 +10:00
+sort-date: 2017-05-26 11:00:00 AEST
 datetime:
 - 2017-05-26 11:00:00 +10:00
 - 2017-06-10 17:00:00 +10:00
