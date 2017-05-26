@@ -6,14 +6,15 @@ categories:
 image: "/uploads/fotografien.jpg"
 image-credit: Ole Westermann
 price: free
+sort-date: 2016-04-29 10:00:00 +10:00
 datetime:
 - 2016-04-29 05:00:00 +10:00
 - 2016-05-31 10:00:00 +10:00
 has-opening-event: true
-opening-event-text: With <a href="https://www.youtube.com/watch?v=n46r3KUHy-c">Andras
-  Fox</a>
 supporters:
 - Goethe Institut
+opening-event-text: With <a href="https://www.youtube.com/watch?v=n46r3KUHy-c">Andras
+  Fox</a>
 ---
 
 [SVEN MARQUARDT](http://marquardtfotografie.tumblr.com/boss_zwei) was born 1962 in Berlin, and started his career in photography during the early eighties in East Berlin. MARQUARDT is also widely known as the bouncer of the famous techno club [BERGHAIN](http://www.berghain.de/) in Berlin. His portraiture explores staged and candid scenes of the everyday people in the street and the club scene in Berlin. [MARQUARDT](http://marquardtfotografie.tumblr.com/boss_zwei) will be showing a range of his photographs at THE SUBSTATION.
