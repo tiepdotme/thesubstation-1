@@ -16,7 +16,9 @@ has-start-time:
 - false
 is-list-of-dates: false
 is-single-time-duration: false
-event-duration-txt: 'EVENING PERFORMANCES: 8PM SATURDAY MATINEE: 4PM'
+event-duration-txt:
+- 'THU - FRI: 8PM'
+- 'SATURDAY: 4PM & 8PM'
 is-list-of-datetime: true
 ---
 
