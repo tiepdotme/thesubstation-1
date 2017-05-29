@@ -1,6 +1,8 @@
 ---
 title: 'An Exhibition: The Democratic Set'
-date: 2017-05-30 01:49:00 +10:00
+date: 2017-05-30 09:50:00 +10:00
+categories:
+- whats-on
 image: "/uploads/democratic-set.jpg"
 image-credit: Anna Tregloan
 presented-by: Back to Back Theatre
