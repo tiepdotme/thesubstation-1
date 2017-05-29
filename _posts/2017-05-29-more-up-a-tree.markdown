@@ -16,6 +16,7 @@ datetime:
 has-start-time: false
 is-list-of-dates: false
 is-single-time-duration: false
+is-list-of-datetime: true
 ---
 
 [MORE UP A TREE](https://vimeo.com/167341682) is a performance by drummer [JIM WHITE](http://anchorandhope.com/), dancer CLAUDIA DE SERPA SOARES and artist EVE SUSSMAN, that takes place in a 7 x 4m box of 2-way mirrored Plexiglas. At times the audience sees through the glass but the dancer and drummer cannot see out, and at others, the audience can only see themselves reflected back from the mirrored glass.
