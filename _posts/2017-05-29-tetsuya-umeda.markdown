@@ -10,7 +10,8 @@ price: "$10 + BOOKING FEE"
 datetime:
 - 2017-10-30 11:00:00 +11:00
 - 2017-11-04 17:00:00 +11:00
-is-opening-hours-time: true
+is-opening-hours-time: false
+is-within-gallery-open-time: true
 notes:
   note: 'PERFORMANCE: FRI NOVEMBER 03, 7PM'
 supporters:
