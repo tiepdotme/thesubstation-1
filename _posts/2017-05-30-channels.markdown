@@ -1,0 +1,18 @@
+---
+title: CHANNELS
+date: 2017-05-30 09:57:00 +10:00
+categories:
+- whats-on
+image: "/uploads/channels.jpg"
+button-txt: BUY TICKETS
+presented-by: THE AUSTRALIAN VIDEO ART FESTIVAL
+price: FREE. FESTIVAL CLOSING $20 + BOOKING FREE
+datetime:
+- 2017-09-01 18:30:00 +10:00
+- 2017-09-10 17:00:00 +10:00
+has-opening-event: true
+has-mins: true
+notes:
+  note: FESTIVAL CLOSING PARTY SAT OCTOBER 09, 9PM
+---
+
