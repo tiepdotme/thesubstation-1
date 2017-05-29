@@ -1,6 +1,8 @@
 ---
 title: Tetsuya Umeda
 date: 2017-05-29 23:08:00 +10:00
+categories:
+- whats-on
 image: "/uploads/tetsuya.jpg"
 button-url: http://thesubstation.iwannaticket.com.au/event/tetsuya-umeda-MTI5NDY
 button-txt: BUY TICKETS
