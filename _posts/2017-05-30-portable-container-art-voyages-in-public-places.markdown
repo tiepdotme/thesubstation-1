@@ -1,6 +1,8 @@
 ---
 title: Portable Container – Art Voyages in Public Places
 date: 2017-05-30 09:56:00 +10:00
+categories:
+- whats-on
 image: "/uploads/container.jpg"
 button-url: http://thesubstation.iwannaticket.com.au/event/plastic-loaves-makes-you-spring-MTI5NDk
 button-txt: BUY TICKETS
