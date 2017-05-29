@@ -8,6 +8,15 @@ image-credit: Reformation9, Forest Fringe UK. Photo, David Monteith-Hodge
 presented-by: Forest Fringe X Melbourne Fringe
 datetime: 2017-09-29 00:00:00 +10:00
 is-single-date: true
+supporters:
+- Forest Fringe
+- Melbourne Fringe
+- City of Melbourne
+- Art in Public Places
+- Creative Victoria
+- Bank Australia
+- Maribrynong
+- Hobsons Bay City Council
 ---
 
 [FOREST FRINGE](http://www.forestfringe.co.uk/) X [MELBOURNE FRINGE](https://melbournefringe.com.au/) is an innovative residency project bringing together local and international artists to explore the streets and spaces of Melbourne’s West. The project brings award-winning Edinburgh Fringe Festival innovators FOREST FRINGE (UK) to Melbourne for the first time, joining forces with MELBOURNE FRINGE, our own big, bold and gloriously messy celebration of independent art. 
