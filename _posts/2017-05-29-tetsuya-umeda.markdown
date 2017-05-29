@@ -11,7 +11,8 @@ datetime:
 - 2017-10-30 11:00:00 +11:00
 - 2017-11-04 17:00:00 +11:00
 is-opening-hours-time: false
-is-within-gallery-open-time: true
+is-within-gallery-open-time: false
+event-duration-txt: 11AM - 5PM
 notes:
   note: 'PERFORMANCE: FRI NOVEMBER 03, 7PM'
 supporters:
