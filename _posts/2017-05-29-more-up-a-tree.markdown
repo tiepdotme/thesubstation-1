@@ -9,11 +9,11 @@ button-txt: BUY TICKETS
 presented-by: JIM WHITE, CLAUDIA DE SERPA SOARES (PRT) AND EVE SUSSMAN (USA)
 price: "$39 + BOOKING FEE"
 datetime:
-- 2017-10-12 20:00:00 +11:00
-- 2017-10-12 20:00:00 +11:00
-- 2017-10-13 16:00:00 +11:00
-- 2017-10-13 20:00:00 +11:00
-has-start-time: true
+- 2012-01-01 00:00:00 +11:00
+- 2013-01-01 00:00:00 +11:00
+- 2014-01-01 00:00:00 +11:00
+- 2014-01-01 00:00:00 +11:00
+has-start-time: false
 is-list-of-dates: false
 is-single-time-duration: false
 is-list-of-datetime: true
