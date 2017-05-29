@@ -3,13 +3,13 @@ title: History History History
 date: 2017-05-30 10:00:00 +10:00
 categories:
 - whats-on
-image: "/uploads/HISTORY%20HISTORY%20HISTORY-9_Image%20Credit%20Paul%20Blakemoreweb.jpg"
+image: "/uploads/history-history-history.jpg"
 image-credit: Paul Blakemore
 button-url: http://thesubstation.iwannaticket.com.au/event/history-history-history-MTI5NDQ
 button-txt: BUY TICKETS
 presented-by: Deborah Pearson
 price: "$25/15 + BOOKING FEE"
-sort-date: 2017-09-20 20:00:00 AEST
+sort-date: 2017-09-20 20:00:00 +10:00
 datetime:
 - 2017-09-20 20:00:00 +10:00
 - 2017-09-23 20:00:00 +10:00
