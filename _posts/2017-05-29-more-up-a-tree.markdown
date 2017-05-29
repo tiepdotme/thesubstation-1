@@ -12,12 +12,11 @@ datetime:
 - 2017-10-12 20:00:00 +11:00
 - 2017-10-13 20:00:00 +11:00
 - 2017-10-14 16:00:00 +11:00
-- 2017-10-14 20:00:00 +11:00
 has-start-time:
-- true
-- true
+- false
 is-list-of-dates: false
 is-single-time-duration: false
+event-duration-txt: 'EVENING PERFORMANCES: 8PM SATURDAY MATINEE: 4PM'
 is-list-of-datetime: true
 ---
 
