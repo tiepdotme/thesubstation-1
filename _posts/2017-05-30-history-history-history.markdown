@@ -22,7 +22,7 @@ In 1956, there was a popular uprising against the USSR in Hungary. The battle wa
 A documentary performed live, the performance runs the length of and is timed
 alongside the film, using interviews with the exiled screenwriter and people involved with the film to playfully reflect on immigration, censorship, and our personal links with history.
 
-With dramaturgy by Daniel Kitson and outside eye work by Tania El Khoury and Laura Dannequin, [HISTORY HISTORY HISTORY](deborahpearson123.wordpress.com/2016/02/24/history-history-history/) is a show for lovers of cinema and for anyone who has stared at pictures of their ancestors a little too long.
+With dramaturgy by Daniel Kitson and outside eye work by Tania El Khoury and Laura Dannequin, [HISTORY HISTORY HISTORY](https://deborahpearson123.wordpress.com/2016/02/24/history-history-history/) is a show for lovers of cinema and for anyone who has stared at pictures of their ancestors a little too long.
 
 Presented by The SUBSTATION, [FOREST FRINGE](http://forestfringe.co.uk/new/) and [MELBOURNE FRINGE](https://melbournefringe.com.au/).
 
