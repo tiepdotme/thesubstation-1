@@ -11,6 +11,7 @@ datetime:
 - 2017-08-30 17:00:00 +10:00
 is-single-date: false
 is-list-of-dates: true
+supporters: Cryptic
 ---
 
 Following his work [XFRMR](https://thesubstation.org.au/archive/xfrmr-mess-live/) presented in 2016 for MELBOURNE FESTIVAL, [ROBBIE THOMSON](http://www.robbiethomson.co.uk/) returns to The SUBSTATION with a series of six panels created specifically for The SUBSTATION billboards. 
