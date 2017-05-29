@@ -11,9 +11,9 @@ price: "$39 + BOOKING FEE"
 datetime:
 - 2017-10-12 20:00:00 +11:00
 - 2017-10-12 20:00:00 +11:00
-- 2017-05-13 16:00:00 +10:00
-- 2017-05-30 20:00:00 +10:00
-has-start-time: false
+- 2017-10-13 16:00:00 +11:00
+- 2017-10-13 20:00:00 +11:00
+has-start-time: true
 is-list-of-dates: false
 is-single-time-duration: false
 is-list-of-datetime: true
