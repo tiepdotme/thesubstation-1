@@ -6,10 +6,10 @@ categories:
 image: "/uploads/plastic-loaves.jpg"
 button-url: http://thesubstation.iwannaticket.com.au/event/plastic-loaves-makes-you-spring-MTI5NDk
 button-txt: BUY TICKETS
-price: FROM $20 + BOOKING FEE
+price: From $20 + BOOKING FEE
 datetime: 2017-10-20 21:00:00 +11:00
 has-start-time: true
-is-single-date: false
+is-single-date: true
 is-single-time-duration: false
 supporters: Plastic Loaves
 ---
