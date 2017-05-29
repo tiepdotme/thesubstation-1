@@ -6,14 +6,14 @@ categories:
 image: "/uploads/tetsuya.jpg"
 button-url: http://thesubstation.iwannaticket.com.au/event/tetsuya-umeda-MTI5NDY
 button-txt: BUY TICKETS
-price: "$10"
+price: "$10 + BOOKING FEE"
 datetime:
 - 2017-10-30 11:00:00 +11:00
 - 2017-11-04 17:00:00 +11:00
 is-opening-hours-time: true
 notes:
-  date: 2017-11-03 19:00:00 +11:00
   note: 'PERFORMANCE:'
+  date: 2017-11-03 19:00:00 +11:00
 supporters:
 - Liquid Architecture
 - Room40
