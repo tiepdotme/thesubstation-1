@@ -1,0 +1,19 @@
+---
+title: Signal
+date: 2017-05-29 09:59:00 +10:00
+categories:
+- whats-on
+image: "/uploads/signal.jpg"
+image-credit: Jessica Middleton
+button-txt: BUY TICKETS
+price: "$15 + BOOKING FEE"
+datetime: 2017-07-29 20:00:00 +10:00
+has-start-time: true
+is-single-date: true
+---
+
+SIGNAL pushes the boundaries of modern electronica with a collection of artists that will showcase various integrations of modular synthesis.
+
+Including live performances by [VICMOD ENSEMBLE](https://vicmodensemble.bandcamp.com/), [ROBIN FOX](http://robinfox.com.au/), [LUKE STEIN](https://soundcloud.com/djlukestein), CRAY, EHSAN GELSI and some very special guests, SIGNAL is an exploration of sound and sonic textures to lead your mind beyond an everyday reality and to open your ears to endless possibilities.
+
+Presented by The SUBSTATION and [STABLE MUSIC](http://stablemusic.com.au/).
