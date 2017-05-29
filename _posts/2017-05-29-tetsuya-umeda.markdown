@@ -12,8 +12,7 @@ datetime:
 - 2017-11-04 17:00:00 +11:00
 is-opening-hours-time: true
 notes:
-  note: 'PERFORMANCE:'
-  date: 2017-11-03 19:00:00 +11:00
+  note: 'PERFORMANCE: FRI NOVEMBER 03, 7PM'
 supporters:
 - Liquid Architecture
 - Room40
