@@ -1,6 +1,6 @@
 ---
 title: Signal
-date: 2017-05-29 09:59:00 +10:00
+date: 2017-05-30 09:59:00 +10:00
 categories:
 - whats-on
 image: "/uploads/signal.jpg"
