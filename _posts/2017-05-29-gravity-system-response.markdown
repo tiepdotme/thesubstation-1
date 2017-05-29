@@ -1,6 +1,8 @@
 ---
 title: Gravity System Response
 date: 2017-05-29 20:18:00 +10:00
+categories:
+- whats-on
 image: "/uploads/ash-keating.jpg"
 presented-by: Ash Keating
 datetime:
