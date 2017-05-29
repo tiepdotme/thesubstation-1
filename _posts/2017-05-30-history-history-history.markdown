@@ -24,7 +24,7 @@ alongside the film, using interviews with the exiled screenwriter and people inv
 
 With dramaturgy by Daniel Kitson and outside eye work by Tania El Khoury and Laura Dannequin, [HISTORY HISTORY HISTORY](https://deborahpearson123.wordpress.com/2016/02/24/history-history-history/) is a show for lovers of cinema and for anyone who has stared at pictures of their ancestors a little too long.
 
-Presented by The SUBSTATION, [FOREST FRINGE](http://forestfringe.co.uk/new/) and [MELBOURNE FRINGE](https://melbournefringe.com.au/).
+Presented by The SUBSTATION, [FOREST FRINGE](http://forestfringe.co.uk/) and [MELBOURNE FRINGE](https://melbournefringe.com.au/).
 
 **A House on Fire commission by bit teatergarasjen (Norway) and Théâtre Garonne (France).** <br>
 **Funded by Culture Europe. Developed in part at the National Theatre Studio.**
