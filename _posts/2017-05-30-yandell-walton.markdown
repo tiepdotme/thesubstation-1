@@ -7,7 +7,7 @@ image: "/uploads/yandell.jpg"
 image-credit: artdocumentation.com.au
 datetime:
 - 2017-08-01 00:00:00 +10:00
-is-single-month-duration: false
+is-single-month-duration: true
 is-months-duration: true
 ---
 
