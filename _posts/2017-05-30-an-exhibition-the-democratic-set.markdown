@@ -1,6 +1,6 @@
 ---
 title: 'An Exhibition: The Democratic Set'
-date: 2017-05-30 10:01:00 +10:00
+date: 2017-05-30 10:02:00 +10:00
 categories:
 - whats-on
 image: "/uploads/democratic-set.jpg"
