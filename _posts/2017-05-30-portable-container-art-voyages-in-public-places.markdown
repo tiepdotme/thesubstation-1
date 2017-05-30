@@ -15,6 +15,11 @@ has-closing-event: false
 has-start-time: true
 notes:
   note: 'CLOSING PARTY: FRI SEPTEMBER 15, 4PM'
+supporters:
+- Hobsons Bay City Council
+- Art in Public Places
+- Plastic Loaves
+- Mesh Mash
 ---
 
 The confines of a shipping container will become a space for experimentation in The SUBSTATION’s forecourt, as part of HOBSONS BAY CITY COUNCIL’s [ART IN PUBLIC PLACES PROGRAM](https://www.facebook.com/Artinpublicplaces/).
