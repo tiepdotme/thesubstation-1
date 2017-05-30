@@ -8,7 +8,7 @@ button-url: http://thesubstation.iwannaticket.com.au/event/plastic-loaves-makes-
 button-txt: BUY TICKETS
 price: From $20 + BOOKING FEE
 sort-date: 2017-10-20 21:00:00 AEST
-datetime: 
+datetime:
 - 2017-10-20 21:00:00 +11:00
 has-start-time: true
 is-single-date: true
