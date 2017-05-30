@@ -3,7 +3,7 @@ title: Home
 pages: 
 events: The Cell
 youtube: 
-vimeo: https://vimeo.com/218756036
+vimeo: 218756036
 banner-image: "/uploads/Substation_WebsiteHomeBanner-2017Season1-TheCell-edit.gif"
 carousel-images:
 - "/uploads/The-Vietnam-Archive-Project-Untitled-Sides-03-Phuong-Ngo.jpg"
