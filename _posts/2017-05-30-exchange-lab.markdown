@@ -1,12 +1,11 @@
 ---
 title: Exchange Lab
-date: 2017-05-30 09:55:00 +10:00
+date: 2017-05-30 09:56:00 +10:00
 categories:
 - whats-on
 image: "/uploads/exchange-lab.jpg"
 image-credit: Reformation9, Forest Fringe UK. Photo, David Monteith-Hodge
 presented-by: Forest Fringe X Melbourne Fringe
-sort-date: 2017-09-29 00:00:00 AEST
 datetime:
 - 2017-09-29 00:00:00 +10:00
 is-single-date: true
@@ -19,6 +18,7 @@ supporters:
 - Bank Australia
 - Maribrynong
 - Hobsons Bay City Council
+sort-date: 2017-09-29 00:00:00 +10:00
 ---
 
 [FOREST FRINGE](http://www.forestfringe.co.uk/) X [MELBOURNE FRINGE](https://melbournefringe.com.au/) is an innovative residency project bringing together local and international artists to explore the streets and spaces of Melbourne’s West. The project brings award-winning Edinburgh Fringe Festival innovators FOREST FRINGE (UK) to Melbourne for the first time, joining forces with MELBOURNE FRINGE, our own big, bold and gloriously messy celebration of independent art. 
