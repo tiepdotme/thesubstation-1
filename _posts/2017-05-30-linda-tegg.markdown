@@ -22,7 +22,6 @@ image-credit: Linda Tegg, “Terrain (Prairie Grass)” (2015), Whole Foods Bul
 datetime:
 - 2017-07-01 00:00:00 +10:00
 - 2017-12-01 00:00:00 +11:00
-- 
 is-months-duration: true
 ---
 
