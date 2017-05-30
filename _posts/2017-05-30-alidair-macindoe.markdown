@@ -7,7 +7,7 @@ image: "/uploads/alisdair.png"
 datetime:
 - 2017-07-01 00:00:00 +10:00
 - 2017-08-31 00:00:00 +10:00
-is-single-month-duration: true
+is-single-month-duration: false
 event-duration-txt: JULY - AUGUST
 ---
 
