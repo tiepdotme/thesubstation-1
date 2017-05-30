@@ -21,7 +21,7 @@ event-duration-txt:
 supporters:
 - Melbourne Festival
 - Eastman
-- 
+- Llumar
 is-list-of-datetime: true
 ---
 
