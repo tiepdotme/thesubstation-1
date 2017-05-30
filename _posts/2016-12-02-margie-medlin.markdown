@@ -2,10 +2,10 @@
 title: Margie Medlin
 date: 2016-12-02 11:41:00 +11:00
 categories:
-- in-development
+- archive
 image: "/uploads/residency-margie-medlin.jpg"
 presented-by: RESIDENCY
-sort-date: 2017-04-01 09:00:00 AEST
+sort-date: 2017-04-01 09:00:00 +11:00
 ---
 
 ## THE SUBSTATION
