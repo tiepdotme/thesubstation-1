@@ -11,6 +11,12 @@ datetime:
 - 2017-12-16 17:00:00 +11:00
 has-opening-event: true
 is-within-gallery-open-time: true
+supporters:
+- Back to Back
+- Australia Council of Arts
+- Catalyst
+- Creative Victoria
+- Geelong
 ---
 
 Over eight years, [BACK TO BACK THEATRE](http://backtobacktheatre.com/) has worked with 28 communities to create a series of short films that explore the ideals of equality and freedom. This exhibition captures 12 of these films, each a portrait of a community, exposing their differences and the similarities that connect us all.
