@@ -3,13 +3,13 @@ title: The Rabble
 date: 2016-01-26 01:00:00 +11:00
 categories:
 - archive
-image: "/uploads/the-rabble-development.jpg"
-image-credit: Kate Davis featuring Dana Miltins
+image: "/uploads/ulyssis.jpg"
+image-credit: 'Dana Miltins and Mary Helen Sassman, Image: David Paterson'
 price: false
-sort-date: 2016-03-02 09:00:00 AEST
+sort-date: 2016-03-02 09:00:00 +11:00
 datetime:
-- 2016-03-01 00:00:00 +11:00
-- 2016-03-31 00:00:00 +11:00
+- 2017-12-01 00:00:00 +11:00
+- 2017-12-31 00:00:00 +11:00
 is-single-month-duration: true
 notes:
   note: Visit <a href="http://therabble.com.au/">The Rabble Website</a>
