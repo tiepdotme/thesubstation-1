@@ -6,7 +6,8 @@ categories:
 image: "/uploads/zak.jpg"
 datetime:
 - 2017-08-01 00:00:00 +10:00
-is-single-month-duration: true
+is-single-month-duration: false
+is-months-duration: true
 ---
 
 CHARLES PURCELL and ZAK PIDD are theatre-makers and actors based in Melbourne whose distinct skill sets are fundamental to their combined practice. PURCELL’s background in writing, cultural studies and dramaturgy is blended with PIDD’s experience as a multi-instrumentalist, whose exploration of sound underpins all of the work he makes.
