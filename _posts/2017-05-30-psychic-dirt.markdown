@@ -5,7 +5,7 @@ categories:
 - whats-on
 image: "/uploads/RobbiePsychicDirtweb.jpg"
 presented-by: Robbie Thomson (UK)
-sort-date: 2017-07-01 00:00:00 +10:00
+sort-date: 2017-07-03 12:00:00 AEST
 datetime:
 - 2017-07-03 12:00:00 +10:00
 - 2017-08-30 17:00:00 +10:00

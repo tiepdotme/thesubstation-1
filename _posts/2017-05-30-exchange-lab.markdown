@@ -6,6 +6,7 @@ categories:
 image: "/uploads/exchange-lab.jpg"
 image-credit: Reformation9, Forest Fringe UK. Photo, David Monteith-Hodge
 presented-by: Forest Fringe X Melbourne Fringe
+sort-date: 2017-09-29 00:00:00 AEST
 datetime: 
 - 2017-09-29 00:00:00 +10:00
 is-single-date: true

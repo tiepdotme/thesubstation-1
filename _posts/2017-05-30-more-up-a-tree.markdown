@@ -8,6 +8,7 @@ button-url: http://thesubstation.iwannaticket.com.au/event/more-up-a-tree-MTI5ND
 button-txt: BUY TICKETS
 presented-by: JIM WHITE, CLAUDIA DE SERPA SOARES (PRT) AND EVE SUSSMAN (USA)
 price: "$39 + BOOKING FEE"
+sort-date: 2017-10-12 20:00:00 AEST
 datetime:
 - 2017-10-12 20:00:00 +11:00
 - 2017-10-13 20:00:00 +11:00

@@ -11,6 +11,7 @@ presented-by: ST MARTINS
 price:
 - 'PARTICIPANT: $30/25 + BOOKING FEE'
 - 'OBSERVER: $5 + BOOKING FEE'
+sort-date: 2017-07-06 19:00:00 AEST
 datetime:
 - 2017-07-06 19:00:00 +10:00
 - 2017-07-08 19:00:00 +10:00

@@ -7,6 +7,7 @@ image: "/uploads/channels.jpg"
 button-txt: BUY TICKETS
 presented-by: THE AUSTRALIAN VIDEO ART FESTIVAL
 price: FREE. FESTIVAL CLOSING $20 + BOOKING FREE
+sort-date: 2017-09-01 18:30:00 AEST
 datetime:
 - 2017-09-01 18:30:00 +10:00
 - 2017-09-10 17:00:00 +10:00

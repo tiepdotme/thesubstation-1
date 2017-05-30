@@ -9,7 +9,7 @@ button-url: http://thesubstation.iwannaticket.com.au/event/history-history-histo
 button-txt: BUY TICKETS
 presented-by: Deborah Pearson
 price: "$25/15 + BOOKING FEE"
-sort-date: 2017-09-20 20:00:00 +10:00
+sort-date: 2017-09-20 20:00:00 AEST
 datetime:
 - 2017-09-20 20:00:00 +10:00
 - 2017-09-23 20:00:00 +10:00

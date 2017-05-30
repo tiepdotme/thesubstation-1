@@ -6,6 +6,7 @@ categories:
 image: "/uploads/democratic-set.jpg"
 image-credit: Anna Tregloan
 presented-by: Back to Back Theatre
+sort-date: 2017-11-10 18:30:00 AEST
 datetime:
 - 2017-11-10 18:30:00 +11:00
 - 2017-12-16 17:00:00 +11:00

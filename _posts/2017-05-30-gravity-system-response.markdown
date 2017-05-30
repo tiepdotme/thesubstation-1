@@ -5,6 +5,7 @@ categories:
 - whats-on
 image: "/uploads/ash-keating.jpg"
 presented-by: Ash Keating
+sort-date: 2017-09-01 12:00:00 AEST
 datetime:
 - 2017-09-01 12:00:00 +10:00
 - 2017-10-31 17:00:00 +11:00

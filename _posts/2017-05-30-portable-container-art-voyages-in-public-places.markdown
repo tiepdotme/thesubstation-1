@@ -8,6 +8,7 @@ button-url: http://thesubstation.iwannaticket.com.au/event/plastic-loaves-makes-
 button-txt: BUY TICKETS
 presented-by: Plastic Loaves and Mesh Mash
 price: FREE
+sort-date: 2017-09-13 15:30:00 AEST
 datetime:
 - 2017-09-13 15:30:00 +10:00
 - 2017-09-16 15:30:00 +10:00

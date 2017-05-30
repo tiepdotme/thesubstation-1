@@ -7,6 +7,7 @@ image: "/uploads/signal.jpg"
 image-credit: Jessica Middleton
 button-txt: BUY TICKETS
 price: "$15 + BOOKING FEE"
+sort-date: 2017-07-29 20:00:00 AEST
 datetime: 
 - 2017-07-29 20:00:00 +10:00
 has-start-time: true

@@ -8,6 +8,7 @@ button-url: http://thesubstation.iwannaticket.com.au/event/tetsuya-umeda-MTI5NDY
 button-txt: BUY TICKETS
 price:
 - 'PERFORMANCE: $10 + BOOKING FEE'
+sort-date: 2017-10-30 11:00:00 AEST
 datetime:
 - 2017-10-30 11:00:00 +11:00
 - 2017-11-04 17:00:00 +11:00
