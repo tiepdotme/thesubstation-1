@@ -1,6 +1,6 @@
 ---
 title: Banjos, Boots & Beyonce
-date: 2017-05-30 10:00:00 +10:00
+date: 2017-05-30 09:50:00 +10:00
 categories:
 - whats-on
 image: "/uploads/st-martins.jpg"
@@ -11,7 +11,6 @@ presented-by: ST MARTINS
 price:
 - 'PARTICIPANT: $30/25 + BOOKING FEE'
 - 'OBSERVER: $5 + BOOKING FEE'
-sort-date: 2017-07-06 19:00:00 AEST
 datetime:
 - 2017-07-06 19:00:00 +10:00
 - 2017-07-08 19:00:00 +10:00
@@ -20,6 +19,7 @@ supporters:
 - Creative Victoria
 - Australia Council of Arts
 - St Martins
+sort-date: 2017-07-06 19:00:00 +10:00
 ---
 
 Children all around Australia learn to bush dance every year. You did, I did, we all did. So what’s the deal with a bush dance? What does it mean today? And will we still be Krumping in a hundred years’ time? 
