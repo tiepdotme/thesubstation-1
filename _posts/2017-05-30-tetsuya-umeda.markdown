@@ -1,6 +1,6 @@
 ---
 title: Tetsuya Umeda
-date: 2017-05-30 09:51:00 +10:00
+date: 2017-05-30 10:00:00 +10:00
 categories:
 - whats-on
 image: "/uploads/tetsuya.jpg"
@@ -8,7 +8,6 @@ button-url: http://thesubstation.iwannaticket.com.au/event/tetsuya-umeda-MTI5NDY
 button-txt: BUY TICKETS
 price:
 - 'PERFORMANCE: $10 + BOOKING FEE'
-sort-date: 2017-10-30 11:00:00 AEST
 datetime:
 - 2017-10-30 11:00:00 +11:00
 - 2017-11-04 17:00:00 +11:00
@@ -21,6 +20,7 @@ supporters:
 - Liquid Architecture
 - Room40
 - Performance Space
+sort-date: 2017-10-30 11:00:00 +11:00
 ---
 
 Based in Osaka, Japan, [TETSUYA UMEDA](https://vimeo.com/106567276) creates dynamic environments through the combination of architectural structures, sound and light. His site-specific and temporal works utilise found domestic objects and transform them from their daily familiarity into a transcendent spectacle of the unexpected.
