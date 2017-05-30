@@ -13,6 +13,11 @@ datetime:
 has-opening-event: true
 has-mins: true
 is-within-gallery-open-time: true
+supporters:
+- Channels
+- Australia Council of Arts
+- Hobsons Bay City Council
+- Art in Public Places
 ---
 
 FUTURE TENSE is a group exhibition that explores positions in video art, that draft alternative visions for the future to establish histories which reflect on the present.
