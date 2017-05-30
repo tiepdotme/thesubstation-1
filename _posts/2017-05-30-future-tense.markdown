@@ -1,13 +1,12 @@
 ---
 title: Future Tense
-date: 2017-05-30 09:57:00 +10:00
+date: 2017-05-30 09:55:00 +10:00
 categories:
 - whats-on
 image: "/uploads/future-tense.jpg"
 image-credit: Future Clown (still), 2017. Rachel Mason
 presented-by: 'CHANNELS: THE AUSTRALIAN VIDEO ART FESTIVAL'
 price: FREE
-sort-date: 2017-09-01 18:30:00 AEST
 datetime:
 - 2017-09-01 18:30:00 +10:00
 - 2017-10-28 17:00:00 +11:00
@@ -19,6 +18,7 @@ supporters:
 - Australia Council of Arts
 - Hobsons Bay City Council
 - Art in Public Places
+sort-date: 2017-09-01 18:30:00 +10:00
 ---
 
 FUTURE TENSE is a group exhibition that explores positions in video art, that draft alternative visions for the future to establish histories which reflect on the present.
