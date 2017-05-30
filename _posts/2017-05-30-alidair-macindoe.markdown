@@ -8,7 +8,7 @@ datetime:
 - 2017-07-01 00:00:00 +10:00
 - 2017-08-31 00:00:00 +10:00
 is-single-month-duration: false
-event-duration-txt: JULY - AUGUST
+is-months-duration: true
 ---
 
 Exploring multi room instrumentation, robotic music and programmatic composition, ALISDAIR
