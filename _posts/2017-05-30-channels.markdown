@@ -14,6 +14,12 @@ has-opening-event: true
 has-mins: true
 notes:
   note: FESTIVAL CLOSING PARTY SAT OCTOBER 09, 9PM
+supporters:
+- Channels
+- Australia Council of Arts
+- Creative Victoria
+- Hobsons Bay City Council
+- Art in Public Places
 ---
 
 CHANNELS, The Australian Video Art Festival is the only festival dedicated to showcasing new contemporary moving image by some of the most exciting Australian and international artists. CHANNELS delivers a diverse and inspiring festival of exhibitions, screenings, talks, public programs and a series of international exhibitions and events.
