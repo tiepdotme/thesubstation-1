@@ -1,17 +1,17 @@
 ---
 title: Psychic Dirt
-date: 2017-05-30 09:58:00 +10:00
+date: 2017-05-30 09:52:00 +10:00
 categories:
 - whats-on
 image: "/uploads/RobbiePsychicDirtweb.jpg"
 presented-by: Robbie Thomson (UK)
-sort-date: 2017-07-03 12:00:00 AEST
 datetime:
 - 2017-07-03 12:00:00 +10:00
 - 2017-08-30 17:00:00 +10:00
 is-single-date: false
 is-list-of-dates: true
 supporters: Cryptic
+sort-date: 2017-07-03 12:00:00 +10:00
 ---
 
 Following his work [XFRMR](https://thesubstation.org.au/archive/xfrmr-mess-live/) presented in 2016 for MELBOURNE FESTIVAL, [ROBBIE THOMSON](http://www.robbiethomson.co.uk/) returns to The SUBSTATION with a series of six panels created specifically for The SUBSTATION billboards. 
