@@ -18,7 +18,10 @@ is-list-of-dates: false
 is-single-time-duration: false
 event-duration-txt:
 - 
-supporters: Eastman
+supporters:
+- Melbourne Festival
+- Eastman
+- 
 is-list-of-datetime: true
 ---
 
