@@ -1,6 +1,6 @@
 ---
 title: History History History
-date: 2017-05-30 10:00:00 +10:00
+date: 2017-05-30 09:55:00 +10:00
 categories:
 - whats-on
 image: "/uploads/history-history-history.jpg"
@@ -9,7 +9,6 @@ button-url: http://thesubstation.iwannaticket.com.au/event/history-history-histo
 button-txt: BUY TICKETS
 presented-by: Deborah Pearson
 price: "$25/15 + BOOKING FEE"
-sort-date: 2017-09-20 20:00:00 AEST
 datetime:
 - 2017-09-20 20:00:00 +10:00
 - 2017-09-23 20:00:00 +10:00
@@ -18,6 +17,7 @@ is-list-of-dates: true
 supporters:
 - Forest Fringe
 - Melbourne Fringe
+sort-date: 2017-09-20 20:00:00 +10:00
 ---
 
 In 1956, there was a popular uprising against the USSR in Hungary. The battle was fought primarily from the Corvin Cinema, and led to one of the largest refugee crises of the twentieth century. In a screening of the 1956 comedy about football that was scheduled to premiere at the Corvin Cinema the week of the uprising, [DEBORAH PEARSON](https://deborahpearson123.wordpress.com/) unlocks a surprisingly personal story. 
