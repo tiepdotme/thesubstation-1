@@ -1,6 +1,6 @@
 ---
 title: Exchange Lab
-date: 2017-05-30 09:57:00 +10:00
+date: 2017-05-30 09:58:00 +10:00
 categories:
 - whats-on
 image: "/uploads/exchange-lab.jpg"
