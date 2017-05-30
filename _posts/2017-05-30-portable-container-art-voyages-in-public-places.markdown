@@ -1,6 +1,6 @@
 ---
 title: Portable Container – Art Voyages in Public Places
-date: 2017-05-30 09:56:00 +10:00
+date: 2017-05-30 09:54:00 +10:00
 categories:
 - whats-on
 image: "/uploads/container.jpg"
@@ -8,7 +8,6 @@ button-url: http://thesubstation.iwannaticket.com.au/event/plastic-loaves-makes-
 button-txt: BUY TICKETS
 presented-by: Plastic Loaves and Mesh Mash
 price: FREE
-sort-date: 2017-09-13 15:30:00 AEST
 datetime:
 - 2017-09-13 15:30:00 +10:00
 - 2017-09-16 15:30:00 +10:00
@@ -21,6 +20,7 @@ supporters:
 - Art in Public Places
 - Plastic Loaves
 - Mesh Mash
+sort-date: 2017-09-13 15:30:00 +10:00
 ---
 
 The confines of a shipping container will become a space for experimentation in The SUBSTATION’s forecourt, as part of HOBSONS BAY CITY COUNCIL’s [ART IN PUBLIC PLACES PROGRAM](https://www.facebook.com/Artinpublicplaces/).
