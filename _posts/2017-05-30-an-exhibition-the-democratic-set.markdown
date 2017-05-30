@@ -1,12 +1,11 @@
 ---
 title: 'An Exhibition: The Democratic Set'
-date: 2017-05-30 09:50:00 +10:00
+date: 2017-05-30 10:01:00 +10:00
 categories:
 - whats-on
 image: "/uploads/democratic-set.jpg"
 image-credit: Anna Tregloan
 presented-by: Back to Back Theatre
-sort-date: 2017-11-10 18:30:00 AEST
 datetime:
 - 2017-11-10 18:30:00 +11:00
 - 2017-12-16 17:00:00 +11:00
@@ -18,6 +17,7 @@ supporters:
 - Catalyst
 - Creative Victoria
 - Geelong
+sort-date: 2017-11-10 18:30:00 +11:00
 ---
 
 Over eight years, [BACK TO BACK THEATRE](http://backtobacktheatre.com/) has worked with 28 communities to create a series of short films that explore the ideals of equality and freedom. This exhibition captures 12 of these films, each a portrait of a community, exposing their differences and the similarities that connect us all.
