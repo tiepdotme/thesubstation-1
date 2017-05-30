@@ -18,7 +18,9 @@
                             <date class="c-postCell-subheadline">{{ post.datetime | first | date: "%Y" }}</date>
                         {% elsif post.datetime.size == 1 or post.is-single-date %}
                             <date class="c-postCell-subheadline">{{ post.datetime | first | date: "%B %d %Y" }}</date>
-                        {% elsif post.is-months-duration == true %}
+                        {% elsif post.is-single-month-duration == true %}
+                            <date class="c-postCell-subheadline">{{ post.datetime | last | date: "%B %Y" }}</date>
+                        {% elsif post.is-many-months-duration == true %}
                             <date class="c-postCell-subheadline">{{ post.datetime | first | date: "%B" }} - {{ post.datetime | last | date: "%B %Y" }}</date>
                         {% else %}
                             <date class="c-postCell-subheadline">{{ post.datetime | first | date: "%B %d" }} - {{ post.datetime | last | date: "%B %d %Y" }}</date>

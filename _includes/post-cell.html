@@ -14,7 +14,7 @@
                         {% if post.dates %}
                             {% if post.dates.size == 1 %}
                                 <date class="c-postCell-headline">{{ post.dates | first | date: "%b %d" }}</date>
-                            {% elsif post.is-months-duration == true %}
+                            {% elsif post.is-many-months-duration == true %}
                                 <date class="c-postCell-headline">{{ post.dates | first | date: "%B" }} - {{ post.dates | last | date: "%B" }} {{ post.dates | first | date: "%Y" }}</date>
                             {% else %}
                                 <date class="c-postCell-headline">{{ post.dates | first | date: "%b %d" }} - {{ post.dates | last | date: "%b %d" }}</date>

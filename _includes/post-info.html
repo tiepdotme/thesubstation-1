@@ -124,7 +124,7 @@
             <span>Program runs:</span>
             {% if page.is-single-month-duration == true %}
                 <p>{{ page.datetime | first | date: "%B" }} {{ page.datetime | first | date: "%Y" }}</p>
-            {% elsif page.is-months-duration == true %}
+            {% elsif page.is-many-months-duration == true %}
                 <p>{{ page.datetime | first | date: "%B" }} - {{ page.datetime | last | date: "%B" }} {{ page.datetime | first | date: "%Y" }}</p>
             {% else %}
                 <p>{{ page.datetime | first | date: "%a %B %d" }} - <em class="u-lg-lineBreak">{{ page.datetime | last | date: "%a %B %d" }}</em></p>
