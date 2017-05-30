@@ -17,7 +17,6 @@ notes:
 supporters:
 - Channels
 - Australia Council of Arts
-- Creative Victoria
 - Hobsons Bay City Council
 - Art in Public Places
 ---
