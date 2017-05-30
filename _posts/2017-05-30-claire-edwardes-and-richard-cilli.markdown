@@ -8,6 +8,7 @@ image-credit: Imanuel Dado
 datetime:
 - 2017-12-01 00:00:00 +11:00
 - 2017-12-31 00:00:00 +11:00
+is-single-time-duration: false
 is-single-month-duration: true
 is-months-duration: true
 ---
