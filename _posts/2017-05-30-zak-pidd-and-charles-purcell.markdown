@@ -8,7 +8,6 @@ datetime:
 - 2017-08-01 00:00:00 +10:00
 - 2017-08-31 00:00:00 +10:00
 is-single-month-duration: true
-is-months-duration: true
 is-year-duration: false
 ---
 

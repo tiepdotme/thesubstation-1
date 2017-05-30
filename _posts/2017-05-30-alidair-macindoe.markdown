@@ -3,12 +3,11 @@ title: Alidair Macindoe
 date: 2017-05-30 10:17:00 +10:00
 categories:
 - in-development
-image: "/uploads/alisdair.png"
+image: "/uploads/alisdair.jpg"
 datetime:
 - 2017-07-01 00:00:00 +10:00
 - 2017-08-31 00:00:00 +10:00
-is-single-month-duration: false
-is-months-duration: true
+is-many-months-duration: true
 ---
 
 Exploring multi room instrumentation, robotic music and programmatic composition, ALISDAIR

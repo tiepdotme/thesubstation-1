@@ -10,7 +10,7 @@ datetime:
 - 2017-12-31 00:00:00 +11:00
 is-single-time-duration: false
 is-single-month-duration: true
-is-months-duration: true
+is-many-months-duration: true
 ---
 
 Described as the ‘sorceress of percussion’, celebrated Sydney-based percussionist [CLAIRE EDWARDES](http://www.claireedwardes.com/) unites with Helpmann award-winning dancer and choreographer RICHARD CILLI in a new physically virtuosic work.

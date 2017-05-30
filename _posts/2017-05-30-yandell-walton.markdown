@@ -9,7 +9,7 @@ datetime:
 - 2017-08-01 00:00:00 +10:00
 - 2017-08-31 00:00:00 +10:00
 is-single-month-duration: true
-is-months-duration: true
+is-many-months-duration: true
 ---
 
 [YANDELL WALTON](http://yandellw.tumblr.com/)’s work uses projection, installation and digital media to meld architectural space with projected images. Blurring the lines between the actual and the virtual, WALTON explores the relationship between nature and human mortality through environmental, political, personal and social

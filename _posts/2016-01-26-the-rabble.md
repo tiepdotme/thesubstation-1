@@ -11,7 +11,6 @@ datetime:
 - 2017-12-01 00:00:00 +11:00
 - 2017-12-31 00:00:00 +11:00
 is-single-month-duration: true
-is-months-duration: true
 notes:
   note: Visit <a href="http://therabble.com.au/">The Rabble Website</a>
 supporters:

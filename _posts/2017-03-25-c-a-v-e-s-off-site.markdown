@@ -15,7 +15,7 @@ has-preview-event: false
 has-start-time: false
 has-mins: true
 is-opening-hours-time: false
-is-months-duration: false
+is-many-months-duration: false
 is-within-gallery-open-time: true
 supporters:
 - Creative Victoria

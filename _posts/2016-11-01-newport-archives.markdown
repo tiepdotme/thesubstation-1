@@ -14,7 +14,7 @@ datetime:
 - 2017-01-10 11:00:00 +11:00
 - 2017-12-16 11:00:00 +11:00
 has-start-time: false
-is-months-duration: true
+is-many-months-duration: true
 is-within-gallery-open-time: true
 event-duration-txt: 40 mins
 supporters: The R. E. Ross Trust

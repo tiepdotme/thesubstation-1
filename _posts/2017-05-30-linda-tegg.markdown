@@ -23,7 +23,7 @@ datetime:
 - 2017-07-01 00:00:00 +10:00
 - 2017-12-01 00:00:00 +11:00
 is-single-month-duration: false
-is-months-duration: true
+is-many-months-duration: true
 ---
 
 [LINDA TEGG](http://www.lindategg.com/)’s work explores where ecology and illusion intersect, examining the imagery that informs our idea of what is ‘natural’. Through photography, sculpture and installation, TEGG collaborates with cultural institutions to reflect upon the impulses and methods used to package nature in ways that can be understood by the human psyche, viewed through the lens of ‘a world for us.’

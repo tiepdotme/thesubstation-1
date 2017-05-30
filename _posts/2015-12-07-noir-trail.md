@@ -11,7 +11,7 @@ sort-date: 2016-03-01 09:00:00 AEST
 datetime:
 - 2016-03-01 00:00:00 +11:00
 - 2016-04-30 00:00:00 +10:00
-is-months-duration: true
+is-many-months-duration: true
 supporters:
 - Australia Council of Arts
 - Creative Victoria
