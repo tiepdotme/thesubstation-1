@@ -68,7 +68,6 @@ defaults:
     presented-by: false
     price: false
     datetime: 
-      - 
     is-on-home-page: false
     has-opening-event: false
     has-preview-event: false
