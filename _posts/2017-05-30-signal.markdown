@@ -5,6 +5,7 @@ categories:
 - whats-on
 image: "/uploads/signal.jpg"
 image-credit: Jessica Middleton
+button-url: https://www.eventbrite.com.au/e/signal-tickets-35204385264
 button-txt: BUY TICKETS
 price: "$15 + BOOKING FEE"
 datetime:
