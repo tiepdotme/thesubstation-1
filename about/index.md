@@ -88,7 +88,7 @@ sections:
 - title: Supporters
   list-orgs: true
   copy: We wish to highlight and thank our supporter organisations.
-button-txt: POSITION DESCRIPTION
+button-txt: APPLY
 button-url: "/uploads/Casual%20Front%20Of%20House%20Staff%20Required.pdf"
 layout: page
 ---
