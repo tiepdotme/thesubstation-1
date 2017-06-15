@@ -9,7 +9,7 @@ $footerRowSpacer: $blockSpace * 0.25;
 
 .c-footer {
     @include blockSpacePadding();
-	position: relative;
+    position: relative;
 
     p,
     ul,
@@ -71,6 +71,7 @@ $footerRowSpacer: $blockSpace * 0.25;
     @include media-breakpoint-up(md) {
         display: inline-block;
         margin-bottom: 0;
+        vertical-align: top;
 
         &:not(:first-child) {
             margin-top: 0;
