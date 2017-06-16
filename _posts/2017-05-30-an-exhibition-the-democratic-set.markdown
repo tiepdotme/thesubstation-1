@@ -5,7 +5,7 @@ categories:
 - whats-on
 image: "/uploads/democratic-set.jpg"
 image-credit: Anna Tregloan
-presented-by: Back to Back Theatre
+presented-by: WE ARE THE PEOPLE
 datetime:
 - 2017-11-10 18:30:00 +11:00
 - 2017-12-16 17:00:00 +11:00
