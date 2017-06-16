@@ -14,7 +14,24 @@ To hire this space please fill in this form:
 
         <label class="c-form-labelBlock u-marginT0">Name (Required)<input name="name" type="text" placeholder="Your Name" required/></label>
         <label class="c-form-labelBlock">Email (Required)<input name="_replyto" type="email" placeholder="Your Email" required/></label>
-        <label class="c-form-labelBlock">Phone (Required)<input name="telephone" type="tel" placeholder="Your Phone Number" required/></label>
+        
+        <div class="Grid Grid--withGutter">
+            <div class="Grid-cell u-sm-size1of2">
+                    <label class="c-form-labelBlock">Phone (Required)<input name="telephone" type="tel" placeholder="Your Phone Number" required/></label>
+            </div>
+            <div class="Grid-cell u-sm-size1of2">
+                <label class="c-form-labelBlock">Post code<input name="post-code" type="text" placeholder="Your post code"/></label>
+            </div>
+        </div>
+
+        <div class="Grid Grid--withGutter">
+            <div class="Grid-cell u-sm-size1of2">
+                <label class="c-form-labelBlock">Date (Required)<input name="date" type="date" placeholder="Date" required/></label>
+            </div>
+            <div class="Grid-cell u-sm-size1of2">
+                <label class="c-form-labelBlock">Guests<input name="guests" type="text" placeholder="How many?"/></label>
+            </div>
+        </div>
 
         <div class="Grid Grid--withGutter">
             <div class="Grid-cell u-sm-size1of2">
@@ -29,25 +46,21 @@ To hire this space please fill in this form:
                 </div>
             </div>
             <div class="Grid-cell u-sm-size1of2">
-                <label class="c-form-labelBlock">Date (Required)<input name="date" type="date" placeholder="Date" required/></label>
+                <label class="c-form-labelBlock" for="event">Where did you hear about us?</label>
+                <div class="select">
+                    <select aria-label="Select menu example">
+                        <option selected>Please choose one</option>
+                        <option value="1">Wedding blog</option>
+                        <option value="2">Instagram</option>
+                        <option value="3">Facebook</option>
+                        <option value="4">Magazine</option>
+                        <option value="5">Word of mouth</option>
+                        <option value="6">Other</option>
+                    </select>
+                </div>
             </div>
         </div>
 
-        <div class="Grid Grid--withGutter">
-            <div class="Grid-cell u-sm-size1of3">
-                <label class="c-form-labelBlock">Duration<input name="duration" type="text" placeholder="How long?"/></label>
-            </div>
-            <div class="Grid-cell u-sm-size1of3">
-                <label class="c-form-labelBlock">Guests<input name="guests" type="text" placeholder="How many?"/></label>
-            </div>
-            <div class="Grid-cell u-sm-size1of3">
-                <label class="c-form-labelBlock">Budget<input name="budget" type="text" placeholder="Approximately?"/></label>
-            </div>
-        </div>
-
-        <label class="c-form-labelBlock">Catering requirements
-            <textarea name="catering" type="message" rows="4" placeholder="What kind of food will you want?"></textarea>
-        </label>
 
         <!-- CONFIG -->
         <input class="u-hide" type="text" name="_gotcha">
