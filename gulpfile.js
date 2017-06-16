@@ -52,12 +52,12 @@
 var gulp    = require( 'gulp' );
 var run     = require( 'run-sequence' );
 var plugins = require( 'gulp-load-plugins' )({
-	lazy: true,
-	rename : {
-		'gulp-sass-lint'   : 'sasslint',
-		'gulp-svg-symbols' : 'svgsymbols',
-		'psi'              : 'pagespeedindex'
-	}
+  lazy: true,
+  rename : {
+    'gulp-sass-lint'   : 'sasslint',
+    'gulp-svg-symbols' : 'svgsymbols',
+    'psi'              : 'pagespeedindex'
+  }
 });
 
 
@@ -69,17 +69,17 @@ var options = {
 
     // ---- Primary batched --- //
 
-	default : {
-		tasks : [ 'build', 'watch' ]
-	},
+  default : {
+    tasks : [ 'build', 'watch' ]
+  },
 
-	build : {
-		tasks : [ 'compile:sass']
-	},
+  build : {
+    tasks : [ 'compile:sass']
+  },
 
-	production : {
-		tasks : [ 'build', 'minify:css' ]
-	},
+  production : {
+    tasks : [ 'build', 'minify:css' ]
+  },
 
     connect : {
         port : 9000,
@@ -89,57 +89,57 @@ var options = {
 
     // ---- Alphabetical --- //
 
-	css : {
-		files       : 'assets/stylesheets/*.css',
-		file        : 'assets/stylesheets/application.css',
-		destination : 'assets/stylesheets'
-	},
+  css : {
+    files       : 'assets/stylesheets/*.css',
+    file        : 'assets/stylesheets/application.css',
+    destination : 'assets/stylesheets'
+  },
 
-	fonts : {
-		files       : 'assets/_source/fonts/*.{otf,ttf,eot,woff,woff2,svg}',
-		destination : 'assets/fonts'
-	},
+  fonts : {
+    files       : 'assets/_source/fonts/*.{otf,ttf,eot,woff,woff2,svg}',
+    destination : 'assets/fonts'
+  },
 
-	icons : {
-		files       : 'assets/_source/icons/ic-*.svg',
-		destination : 'assets/icons'
-	},
+  icons : {
+    files       : 'assets/_source/icons/ic-*.svg',
+    destination : 'assets/icons'
+  },
 
-	images : {
-		files       : 'assets/_source/images/*',
-		destination : 'assets/images'
-	},
+  images : {
+    files       : 'assets/_source/images/*',
+    destination : 'assets/images'
+  },
 
-	js : {
-		files : [
-			// 'node_modules/fontfaceonload/dist/fontfaceonload.js',
-			'assets/_source/javascripts/*.js'
-		],
-		file        : 'assets/_source/javascripts/application.js',
+  js : {
+    files : [
+      // 'node_modules/fontfaceonload/dist/fontfaceonload.js',
+      'assets/_source/javascripts/*.js'
+    ],
+    file        : 'assets/_source/javascripts/application.js',
         destination : 'assets/javascripts'
-	},
+  },
 
-	sass : {
-		files       : 'assets/_source/stylesheets/*.scss',
-		destination : 'assets/stylesheets/'
-	},
+  sass : {
+    files       : 'assets/_source/stylesheets/*.scss',
+    destination : 'assets/stylesheets/'
+  },
 
-	watch : {
-		files : function() {
-			return [
-				// options.images.files,
-				// options.js.files,
-				options.sass.files
-			]
-		},
-		run : function() {
-			return [
-				// [ 'images' ],
-				// [ 'minify:js' ],
-				[ 'compile:sass' ]
-			]
-		}
-	}
+  watch : {
+    files : function() {
+      return [
+        // options.images.files,
+        // options.js.files,
+        options.sass.files
+      ]
+    },
+    run : function() {
+      return [
+        // [ 'images' ],
+        // [ 'minify:js' ],
+        [ 'compile:sass' ]
+      ]
+    }
+  }
 }
 
 
@@ -150,9 +150,9 @@ var options = {
 gulp.task( 'default', options.default.tasks );
 
 gulp.task( 'build', function() {
-	options.build.tasks.forEach( function( task ) {
-		gulp.start( task );
-	} );
+  options.build.tasks.forEach( function( task ) {
+    gulp.start( task );
+  } );
 });
 
 gulp.task( 'production', options.production.tasks );
@@ -172,31 +172,31 @@ gulp.task( 'connect', function() {
 // -------------------------------------
 
 gulp.task( 'fonts', function() {
-	gulp.src( options.fonts.files )
-		.pipe( gulp.dest( options.fonts.destination ) )
-		.pipe( plugins.size({title: 'fonts'}) );
+  gulp.src( options.fonts.files )
+    .pipe( gulp.dest( options.fonts.destination ) )
+    .pipe( plugins.size({title: 'fonts'}) );
 });
 
 // currently broken, awaiting update:
 // https://github.com/sindresorhus/gulp-imagemin/issues/221
 gulp.task( 'images', function() {
-	gulp.src( options.images.files )
-		// .pipe( plugins.cache( plugins.imagemin({ })))
-		.pipe( plugins.imagemin({
-			progressive: true,
-			interlaced: true
-		}))
-		.pipe( gulp.dest( options.images.destination ) )
-		.pipe( plugins.size({title: 'images'}) );
+  gulp.src( options.images.files )
+    // .pipe( plugins.cache( plugins.imagemin({ })))
+    .pipe( plugins.imagemin({
+      progressive: true,
+      interlaced: true
+    }))
+    .pipe( gulp.dest( options.images.destination ) )
+    .pipe( plugins.size({title: 'images'}) );
 });
 
 // Creates SVG sprite and demo page.
 // Alt: https://github.com/Hiswe/gulp-svg-symbols & OUI
 gulp.task( 'icons', function() {
-	gulp.src( options.icons.files )
-		.pipe( plugins.svgmin() )
-		.pipe( plugins.svgstore( { inlineSvg: true } ) )
-		.pipe( gulp.dest( options.icons.destination ) );
+  gulp.src( options.icons.files )
+    .pipe( plugins.svgmin() )
+    .pipe( plugins.svgstore( { inlineSvg: true } ) )
+    .pipe( gulp.dest( options.icons.destination ) );
 });
 
 
@@ -205,15 +205,15 @@ gulp.task( 'icons', function() {
 // -------------------------------------
 
 gulp.task( 'compile:sass', function() {
-	gulp.src( options.sass.files )
-		.pipe( plugins.plumber() )
-		.pipe( plugins.sourcemaps.init() )
-		// .pipe( plugins.sass().on('error', sass.logError))
-		.pipe( plugins.sass( {
-			indentedSyntax: true,
-			// errLogToConsole: true
-		} ) )
-		.pipe( plugins.autoprefixer( {
+  gulp.src( options.sass.files )
+    .pipe( plugins.plumber() )
+    .pipe( plugins.sourcemaps.init() )
+    // .pipe( plugins.sass().on('error', sass.logError))
+    .pipe( plugins.sass( {
+      indentedSyntax: true,
+      // errLogToConsole: true
+    } ) )
+    .pipe( plugins.autoprefixer( {
                 // http://www.analog-ni.co/my-css-autoprefixer-settings-for-ie9-and-up
                 browsers: [
                     'last 2 versions',
@@ -224,12 +224,12 @@ gulp.task( 'compile:sass', function() {
                     'ChromeAndroid >= 9',
                     'ExplorerMobile >= 9'
                 ],
-				cascade  : false
-		} ) )
-		.pipe( plugins.sourcemaps.write() )
-		.pipe( gulp.dest( options.sass.destination ) )
-		.pipe( plugins.size({title: 'styles'}) )
-		.pipe( plugins.connect.reload() );
+        cascade  : false
+    } ) )
+    .pipe( plugins.sourcemaps.write() )
+    .pipe( gulp.dest( options.sass.destination ) )
+    .pipe( plugins.size({title: 'styles'}) )
+    .pipe( plugins.connect.reload() );
 });
 
 gulp.task( 'lint:sass', function() {
@@ -241,20 +241,20 @@ gulp.task( 'lint:sass', function() {
 } );
 
 gulp.task( 'minify:css', function () {
-	gulp.src( options.css.file )
-		.pipe( plugins.plumber() )
-		.pipe( plugins.uncss ( {
+  gulp.src( options.css.file )
+    .pipe( plugins.plumber() )
+    .pipe( plugins.uncss ( {
             // for Jekyll:
-			html: [
-				'_site/**/*.html'
-			],
-			uncssrc: '.uncssrc'
-		} ) )
-		.pipe( plugins.cssnano( { advanced: false } ) )
-		.pipe( plugins.rename( { suffix: '.min' } ) )
-		.pipe( gulp.dest( options.css.destination ) )
-		.pipe( plugins.size({title: 'styles'}) )
-		.pipe( plugins.connect.reload() );
+      html: [
+        '_site/**/*.html'
+      ],
+      uncssrc: '.uncssrc'
+    } ) )
+    .pipe( plugins.cssnano( { advanced: false } ) )
+    .pipe( plugins.rename( { suffix: '.min' } ) )
+    .pipe( gulp.dest( options.css.destination ) )
+    .pipe( plugins.size({title: 'styles'}) )
+    .pipe( plugins.connect.reload() );
 });
 
 gulp.task( 'test:css', function() {
@@ -272,13 +272,13 @@ gulp.task( 'test:css', function() {
 // -------------------------------------
 
 gulp.task( 'minify:js', function () {
-	gulp.src( options.js.files )
-		.pipe( plugins.plumber() )
-		.pipe( plugins.concat('application.js') )
-		.pipe( plugins.uglify() )
-		.pipe( plugins.rename( { suffix: '.min' } ) )
-		.pipe( gulp.dest( options.js.destination ) )
-		.pipe( plugins.connect.reload() );
+  gulp.src( options.js.files )
+    .pipe( plugins.plumber() )
+    .pipe( plugins.concat('application.js') )
+    .pipe( plugins.uglify() )
+    .pipe( plugins.rename( { suffix: '.min' } ) )
+    .pipe( gulp.dest( options.js.destination ) )
+    .pipe( plugins.connect.reload() );
 });
 
 gulp.task( 'test:js', function() {
@@ -294,8 +294,8 @@ gulp.task( 'test:js', function() {
 // -------------------------------------
 
 gulp.task( 'watch', function() {
-	var watchFiles = options.watch.files();
-	watchFiles.forEach( function( files, index ) {
-		gulp.watch( files, options.watch.run()[ index ]  );
-	} );
+  var watchFiles = options.watch.files();
+  watchFiles.forEach( function( files, index ) {
+    gulp.watch( files, options.watch.run()[ index ]  );
+  } );
 });
