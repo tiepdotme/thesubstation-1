@@ -17,6 +17,9 @@ collections:
   venues:
     title: Venues
     output: true
+  about:
+    title: About us
+    output: true
 defaults:
 - scope:
     path: ''

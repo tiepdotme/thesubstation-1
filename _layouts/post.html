@@ -46,13 +46,25 @@ u-smDown-blockR--3by4
                     {% unless page.venue-cta != true %}
                         {% include venue-cta.html %}
                     {% endunless %}
+                    
+                    {% comment %}
+                        -------------------------
+                        add an image at the bottom of the article
+                        -------------------------
+                    {% endcomment %}
+                    
+                    {% if page.image-bottom %}
+                        <figure><img src="{{ page.image-bottom }}" alt="{{ page.image-bottom }}" /></figure>
+                    {% endif %}
+                    
                 </article>
+
 
 
 
                 {% comment %}
                     -------------------------
-                    supporters
+                    event supporters
                     see: https://www.siteleaf.com/blog/author-pages-in-jekyll-and-siteleaf/
                     see: https://www.siteleaf.com/blog/customizing-the-siteleaf-admin/#smart-fields
                     see: https://jekyllrb.com/docs/templates/ (where expression!)
@@ -115,6 +127,48 @@ u-smDown-blockR--3by4
                 {% if page.has-form == true %}
                     {% include form.html %}
                 {% endif %}
+                
+                {% comment %}
+                    -------------------------
+                    'supporters' duplicated code from `post.html`.
+                    Used only in an 'about' section.
+                    -------------------------
+                {% endcomment %}
+                
+                {% if page.list-orgs == true %}
+                    
+                    <div class="c-post-endBlock">
+                        Organisational
+                        <div class="c-post-supporters">
+                            {% for supporter in site.supporters %}
+                                {% if supporter.organisational %}
+                                    {% include supporter-image.html %}
+                                {% endif %}
+                            {% endfor %}
+                        </div>
+                    </div>
+                    <div class="c-post-endBlock">
+                        Program
+                        <div class="c-post-supporters">
+                            {% for supporter in site.supporters %}
+                                {% if supporter.program %}
+                                    {% include supporter-image.html %}
+                                {% endif %}
+                            {% endfor %}
+                        </div>
+                    </div>
+                    <div class="c-post-endBlock">
+                        Presenting
+                        <div class="c-post-supporters">
+                            {% for supporter in site.supporters %}
+                                {% if supporter.presenting %}
+                                    {% include supporter-image.html %}
+                                {% endif %}
+                            {% endfor %}
+                        </div>
+                    </div>
+                            
+                {% endif %}
 
             </div>
 
@@ -137,6 +191,8 @@ u-smDown-blockR--3by4
                 {% assign collectionName = 'residents' %}
             {% elsif page.url contains 'venues' %}
                 {% assign collectionName = 'venues' %}
+            {% elsif page.url contains 'about' %}
+                {% assign collectionName = 'about' %}
             {% endif %}
 
             {% if categoryName %}
@@ -165,7 +221,9 @@ u-smDown-blockR--3by4
             {% elsif collectionName %}
                 <div class="Grid-cell ">
                     <div class="c-post-next">
-                        <h3 class="c-nav-item"><a class="is-active" href="/{{ collectionName }}">More {{ collectionName | replace: '-', ' ' }}</a></h3>
+                        <h3 class="c-nav-item">
+                            <a class="is-active" href="/{{ collectionName }}">More {{ collectionName | replace: '-', ' ' }}{% if collectionName == "about" %} us{% endif %}</a>
+                        </h3>
                         <div class="o-grid c-postGrid">
 
                             {% for post in site[collectionName] limit: 5 %}
