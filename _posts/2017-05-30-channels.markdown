@@ -19,7 +19,6 @@ supporters:
 - Australia Council of Arts
 - Hobsons Bay City Council
 - Art in Public Places
-sort-date: 2017-09-01 18:30:00 +10:00
 ---
 
 CHANNELS, The Australian Video Art Festival is the only festival dedicated to showcasing new contemporary moving image by some of the most exciting Australian and international artists. CHANNELS delivers a diverse and inspiring festival of exhibitions, screenings, talks, public programs and a series of international exhibitions and events.

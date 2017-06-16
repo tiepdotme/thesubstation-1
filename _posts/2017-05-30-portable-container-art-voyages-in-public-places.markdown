@@ -20,7 +20,6 @@ supporters:
 - Art in Public Places
 - Plastic Loaves
 - Mesh Mash
-sort-date: 2017-09-13 15:30:00 +10:00
 ---
 
 The confines of a shipping container will become a space for experimentation in The SUBSTATION’s forecourt, as part of HOBSONS BAY CITY COUNCIL’s [ART IN PUBLIC PLACES PROGRAM](https://www.facebook.com/Artinpublicplaces/).

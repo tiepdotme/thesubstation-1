@@ -20,7 +20,6 @@ supporters:
 - Melbourne Festival
 - Eastman
 - Llumar
-sort-date: 2017-10-12 20:00:00 +11:00
 is-list-of-datetime: true
 ---
 

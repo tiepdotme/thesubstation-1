@@ -13,7 +13,6 @@ has-start-time: true
 is-single-date: true
 is-single-time-duration: false
 supporters: Plastic Loaves
-sort-date: 2017-10-20 21:00:00 +11:00
 ---
 
 Spring time has slinked on in and activity is rousingly warmer. [PLASTIC LOAVES](http://www.plasticloaves.com/)’ windows thrust open to invite you inside The SUBSTATION for an evening to flourish together. With each space landscaped and pruned by a certified living artist, the sweet air will excrete all night with a long stem of budding performers, vocals, sounds, visuals and alluring beverages, emerging from every gap.

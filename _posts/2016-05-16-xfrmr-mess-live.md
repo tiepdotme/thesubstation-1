@@ -9,7 +9,6 @@ video: https://player.vimeo.com/video/168322480
 button-url: https://thesubstation.iwannaticket.com.au/event/mess-robbie-thomson-MTEwNTA
 presented-by: Robbie Thomson
 price: "$30 + $1.63 BF"
-sort-date: 2017-10-13 20:00:00 AEST
 datetime:
 - 2016-10-13 20:00:00 +11:00
 - 2016-10-14 20:00:00 +11:00

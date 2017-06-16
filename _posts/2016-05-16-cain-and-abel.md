@@ -13,7 +13,6 @@ price:
 - "$25 ARTISTS"
 - "$35 STANDARD"
 - "$50 RABBLE LOVERS"
-sort-date: 2017-05-26 19:30:00 AEST
 datetime:
 - 2016-07-20 19:30:00 +10:00
 - 2016-07-30 19:30:00 +10:00

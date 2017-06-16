@@ -5,7 +5,6 @@ categories:
 - in-development
 image: "/uploads/dixon-mcbride-meaden.jpg"
 image-credit: Jessica Devereux
-sort-date: 2017-05-15 09:00:00 AEST
 supporters:
 - Besen
 - Creative Victoria
