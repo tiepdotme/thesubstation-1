@@ -28,12 +28,12 @@
     @include when-inside(".c-postGrid--4") { @include media-breakpoint-up(sm) { flex-basis: calc(100% / 4); } }
     
     // Post-info grid
-    //@include when-inside(".c-post-info") {
-    //    margin: 0;
-    //    flex-basis: calc(100% / 4);
-    //    // @include media-breakpoint-up(sm) { flex-basis: calc(100% / 3); }
-    //    @include media-breakpoint-up(sm) { flex-basis: calc(100% / 7); }
-    //}
+    @include when-inside(".c-post-info") {
+        margin: 0;
+        flex-basis: calc(100% / 4);
+        // @include media-breakpoint-up(sm) { flex-basis: calc(100% / 3); }
+        @include media-breakpoint-up(sm) { flex-basis: calc(100% / 7); }
+    }
 
     // Post-info grid
     @include when-inside(".c-post-next") {
