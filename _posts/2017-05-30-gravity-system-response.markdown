@@ -9,7 +9,6 @@ datetime:
 - 2017-09-01 12:00:00 +10:00
 - 2017-10-31 17:00:00 +11:00
 is-single-month-duration: false
-sort-date: 2017-09-01 12:00:00 +10:00
 ---
 
 Exploring the energy of paint, air, water and gravity combined, GRAVITY SYSTEM RESPONSE is a

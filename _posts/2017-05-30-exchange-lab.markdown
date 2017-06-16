@@ -18,7 +18,6 @@ supporters:
 - Bank Australia
 - Maribrynong
 - Hobsons Bay City Council
-sort-date: 2017-09-29 00:00:00 +10:00
 ---
 
 [FOREST FRINGE](http://www.forestfringe.co.uk/) X [MELBOURNE FRINGE](https://melbournefringe.com.au/) is an innovative residency project bringing together local and international artists to explore the streets and spaces of Melbourne’s West. The project brings award-winning Edinburgh Fringe Festival innovators FOREST FRINGE (UK) to Melbourne for the first time, joining forces with MELBOURNE FRINGE, our own big, bold and gloriously messy celebration of independent art. 

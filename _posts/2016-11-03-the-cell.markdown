@@ -19,7 +19,6 @@ artists-talk:
 supporters:
 - Creative Victoria
 - Hobsons Bay City Council
-sort-date: 2017-05-26 11:00:00 +10:00
 ---
 
 The SUBSTATION presents the Melbourne premiere of [BROOK ANDREW](http://www.brookandrew.com)’s major installation THE CELL. Decorated in Wiradjuri patterns and inviting audience participation, THE CELL is a jumping castle of sorts, that blurs the lines between sanctuary and detention. 

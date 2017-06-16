@@ -6,7 +6,6 @@ categories:
 image: "/uploads/the-substation-contemporary-art-prize-2016.jpg"
 image-credit: Deborah Kelly, LYING WOMEN (video still), 2016, animated collage with
   original score
-sort-date: 2016-09-08 18:30:00 AEST
 datetime:
 - 2016-09-08 18:30:00 +10:00
 - 2016-10-08 17:00:00 +11:00

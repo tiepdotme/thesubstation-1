@@ -20,7 +20,6 @@ supporters:
 - Liquid Architecture
 - Room40
 - Performance Space
-sort-date: 2017-10-30 11:00:00 +11:00
 ---
 
 Based in Osaka, Japan, [TETSUYA UMEDA](https://vimeo.com/106567276) creates dynamic environments through the combination of architectural structures, sound and light. His site-specific and temporal works utilise found domestic objects and transform them from their daily familiarity into a transcendent spectacle of the unexpected.

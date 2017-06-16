@@ -10,7 +10,6 @@ presented-by: Plastic Loaves
 price:
 - 1st RELEASE – $20  – SOLD OUT
 - 2n RELEASE – $25
-sort-date: 2016-08-12 21:00:00 AEST
 datetime:
 - 2016-08-12 21:00:00 +10:00
 - 2016-08-13 04:30:00 +10:00
