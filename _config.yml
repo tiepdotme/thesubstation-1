@@ -23,9 +23,9 @@ defaults:
     type: Supporters
   values:
     portrait-ratio: false
-    organisational:
-    program:
-    presenting:
+    organisational: 
+    program: 
+    presenting: 
 - scope:
     path: ''
     type: about
@@ -38,7 +38,7 @@ defaults:
   values:
     layout: post
     permalink: "/:collection/:path/"
-    position:
+    position: 
 - scope:
     path: ''
     type: venues
@@ -58,16 +58,16 @@ defaults:
     layout: post
     permalink: "/:categories/:title/"
     has-javascripts: true
-    title:
-    categories:
-    image:
-    image-credit:
-    video:
-    button-url:
-    button-txt:
+    title: 
+    categories: 
+    image: 
+    image-credit: 
+    video: 
+    button-url: 
+    button-txt: 
     presented-by: false
     price: false
-    datetime:
+    datetime: 
     is-on-home-page: false
     has-opening-event: false
     has-preview-event: false
@@ -82,17 +82,17 @@ defaults:
     is-many-months-duration: false
     is-year-duration: false
     is-within-gallery-open-time: false
-    event-duration-txt:
+    event-duration-txt: 
     artists-talk:
-      date:
-      note:
+      date: 
+      note: 
     notes:
-      date:
-      note:
-    supporters:
+      date: 
+      note: 
+    supporters: 
 description: The SUBSTATION is a unique large-scale multi-purpose gallery, performance
   space and dance studio for artists of every kind, in Newport, Melbourne, Australia.
-baseurl:
+baseurl: 
 url: https://thesubstation.org.au
 logo: "/uploads/the-substation-logo.png"
 facebook:
