@@ -3,7 +3,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    {% seo title=false %}
+    {% comment %}{% seo title=false %}{% endcomment %}
 
     <title>{% if page.url != '/' %}{{ page.title | escape }} ~ {% endif %}{{ site.title | escape }}</title>
 
