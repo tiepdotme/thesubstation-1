@@ -7,7 +7,7 @@ image: "/uploads/st-martins.jpg"
 image-credit: Sarah Walker and Richard Chambers
 button-url: http://thesubstation.iwannaticket.com.au/event/banjos-boots-beyonce-MTI5NTA
 button-txt: BUY TICKETS
-presented-by: "(A DIFFERENT KIND OF BUSH DANCE)"
+presented-by: ST MARTINS
 price:
 - 'PARTICIPANT: $30/25 + BOOKING FEE'
 - 'OBSERVER: $5 + BOOKING FEE'
