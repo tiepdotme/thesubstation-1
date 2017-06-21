@@ -37,6 +37,48 @@ u-smDown-blockR--3by4
                         {% endif %}
                     {% endfor %}
                 </article>
+                
+                {% comment %}
+                    -------------------------
+                    'supporters' duplicated code from `post.html`.
+                    Used only in an 'about' section.
+                    -------------------------
+                {% endcomment %}
+                
+                {% if page.list-orgs == true %}
+                    
+                    <div class="c-post-endBlock">
+                        Organisational
+                        <div class="c-post-supporters">
+                            {% for supporter in site.supporters %}
+                                {% if supporter.organisational %}
+                                    {% include supporter-image.html %}
+                                {% endif %}
+                            {% endfor %}
+                        </div>
+                    </div>
+                    <div class="c-post-endBlock">
+                        Program
+                        <div class="c-post-supporters">
+                            {% for supporter in site.supporters %}
+                                {% if supporter.program %}
+                                    {% include supporter-image.html %}
+                                {% endif %}
+                            {% endfor %}
+                        </div>
+                    </div>
+                    <div class="c-post-endBlock">
+                        Presenting
+                        <div class="c-post-supporters">
+                            {% for supporter in site.supporters %}
+                                {% if supporter.presenting %}
+                                    {% include supporter-image.html %}
+                                {% endif %}
+                            {% endfor %}
+                        </div>
+                    </div>
+                            
+                {% endif %}
 
                 {% if page.has-newsletter-signup %}
                     <div class="c-formWrapper">

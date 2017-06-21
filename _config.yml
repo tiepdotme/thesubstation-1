@@ -35,6 +35,8 @@ defaults:
   values:
     layout: post
     permalink: "/:collection/:path/"
+    is-visible: true
+    is-half-hero: false
 - scope:
     path: ''
     type: residents

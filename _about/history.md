@@ -1,6 +1,6 @@
 ---
-title: About the building
-position: 4
+title: History
+position: 2
 current: true
 image: "/uploads/the-substation-about-the-building.jpg"
 ---

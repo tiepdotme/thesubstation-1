@@ -1,10 +1,12 @@
 ---
 title: Donate
+layout: page
 permalink: "/donate/"
 image: "/uploads/the-substation-donate.jpg"
 button-url: https://www.givenow.com.au/hobsonsbaycommunityartscentre
 button-txt: donate
 has-newsletter-signup: true
+list-orgs: true
 sections:
 - title: 
   copy: |
@@ -81,6 +83,7 @@ sections:
     * Dominic Arcaro
     * Peter Outhred
     * Tim Watts
-layout: page
----
+- title: Our supporters
+  copy: We wish to highlight and thank our supporter organisations.
 
+---

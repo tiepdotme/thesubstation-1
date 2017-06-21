@@ -1,8 +1,8 @@
 ---
 title: Staff and board
-position: 1
+position: 3
 current: true
-image: "/uploads/the-substation-boardroom.jpg"
+image: "/uploads/the-substation-staff-and-board.jpg"
 ---
 
 **Brad Spolding**<br>

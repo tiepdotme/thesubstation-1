@@ -9,7 +9,7 @@
 
 
 $darkBlendColor: rgba( palette(text), 0.8 );
-$lightBlendColor: rgba( palette(text), 0.333333333 );
+$lightBlendColor: rgba( palette(text), 0.4 );
 
 @mixin imageBlend(
     $blend: multiply,

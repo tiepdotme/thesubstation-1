@@ -1,8 +1,8 @@
 ---
-title: Volunteer supporters
-position: 5
+title: Volunteer
+position: 4
 current: true
-image: "/uploads/the-substation-boardroom.jpg"
+image: "/uploads/the-substation-volunteer.jpg"
 ---
 
 We wish to highlight and thank our supporter organisations.

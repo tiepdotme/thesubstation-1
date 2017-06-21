@@ -24,8 +24,9 @@
 
     // Index grids
     // Apply these classes to the body to manage the grid numbers.
-    @include when-inside(".c-postGrid--3") { @include media-breakpoint-up(sm) { flex-basis: calc(100% / 3); } }
-    @include when-inside(".c-postGrid--4") { @include media-breakpoint-up(sm) { flex-basis: calc(100% / 4); } }
+    //@include when-inside(".c-postGrid--3") { @include media-breakpoint-up(sm) { flex-basis: calc(100% / 3); } }
+    @include when-inside(".three") { @include media-breakpoint-up(sm) { flex-basis: calc(100% / 3); } }
+    @include when-inside(".four") { @include media-breakpoint-up(sm) { flex-basis: calc(100% / 4); } }
     
     // Post-info grid
     @include when-inside(".c-post-info") {
@@ -152,6 +153,12 @@ a.c-postCell {
     //    //@include media-breakpoint-up(sm) { padding-bottom: 28.125%; padding-bottom: 25vh; }
     //    @include media-breakpoint-up(xl) { padding-bottom: 25%; padding-bottom: 41vh; }
     //}
+}
+
+.FlexEmbed-ratio--heroHalf {
+    padding-bottom: 90%;
+    @include media-breakpoint-up(sm) { padding-bottom: 56.25%; }
+    @include media-breakpoint-up(xl) { padding-bottom: 25%; }
 }
 
 .FlexEmbed-ratio--heroVideo {

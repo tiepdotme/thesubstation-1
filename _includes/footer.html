@@ -16,8 +16,8 @@ o-grid o-grid--spaceBetween
         </div>
     {% endif %}
 
-	<div class="c-footer-info">
-	    <div class="o-container">
+    <div class="c-footer-info">
+        <div class="o-container">
             <div class="u-sm-size9of10">
                 <div class="c-footer-infoBlock">
                     <ul>
@@ -29,9 +29,7 @@ o-grid o-grid--spaceBetween
                         <li>Office: {{ site.office-hours }}</li>
                         <li><a href="mailto:{{ site.email }}">E: {{ site.email }}</a></li>
                     </ul>
-                    <div>
-                        {% include socials.html %}
-                    </div>
+                    {% include socials.html %}
                 </div>
             </div>
 
@@ -45,8 +43,8 @@ o-grid o-grid--spaceBetween
                 </a>
             {% endif %}
 
-	    </div>
-	</div>
+        </div>
+    </div>
 
     {% comment %}
     {% if page.layout == 'post' %}

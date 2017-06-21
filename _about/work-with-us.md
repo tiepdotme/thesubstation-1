@@ -1,6 +1,6 @@
 ---
-title: Casual staff required
-position: 6
+title: Work with us
+position: 5
 current: true
 image: "/uploads/the-substation-staff.jpg"
 button-txt: APPLY
