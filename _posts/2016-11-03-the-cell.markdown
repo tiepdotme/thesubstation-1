@@ -2,7 +2,7 @@
 title: The Cell
 date: 2016-11-03 12:30:00 +11:00
 categories:
-- whats-on
+- archive
 image: "/uploads/the-cell.jpg"
 image-credit: 'Brook Andrew, The Cell. 2010. Photo: Roger D''Souza'
 button-url: "/uploads/Brook-Andrew-The-Cell.pdf"
