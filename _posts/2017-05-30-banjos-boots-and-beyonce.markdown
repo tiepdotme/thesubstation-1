@@ -28,6 +28,7 @@ Take your partner by the hand as [ST MARTINS](https://stmartinsyouth.com.au/) th
 Director: Luke Kerridge <br>
 Choreographer: Ghenoa Gela <br>
 Designer: Romanie Harper <br>
+Sound/DJ: Mz Rizk
 Lighting Designer: Lucy Birkinshaw <br>
 Assistant Director: Dale Thorburn <br>
 Production Management: Filament Design Group <br>
