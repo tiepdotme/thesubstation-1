@@ -6,41 +6,41 @@
 
 
 @mixin buttonTheme() {
-	@include baseTransition();
-	background-color: palette(brand);
-	border-color: palette(brand);
-	border-radius: 0;
-	border-style: solid;
-	border-width: 1px;
-	//padding: 0 space(0.5);
-	padding: space(0.25) space(1.5);
+    @include baseTransition();
+    background-color: palette(brand);
+    border-color: palette(brand);
+    border-radius: 0;
+    border-style: solid;
+    border-width: 1px;
+    //padding: 0 space(0.5);
+    padding: space(0.25) space(1.5);
 
     // theme unused
     // border-color: currentColor comes from Suit…
     //border-color: palette(brand);
     //border-radius: map-fetch($border-radius, base);
     //background-color: rgba( palette(brand), 1 );
-	// transition: all transition(duration, short) transition(type, base);
-	// vertical-align: top; // 1.
+    // transition: all transition(duration, short) transition(type, base);
+    // vertical-align: top; // 1.
 
-	a {
+    a {
 
-	}
+    }
 
-	&[disabled] {
-		border-color: palette(muted);
-		background-color: palette(muted);
-		cursor: not-allowed;
-		opacity: 0.4;
-	}
+    &[disabled] {
+        border-color: palette(muted);
+        background-color: palette(muted);
+        cursor: not-allowed;
+        opacity: 0.4;
+    }
 
-	@include on-event() {
+    @include on-event() {
         background-color: palette(brand);
-		outline: none !important;
+        outline: none !important;
 
         // theme unused
         //opacity: 0.5;
-	}
+    }
 }
 
 @mixin buttonText() {
@@ -67,24 +67,26 @@
 // --------------------------------------------------------------------------
 
 @mixin button() {
-	@include buttonTheme();
-	@include buttonText();
+    @include buttonTheme();
+    @include buttonText();
 }
 
 .t-button {
-	@include button;
+    @include button;
 }
 
 .t-button--full {
-	//@include button;
-	text-align: center;
-	width: 100%;
+    //@include button;
+    //padding-left: 0;
+    //padding-right: 0;
+    text-align: center;
+    width: 100%;
 }
 
 .t-button--lineHeight {
     line-height: map-fetch($button-height, base) !important;
-	padding-top: 0;
-	padding-bottom: 0;
+    padding-top: 0;
+    padding-bottom: 0;
 }
 
 .t-button--rev {
@@ -113,7 +115,7 @@ $arrowSize: map-fetch($button-height, base);
 
 /* uncss:ignore */
 .t-button--primary {
-	@include button();
+    @include button();
     min-width: 92%;
     padding: space(0.25) space(0.25) space(0.25) space(0.5);
     position: relative;
@@ -264,20 +266,20 @@ $arrowSize: map-fetch($button-height, base);
 // --------------------------------------------------------------------------
 
 .t-buttonClose {
-	color: palette(brand);
-	position: fixed;
-	right: space(0.5);
-	top: space(0.5);
-	z-index: map-fetch($z-index, first);
+    color: palette(brand);
+    position: fixed;
+    right: space(0.5);
+    top: space(0.5);
+    z-index: map-fetch($z-index, first);
 
-	@include on-event() {
-		outline: none;
-	}
+    @include on-event() {
+        outline: none;
+    }
 
-	@include media-breakpoint-up(xs) {
-		right: space(1);
-		top: 31px;
-	}
+    @include media-breakpoint-up(xs) {
+        right: space(1);
+        top: 31px;
+    }
 }
 
 
