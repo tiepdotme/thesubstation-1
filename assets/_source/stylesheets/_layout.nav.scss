@@ -10,13 +10,16 @@
     display: flex;
     justify-content: space-between;
     margin: 0;
+    //max-width: container-width(lg);
     padding: 0 space(1.5);
 
     //@include media-breakpoint-up(sm) { max-width: container-width(xl); }
     //@include media-breakpoint-up(lg) { max-width: none; }
     @include media-breakpoint-up(lg) { padding: 0 4%; }
-    @include media-breakpoint-up(xl) { padding: 0 12%; }
-    @include media-breakpoint-up(su) { padding: 0 18%; }
+    //@include media-breakpoint-up(xl) { padding: 0 12%; }
+    //@include media-breakpoint-up(su) { padding: 0 18%; }
+    @media (min-width: 1440px) { padding: 0 12%; }
+    @media (min-width: 2000px) { padding: 0 18%; }
 
     @include media-breakpoint-down(sm) {
         // mobile nav takes over here…

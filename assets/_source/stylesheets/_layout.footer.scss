@@ -57,21 +57,48 @@ $footerRowSpacer: $blockSpace * 0.25;
 }
 
 // footer address & contact details grid
-.c-footer-infoBlock > * {
+//.c-footer-infoBlock {
+//    display: flex;
+//    flex-direction: column;
+//
+//    @include media-breakpoint-up(lg) {
+//        flex-direction: row;
+//    }
+//}
+
+.c-footer-infoDetails,
+.c-footer-newsForm {
+    display: flex;
+    flex-direction: column;
+
+    @include media-breakpoint-up(lg) {
+        flex-direction: row;
+    }
+}
+
+.c-footer-newsForm {
+    margin-bottom: $blockSpace * 0.75;
+
+    > form {
+        width: 100%;
+    }
+}
+
+.c-footer-infoDetails > * {
     // type
     li {
         line-height: 1.96;
     }
 
     // spacings
+    margin-bottom: 0;
+
     &:not(:first-child) {
         margin-top: $blockSpace * 0.25;
     }
 
-    @include media-breakpoint-up(md) {
-        display: inline-block;
-        margin-bottom: 0;
-        vertical-align: top;
+    @include media-breakpoint-up(lg) {
+        //vertical-align: top;
 
         &:not(:first-child) {
             margin-top: 0;
@@ -85,6 +112,23 @@ $footerRowSpacer: $blockSpace * 0.25;
         }
     }
 }
+
+//.c-footer-newsForm {
+//    margin-bottom: $blockSpace * 0.5;
+//    order: -1;
+//    width: 100%;
+//
+//    @include media-breakpoint-up(lg) {
+//        margin-bottom: 0;
+//        margin-left: auto;
+//        order: initial;
+//        width: 37%;
+//    }
+//
+//    @include media-breakpoint-up(xl) {
+//        width: initial;
+//    }
+//}
 
 
 // footer typography utils

@@ -3,7 +3,7 @@ title: Main space
 position: 5
 current: true
 image: "/uploads/the-substation-main-space.jpg"
-button-url: "/uploads/the%20substation%20tech%20specs.pdf"
+button-url: "/uploads/Substation_TechSpecs_280617_v1.3.1.pdf"
 button-txt: Full tech spec
 ---
 

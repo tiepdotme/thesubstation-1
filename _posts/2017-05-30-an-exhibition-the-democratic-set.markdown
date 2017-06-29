@@ -1,11 +1,11 @@
 ---
-title: 'An Exhibition: The Democratic Set'
+title: We Are People – An Exhibition of The Democratic Set
 date: 2017-05-30 10:02:00 +10:00
 categories:
 - whats-on
 image: "/uploads/democratic-set.jpg"
 image-credit: Anna Tregloan
-presented-by: Back to Back Theatre
+presented-by: BACK TO BACK THEATRE
 datetime:
 - 2017-11-10 18:30:00 +11:00
 - 2017-12-16 17:00:00 +11:00

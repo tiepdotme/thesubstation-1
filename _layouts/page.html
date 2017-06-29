@@ -37,16 +37,15 @@ u-smDown-blockR--3by4
                         {% endif %}
                     {% endfor %}
                 </article>
-                
+
                 {% comment %}
                     -------------------------
-                    'supporters' duplicated code from `post.html`.
-                    Used only in an 'about' section.
+                    list 'supporters'
                     -------------------------
                 {% endcomment %}
-                
+
                 {% if page.list-orgs == true %}
-                    
+
                     <div class="c-post-endBlock">
                         Organisational
                         <div class="c-post-supporters">
@@ -77,7 +76,7 @@ u-smDown-blockR--3by4
                             {% endfor %}
                         </div>
                     </div>
-                            
+
                 {% endif %}
 
                 {% if page.has-newsletter-signup %}
@@ -85,8 +84,8 @@ u-smDown-blockR--3by4
                         {% include enews-form.html %}
                     </div>
                 {% endif %}
-                
-                
+
+
 
 
             </div>
