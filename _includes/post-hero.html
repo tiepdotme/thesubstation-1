@@ -1,7 +1,7 @@
 <div class="c-post-hero">
     {% if page.video %}
         <div class="FlexEmbed">
-            <div class="FlexEmbed-ratio FlexEmbed-ratio--hero"></div>
+            <div class="FlexEmbed-ratio FlexEmbed-ratio--hero{% if page.is-half-hero %} FlexEmbed-ratio--heroHalf{% endif %}"></div>
             <div class="FlexEmbed-content">
                 <iframe
                     class="o-posAbsoluteCenterAlt"
@@ -17,7 +17,7 @@
 
     {% elsif page.image %}
         <div class="FlexEmbed">
-            <div class="FlexEmbed-ratio FlexEmbed-ratio--hero"></div>
+            <div class="FlexEmbed-ratio FlexEmbed-ratio--hero{% if page.is-half-hero %} FlexEmbed-ratio--heroHalf{% endif %}"></div>
             <div
                 class="FlexEmbed-content o-coverImage c-imageBlend--just"
                 style="background-image: url('{{ page.image }}')">
