@@ -4,7 +4,6 @@ position: 5
 current: true
 image: "/uploads/the-substation-getting-here.jpg"
 image-bottom: "/uploads/the-substation-map-lr.jpg"
-is-half-hero: true
 ---
 
 The SUBSTATION is proud to be a part of [Arts West](https://artswest.com.au/), a unique alliance of arts organisations who reflect the exciting, vibrant and diverse arts and culture thriving in Melbourne’s inner west.

@@ -2,7 +2,7 @@
 title: Work with us
 position: 5
 current: true
-image: "/uploads/the-substation-staff.jpg"
+image: "/uploads/the-substation-work-with-us.jpg"
 button-txt: APPLY
 button-url: "/uploads/Casual%20Front%20Of%20House%20Staff%20Required.pdf"
 ---
