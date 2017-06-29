@@ -16,10 +16,11 @@ o-grid o-grid--spaceBetween
         </div>
     {% endif %}
 
-	<div class="c-footer-info">
-	    <div class="o-container">
-            <div class="u-sm-size9of10">
-                <div class="c-footer-infoBlock">
+    <div class="c-footer-info">
+        <div class="o-container">
+            <div class="c-footer-infoBlock">
+
+                <div class="c-footer-infoDetails">
                     <ul>
                         <li><a href="{{ site.address-link }}">{{ site.address }}<br>{{ site.address-second }}</a></li>
                         <li><a href="tel:{{ site.phone }}">T: {{ site.phone }}</a></li>
@@ -33,8 +34,12 @@ o-grid o-grid--spaceBetween
                         {% include socials.html %}
                     </div>
                 </div>
+
+                {% include form-news-signup.html %}
+
             </div>
 
+            {% comment %}
             {% if page.layout == 'post' or page.layout == 'page' %}
                 <!-- <a class="u-footerBackTop" href="#top">↑ Back to top</a> -->
                 <a class="o-iconWrapper u-footerBackTop" href="#top">
@@ -44,9 +49,10 @@ o-grid o-grid--spaceBetween
                     Back to top
                 </a>
             {% endif %}
+            {% endcomment %}
 
-	    </div>
-	</div>
+        </div>
+    </div>
 
     {% comment %}
     {% if page.layout == 'post' %}
