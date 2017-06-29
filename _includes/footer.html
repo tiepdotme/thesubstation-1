@@ -20,6 +20,8 @@ o-grid o-grid--spaceBetween
         <div class="o-container">
             <div class="c-footer-infoBlock">
 
+                {% include form-news-signup.html %}
+
                 <div class="c-footer-infoDetails">
                     <ul>
                         <li><a href="{{ site.address-link }}">{{ site.address }}<br>{{ site.address-second }}</a></li>
@@ -34,9 +36,6 @@ o-grid o-grid--spaceBetween
                         {% include socials.html %}
                     </div>
                 </div>
-
-                {% include form-news-signup.html %}
-
             </div>
 
             {% comment %}

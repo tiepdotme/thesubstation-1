@@ -57,7 +57,17 @@ $footerRowSpacer: $blockSpace * 0.25;
 }
 
 // footer address & contact details grid
-.c-footer-infoBlock {
+//.c-footer-infoBlock {
+//    display: flex;
+//    flex-direction: column;
+//
+//    @include media-breakpoint-up(lg) {
+//        flex-direction: row;
+//    }
+//}
+
+.c-footer-infoDetails,
+.c-footer-newsForm {
     display: flex;
     flex-direction: column;
 
@@ -66,12 +76,11 @@ $footerRowSpacer: $blockSpace * 0.25;
     }
 }
 
-.c-footer-infoDetails {
-    display: flex;
-    flex-direction: column;
+.c-footer-newsForm {
+    margin-bottom: $blockSpace * 0.75;
 
-    @include media-breakpoint-up(lg) {
-        flex-direction: row;
+    > form {
+        width: 100%;
     }
 }
 
@@ -99,27 +108,27 @@ $footerRowSpacer: $blockSpace * 0.25;
 
     @include media-breakpoint-up(xl) {
         &:not(:first-child) {
-            margin-left: $blockSpace * 0.5;
+            margin-left: $blockSpace * 0.75;
         }
     }
 }
 
-.c-footer-newsForm {
-    margin-bottom: $blockSpace * 0.5;
-    order: -1;
-    width: 100%;
-
-    @include media-breakpoint-up(lg) {
-        margin-bottom: 0;
-        margin-left: auto;
-        order: initial;
-        width: 37%;
-    }
-
-    @include media-breakpoint-up(xl) {
-        width: initial;
-    }
-}
+//.c-footer-newsForm {
+//    margin-bottom: $blockSpace * 0.5;
+//    order: -1;
+//    width: 100%;
+//
+//    @include media-breakpoint-up(lg) {
+//        margin-bottom: 0;
+//        margin-left: auto;
+//        order: initial;
+//        width: 37%;
+//    }
+//
+//    @include media-breakpoint-up(xl) {
+//        width: initial;
+//    }
+//}
 
 
 // footer typography utils
