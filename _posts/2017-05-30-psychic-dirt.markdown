@@ -8,6 +8,7 @@ presented-by: Robbie Thomson (UK)
 datetime:
 - 2017-07-03 12:00:00 +10:00
 - 2017-08-30 17:00:00 +10:00
+is-on-home-page: true
 is-single-date: false
 is-list-of-dates: true
 supporters: Cryptic
