@@ -14,6 +14,7 @@ price:
 datetime:
 - 2017-07-06 19:00:00 +10:00
 - 2017-07-08 19:00:00 +10:00
+is-on-home-page: true
 has-start-time: true
 supporters:
 - Creative Victoria
