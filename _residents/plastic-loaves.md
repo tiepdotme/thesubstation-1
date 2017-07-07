@@ -19,4 +19,4 @@ Over the past two years, PLASTIC LOAVES has Art Directed and Curated two unteste
 
 In 2017 alongside many untold projects, PLASTIC LOAVES is motioning towards self publishing their children’s book, The Feelings book for Humans and Animals. PLASTIC LOAVES will continue to evolve over the coming decades creating a place for ideas to pimple, live and fester. 
 
-Visit [PLASTIC LOAVES website here>](http://www.plasticloaves.com/)
+Visit PLASTIC LOAVES website [here.](http://www.plasticloaves.com/)
