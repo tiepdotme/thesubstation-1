@@ -1,7 +1,7 @@
 ---
 title: Home
 pages: 
-events: The Cell
+events: Signal
 youtube: 
 vimeo: 
 banner-image: "/uploads/Signal.gif"
