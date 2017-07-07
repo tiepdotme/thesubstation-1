@@ -1,5 +1,6 @@
 ---
 title: For artists
+published: false
 position: 4
 venue-cta: false
 current: true
