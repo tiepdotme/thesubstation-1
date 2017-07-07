@@ -2,8 +2,9 @@
 title: For artists
 position: 4
 venue-cta: false
-current: false
+current: true
 image: "/uploads/the-substation-for-artists.jpg"
+is-visible: false
 ---
 
 The Substation presents a curated program of artist development, residencies and presentation of work with artists from across artistic practices. The Substation spaces are available for hire to artists for development, rehearsal and presentation throughout the year.
