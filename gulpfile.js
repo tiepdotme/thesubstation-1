@@ -244,7 +244,7 @@ gulp.task( 'minify:css', function () {
   gulp.src( options.css.file )
     .pipe( plugins.plumber() )
     .pipe( plugins.uncss ( {
-            // for Jekyll:
+      // for Jekyll:
       html: [
         '_site/**/*.html'
       ],
