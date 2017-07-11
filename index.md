@@ -1,9 +1,9 @@
 ---
 title: Home
-pages: 
+pages:
 events: Signal
-youtube: 
-vimeo: 
+youtube:
+vimeo:
 banner-image: "/uploads/Signal.gif"
 carousel-images:
 - "/uploads/The-Vietnam-Archive-Project-Untitled-Sides-03-Phuong-Ngo.jpg"
@@ -11,4 +11,3 @@ carousel-images:
 - "/uploads/100-years-zine-photo-by-samantha-riegl-rebecca-vinci.jpg"
 layout: index
 ---
-
