@@ -3,12 +3,20 @@ layout: default
 ---
 
 {% comment %}
-    {{ page.Events | where: "categories", "whats-on" | replace: ' ', '-' | downcase }}
+    {{ page.events | where: "categories", "whats-on" | replace: ' ', '-' | downcase }}
+
+<div class="">
+    {{ page.events.url }}
+</div>
 {% endcomment %}
 
+
 <div class="c-hero" role="banner">
-    <a href="{% if page.pages %}/{{ page.pages | replace: ' ', '-'  | replace: ':', '' | downcase }}{% elsif page.events %}/whats-on/{{ page.events | replace: ' ', '-'  | replace: ':', '' | downcase }}{% else %}/whats-on{% endif %}">
-        
+    <a href="
+    {% if page.pages %}/{{ page.pages | replace: ' ', '-'  | replace: ':', '' | downcase }}
+    {% elsif page.events %}/whats-on/{{ page.events | replace: ' – ', ' ' | replace: ' - ', ' ' | replace: '-', '' | replace: ':', '' | replace: '…', '' | replace: '.', '' | replace: ' ', '-' | downcase }}
+    {% else %}/whats-on{% endif %}">
+
         {% if page.vimeo %}
 
             {% comment %}
