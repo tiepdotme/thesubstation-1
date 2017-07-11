@@ -8,7 +8,7 @@ button-txt: donate
 has-newsletter-signup: false
 list-orgs: true
 sections:
-- title: 
+- title:
   copy: |
     The SUBSTATION is a not-for-profit community-based arts organisation in the inner west of Melbourne, which strives to engage its local communities in the best that the arts have to offer.
 
@@ -55,7 +55,7 @@ sections:
     * Janet Gaden
     * Jeremy Gaden
     * Jenny Mitchell
-    * J Z & C L Chang
+    * J Z &amp; C L Chang
     * Katarina Persic
     * Latham & Amy Conley
     * Anton Mayer, LeadWest
@@ -86,4 +86,3 @@ sections:
 - title: Our supporters
   copy: We wish to highlight and thank our supporter organisations.
 ---
-
