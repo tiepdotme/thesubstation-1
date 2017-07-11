@@ -10,6 +10,7 @@ price: FREE. FESTIVAL CLOSING $20 + BOOKING FREE
 datetime:
 - 2017-09-01 18:30:00 +10:00
 - 2017-09-10 17:00:00 +10:00
+is-on-home-page: true
 has-opening-event: true
 has-mins: true
 notes:

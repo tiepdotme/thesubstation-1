@@ -2,6 +2,9 @@
 title: The SUBSTATION
 timezone: Australia/Melbourne
 collections:
+  about:
+    title: About us
+    output: true
   posts:
     title: Events
     output: true
@@ -16,9 +19,6 @@ collections:
     output: false
   venues:
     title: Venues
-    output: true
-  about:
-    title: About us
     output: true
 defaults:
 - scope:

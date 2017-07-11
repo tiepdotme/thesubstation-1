@@ -11,10 +11,12 @@ notes:
 supporters: false
 ---
 
-[PLASTIC LOAVES](http://www.plasticloaves.com/) is a Melbourne-based developing creative practice, established by a gradual awareness and unfolding of ideas. Lead by Zarnie Morcombe and her vacant seats to be filled. [PLASTIC LOAVES](http://www.plasticloaves.com/) work is unprejudiced, with an open invitation for everyone and no one working across a variety of stages including art direction, print, graphic design, drawing and fashion (with her Nan).
+Starting in 2015, [PLASTIC LOAVES](http://www.plasticloaves.com/) is a creative practise based in Newport, Melbourne. Lead by Zarnie Morcombe and the company of her undemanding and encouraging pets, Plastic Loaves aims to serve life with extra seasoning. 
 
-Alliances include: Ladies Of Leisure, Charlie Harding, Oli Bradley, Melissa Atanasovski, Fashion Journal, VICE, Nan, AEVOE etc.
+The practise spreads over innumerable creative areas including Curation, Graphic Design, Art Direction, Fashion Design, Painting, Video and Typography for both personal or commissioned works. 
 
-Education: Bachelor of Communication Design RMIT 2013 graduate, Cert IV in Small Business Management.
+Over the past two years, PLASTIC LOAVES has Art Directed and Curated two untested events at The SUBSTATION with a third event just around the corner. PLASTIC LOAVES in collaboration with Heather Morrison (Nan), has launched two clothing collections that study and combine varied stages of human life and the possibilities to create clothes that become utilitarian to these times. PLASTIC LOAVES materialised the Graphic Design for the past 20 issues of Fashion Journal Magazine and the first two editions of Ladies of Leisure Zine. 
 
-Visit [PLASTIC LOAVES website here>](http://www.plasticloaves.com/)
+In 2017 alongside many untold projects, PLASTIC LOAVES is motioning towards self publishing their children’s book, The Feelings book for Humans and Animals. PLASTIC LOAVES will continue to evolve over the coming decades creating a place for ideas to pimple, live and fester. 
+
+Visit PLASTIC LOAVES website [here.](http://www.plasticloaves.com/)

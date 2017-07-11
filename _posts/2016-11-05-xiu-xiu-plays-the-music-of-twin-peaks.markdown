@@ -2,7 +2,7 @@
 title: Xiu Xiu Plays the Music of Twin Peaks
 date: 2016-11-05 12:20:00 +11:00
 categories:
-- whats-on
+- archive
 image: "/uploads/xiu-xiu-plays-twin-peaks.jpg"
 image-credit: Cara Robbins
 button-url: http://thesubstation.iwannaticket.com.au/event/xiu-xiu-plays-the-music-of-twin-peaks-MTIwNjE

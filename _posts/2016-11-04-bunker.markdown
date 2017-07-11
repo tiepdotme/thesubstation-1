@@ -2,7 +2,7 @@
 title: BUNKER
 date: 2016-11-04 12:29:00 +11:00
 categories:
-- whats-on
+- archive
 image: "/uploads/bunker.jpg"
 image-credit: Duncan Jacob
 button-url: https://www.residentadvisor.net/event.aspx?961514
