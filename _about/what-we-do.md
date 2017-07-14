@@ -5,7 +5,7 @@ current: true
 image: "/uploads/the-substation-what-we-do.jpg"
 ---
 
-The SUBSTATION is a not-for-profit multi arts centre located in a 100-year-old repurposed, industrial building. The building houses the biggest visual arts gallery in the Western Suburbs of Melbourne, a dance studio, creative offices and residency spaces and a large-scale multi-purpose performance space. 
+The SUBSTATION is a not-for-profit multi arts centre located in a 100-year-old repurposed, industrial building. 
 
 The SUBSTATION presents an annual curated program of creative development, residencies and presentation. Engaging with artists from across artistic disciplines, working in non-traditional modes and across art-forms, The SUBSTATION provides the opportunity for artists and audiences to connect with our unique space and the distinctive location of Newport.
 
