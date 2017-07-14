@@ -5,7 +5,7 @@ current: true
 image: "/uploads/the-substation-staff-and-board.jpg"
 ---
 
-The SUBSTATION Board<br>
+## The SUBSTATION Board<br>
 
 **Dominic Arcaro** <br>
 _Chair_<br>
@@ -24,7 +24,7 @@ _Secretary_<br>
 
 **Susan Van Wyk**<br>
 
-Core Staff<br>
+## Core Staff<br>
 
 **Brad Spolding**<br>
 _Director_<br>
