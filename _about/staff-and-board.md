@@ -33,4 +33,4 @@ _Marketing and Audience Engagement Coordinator_<br>
 [info (@) thesubstation.org.au](mailto:info@thesubstation.org.au)<br>
 T: [(03) 9391 1110](tel:9391 1110)
 
-In addition to our staff, The SUBSTATION also relies heavily upon the tireless efforts of our casual staff and [volunteers.](https://thesubstation.org.au/about/volunteer/)
+In addition to our staff, The SUBSTATION also relies heavily upon the tireless efforts of our [volunteers.](https://thesubstation.org.au/about/volunteer/)
