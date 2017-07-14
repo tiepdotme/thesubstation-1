@@ -4,8 +4,8 @@ position: 7
 venue-cta: false
 current: true
 image: "/uploads/the-substation-gallery.jpg"
-button-url: 
-button-txt: 
+button-url: "/uploads/UPDATED_Ground%20Floorplan%20-%20Gallery.pdf"
+button-txt: FLOOR PLAN
 ---
 
 The Substation gallery presents an extensive program of exhibitions from emerging and established contemporary artists. The gallery program is curated by The Substation and houses a range of exhibitions throughout its white cube and subterranean spaces from across artistic disciplines.
