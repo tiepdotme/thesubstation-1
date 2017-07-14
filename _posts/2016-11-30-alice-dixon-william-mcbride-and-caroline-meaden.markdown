@@ -1,6 +1,7 @@
 ---
 title: Alice Dixon, William McBride & Caroline Meaden
 date: 2016-11-30 15:04:00 +11:00
+published: false
 categories:
 - in-development
 image: "/uploads/dixon-mcbride-meaden.jpg"
