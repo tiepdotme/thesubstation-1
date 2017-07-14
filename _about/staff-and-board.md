@@ -24,7 +24,7 @@ _Secretary_<br>
 
 **Susan Van Wyk**<br>
 
-## Core Staff<br>
+## The SUBSTATION team<br>
 
 **Brad Spolding**<br>
 _Director_<br>
