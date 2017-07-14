@@ -5,6 +5,27 @@ current: true
 image: "/uploads/the-substation-staff-and-board.jpg"
 ---
 
+The SUBSTATION Board<br>
+
+**Dominic Arcaro** <br>
+_Chair_<br>
+
+**Orlanda Bryars**<br>
+_Treasurer_<br>
+
+**Amber Stuart**<br>
+_Secretary_<br>
+
+**Cr Angela Altair**<br>
+
+**Elizabeth Tupper**<br>
+
+**Jude Gun**<br>
+
+**Susan Van Wyk**<br>
+
+Core Staff<br>
+
 **Brad Spolding**<br>
 _Director_<br>
 [info (@) thesubstation.org.au](mailto:info@thesubstation.org.au)
