@@ -2,6 +2,7 @@
 title: Amanda Carr
 date: 2017-07-18 10:07:00 +10:00
 image: "/uploads/amanda_bio_pic.jpg"
+current: true
 ---
 
 [Amanda Carr](http://amandacarrcreative.com/) brings her photography practice and a wealth of experience in visual and performance craft.  Prior to completing her commercial photography degree at RMIT, and following several years in high fashion and specialised couture, Amanda held the coveted position of Head of Wardrobe at Malthouse Theatre, an iconic Melbourne company with main stage productions regularly touring both nationally and overseas.  During her seven years with Malthouse Theatre she collaborated with highly regarded stage lighting and costume designers, as well as local and international directors.
