@@ -27,16 +27,9 @@ layout: compress
         <div class="o-container">
             <div class="Grid Grid--withGutter">
                 <div class="Grid-cell u-sm-size7of10 u-xl-size8of10 u-smDown-blockT--3by4">
-
-                    <div class="s-post u-spaceB2">
-                        <p>To access this page, you need a password:</p>
+                    <div class="s-post">
+                        {{ content }}
                     </div>
-
-                    <form class="c-footer-newsForm">
-                      <input id="password" type="password"/>
-                      <button class="Button t-button t-button--full t-button--lineHeight u-flexAlignSelfEnd">Submit</button>
-                    </form>
-
                 </div>
             </div>
         </div>
@@ -44,25 +37,6 @@ layout: compress
 
     {% include footer.html %}
     {% include icons.html %}
-
-    <script src="{{ site.javascriptsurl }}md5.js"></script>
-
-    <script>
-        $("form").submit(function(e) {
-
-            // recreate hashed slug
-            var hashed_slug = CryptoJS.MD5($('#password').val());
-
-            // attempt to load in contents
-            $("body").load("/clients/"+hashed_slug, function(response, status, xhr) {
-                // if password was entered incorrectly this will be a 404
-                if (status == "error") alert("Incorrect password");
-            });
-
-            e.preventDefault();
-
-        });
-    </script>
 
     {% include google-analytics.html %}
 

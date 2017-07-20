@@ -8,9 +8,9 @@ c-nav u-flexJustifyAround
 o-grid o-grid--spaceBetween
 {% endcomment %}
 
-<footer class="c-footer {% if page.layout == 'post' or page.layout == 'page' or page.layout == 'protected' and page.url != '/404.html' %} c-footer--rule{% endif %}">
+<footer class="c-footer {% if page.layout == 'post' or page.layout == 'page' or page.layout contains 'protected' and page.url != '/404.html' %} c-footer--rule{% endif %}">
 
-    {% if page.layout == 'post' or page.layout == 'page' or page.layout == 'protected' or page.url == '/404.html' %}
+    {% if page.layout == 'post' or page.layout == 'page' or page.layout contains 'protected' or page.url == '/404.html' %}
         <div class="c-footer-nav c-nav">
             {% include nav.html %}
         </div>
@@ -20,7 +20,7 @@ o-grid o-grid--spaceBetween
         <div class="o-container">
             <div class="c-footer-infoBlock">
 
-                {% unless page.layout == 'protected' %}
+                {% unless page.layout contains 'protected' %}
                     {% include form-news-signup.html %}
                 {% endunless %}
 
