@@ -6,7 +6,8 @@ image-credit: Scott Morrison
 button-url: https://www.festival.melbourne/2017/events/diomira/
 button-txt: BUY TICKETS
 presented-by: AUSTRALIAN ART ORCHESTRA
-datetime: 2017-10-07 20:00:00 +11:00
+datetime:
+- 2017-10-07 20:00:00 +11:00
 is-single-date: true
 supporters: Melbourne Festival
 ---
@@ -17,4 +18,9 @@ Chamber jazz orchestra expands with the additions of turntables, reel-to-reel ta
 
 Exploring the spaces between the avant-garde and the traditional, art and popular music since 1994, Australian Art Orchestra is fired by the same spirit of restlessness that drove the earliest pioneers of jazz to produce music that defined the twentieth century.
 
-Composer Peter Knight
+Presented by The SUBSTATION and [MELBOURNE FESTIVAL](https://www.festival.melbourne/)
+
+Composer: Peter Knight
+
+
+
