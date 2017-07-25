@@ -7,7 +7,8 @@ button-url: https://www.festival.melbourne/2017/events/no-new-noise/
 button-txt: BUY TICKETS
 presented-by: AUSTRALIAN CREATIVE MUSIC ENSEMBLE
 price: Tickets from $30
-datetime: 2017-10-06 20:00:00 +11:00
+datetime:
+- 2017-10-06 20:00:00 +11:00
 has-start-time: true
 is-single-date: true
 supporters: Melbourne Festival
