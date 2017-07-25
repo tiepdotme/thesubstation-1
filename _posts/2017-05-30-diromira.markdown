@@ -1,6 +1,8 @@
 ---
 title: Diromira
 date: 2017-05-30 10:00:00 +10:00
+categories:
+- whats-on
 image: "/uploads/diomira.jpg"
 image-credit: Scott Morrison
 button-url: https://www.festival.melbourne/2017/events/diomira/
