@@ -6,8 +6,10 @@ image-credit: Scott Morrison
 button-url: https://www.festival.melbourne/2017/events/diomira/
 button-txt: BUY TICKETS
 presented-by: AUSTRALIAN ART ORCHESTRA
+price: Tickets from $30
 datetime:
 - 2017-10-07 20:00:00 +11:00
+has-start-time: true
 is-single-date: true
 supporters: Melbourne Festival
 ---
