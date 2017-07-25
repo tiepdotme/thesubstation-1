@@ -1,6 +1,6 @@
 ---
 title: Tetsuya Umeda
-date: 2017-05-30 10:01:00 +10:00
+date: 2017-05-30 10:10:00 +10:00
 categories:
 - whats-on
 image: "/uploads/tetsuya.jpg"
