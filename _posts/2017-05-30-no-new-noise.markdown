@@ -1,6 +1,8 @@
 ---
 title: No New Noise
-date: 2017-07-30 09:59:00 +10:00
+date: 2017-05-30 09:59:00 +10:00
+categories:
+- whats-on
 image: "/uploads/no-new-noise.jpg"
 image-credit: ACME
 button-url: https://www.festival.melbourne/2017/events/no-new-noise/
