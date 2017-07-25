@@ -20,3 +20,5 @@ and musicians?
 Three composers respond to this provocative inquiry with new works for a powerhouse eight piece improvising ensemble. Exploring questions of authenticity in an age of digital reproduction, JOE O'CONNOR, REUBEN LEWIS, and ALISTAIR MCLEAN investigate the overlap between computers and creativity and ponder the very nature of intelligence in a trio of works that engage and challenge.
 
 NO NEW NOISE is the inaugural program by the AUSTRALIAN CREATIVE MUSIC ENSEMBLE, a new contemporary collective focused on improvising and showcasing the next generation of creative musicians and composers.
+
+Presented by The SUBSTATION and [MELBOURNE FESTIVAL](https://www.festival.melbourne/).
