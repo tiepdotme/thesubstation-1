@@ -2,7 +2,7 @@
 title: Diromira
 date: 2017-07-25 07:00:00 +10:00
 image: "/uploads/diomira.jpg"
-image-credit: ACME
+image-credit: Scott Morrison
 button-url: https://www.festival.melbourne/2017/events/diomira/
 button-txt: BUY TICKETS
 presented-by: AUSTRALIAN ART ORCHESTRA
