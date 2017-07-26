@@ -13,7 +13,7 @@ datetime:
 - 2017-10-13 20:00:00 +11:00
 - 2017-10-14 16:00:00 +11:00
 has-start-time:
-- false
+- true
 is-list-of-dates: false
 is-single-time-duration: false
 supporters:
