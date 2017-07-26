@@ -18,7 +18,7 @@ has-start-time:
 is-list-of-dates: false
 is-single-time-duration: false
 notes:
-  note: 'ADDITIONAL SATURDAY SHOW: 4PM'
+  note: 'ADDITIONAL SHOW: SATURDAY OCTOBER 14, 4PM'
 supporters:
 - Melbourne Festival
 - Eastman
