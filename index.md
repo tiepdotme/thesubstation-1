@@ -1,10 +1,10 @@
 ---
 title: Home
 pages: 
-events: Signal
+events: More Up A Tree
 youtube: 
 vimeo: 
-banner-image: "/uploads/Signal.gif"
+banner-image: "/uploads/More-Up-A-Tree-Homepage-Reduced.gif"
 carousel-images:
 - "/uploads/The-Vietnam-Archive-Project-Untitled-Sides-03-Phuong-Ngo.jpg"
 - "/uploads/05-Phuong-Ngo-The-Vietnam-Archive-Project-Untitled-Sides.jpg"
