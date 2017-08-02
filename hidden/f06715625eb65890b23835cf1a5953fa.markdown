@@ -4,6 +4,7 @@ date: 2017-08-02 12:37:00 +10:00
 Button-url: 
 Button-txt: 
 Key: 
+layout: protected-page
 ---
 
 [Gallery Plan](http://www.thesubstation.org.au/uploads/UPDATED_Ground%20Floorplan%20-%20Gallery.pdf)
