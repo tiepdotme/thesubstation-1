@@ -7,4 +7,4 @@ Key:
 layout: protected-page
 ---
 
-[Gallery Plan](http://www.thesubstation.org.au/uploads/UPDATED_Ground%20Floorplan%20-%20Gallery.pdf)
+**[Gallery Plan](http://www.thesubstation.org.au/uploads/UPDATED_Ground%20Floorplan%20-%20Gallery.pdf)**
