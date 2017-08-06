@@ -4,6 +4,7 @@ date: 2017-05-30 09:54:00 +10:00
 categories:
 - whats-on
 image: "/uploads/channels.jpg"
+button-url: https://thesubstation.iwannaticket.com.au/event/autofictions-channels-festival-closing-party-MTMyMjY
 button-txt: BUY TICKETS
 presented-by: THE AUSTRALIAN VIDEO ART FESTIVAL
 price: FREE. FESTIVAL CLOSING $20 + BOOKING FREE
