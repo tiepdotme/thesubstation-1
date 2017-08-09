@@ -28,3 +28,5 @@ Combining video art, installation and new technology, the exhibition connects sp
 Exhibiting artists include ANTOINETTE  J. CITIZEN, HANNAH BRONTË, YAEL BARTANA (ISR), RACHEL MASON (US) with more to be announced. Curated by ALICIA RENEW and KATE WARREN.
 
 Presented by The SUBSTATION and [CHANNELS](http://channelsfestival.net.au/) as part of CHANNELS: THE AUSTRALIAN VIDEO ART FESTIVAL.
+
+See the full list of CHANNELS FESTIVAL events at The SUBSTATION [here.](https://thesubstation.org.au/whats-on/channels/)
