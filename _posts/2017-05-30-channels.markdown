@@ -13,7 +13,7 @@ datetime:
 - 2017-09-10 17:00:00 +10:00
 is-on-home-page: true
 has-opening-event: true
-has-closing-event: true
+has-closing-event: false
 has-mins: true
 notes:
   note: FESTIVAL CLOSING PARTY SAT OCTOBER 09, 9PM
