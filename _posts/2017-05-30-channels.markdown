@@ -5,7 +5,7 @@ categories:
 - whats-on
 image: "/uploads/channels.jpg"
 button-url: https://thesubstation.iwannaticket.com.au/event/autofictions-channels-festival-closing-party-MTMyMjY
-button-txt: BUY TICKETS TO AUTOFICTIONS
+button-txt: AUTOFICTIONS TICKETS
 presented-by: THE AUSTRALIAN VIDEO ART FESTIVAL
 price: FREE. FESTIVAL CLOSING $20 + BOOKING FREE
 datetime:
@@ -54,7 +54,7 @@ Narrated by a series of unfixed voices, the video envisions an obscure afterlife
 [**CAROLINE GARCIA**](http://carolinegarcia.com.au/) <br>
 **FLYGIRL** <br>
 **THURSDAY 7 SEPTEMBER, 6PM** <br>
-**FREE**<br>
+**FREE** | [**BOOK NOW**](https://www.eventbrite.com.au/e/caroline-garcia-flygirl-tickets-36806521296)<br>
 FLYGIRL is a solo dance installation that reimagines forgotten hip-hop routines. The work consists of choreographic interludes that meticulously samples performances by the all-female troupe of Fly Girls from the early nineties American TV series, IN LIVING COLOR. Developed and performed by CAROLINE GARCIA, FLYGIRL playfully touches on nostalgic sentiments and memories as a visual backdrop to the politics of hip-hop
 culture.
 
@@ -62,7 +62,7 @@ Supported by Australia Council for the Arts Residency with EMPAC and Critical Pa
 
 **JESSIE SCOTT** <br>
 **SLOW CANCELLATION** <br>
-**FREE**<br>
+**FREE** | [**BOOK NOW**](https://www.eventbrite.com.au/e/workshop-slow-cancellation-make-an-animated-gif-with-jessie-scott-tickets-36806553392)<br>
 Slow Cancellation is a GIF making workshop with the artist JESSIE SCOTT. Participants will explore early digital GIF formats and contemporary forms of animation and learn about how artists use both to create contemporary artworks, before making a GIF of their own. The GIFs will be presented in a pop up exhibition in the foyer of Incinerator Gallery and hosted on the CHANNELS website.
 
 **AUGMENTED REALITY TOUR** <br>
