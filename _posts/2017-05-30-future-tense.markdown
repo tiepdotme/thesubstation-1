@@ -8,7 +8,7 @@ image-credit: Future Clown (still), 2017. Rachel Mason
 presented-by: 'CHANNELS: THE AUSTRALIAN VIDEO ART FESTIVAL'
 price: FREE
 datetime:
-- 2017-09-01 18:30:00 +10:00
+- 2017-09-01 18:00:00 +10:00
 - 2017-10-28 17:00:00 +11:00
 is-on-home-page: true
 has-opening-event: true
