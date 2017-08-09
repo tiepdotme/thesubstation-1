@@ -5,7 +5,7 @@ categories:
 - whats-on
 image: "/uploads/channels.jpg"
 button-url: https://thesubstation.iwannaticket.com.au/event/autofictions-channels-festival-closing-party-MTMyMjY
-button-txt: BUY TICKETS
+button-txt: BUY TICKETS TO AUTOFICTIONS
 presented-by: THE AUSTRALIAN VIDEO ART FESTIVAL
 price: FREE. FESTIVAL CLOSING $20 + BOOKING FREE
 datetime:
@@ -24,13 +24,15 @@ supporters:
 - Art in Public Places
 ---
 
-CHANNELS, The Australian Video Art Festival is the only festival dedicated to showcasing new contemporary moving image by some of the most exciting Australian and international artists. CHANNELS delivers a diverse and inspiring festival of exhibitions, screenings, talks, public programs and a series of international exhibitions and events.
+CHANNELS, The Australian Video Art Festival is the only festival dedicated to showcasing new contemporary moving image by some of the most exciting Australian and international artists. 
 
 In 2017, CHANNELS looks to the future. In dialogue with artists, curators and the community, CHANNELS poses an open question about the future and speculative narratives, which explore histories yet to be established. The theme ‘futures’ is an invitation to artists and collaborators who are experimental and innovative with their medium and ideas, exploring future selves, ideas, movements, politics and technologies.
 
 Presented by The SUBSTATION and CHANNELS.
+[channelsfestival.net.au](http://channelsfestival.net.au/).
 
-Full details and tickets available via the CHANNELS website, [channelsfestival.net.au](http://channelsfestival.net.au/).
+[**FUTURE TENSE**](https://thesubstation.org.au/whats-on/future-tense/)
+1 September - 28 October
 
 FESTIVAL CLOSING PARTY <br>
 **AUTOFICTIONS**<br>
