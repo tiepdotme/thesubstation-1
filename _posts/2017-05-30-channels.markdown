@@ -9,10 +9,11 @@ button-txt: BUY TICKETS
 presented-by: THE AUSTRALIAN VIDEO ART FESTIVAL
 price: FREE. FESTIVAL CLOSING $20 + BOOKING FREE
 datetime:
-- 2017-09-01 18:30:00 +10:00
+- 2017-09-01 18:00:00 +10:00
 - 2017-09-10 17:00:00 +10:00
 is-on-home-page: true
 has-opening-event: true
+has-closing-event: true
 has-mins: true
 notes:
   note: FESTIVAL CLOSING PARTY SAT OCTOBER 09, 9PM
@@ -30,6 +31,11 @@ In 2017, CHANNELS looks to the future. In dialogue with artists, curators and th
 Presented by The SUBSTATION and CHANNELS.
 
 Full details and tickets available via the CHANNELS website, [channelsfestival.net.au](http://channelsfestival.net.au/).
+
+FESTIVAL CLOSING PARTY <br>
+**AUTOFICTIONS**<br>
+**SATURDAY 9 SEPTEMBER, 9PM**<br>
+Choose your channel as we guide you through speculative visions of the future with performances by [RACHEL MASON(US)](http://www.rachelannmason.com/), HANNAH BRONTË, [JESSWAR](https://www.facebook.com/Jesswaaaaar/), [CLUB D’ERANGE](https://www.facebook.com/clubderange) and the D’erange Dance Guides, underscored with sub-sounds by [LIQUID ARCHITECTURE](http://www.liquidarchitecture.org.au/) and moving image by XANTHE DOBBIE as they take control of stage and screen.
 
 [KIHLBERG & HENRY](http://www.karinkihlberg-reubenhenry.org/) (UK)<br>
 **A MOUNTAIN CLOSE UP IS ONLY ROCK** <BR>
@@ -58,8 +64,3 @@ KATE GECK <br>
 **Location: Newport Retail precinct** <br> Channels presents a new commission by Melbourne-based artist Kate Geck. Relaxation Agency RLX:tech is a series of installations of therapeutic, interactive totems among businesses around Newport’s retail precinct. <br>
 These artisan objects are designed for the home or business, and trigger relaxing content for contemporary audiences to alleviate the stressors of constant connectivity. Facilitated by your own device, these markers lead you on a relaxing, mindful walk around Newport. They trigger guided meditations and 3D talismans to help you forget about not liking your boss’s selfie, or to deal with a recent unfriending. RLX:tech creates furnishings for a future world: designing your interactions with devices to be therapeutic. We purposefully integrate technology into your spaces to make you feel better. <br>
 Supported by THE HOBSONS BAY CITY COUNCIL ART IN PUBLIC PLACES PROGRAM.
-
-FESTIVAL CLOSING PARTY <br>
-**AUTOFICTIONS**<br>
-**SATURDAY 9 SEPTEMBER, 9PM**<br>
-Join us for a night of music, DJs, performance, sound, moving image and beverages as we delve into a zone of AUTOFICTION and officially celebrate the closing of CHANNELS: THE AUSTRALIAN VIDEO ART FESTIVAL 2017.
