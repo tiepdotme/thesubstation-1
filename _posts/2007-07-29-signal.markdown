@@ -1,6 +1,6 @@
 ---
 title: Signal
-date: 2007-07-03 08:51:00 +10:00
+date: 2007-07-29 08:51:00 +10:00
 categories:
 - whats-on
 image: "/uploads/signal.jpg"
