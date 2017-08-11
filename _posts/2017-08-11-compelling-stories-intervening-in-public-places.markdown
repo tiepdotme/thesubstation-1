@@ -9,7 +9,7 @@ price: 'STANDARD: $40 CONCESSION: $35'
 datetime:
 - 2017-09-14 10:00:00 +10:00
 - 2017-09-14 17:00:00 +10:00
-has-start-time: true
+has-start-time: false
 is-single-date: true
 supporters: Melbourne Fringe
 ---
