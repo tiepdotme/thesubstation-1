@@ -2,8 +2,8 @@
 title: Compelling Stories – Intervening in Public Places
 date: 2017-08-11 14:02:00 +10:00
 image: "/uploads/compelling-telling-02.jpg"
-button-url: BUY TICKETS
-button-txt: https://www.melbournefringe.com.au/event/mammalian-diving-reflex-masterclass-compelling-telling-intervening-in-public-spaces/
+button-url: https://www.melbournefringe.com.au/event/mammalian-diving-reflex-masterclass-compelling-telling-intervening-in-public-spaces/
+button-txt: BUY TICKETS
 presented-by: MAMMALIAN DIVING REFLEX
 price: 'STANDARD: $40 CONCESSION: $35'
 datetime:
