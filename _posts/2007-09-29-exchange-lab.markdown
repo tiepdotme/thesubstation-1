@@ -1,6 +1,6 @@
 ---
 title: Exchange Lab
-date: 2007-09-29 08:58:00 +10:00
+date: 2007-09-29 07:58:00 +10:00
 categories:
 - whats-on
 image: "/uploads/exchange-lab.jpg"
@@ -22,6 +22,15 @@ supporters:
 
 [FOREST FRINGE](http://www.forestfringe.co.uk/) X [MELBOURNE FRINGE](https://melbournefringe.com.au/) is an innovative residency project bringing together local and international artists to explore the streets and spaces of Melbourne’s West. The project brings award-winning Edinburgh Fringe Festival innovators FOREST FRINGE (UK) to Melbourne for the first time, joining forces with MELBOURNE FRINGE, our own big, bold and gloriously messy celebration of independent art. 
 
-We invite you to join us for the culmination of FOREST FRINGE X MELBOURNE FRINGE, as the artists involved take over the SUBSTATION with experiments, interventions, talks and reflections on the work of the residency. Led by FOREST FRINGE co-directors ANDY FIELD and DEBORAH PEARSON, we invite you to test the results of their experiments, listen, play, change your mind and then change it again.
+**FOREST FRINGE EXCHANGE LAB: DAY OF ACTION 2**<br>
+**FRIDAY 29 SEPTEMBER, 10AM - 6PM**<br>
+**FREE** | [**BOOK NOW**](https://www.melbournefringe.com.au/event/forest-exchange-lab-day-of-action-2/)<br>
 
-For full program information and tickets visit this page or [melbournefringe.com.au](https://melbournefringe.com.au/) from 10 August.
+FOREST FRINGE invites you to explore the relationship between artists and the places and spaces where they make their art. After a week of enquiry as part of their residency at the SUBSTATION, join risk-chasers FOREST FRINGE with a group of local artists in Newport for a day of breathless performance making and improvising conclusions to the conundrums they’ve dreamed up. Come ready for adventure and be prepared to head into the unknown.<br>
+
+**FOREST FRINGE EXCHANGE LAB: AFTERNOON ASSEMBLY 2** <br>
+**FRIDAY 29 SEPTEMBER, 5PM** <br>
+**FREE** | [**BOOK NOW**](https://www.melbournefringe.com.au/event/forest-exchange-lab-afternoon-assembly-2/)<br>
+
+Witness the fruits of a hard day’s performance making in Newport. See what the UK’s FOREST FRINGE along with local artists and their participants have created throughout their Days of Action at The SUBSTATION in an Afternoon Assembly. Come for the showing, stay for a drink and a chat about their discoveries. This art is new, raw, and possibly a little messy – just the way you like it.
+
