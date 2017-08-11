@@ -1,6 +1,6 @@
 ---
 title: Psychic Dirt
-date: 2017-05-30 09:45:00 +10:00
+date: 2007-07-03 08:45:00 +10:00
 categories:
 - whats-on
 image: "/uploads/RobbiePsychicDirtweb.jpg"
