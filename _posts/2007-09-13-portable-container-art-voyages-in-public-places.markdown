@@ -1,6 +1,6 @@
 ---
 title: Portable Container – Art Voyages in Public Places
-date: 2017-05-30 09:56:00 +10:00
+date: 2007-09-13 08:56:00 +10:00
 categories:
 - whats-on
 image: "/uploads/container.jpg"
