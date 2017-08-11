@@ -1,6 +1,6 @@
 ---
 title: We Are People – An Exhibition of The Democratic Set
-date: 2017-05-30 10:11:00 +10:00
+date: 2007-11-10 10:11:00 +11:00
 categories:
 - whats-on
 image: "/uploads/democratic-set.jpg"
