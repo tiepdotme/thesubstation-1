@@ -1,6 +1,6 @@
 ---
 title: CHANNELS
-date: 2007-09-01 08:30:00 +10:00
+date: 2007-09-01 07:30:00 +10:00
 categories:
 - whats-on
 image: "/uploads/channels-web.jpg"
@@ -65,7 +65,7 @@ Supported by Australia Council for the Arts Residency with EMPAC and Critical Pa
 **JESSIE SCOTT** <br>
 **SLOW CANCELLATION** <br>
 **FREE** | [**BOOK NOW**](https://www.eventbrite.com.au/e/workshop-slow-cancellation-make-an-animated-gif-with-jessie-scott-tickets-36806553392)<br>
-Slow Cancellation is a GIF making workshop with the artist JESSIE SCOTT. Participants will explore early digital GIF formats and contemporary forms of animation and learn about how artists use both to create contemporary artworks, before making a GIF of their own. The GIFs will be presented in a pop up exhibition in the foyer of Incinerator Gallery and hosted on the CHANNELS website.
+Slow Cancellation is a GIF making workshop with the artist JESSIE SCOTT. Participants will explore early digital GIF formats and contemporary forms of animation and learn about how artists use both to create contemporary artworks, before making a GIF of their own. 
 
 **AUGMENTED REALITY TOUR** <br>
 **KATE GECK** <br>
