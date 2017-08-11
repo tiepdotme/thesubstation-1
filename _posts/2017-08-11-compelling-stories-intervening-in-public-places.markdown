@@ -14,8 +14,8 @@ is-single-date: true
 supporters: Melbourne Fringe
 ---
 
-Design and test performance interventions with Canadian performance provocateurs Mammalian Diving Reflex in a Masterclass that hones in on developing socially specific participatory performance and working with non-actors from a diverse range of backgrounds. 
+Design and test performance interventions with Canadian performance provocateurs [MAMMALIAN DIVING REFLEX](http://mammalian.ca/) in a Masterclass that hones in on developing socially specific participatory performance and working with non-actors from a diverse range of backgrounds. 
 
-Facilitated by Darren O’Donnell of Mammalian Diving Reflex, this masterclass focuses on the basics of Mammalian Diving Reflex’s “social acupuncture” methodology, used to create innovative ways for artists to engage and interact with the public.
+Facilitated by DARREN O'DONNELL of MAMMALIAN DIVING REFLEX, this masterclass focuses on the basics of their “social acupuncture” methodology, used to create innovative ways for artists to engage and interact with the public.
 
 This workshop is for performance practitioners interested in learning new tools and ideas for developing playful, provocative, site-specific, and social-specific participatory performances. Discuss, play and engage with members of your own local community.
