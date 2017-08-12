@@ -1,6 +1,6 @@
 ---
 title: The Long String Instrument
-date: 2016-11-29 13:39:00 +11:00
+date: 2007-01-27 13:39:00 +11:00
 categories:
 - archive
 image: "/uploads/long-string-instrument.jpg"
