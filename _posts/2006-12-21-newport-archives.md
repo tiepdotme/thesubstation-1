@@ -1,6 +1,6 @@
 ---
 title: Newport Archives 2016
-date: 2016-05-16 10:00:00 +10:00
+date: 2006-12-21 10:00:00 +11:00
 categories:
 - archive
 image: "/uploads/newport-archives.jpg"
@@ -10,8 +10,8 @@ presented-by: TAMARA SAULWICK, OPEN HOUSE MELBOURNE
 price:
 - Free, bookings essential
 datetime:
-- Sat 30 July 2016, 10am
-- Sat 30 July 2016, 4:30pm
+- 2030-01-01 00:00:00 +11:00
+- 2030-01-01 00:00:00 +11:00
 is-single-date: true
 event-duration-txt: 40 mins
 notes:
