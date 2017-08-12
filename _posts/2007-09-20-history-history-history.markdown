@@ -1,6 +1,6 @@
 ---
 title: History History History
-date: 2007-09-20 08:57:00 +10:00
+date: 2007-09-20 07:57:00 +10:00
 categories:
 - whats-on
 image: "/uploads/history-history-history.jpg"
@@ -12,6 +12,7 @@ price: "$25/15 + BOOKING FEE"
 datetime:
 - 2017-09-20 20:00:00 +10:00
 - 2017-09-23 20:00:00 +10:00
+is-on-home-page: true
 has-start-time: true
 is-list-of-dates: true
 supporters:
