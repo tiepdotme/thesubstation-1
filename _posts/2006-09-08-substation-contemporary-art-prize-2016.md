@@ -1,6 +1,6 @@
 ---
 title: The Substation Contemporary Art Prize 2016
-date: 2016-05-03 20:51:00 +10:00
+date: 2006-09-08 19:51:00 +10:00
 categories:
 - archive
 image: "/uploads/the-substation-contemporary-art-prize-2016.jpg"
