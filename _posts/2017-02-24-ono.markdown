@@ -1,6 +1,6 @@
 ---
 title: ONO
-date: 2016-11-29 18:21:00 +11:00
+date: 2017-02-24 18:21:00 +11:00
 categories:
 - archive
 image: "/uploads/ono.jpg"
