@@ -2,7 +2,7 @@
 title: Paea Leach
 date: 2007-05-28 12:29:00 +10:00
 categories:
-- in-development
+- archive
 image: "/uploads/paea-leach.jpg"
 image-credit: "© Gregory Lorenzutti for Dancehouse / Keir Choreographic Award 2016.
   Paea Leach, One and one and one"
