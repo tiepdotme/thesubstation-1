@@ -1,6 +1,6 @@
 ---
 title: Multimodal
-date: 2016-05-16 00:00:00 +10:00
+date: 2006-07-31 23:00:00 +10:00
 categories:
 - archive
 image: "/uploads/multimodal-photo-by-mateo-lopez.jpg"
