@@ -1,6 +1,6 @@
 ---
 title: Fotografien
-date: 2015-12-01 11:00:00 +11:00
+date: 2006-04-29 10:00:00 +10:00
 categories:
 - archive
 image: "/uploads/fotografien.jpg"
