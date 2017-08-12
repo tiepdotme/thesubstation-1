@@ -1,6 +1,6 @@
 ---
 title: Antony Hamilton Projects
-date: 2016-11-30 15:17:00 +11:00
+date: 2017-03-21 15:17:00 +11:00
 categories:
 - archive
 image: "/uploads/antony-hamilton-projects.jpg"
