@@ -1,6 +1,6 @@
 ---
 title: Linda Tegg
-date: 2017-05-30 10:42:00 +10:00
+date: 2007-07-01 09:42:00 +10:00
 categories:
 - in-development
 image: "/uploads/linda.jpg"
