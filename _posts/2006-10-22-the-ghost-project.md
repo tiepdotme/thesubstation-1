@@ -1,6 +1,6 @@
 ---
 title: The Ghost Project
-date: 2016-06-01 10:00:00 +10:00
+date: 2006-10-22 09:00:00 +10:00
 categories:
 - archive
 image: "/uploads/anna-tregloan-the-ghost-project.jpg"
