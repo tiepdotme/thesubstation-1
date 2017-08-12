@@ -1,9 +1,12 @@
 ---
 title: Thembi Soddell
-date: 2016-06-01 10:00:00 +10:00
+date: 2006-11-28 10:00:00 +11:00
 categories:
 - archive
 image: "/uploads/black.jpg"
+datetime:
+- 2016-11-28 00:00:00 +11:00
+is-single-time-duration: true
 supporters: false
 ---
 
