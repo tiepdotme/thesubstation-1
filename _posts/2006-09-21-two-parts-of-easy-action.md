@@ -1,6 +1,6 @@
 ---
 title: Two parts of easy action
-date: 2016-08-09 17:21:00 +10:00
+date: 2006-09-21 16:21:00 +10:00
 categories:
 - archive
 image: "/uploads/two-parts-of-easy-action.jpg"
