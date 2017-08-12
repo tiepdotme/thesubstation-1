@@ -1,6 +1,6 @@
 ---
 title: Margie Medlin
-date: 2016-12-02 11:41:00 +11:00
+date: 2017-03-22 11:41:00 +11:00
 categories:
 - archive
 image: "/uploads/residency-margie-medlin.jpg"
