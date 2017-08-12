@@ -1,6 +1,6 @@
 ---
 title: Xiu Xiu Plays the Music of Twin Peaks
-date: 2016-11-05 12:20:00 +11:00
+date: 2007-06-22 11:20:00 +10:00
 categories:
 - archive
 image: "/uploads/xiu-xiu-plays-twin-peaks.jpg"
