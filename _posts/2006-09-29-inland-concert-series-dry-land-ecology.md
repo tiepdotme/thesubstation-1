@@ -1,6 +1,6 @@
 ---
 title: Dry land ecology
-date: 2016-08-09 17:37:00 +10:00
+date: 2006-09-29 16:37:00 +10:00
 categories:
 - archive
 image: "/uploads/inland-concert-series-dry-land-ecology.jpg"
