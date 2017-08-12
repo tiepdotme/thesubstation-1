@@ -1,6 +1,6 @@
 ---
 title: Fluorophone
-date: 2016-05-16 00:00:00 +10:00
+date: 2006-11-22 00:00:00 +11:00
 categories:
 - archive
 image: "/uploads/fluorophone.jpg"
