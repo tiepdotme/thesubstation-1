@@ -1,8 +1,8 @@
 ---
 title: Signal
-date: 2007-07-29 08:51:00 +10:00
+date: 2007-07-29 07:51:00 +10:00
 categories:
-- whats-on
+- archive
 image: "/uploads/signal.jpg"
 image-credit: Jessica Middleton
 button-url: https://www.eventbrite.com.au/e/signal-tickets-35204385264
