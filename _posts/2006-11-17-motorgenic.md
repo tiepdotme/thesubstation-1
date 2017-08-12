@@ -1,6 +1,6 @@
 ---
 title: Motorgenic
-date: 2016-05-16 10:00:00 +10:00
+date: 2006-11-17 10:00:00 +11:00
 categories:
 - archive
 image: "/uploads/motorgenic-photo-by-amanda-betlehem.jpg"
