@@ -1,9 +1,8 @@
 ---
 title: Alice Dixon, William McBride & Caroline Meaden
-date: 2016-11-30 15:04:00 +11:00
-published: false
+date: 2007-05-08 14:04:00 +10:00
 categories:
-- in-development
+- archive
 image: "/uploads/dixon-mcbride-meaden.jpg"
 image-credit: Jessica Devereux
 supporters:
