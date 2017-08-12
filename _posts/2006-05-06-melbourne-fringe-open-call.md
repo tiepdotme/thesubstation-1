@@ -1,6 +1,6 @@
 ---
 title: Melbourne Fringe Open Call
-date: 2016-04-13 10:00:00 +10:00
+date: 2006-05-06 09:00:00 +10:00
 categories:
 - archive
 image: "/uploads/lilian-steiner-photo-by-lauren-dunn.jpg"
