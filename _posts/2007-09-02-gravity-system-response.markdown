@@ -1,6 +1,6 @@
 ---
 title: Gravity System Response
-date: 2007-09-01 08:20:00 +10:00
+date: 2007-09-02 08:20:00 +10:00
 categories:
 - whats-on
 image: "/uploads/ash-keating.jpg"
