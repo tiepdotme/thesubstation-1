@@ -1,6 +1,6 @@
 ---
 title: The Art of Work
-date: 2016-01-11 01:00:00 +11:00
+date: 2006-04-29 00:00:00 +10:00
 categories:
 - archive
 image: "/uploads/projector-bike-back-story.jpg"
