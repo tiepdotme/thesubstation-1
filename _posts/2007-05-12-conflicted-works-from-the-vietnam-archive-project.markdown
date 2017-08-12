@@ -1,6 +1,6 @@
 ---
 title: 'Conflicted: Works from the Vietnam Archive Project'
-date: 2016-11-02 12:31:00 +11:00
+date: 2007-05-12 11:31:00 +10:00
 categories:
 - archive
 image: "/uploads/conflicted-vietnam-archive-project.jpg"
