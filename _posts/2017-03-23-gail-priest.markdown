@@ -1,6 +1,6 @@
 ---
 title: Gail Priest
-date: 2016-12-02 11:22:00 +11:00
+date: 2017-03-23 11:22:00 +11:00
 categories:
 - archive
 image: "/uploads/int-residency-gail-priest.jpg"
