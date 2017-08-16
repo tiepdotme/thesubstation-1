@@ -1,6 +1,6 @@
 ---
 title: CHANNELS
-date: 2007-09-01 07:30:00 +10:00
+date: 2007-09-01 06:30:00 +10:00
 categories:
 - whats-on
 image: "/uploads/channels-web.jpg"
@@ -12,7 +12,7 @@ price: 'FREE. AUTOFICTIONS FESTIVAL CLOSING: FROM $20 + BOOKING FEE'
 datetime:
 - 2017-09-01 18:00:00 +10:00
 - 2017-09-10 17:00:00 +10:00
-is-on-home-page: true
+is-on-home-page: false
 has-opening-event: true
 has-closing-event: false
 has-mins: true
