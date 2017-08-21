@@ -1,6 +1,6 @@
 ---
 title: CHANNELS
-date: 2007-09-01 06:30:00 +10:00
+date: 2007-09-01 05:30:00 +10:00
 categories:
 - whats-on
 image: "/uploads/channels-web.jpg"
@@ -17,7 +17,7 @@ has-opening-event: true
 has-closing-event: false
 has-mins: true
 notes:
-  note: FESTIVAL CLOSING PARTY SAT OCTOBER 09, 9PM
+  note: FESTIVAL CLOSING PARTY SAT SEPTEMBER 09, 9PM
 supporters:
 - Channels
 - Australia Council of Arts
