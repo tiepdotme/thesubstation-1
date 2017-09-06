@@ -1,11 +1,9 @@
 ---
 title: Portable Container – Art Voyages in Public Places
-date: 2007-09-13 07:56:00 +10:00
+date: 2007-09-13 06:56:00 +10:00
 categories:
 - whats-on
 image: "/uploads/container.jpg"
-button-url: http://thesubstation.iwannaticket.com.au/event/plastic-loaves-makes-you-spring-MTI5NDk
-button-txt: BUY TICKETS
 presented-by: Plastic Loaves and Mesh Mash
 price: FREE
 datetime:
