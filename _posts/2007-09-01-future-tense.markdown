@@ -1,6 +1,6 @@
 ---
 title: Future Tense
-date: 2007-09-01 07:55:00 +10:00
+date: 2007-09-01 06:55:00 +10:00
 categories:
 - whats-on
 image: "/uploads/future-tense.jpg"
@@ -10,7 +10,7 @@ price: FREE
 datetime:
 - 2017-09-01 18:00:00 +10:00
 - 2017-10-28 17:00:00 +11:00
-is-on-home-page: false
+is-on-home-page: true
 has-opening-event: true
 has-mins: true
 is-within-gallery-open-time: true
