@@ -1,5 +1,5 @@
 ---
 title: Melbourne Festival
-image: "/uploads/supporter-melbourne-festival.png"
+image: "/uploads/MelbourneFestival.jpg"
 ---
 
