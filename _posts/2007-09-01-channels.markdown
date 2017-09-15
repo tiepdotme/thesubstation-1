@@ -1,8 +1,8 @@
 ---
 title: CHANNELS
-date: 2007-09-01 05:30:00 +10:00
+date: 2007-09-01 04:30:00 +10:00
 categories:
-- whats-on
+- archive
 image: "/uploads/channels-web.jpg"
 image-credit: Image courtesy of Hannah Bronte
 button-url: https://thesubstation.iwannaticket.com.au/event/autofictions-channels-festival-closing-party-MTMyMjY
