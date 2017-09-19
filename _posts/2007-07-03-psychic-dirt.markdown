@@ -1,8 +1,8 @@
 ---
 title: Psychic Dirt
-date: 2007-07-03 07:45:00 +10:00
+date: 2007-07-03 06:45:00 +10:00
 categories:
-- whats-on
+- archive
 image: "/uploads/RobbiePsychicDirtweb.jpg"
 presented-by: Robbie Thomson (UK)
 datetime:
