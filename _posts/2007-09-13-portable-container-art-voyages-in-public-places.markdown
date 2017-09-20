@@ -1,15 +1,15 @@
 ---
 title: Portable Container – Art Voyages in Public Places
-date: 2007-09-13 06:56:00 +10:00
+date: 2007-09-13 05:56:00 +10:00
 categories:
-- whats-on
+- archive
 image: "/uploads/container.jpg"
 presented-by: Plastic Loaves and Mesh Mash
 price: FREE
 datetime:
 - 2017-09-13 15:30:00 +10:00
 - 2017-09-16 15:30:00 +10:00
-is-on-home-page: true
+is-on-home-page: false
 has-closing-event: false
 has-start-time: true
 notes:
