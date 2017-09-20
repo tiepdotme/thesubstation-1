@@ -1,13 +1,13 @@
 ---
 title: Gravity System Response
-date: 2007-09-02 06:20:00 +10:00
+date: 2007-09-02 05:20:00 +10:00
 categories:
 - whats-on
 image: "/uploads/ash-keating.jpg"
 presented-by: Ash Keating
 datetime:
 - 2017-09-01 12:00:00 +10:00
-- 2017-10-31 17:00:00 +11:00
+- 2017-11-04 17:00:00 +11:00
 is-single-month-duration: false
 ---
 
