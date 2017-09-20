@@ -1,10 +1,10 @@
 ---
 title: Home
 pages: 
-events: History History History
+events: More Up A Tree
 youtube: 
 vimeo: 
-banner-image: "/uploads/HistoryHomepage.gif"
+banner-image: "/uploads/More-Up-A-Tree-Homepage-ReducedPattern.gif"
 carousel-images:
 - "/uploads/The-Vietnam-Archive-Project-Untitled-Sides-03-Phuong-Ngo.jpg"
 - "/uploads/05-Phuong-Ngo-The-Vietnam-Archive-Project-Untitled-Sides.jpg"
