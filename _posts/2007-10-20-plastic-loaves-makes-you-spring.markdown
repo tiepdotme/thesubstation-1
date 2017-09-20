@@ -1,6 +1,6 @@
 ---
 title: Plastic Loaves Makes You... Spring
-date: 2007-10-20 09:06:00 +10:00
+date: 2007-10-20 08:06:00 +10:00
 categories:
 - whats-on
 image: "/uploads/plastic-loaves.jpg"
@@ -9,6 +9,7 @@ button-txt: BUY TICKETS
 price: From $20 + BOOKING FEE
 datetime:
 - 2017-10-20 21:00:00 +11:00
+is-on-home-page: true
 has-start-time: true
 is-single-date: true
 is-single-time-duration: false
