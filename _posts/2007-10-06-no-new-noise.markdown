@@ -1,6 +1,6 @@
 ---
 title: No New Noise
-date: 2007-10-06 08:59:00 +10:00
+date: 2007-10-06 07:59:00 +10:00
 categories:
 - whats-on
 image: "/uploads/no-new-noise.jpg"
@@ -11,6 +11,7 @@ presented-by: AUSTRALIAN CREATIVE MUSIC ENSEMBLE
 price: Tickets from $30
 datetime:
 - 2017-10-06 20:00:00 +11:00
+is-on-home-page: true
 has-start-time: true
 is-single-date: true
 supporters: Melbourne Festival
