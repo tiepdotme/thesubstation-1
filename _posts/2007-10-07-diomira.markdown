@@ -1,6 +1,6 @@
 ---
 title: Diomira
-date: 2007-10-07 09:00:00 +10:00
+date: 2007-10-07 08:00:00 +10:00
 categories:
 - whats-on
 image: "/uploads/diomira.jpg"
@@ -11,6 +11,7 @@ presented-by: AUSTRALIAN ART ORCHESTRA
 price: Tickets from $30
 datetime:
 - 2017-10-07 20:00:00 +11:00
+is-on-home-page: true
 has-start-time: true
 is-single-date: true
 supporters: Melbourne Festival
