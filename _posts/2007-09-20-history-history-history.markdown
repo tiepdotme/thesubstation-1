@@ -1,8 +1,8 @@
 ---
 title: History History History
-date: 2007-09-20 06:57:00 +10:00
+date: 2007-09-20 05:57:00 +10:00
 categories:
-- whats-on
+- archive
 image: "/uploads/history-history-history.jpg"
 image-credit: Paul Blakemore
 button-url: http://thesubstation.iwannaticket.com.au/event/history-history-history-MTI5NDQ
