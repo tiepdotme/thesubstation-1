@@ -1,8 +1,8 @@
 ---
 title: Plastic Loaves Makes You... Spring
-date: 2007-10-20 08:06:00 +10:00
+date: 2007-10-20 07:06:00 +10:00
 categories:
-- archive
+- whats-on
 image: "/uploads/plastic-loaves.jpg"
 button-url: http://thesubstation.iwannaticket.com.au/event/plastic-loaves-makes-you-spring-MTI5NDk
 button-txt: BUY TICKETS
