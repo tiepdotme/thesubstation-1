@@ -11,7 +11,7 @@ price:
 datetime:
 - 2017-10-30 11:00:00 +11:00
 - 2017-11-04 17:00:00 +11:00
-is-on-home-page: true
+is-on-home-page: false
 is-opening-hours-time: false
 is-within-gallery-open-time: false
 event-duration-txt: 11AM - 5PM
