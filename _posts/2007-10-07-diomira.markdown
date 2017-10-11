@@ -1,8 +1,8 @@
 ---
 title: Diomira
-date: 2007-10-07 08:00:00 +10:00
+date: 2007-10-07 07:00:00 +10:00
 categories:
-- whats-on
+- archive
 image: "/uploads/diomira.jpg"
 image-credit: Scott Morrison
 button-url: https://www.festival.melbourne/2017/events/diomira/
