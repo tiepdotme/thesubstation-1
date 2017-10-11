@@ -1,8 +1,8 @@
 ---
 title: No New Noise
-date: 2007-10-06 07:59:00 +10:00
+date: 2007-10-06 06:59:00 +10:00
 categories:
-- whats-on
+- archive
 image: "/uploads/no-new-noise.jpg"
 image-credit: ACME
 button-url: https://www.festival.melbourne/2017/events/no-new-noise/
