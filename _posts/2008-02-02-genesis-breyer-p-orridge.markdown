@@ -19,3 +19,5 @@ Legendary English singer-songwriter, musician, poet, performance, and visual art
 P-ORRIDGE rose to notability as founder of the COUM Transmissions art collective, which operated in Britain from 1969 to 1976. P-Orridge fronted the pioneering industrial band [THROBBING GRISTLE](http://www.throbbing-gristle.com/) between 1975 and 1981 and the experimental multimedia commonage PSYCHIC TV from 1981 to present. 
 
 New York based artist and percussionist EDLEY ODOWD has been collaborating with cultural luminary GENESIS BREYER P-ORRIDGE for the last 15 years as PSYCHIC TV, which GENESIS calls h/er "favourite line-up ever". ODOWD also produces and manages the band in addition to creating its graphic design visuals since the bands reactivation in 2003.
+
+Presented by The SUBSTATION in association with [ROOM 40](http://room40.org/) as part of [MIDSUMMA FESTIVAL](https://midsumma.org.au/)
