@@ -1,11 +1,12 @@
 ---
-title: 'Black Quantum Futurism: Moor Mother & Rasheedah Phillips (USA)'
+title: 'Black Quantum Futurism: Moor Mother & Rasheedah Phillips'
 date: 2008-01-25 19:00:00 +11:00
 categories:
 - whats-on
 image: "/uploads/moormother.jpg"
 button-url: http://thesubstation.iwannaticket.com.au/event/moor-mother-with-rasheedah-phillips-MTQxMzg
 button-txt: BUY TICKETS
+presented-by: " (USA)"
 price: FULL $30 / CONCESSION $20
 datetime:
 - 2018-01-25 19:00:00 +11:00
