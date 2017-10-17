@@ -1,5 +1,5 @@
 ---
-title: 'Black Quantum Futurism: Moor Mother & Rasheedah Phillips'
+title: Moor Mother & Rasheedah Phillips
 date: 2008-01-25 19:00:00 +11:00
 categories:
 - whats-on
