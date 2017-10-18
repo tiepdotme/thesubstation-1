@@ -1,10 +1,10 @@
 ---
 title: Home
 pages: 
-events: More Up A Tree
+events: Moor Mother and Rasheedah Phillips
 youtube: 
 vimeo: 
-banner-image: "/uploads/More-Up-A-Tree-Homepage-ReducedPattern.gif"
+banner-image: "/uploads/PreLaunchHomepage.gif"
 carousel-images:
 - "/uploads/The-Vietnam-Archive-Project-Untitled-Sides-03-Phuong-Ngo.jpg"
 - "/uploads/05-Phuong-Ngo-The-Vietnam-Archive-Project-Untitled-Sides.jpg"
