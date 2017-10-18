@@ -5,7 +5,7 @@ categories:
 - whats-on
 image: "/uploads/genesis.jpg"
 image-credit: Drew Weidemann
-button-url: https://thesubstation.iwannaticket.com.au/event/genesis-breyer-p-orridge-MTQxNDQ
+button-url: http://thesubstation.iwannaticket.com.au/event/genesis-breyer-p-orridge-w-edley-odowd-MTQxNDQ
 button-txt: BUY TICKETS
 presented-by: "(UK/USA)"
 price: FROM $39
