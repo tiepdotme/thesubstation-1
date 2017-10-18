@@ -1,8 +1,8 @@
 ---
 title: More Up A Tree
-date: 2007-10-12 09:05:00 +10:00
+date: 2007-10-12 08:05:00 +10:00
 categories:
-- whats-on
+- archive
 image: "/uploads/muat.jpg"
 button-url: http://thesubstation.iwannaticket.com.au/event/more-up-a-tree-MTI5NDg
 button-txt: BUY TICKETS
