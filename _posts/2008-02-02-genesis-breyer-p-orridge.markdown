@@ -11,6 +11,7 @@ presented-by: "(UK/USA)"
 price: FROM $39
 datetime:
 - 2018-02-02 20:00:00 +11:00
+is-on-home-page: true
 has-start-time: true
 supporters: Room40
 ---
