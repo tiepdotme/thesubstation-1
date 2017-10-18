@@ -1,5 +1,5 @@
 ---
-title: GENESIS BREYER P-ORRIDGE
+title: GENESIS BREYER P-ORRIDGE with EDLEY ODOWD
 date: 2008-02-02 20:00:00 +11:00
 categories:
 - whats-on
