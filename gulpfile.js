@@ -257,14 +257,32 @@ gulp.task( 'minify:css', function () {
     .pipe( plugins.connect.reload() );
 });
 
-gulp.task( 'test:css', function() {
-    gulp.src( options.css.file )
-        .pipe( plugins.plumber() )
-        .pipe( plugins.parker() )
-    gulp.src( options.css.file )
-        .pipe( plugins.plumber() )
-        .pipe( plugins.csscss() )
-});
+// FAILING NEW UNCSS PROCESS:
+// https://github.com/ben-eb/gulp-uncss
+// var postcss = require('gulp-postcss');
+// var uncss = require('postcss-uncss');
+
+// gulp.task( 'minify:css', function() {
+//   var inputs = [
+//     uncss({
+//       html: ['_site/**/*.html']
+//     })
+//   ];
+//   return gulp
+//     .src(options.css.file)
+//     .pipe(postcss(inputs))
+//     .pipe(gulp.dest(options.css.destination))
+//     .pipe(plugins.size({ title: 'styles' }));
+// });
+
+// gulp.task( 'test:css', function() {
+//     gulp.src( options.css.file )
+//         .pipe( plugins.plumber() )
+//         .pipe( plugins.parker() )
+//     gulp.src( options.css.file )
+//         .pipe( plugins.plumber() )
+//         .pipe( plugins.csscss() )
+// });
 
 
 // -------------------------------------
