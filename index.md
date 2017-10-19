@@ -1,6 +1,6 @@
 ---
 title: Home
-pages: 
+pages: What's On
 events: Moor Mother and Rasheedah Phillips
 youtube: 
 vimeo: 
