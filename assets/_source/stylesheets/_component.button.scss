@@ -116,15 +116,17 @@ $arrowSize: map-fetch($button-height, base);
 /* uncss:ignore */
 .t-button--primary {
     @include button();
-    min-width: 92%;
-    padding: space(0.25) space(0.25) space(0.25) space(0.5);
-    position: relative;
+    text-align: center;
+    padding: space(0.25) space(1);
+    width: 100%;
+    // min-width: 92%;
+    // position: relative;
 
-    &:after {
-        @include Arrow();
-        border-bottom: 59px solid transparent;
-        border-left: $arrowSize * 0.5 solid palette(text);
-    }
+    // &:after {
+    //     @include Arrow();
+    //     border-bottom: 59px solid transparent;
+    //     border-left: $arrowSize * 0.5 solid palette(text);
+    // }
 }
 
 //.t-button--secondary {
