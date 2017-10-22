@@ -8,7 +8,7 @@ image-credit: Drew Weidemann
 button-url: http://thesubstation.iwannaticket.com.au/event/genesis-breyer-p-orridge-w-edley-odowd-MTQxNDQ
 button-txt: BUY TICKETS
 presented-by: "(UK/USA)"
-price: FROM $49
+price: "$59"
 datetime:
 - 2018-02-02 20:00:00 +11:00
 is-on-home-page: true
