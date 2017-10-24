@@ -1,10 +1,10 @@
 ---
 title: Home
-pages: What's On
-events: Moor Mother and Rasheedah Phillips
+pages: 
+events: Tetsuya Umeda
 youtube: 
 vimeo: 
-banner-image: "/uploads/PreLaunchHomepage.gif"
+banner-image: "/uploads/Homepage_Tetsuya.gif"
 carousel-images:
 - "/uploads/The-Vietnam-Archive-Project-Untitled-Sides-03-Phuong-Ngo.jpg"
 - "/uploads/05-Phuong-Ngo-The-Vietnam-Archive-Project-Untitled-Sides.jpg"
