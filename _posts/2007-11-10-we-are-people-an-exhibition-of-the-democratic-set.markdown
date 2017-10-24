@@ -9,6 +9,7 @@ presented-by: BACK TO BACK THEATRE
 datetime:
 - 2017-11-10 18:30:00 +11:00
 - 2017-12-16 17:00:00 +11:00
+is-on-home-page: true
 has-opening-event: true
 is-within-gallery-open-time: true
 supporters:
