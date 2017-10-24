@@ -1,7 +1,7 @@
 ---
 title: Work with us
 position: 5
-is-visible: false
+is-visible: true
 current: true
 image: "/uploads/the-substation-work-with-us.jpg"
 button-txt: POSITION DESCRIPTION
