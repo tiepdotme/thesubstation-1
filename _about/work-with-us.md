@@ -4,10 +4,10 @@ position: 5
 is-visible: false
 current: true
 image: "/uploads/the-substation-work-with-us.jpg"
-button-txt: APPLY
-button-url: "/uploads/Casual%20Front%20Of%20House%20Staff%20Required.pdf"
+button-txt: POSITION DESCRIPTION
+button-url: "/uploads/Marketing%20Manager%20PD%20The%20SUBSTATION.pdf"
 ---
 
-The SUBSTATION is seeking skilled and motivated staff to join our casual crew for the delivery of our programmed events and private hires. All casual staff play an important role at The SUBSTATION, often being the first point of contact to visitors. There is a range of positions available, including bump In/bump Out crew, event staff, bar staff, box office and front of house staff.
+The SUBSTATION is seeking an enthusiastic and skilled Marketing Manager to join our team in a newly created role to support our program of activity and the organisation.
 
 Please read the position description with more information on how to apply. For further information contact Kali Michailidis, General Manager, 03 9391 1110, [manager(@)thesubstation.org.au](mailto:manager@thesubstation.org.au).
