@@ -25,8 +25,9 @@ sections:
     18 May 2018 towards the creation of these newly commissioned works, Plus1 will
     match the amount donated, dollar-for-dollar.  \nThe generosity of supporters who
     donate $500 or over will be acknowledged as Commissioners of the work in print
-    and on our website. \n \nTo make a donation, click to 'Donate' or to discuss your
-    donation please contact Kali Michailidis on (03) 9391 1110 or [manager(@)thesusbtation.org.au](mailto:manager@thesubstation.org.au).\n"
+    and on our website. \n \nTo make a donation, [click here](https://www.givenow.com.au/hobsonsbaycommunityartscentre),
+    or to discuss your donation please contact Kali Michailidis on (03) 9391 1110
+    or [manager(@)thesusbtation.org.au](mailto:manager@thesubstation.org.au).\n"
 - title: Our donors
   copy: |-
     The following people and organisations donated to The SUBSTATION Brick by Brick Supporters Wall. These donations were instrumental in helping to establish The SUBSTATION as an arts and culture centre.
