@@ -8,17 +8,16 @@ has-newsletter-signup: false
 list-orgs: true
 sections:
 - title: THE SUBSTATION COMMISSIONING PROGRAM
-  copy: "In 2018, The SUBSTATION will launch The SUBSTATION COMMISSIONING PROGRAM,
-    offering local independent artists the opportunity to develop, create and present
-    a significant body of work. The program provides each artist with time, space
-    and resources to develop their work, from concept to presentation over an extended
-    period and in close collaboration with The SUBSTATION.  Commissioning Program
-    Donors will be invited in to see first-hand the creative process from beginning
-    to end, through development to presentation of each new commission. \n\nAll donations
-    raised go directly to the artists to create and present the new commissions.  \n
-    \nThe selected artists all work in the spaces between traditional art forms and
-    have been invited to realise a significant new work of scale within the unique
-    architectural spaces of The SUBSTATION. \n"
+  copy: "The SUBSTATION COMMISSIONING PROGRAM offers local independent artists the
+    opportunity to develop, create and present a significant body of work. The program
+    provides each artist with time, space and resources to develop their work, from
+    concept to presentation over an extended period and in close collaboration with
+    The SUBSTATION.  Commissioning Program Donors will be invited in to see first-hand
+    the creative process from beginning to end, through development to presentation
+    of each new commission. \n\nAll donations raised go directly to the artists to
+    create and present the new commissions.  \n \nThe selected artists all work in
+    the spaces between traditional art forms and have been invited to realise a significant
+    new work of scale within the unique architectural spaces of The SUBSTATION.\n"
   list: "\n"
 - title: YOUR DONATION NOW MEANS TWICE AS MUCH
   copy: "The SUBSTATION COMMISSIONING PROGRAM is proudly supported by Creative Partnerships
