@@ -16,6 +16,8 @@ sections:
     ## Our donors
 
     The following people and organisations donated to The SUBSTATION Brick by Brick Supporters Wall. These donations were instrumental in helping to establish The SUBSTATION as an arts and culture centre.
+
+    [BRICK BY BRICK SUPPORTERS](/uploads/Brick-by-brick-supporters.pdf)
   list: |
     * Alan Davies
     * Alexandra Aldrich
