@@ -7,7 +7,7 @@ image: "/uploads/ash-keating.jpg"
 presented-by: Ash Keating
 datetime:
 - 2017-09-01 12:00:00 +10:00
-- 2017-11-04 17:00:00 +11:00
+- 2017-11-02 17:00:00 +11:00
 is-single-month-duration: false
 ---
 
