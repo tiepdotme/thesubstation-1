@@ -2,7 +2,7 @@
 title: Tetsuya Umeda
 date: 2007-10-30 10:10:00 +11:00
 categories:
-- whats-on
+- archive
 image: "/uploads/tetsuya.jpg"
 button-url: http://thesubstation.iwannaticket.com.au/event/tetsuya-umeda-MTI5NDY
 button-txt: BUY TICKETS
