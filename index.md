@@ -1,10 +1,10 @@
 ---
 title: Home
 pages: 
-events: Tetsuya Umeda
+events: We Are People – An Exhibition of The Democratic Set
 youtube: 
 vimeo: 
-banner-image: "/uploads/Homepage_Tetsuya.gif"
+banner-image: "/uploads/B2BHomepage.gif"
 carousel-images:
 - "/uploads/The-Vietnam-Archive-Project-Untitled-Sides-03-Phuong-Ngo.jpg"
 - "/uploads/05-Phuong-Ngo-The-Vietnam-Archive-Project-Untitled-Sides.jpg"
