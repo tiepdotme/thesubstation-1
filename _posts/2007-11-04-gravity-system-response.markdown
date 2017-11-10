@@ -2,7 +2,7 @@
 title: Gravity System Response
 date: 2007-11-04 06:20:00 +11:00
 categories:
-- whats-on
+- archive
 image: "/uploads/ash-keating.jpg"
 presented-by: Ash Keating
 datetime:
