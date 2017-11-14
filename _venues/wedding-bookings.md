@@ -2,7 +2,7 @@
 title: Wedding bookings
 position: 2
 current: true
-image: "/uploads/the-substation-wedding-bookings.jpg"
+image: "/uploads/Website-weddings-page.jpg"
 button-url: 
 button-txt: 
 has-javascripts: true
