@@ -11,7 +11,7 @@ has-form: true
 
 <!-- http://jekyllrb.com/docs/templates/#link -->
 
-The SUBSTATION is one of Melbourne’s most exciting and exclusive events spaces. Even though we might be exclusive, we are entirely inclusive. It doesn’t matter to us the orientation of which you want to get married, we support any marriage and have a venue that lends itself to limitless creative opportunities.  
+The SUBSTATION is one of Melbourne’s most exciting and exclusive events spaces. Even though we might be exclusive, we are entirely inclusive. We support any marriage and have a venue that lends itself to limitless creative opportunities.  
 
 We receive a large number of enquiries for weddings at our venue. The SUBSTATION presents an annual curated arts program and bookings are scheduled around this program.
 
