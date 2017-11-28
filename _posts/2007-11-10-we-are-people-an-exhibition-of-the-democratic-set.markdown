@@ -24,4 +24,6 @@ Over eight years, [BACK TO BACK THEATRE](http://backtobacktheatre.com/) has work
 
 Disturbingly obvious and tantalisingly strange, [THE DEMOCRATIC SET](http://backtobacktheatre.com/projects/democratic-set/) uses a custom-made film set and a neutral room with two opposing doors. Authoring a unique living snapshot of a community at a particular moment in time, THE DEMOCRATIC SET invites each participant to untangle what an uncensored space means to them, with each viewer surprised and seduced by the mysterious, funny, poignant and provocative sets as they pan the screen.
 
+In addition to the films on display in The SUBSTATION galleries, six images from THE DEMOCRATIC SET are also displayed on The SUBSTATION billboards, with thanks to JEFF BUSBY, who has worked with Back to Back Theatre to develop their photographic archive across time.
+
 Presented by The SUBSTATION and BACK TO BACK THEATRE.
