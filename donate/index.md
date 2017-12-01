@@ -14,10 +14,11 @@ sections:
     concept to presentation over an extended period and in close collaboration with
     The SUBSTATION.  Commissioning Program Donors will be invited in to see first-hand
     the creative process from beginning to end, through development to presentation
-    of each new commission. \n\nAll donations raised go directly to the artists to
-    create and present the new commissions.  \n \nThe selected artists all work in
-    the spaces between traditional art forms and have been invited to realise a significant
-    new work of scale within the unique architectural spaces of The SUBSTATION.\n"
+    of each new commission. \n\nAll donations are tax deductible and go directly to
+    the artists to create and present the new commissions.  \n \nThe selected artists
+    all work in the spaces between traditional art forms and have been invited to
+    realise a significant new work of scale within the unique architectural spaces
+    of The SUBSTATION.\n"
   list: "\n"
 - title: YOUR DONATION NOW MEANS TWICE AS MUCH
   copy: "The SUBSTATION COMMISSIONING PROGRAM is proudly supported by Creative Partnerships
