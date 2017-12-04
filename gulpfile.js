@@ -1,319 +1,54 @@
-// -----------------------------------------------
-//
-//   Gulpfile.
-//   Based on: https://github.com/drewbarontini/noise
-//
-// -----------------------------------------------
+var gulp = require('gulp'),
+  plumber = require('gulp-plumber'),
+  rename = require('gulp-rename');
+var autoprefixer = require('gulp-autoprefixer');
+var concat = require('gulp-concat');
+var uglify = require('gulp-uglify');
+var imagemin = require('gulp-imagemin'),
+  cache = require('gulp-cache');
+var cssnano = require('gulp-cssnano');
+var sourcemaps = require('gulp-sourcemaps');
+var sass = require('gulp-sass');
 
-// Available tasks:
-//   `gulp`
-//   `gulp build`
-//   `gulp compile:coffee`
-//   `gulp compile:sass`
-//   `gulp connect`
-//   `gulp icons`
-//   `gulp images`
-//   `gulp lint:coffee`
-//   `gulp lint:sass`
-//   `gulp minify:css`
-//   `gulp minify:js`
-//   `gulp test:css`
-//   `gulp test:js`
-
-// …run from these plugins:
-// gulp              : The streaming build system
-// gulp-autoprefixer : Prefix CSS
-// gulp-coffee       : Compile CoffeeScript files
-// gulp-coffeelint   : Lint your CoffeeScript
-// gulp-concat       : Concatenate files
-// gulp-connect      : Gulp plugin to run a webserver (with LiveReload)
-// gulp-csscss       : CSS redundancy analyzer
-// gulp-jshint       : JavaScript code quality tool
-// gulp-load-plugins : Automatically load Gulp plugins
-// gulp-minify-css   : Minify CSS
-// gulp-parker       : Stylesheet analysis tool
-// gulp-plumber      : Prevent pipe breaking from errors
-// gulp-rename       : Rename files
-// gulp-sass         : Compile Sass
-// gulp-sass-lint    : Lint Sass
-// gulp-svgmin       : Minify SVG files
-// gulp-svgstore     : Combine SVG files into one
-// gulp-uglify       : Minify JavaScript with UglifyJS
-// gulp-util         : Utility functions
-// gulp-watch        : Watch stream
-// run-sequence      : Run a series of dependent Gulp tasks in order
-
-// ToDo:
-// - linting
-// - gzip (https://github.com/jstuckey/gulp-gzip)
-// - zopfli gzip (eg. pngs) (https://github.com/romeovs/gulp-zopfli)
-
-
-var gulp    = require( 'gulp' );
-var run     = require( 'run-sequence' );
-var plugins = require( 'gulp-load-plugins' )({
-  lazy: true,
-  rename : {
-    'gulp-sass-lint'   : 'sasslint',
-    'gulp-svg-symbols' : 'svgsymbols',
-    'psi'              : 'pagespeedindex'
-  }
+gulp.task('images', function () {
+  gulp.src('src/images/**/*')
+    .pipe(cache(imagemin({ optimizationLevel: 3, progressive: true, interlaced: true })))
+    .pipe(gulp.dest('dist/images/'));
 });
 
-
-// -----------------------------------------------
-//   Options
-// -----------------------------------------------
-
-var options = {
-
-    // ---- Primary batched --- //
-
-  default : {
-    tasks : [ 'build', 'watch' ]
-  },
-
-  build : {
-    tasks : [ 'compile:sass']
-  },
-
-  production : {
-    tasks : [ 'build', 'minify:css' ]
-  },
-
-    connect : {
-        port : 9000,
-        base : 'http://localhost',
-        root : 'assets'
-    },
-
-    // ---- Alphabetical --- //
-
-  css : {
-    files       : 'assets/stylesheets/*.css',
-    file        : 'assets/stylesheets/application.css',
-    destination : 'assets/stylesheets'
-  },
-
-  fonts : {
-    files       : 'assets/_source/fonts/*.{otf,ttf,eot,woff,woff2,svg}',
-    destination : 'assets/fonts'
-  },
-
-  icons : {
-    files       : 'assets/_source/icons/ic-*.svg',
-    destination : 'assets/icons'
-  },
-
-  images : {
-    files       : 'assets/_source/images/*',
-    destination : 'assets/images'
-  },
-
-  js : {
-    files : [
-      // 'node_modules/fontfaceonload/dist/fontfaceonload.js',
-      'assets/_source/javascripts/*.js'
-    ],
-    file        : 'assets/_source/javascripts/application.js',
-        destination : 'assets/javascripts'
-  },
-
-  sass : {
-    files       : 'assets/_source/stylesheets/*.scss',
-    destination : 'assets/stylesheets/'
-  },
-
-  watch : {
-    files : function() {
-      return [
-        // options.images.files,
-        // options.js.files,
-        options.sass.files
-      ]
-    },
-    run : function() {
-      return [
-        // [ 'images' ],
-        // [ 'minify:js' ],
-        [ 'compile:sass' ]
-      ]
-    }
-  }
-}
-
-
-// -----------------------------------------------
-//   Primary tasks
-// -----------------------------------------------
-
-gulp.task( 'default', options.default.tasks );
-
-gulp.task( 'build', function() {
-  options.build.tasks.forEach( function( task ) {
-    gulp.start( task );
-  } );
-});
-
-gulp.task( 'production', options.production.tasks );
-
-gulp.task( 'connect', function() {
-    plugins.connect.server( {
-        root       : [ options.connect.root ],
-        port       : options.connect.port,
-        base       : options.connect.base,
-        livereload : true
-    } );
-});
-
-
-// -------------------------------------
-//   Font, image & icons tasks
-// -------------------------------------
-
-gulp.task( 'fonts', function() {
-  gulp.src( options.fonts.files )
-    .pipe( gulp.dest( options.fonts.destination ) )
-    .pipe( plugins.size({title: 'fonts'}) );
-});
-
-// currently broken, awaiting update:
-// https://github.com/sindresorhus/gulp-imagemin/issues/221
-gulp.task( 'images', function() {
-  gulp.src( options.images.files )
-    // .pipe( plugins.cache( plugins.imagemin({ })))
-    .pipe( plugins.imagemin({
-      progressive: true,
-      interlaced: true
+gulp.task('styles', function () {
+  gulp.src(['src/styles/**/*.scss'])
+    .pipe(plumber({
+      errorHandler: function (error) {
+        console.log(error.message);
+        this.emit('end');
+      }
     }))
-    .pipe( gulp.dest( options.images.destination ) )
-    .pipe( plugins.size({title: 'images'}) );
+    .pipe(sass())
+    .pipe(autoprefixer('last 2 versions'))
+    .pipe(gulp.dest('dist/styles/'))
+    .pipe(rename({ suffix: '.min' }))
+    .pipe(cssnano())
+    .pipe(sourcemaps.write('./'))
+    .pipe(gulp.dest('dist/styles/'))
 });
 
-// Creates SVG sprite and demo page.
-// Alt: https://github.com/Hiswe/gulp-svg-symbols & OUI
-gulp.task( 'icons', function() {
-  gulp.src( options.icons.files )
-    .pipe( plugins.svgmin() )
-    .pipe( plugins.svgstore( { inlineSvg: true } ) )
-    .pipe( gulp.dest( options.icons.destination ) );
+gulp.task('scripts', function () {
+  return gulp.src('src/scripts/**/*.js')
+    .pipe(plumber({
+      errorHandler: function (error) {
+        console.log(error.message);
+        this.emit('end');
+      }
+    }))
+    .pipe(concat('main.js'))
+    .pipe(gulp.dest('dist/scripts/'))
+    .pipe(rename({ suffix: '.min' }))
+    .pipe(uglify())
+    .pipe(gulp.dest('dist/scripts/'))
 });
 
-
-// -------------------------------------
-//   Stylesheet tasks
-// -------------------------------------
-
-gulp.task( 'compile:sass', function() {
-  gulp.src( options.sass.files )
-    .pipe( plugins.plumber() )
-    .pipe( plugins.sourcemaps.init() )
-    // .pipe( plugins.sass().on('error', sass.logError))
-    .pipe( plugins.sass( {
-      indentedSyntax: true,
-      // errLogToConsole: true
-    } ) )
-    .pipe( plugins.autoprefixer( {
-                // http://www.analog-ni.co/my-css-autoprefixer-settings-for-ie9-and-up
-                browsers: [
-                    'last 2 versions',
-                    'Explorer >= 9',
-                    'iOS >= 5',
-                    'Safari >= 5',
-                    'OperaMobile >= 11',
-                    'ChromeAndroid >= 9',
-                    'ExplorerMobile >= 9'
-                ],
-        cascade  : false
-    } ) )
-    .pipe( plugins.sourcemaps.write() )
-    .pipe( gulp.dest( options.sass.destination ) )
-    .pipe( plugins.size({title: 'styles'}) )
-    .pipe( plugins.connect.reload() );
-});
-
-gulp.task( 'lint:sass', function() {
-    gulp.src( options.sass.files )
-        .pipe( plugins.plumber() )
-        .pipe( plugins.sasslint() )
-        .pipe( plugins.sasslint.format() )
-        .pipe( plugins.sasslint.failOnError() );
-} );
-
-gulp.task( 'minify:css', function () {
-  gulp.src( options.css.file )
-    .pipe( plugins.plumber() )
-    .pipe( plugins.uncss ( {
-      // for Jekyll:
-      html: [
-        '_site/**/*.html'
-      ],
-      uncssrc: '.uncssrc'
-    } ) )
-    .pipe( plugins.cssnano( { advanced: false } ) )
-    .pipe( plugins.rename( { suffix: '.min' } ) )
-    .pipe( gulp.dest( options.css.destination ) )
-    .pipe( plugins.size({title: 'styles'}) )
-    .pipe( plugins.connect.reload() );
-});
-
-// FAILING NEW UNCSS PROCESS:
-// https://github.com/ben-eb/gulp-uncss
-// var postcss = require('gulp-postcss');
-// var uncss = require('postcss-uncss');
-
-// gulp.task( 'minify:css', function() {
-//   var inputs = [
-//     uncss({
-//       html: ['_site/**/*.html']
-//     })
-//   ];
-//   return gulp
-//     .src(options.css.file)
-//     .pipe(postcss(inputs))
-//     .pipe(gulp.dest(options.css.destination))
-//     .pipe(plugins.size({ title: 'styles' }));
-// });
-
-// gulp.task( 'test:css', function() {
-//     gulp.src( options.css.file )
-//         .pipe( plugins.plumber() )
-//         .pipe( plugins.parker() )
-//     gulp.src( options.css.file )
-//         .pipe( plugins.plumber() )
-//         .pipe( plugins.csscss() )
-// });
-
-
-// -------------------------------------
-//   Javascript tasks
-// -------------------------------------
-
-gulp.task( 'minify:js', function () {
-  gulp.src( options.js.files )
-    .pipe( plugins.plumber() )
-    .pipe( plugins.concat('application.js') )
-    .pipe( plugins.uglify() )
-    .pipe( plugins.rename( { suffix: '.min' } ) )
-    .pipe( gulp.dest( options.js.destination ) )
-    .pipe( plugins.connect.reload() );
-});
-
-gulp.task( 'test:js', function() {
-    gulp.src( options.js.file )
-        .pipe( plugins.plumber() )
-        .pipe( plugins.jshint() )
-        .pipe( plugins.jshint.reporter( 'default' ) )
-});
-
-
-// -------------------------------------
-//   Watch task
-// -------------------------------------
-
-gulp.task( 'watch', function() {
-  var watchFiles = options.watch.files();
-  watchFiles.forEach( function( files, index ) {
-    gulp.watch( files, options.watch.run()[ index ]  );
-  } );
+gulp.task('default', function () {
+  gulp.watch("src/styles/**/*.scss", ['styles']);
+  gulp.watch("src/scripts/**/*.js", ['scripts']);
 });

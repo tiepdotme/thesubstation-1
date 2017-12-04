@@ -6,7 +6,7 @@ categories:
 image: "/uploads/newport-archives-2017.jpg"
 image-credit: Suzie Blake
 button-url: mailto:info@thesubstation.org.au
-button-txt: by appointment
+button-txt: book
 presented-by: Permanent Artwork by Tamara Saulwick
 price: Free
 datetime:

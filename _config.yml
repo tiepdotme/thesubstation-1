@@ -127,9 +127,9 @@ gallery-hours: Tues–Sat, 11am–5pm
 office-hours: Tues–Fri, 9am–5pm
 events-manager: Marisa Fiume
 google-analytics: UA-79358718-1
-imageurl: "/assets/images/"
+imageurl: "/dist/images/"
 uploadurl: "/uploads/"
-javascriptsurl: "/assets/javascripts/"
+javascriptsurl: "/dist/scripts/"
 markdown: kramdown
 kramdown:
   input: GFM
