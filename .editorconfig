@@ -11,7 +11,7 @@ insert_final_newline = false
 trim_trailing_whitespace = true
 
 [*.scss]
-indent_size = 4
+indent_size = 2
 
 [*.html]
-indent_size = 4
+indent_size = 2
