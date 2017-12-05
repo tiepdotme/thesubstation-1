@@ -10,7 +10,7 @@ datetime:
 - 2017-08-30 17:00:00 +10:00
 is-on-home-page: false
 is-single-date: false
-is-list-of-dates: true
+is-list-of-dates: false
 supporters: Cryptic
 ---
 

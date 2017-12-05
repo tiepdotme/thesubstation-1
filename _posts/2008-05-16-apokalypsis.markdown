@@ -17,7 +17,7 @@ datetime:
 - 2018-05-19 19:30:00 +10:00
 - 2018-05-20 18:30:00 +10:00
 has-start-time: true
-is-list-of-dates: true
+is-list-of-dates: false
 ---
 
 Four performers. One hundred apocalypses. Sixty minutes.

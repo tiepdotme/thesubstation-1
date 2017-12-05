@@ -16,7 +16,7 @@ datetime:
 - 2018-05-12 19:30:00 +10:00
 - 2018-05-13 18:30:00 +10:00
 has-start-time: true
-is-list-of-dates: true
+is-list-of-dates: false
 ---
 
 Women of the World take over, because if you don't the world will come to an end, and we haven't got long.

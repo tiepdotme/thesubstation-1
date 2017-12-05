@@ -14,7 +14,7 @@ datetime:
 is-on-home-page: true
 has-start-time: true
 is-single-date: false
-is-list-of-dates: true
+is-list-of-dates: false
 supporters: Room40
 ---
 

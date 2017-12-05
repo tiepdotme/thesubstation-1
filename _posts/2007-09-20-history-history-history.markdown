@@ -14,7 +14,7 @@ datetime:
 - 2017-09-23 20:00:00 +10:00
 is-on-home-page: false
 has-start-time: true
-is-list-of-dates: true
+is-list-of-dates: false
 supporters:
 - Forest Fringe
 - Melbourne Fringe
