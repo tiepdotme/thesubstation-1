@@ -2,7 +2,7 @@
 title: Home
 pages: What's On
 events: 
-youtube: https://vimeo.com/245810139
+youtube: 
 vimeo: https://vimeo.com/245810139
 banner-image: "/uploads/HomepageB2B.gif"
 carousel-images:
