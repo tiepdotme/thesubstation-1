@@ -24,9 +24,7 @@ An evening of intense sonic affect to consume the body and the mind.
 
 Presented by The SUBSTATION and FOOTSCRAY COMMUNITY ARTS CENTRE in association with ROOM40 as part of the [FESTIVAL OF LIVE ART](http://fola.com.au/).
 
-THEMBI SODDELL’s LOVE SONGS is assisted by the Australian Government through the Australia Council, its arts funding and advisory body.
-
-RADICAL LISTENING WORKSHOP <br>
+**RADICAL LISTENING WORKSHOP** <br>
 SATURDAY 24 MARCH, 1PM – 5PM <br>
 NEWPORT MECHANICS HALL <br>
 13 MASON STREET NEWPORT <br>
@@ -41,3 +39,5 @@ available (iphone through to profession set ups).
 Join LAWRENCE ENGLISH for a workshop in field recording, sound documentation, manipulation and archiving around The SUBSTATION’s surrounding area. 
 
 Limited number of tickets available.
+
+THEMBI SODDELL’s LOVE SONGS is assisted by the Australian Government through the Australia Council, its arts funding and advisory body.
