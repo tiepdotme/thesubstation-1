@@ -1,6 +1,6 @@
 ---
 title: KIM MYHR - SOLO WITH PETER KNIGHT
-date: 2017-12-05 15:57:00 +11:00
+date: 2008-06-08 14:57:00 +10:00
 categories:
 - whats-on
 image: "/uploads/kim-myhr-9.jpg"
