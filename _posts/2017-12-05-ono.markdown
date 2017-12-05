@@ -5,8 +5,8 @@ categories:
 - whats-on
 image: "/uploads/ono-2018.jpg"
 image-credit: Jessica Wood
-button-url: BUY TICKETS
-button-txt: http://thesubstation.iwannaticket.com.au/event/ono-MTQzNjk
+button-url: http://thesubstation.iwannaticket.com.au/event/ono-MTQzNjk
+button-txt: BUY TICKETS
 price: TICKETS FROM $30
 datetime:
 - 2018-04-20 21:00:00 +10:00
