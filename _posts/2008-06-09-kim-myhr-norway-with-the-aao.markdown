@@ -1,6 +1,6 @@
 ---
 title: Kim Myhr with the AAO
-date: 2017-12-05 16:08:00 +11:00
+date: 2008-06-09 15:08:00 +10:00
 categories:
 - whats-on
 image: "/uploads/kim-myhr-8.jpg"
