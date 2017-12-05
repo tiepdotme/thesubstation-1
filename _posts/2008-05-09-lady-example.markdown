@@ -13,6 +13,10 @@ datetime:
 - 2018-05-13 18:30:00 +10:00
 has-start-time: true
 is-list-of-dates: false
+notes:
+  note: |-
+    MATINEE: SATURDAY 12 MAY, 4PM
+    CLOSING NIGHT: SUNDAY 13 MAY, 6.30PM
 ---
 
 Women of the World take over, because if you don't the world will come to an end, and we haven't got long.
