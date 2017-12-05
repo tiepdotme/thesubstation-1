@@ -8,7 +8,7 @@ image-credit: Lawrence English, Photo by Traianos Pakioufakis
 button-url: https://thesubstation.iwannaticket.com.au/event/cruel-optimism-MTQzNTc
 button-txt: BUY TICKETS
 presented-by: LAWRENCE ENGLISH
-price: 25
+price: "$25"
 datetime:
 - 2017-03-23 20:00:00 +11:00
 has-start-time: true
@@ -18,11 +18,12 @@ notes:
   note: RADICAL LISTENING WORKSHOP WITH LAWRENCE ENGLISH
 ---
 
-Connected by their common interest in activating the body as an ear, [LAWRENCE ENGLISH](http://www.lawrenceenglish.com/) performs his response to the current geo-political climate, [CRUEL OPTIMISM](https://lawrenceenglish.bandcamp.com/album/cruel-optimism), joined by [THEMBI SODDELL](http://thembisoddell.com/)’s new solo work LOVE SONGS. 
+Connected by their common interest in activating the body as an ear, [LAWRENCE ENGLISH](http://www.lawrenceenglish.com/) performs his response to the current geo-political climate, [CRUEL OPTIMISM](https://lawrenceenglish.bandcamp.com/album/cruel-optimism), <br>
+joined by [THEMBI SODDELL](http://thembisoddell.com/)’s new solo work LOVE SONGS. 
 
 An evening of intense sonic affect to consume the body and the mind.
 
-Presented by The SUBSTATION and FOOTSCRAY COMMUNITY ARTS CENTRE in association with ROOM40 as part of the [FESTIVAL OF LIVE ART](http://fola.com.au/).
+Presented by The SUBSTATION and FOOTSCRAY COMMUNITY ARTS CENTRE in association with [ROOM40](http://room40.org/) as part of the [FESTIVAL OF LIVE ART](http://fola.com.au/).
 
 **RADICAL LISTENING WORKSHOP** <br>
 SATURDAY 24 MARCH, 1PM – 5PM <br>
