@@ -1,6 +1,6 @@
 ---
 title: Cruel Optimism
-date: 2007-03-23 14:13:00 +11:00
+date: 2008-03-23 14:13:00 +11:00
 categories:
 - whats-on
 image: "/uploads/lawrence-english.jpg"
