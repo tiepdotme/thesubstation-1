@@ -1,6 +1,8 @@
 ---
 title: Hyphenated
 date: 2017-12-05 14:34:00 +11:00
+categories:
+- whats-on
 image: "/uploads/hyphenated.jpg"
 image-credit: Nikki Lam, Still... What is Left, 2017, HD Video
 presented-by: Curated by Phuong Ngo and Tammy Wong Hulbert
