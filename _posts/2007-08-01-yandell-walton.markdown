@@ -1,8 +1,8 @@
 ---
 title: Yandell Walton
-date: 2007-08-01 09:39:00 +10:00
+date: 2007-08-01 08:39:00 +10:00
 categories:
-- in-development
+- archive
 image: "/uploads/yandell.jpg"
 image-credit: artdocumentation.com.au
 datetime:
