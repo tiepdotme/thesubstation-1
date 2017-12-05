@@ -1,6 +1,6 @@
 ---
 title: Loyalty Does Not End With Death
-date: 2017-12-05 14:57:00 +11:00
+date: 2008-02-01 14:57:00 +11:00
 categories:
 - whats-on
 image: "/uploads/loyalty.jpg"
