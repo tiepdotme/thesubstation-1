@@ -6,10 +6,10 @@ categories:
 image: "/uploads/thembi-2018.jpg"
 presented-by: RESIDENCY
 datetime:
-- 2018-02-01 00:00:00 +11:00
+- 0001-01-31 22:39:52 +09:39
 is-single-time-duration: false
 is-single-month-duration: true
-is-many-months-duration: false
+is-many-months-duration: true
 ---
 
 Based an hour north of Glasgow, COVE PARK offers artist residencies that respond to the diversity of contemporary artistic practice of all art forms. In 2018, COVE PARK will host Australian sound artist, THEMBI SODDELL.
