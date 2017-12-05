@@ -20,4 +20,4 @@ Presented by The SUBSTATION in association with [ROOM40](http://room40.org/) as 
 
 GENESIS BREYER P-ORRIDGE’s artwork is represented by INVISIBLE-EXPORTS in New York. 
 
-P-ORRIDGE will also perform with EDLEY ODOWD on Friday 2 February, 8pm. Find the details [here.](http://thesubstation.org.au/whats-on/genesis-breyer-p-orridge/)
+P-ORRIDGE will also perform with EDLEY ODOWD on Friday 2 February,  8pm. Find the details [here.](http://thesubstation.org.au/whats-on/genesis-breyer-p-orridge/)
