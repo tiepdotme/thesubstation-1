@@ -15,8 +15,8 @@ has-start-time: true
 is-list-of-dates: false
 notes:
   note: |-
-    MATINEE: SATURDAY 12 MAY, 4PM
-    CLOSING NIGHT: SUNDAY 13 MAY, 6.30PM
+    MATINEE: SAT MAY 12, 4PM
+    CLOSING NIGHT: SUN MAY 13, 6.30PM
 ---
 
 Women of the World take over, because if you don't the world will come to an end, and we haven't got long.
