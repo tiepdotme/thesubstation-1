@@ -1,6 +1,6 @@
 ---
 title: Tracing Trancendence
-date: 2017-12-05 14:49:00 +11:00
+date: 2008-05-04 13:49:00 +10:00
 categories:
 - whats-on
 image: "/uploads/shireen.jpg"
