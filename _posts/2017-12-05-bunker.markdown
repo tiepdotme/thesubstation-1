@@ -1,0 +1,18 @@
+---
+title: Bunker
+date: 2017-12-05 15:20:00 +11:00
+categories:
+- whats-on
+image: "/uploads/bunker-2018.jpg"
+image-credit: Billy Roberts Photography
+price: TICKETS FROM $30
+datetime:
+- 2018-06-15 21:00:00 +10:00
+has-start-time: true
+---
+
+Expect the very best in techno as [BUNKER](http://bunker-music.com/) returns to The SUBSTATION for a third year to celebrate their fifth Birthday. With two international guests to be announced and support by an array of Melbourne’s best. 
+
+Presented by The SUBSTATION and BUNKER.
+
+Tickets on sale and full line up announced in April.
