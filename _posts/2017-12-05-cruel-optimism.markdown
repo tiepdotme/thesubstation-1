@@ -22,7 +22,7 @@ Connected by their common interest in activating the body as an ear, [LAWRENCE E
 
 An evening of intense sonic affect to consume the body and the mind.
 
-Presented by The SUBSTATION and FOOTSCRAY COMMUNITY ARTS CENTRE in association with ROOM40 as part of the FESTIVAL OF LIVE ART.
+Presented by The SUBSTATION and FOOTSCRAY COMMUNITY ARTS CENTRE in association with ROOM40 as part of the [FESTIVAL OF LIVE ART](http://fola.com.au/).
 
 THEMBI SODDELL’s LOVE SONGS is assisted by the Australian Government through the Australia Council, its arts funding and advisory body.
 
@@ -30,7 +30,7 @@ RADICAL LISTENING WORKSHOP <br>
 SATURDAY 24 MARCH, 1PM – 5PM <br>
 NEWPORT MECHANICS HALL <br>
 13 MASON STREET NEWPORT <br>
-TICKETS $39  [**BOOK HERE**](https://thesubstation.iwannaticket.com.au/event/radical-listening-workshop-MTQzNTg)
+TICKETS $39 <br> [**BOOK HERE**](https://thesubstation.iwannaticket.com.au/event/radical-listening-workshop-MTQzNTg)
 
 Over the past 10 years, Lawrence English has been one of the leading international voices in field recording. Working extensively across the world, from Antarctica to the Outback and the Amazon to Japan, his recordings display an utterly personal approach informed equally by technique,
 theoretical investigations and aesthetic interests.
