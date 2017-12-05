@@ -1,8 +1,8 @@
 ---
 title: Zak Pidd and Charles Purcell
-date: 2007-08-02 09:33:00 +10:00
+date: 2007-08-02 08:33:00 +10:00
 categories:
-- in-development
+- archive
 image: "/uploads/zak.jpg"
 datetime:
 - 2017-08-01 00:00:00 +10:00
