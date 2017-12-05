@@ -1,6 +1,8 @@
 ---
 title: Thembi Soddell
 date: 2017-12-06 09:32:00 +11:00
+categories:
+- in-development
 image: "/uploads/thembi-2018.jpg"
 datetime: 2018-02-01 00:00:00 +11:00
 is-single-month-duration: true
