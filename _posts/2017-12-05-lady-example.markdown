@@ -21,12 +21,12 @@ is-list-of-dates: true
 
 Women of the World take over, because if you don't the world will come to an end, and we haven't got long.
 
-From the makers of THIS IS WHAT’S HAPPENING, BLOWIN’ UP and FALLEN O’ER—LADY EXAMPLE, is a demented and exquisite stocktake of history to propose a feminine future. Let us turn to our lady examples. 
+From the makers of THIS IS WHAT’S HAPPENING, BLOWIN’ UP and FALLEN O’ER — LADY EXAMPLE, is a demented and exquisite stocktake of history to propose a feminine future. Let us turn to our lady examples. 
 
 Created and performed by ALICE DIXON, CAROLINE MEADEN and WILLIAM MCBRIDE with an ensemble of artists. 
 
-Sound by EMAH FOX. 
-Lighting by JASON CRICK. 
-Design by MATILDA WOODROOFE.
+Sound by EMAH FOX. <br>
+Lighting by JASON CRICK. <br> 
+Design by MATILDA WOODROOFE. <br>
 
 Presented by THE SUBSTATION and [NEXT WAVE](http://nextwave.org.au/). 
