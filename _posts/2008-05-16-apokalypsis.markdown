@@ -1,6 +1,6 @@
 ---
 title: Apokalypsis
-date: 2017-12-05 15:38:00 +11:00
+date: 2008-05-16 14:38:00 +10:00
 categories:
 - whats-on
 image: "/uploads/apokalypsis.jpg"
