@@ -1,9 +1,9 @@
 ---
 title: Home
 pages: 
-events: We Are People – An Exhibition of The Democratic Set
+events: 
 youtube: 
-vimeo: 
+vimeo: vimeo.com/245810139
 banner-image: "/uploads/HomepageB2B.gif"
 carousel-images:
 - "/uploads/The-Vietnam-Archive-Project-Untitled-Sides-03-Phuong-Ngo.jpg"
