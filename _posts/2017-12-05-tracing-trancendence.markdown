@@ -9,8 +9,9 @@ presented-by: Shireen Taweel
 price: FREE
 datetime:
 - 2018-05-04 18:00:00 +10:00
+- 2018-06-16 00:00:00 +10:00
 has-opening-event: true
-has-start-time: true
+has-start-time: false
 is-opening-hours-time: false
 is-within-gallery-open-time: true
 ---
