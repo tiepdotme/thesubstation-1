@@ -1,8 +1,8 @@
 ---
 title: Alisdair Macindoe
-date: 2007-07-02 09:17:00 +10:00
+date: 2007-07-02 08:17:00 +10:00
 categories:
-- in-development
+- archive
 image: "/uploads/alisdair.jpg"
 datetime:
 - 2017-07-01 00:00:00 +10:00
