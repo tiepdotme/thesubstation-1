@@ -8,7 +8,8 @@ image-credit: Lawrence English, Photo by Traianos Pakioufakis
 button-url: https://thesubstation.iwannaticket.com.au/event/cruel-optimism-MTQzNTc
 button-txt: BUY TICKETS
 presented-by: LAWRENCE ENGLISH
-price: "$25"
+price:
+- "$25"
 datetime:
 - 2017-03-23 20:00:00 +11:00
 has-start-time: true
