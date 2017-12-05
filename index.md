@@ -3,7 +3,7 @@ title: Home
 pages: What's On
 events: 
 youtube: 
-vimeo: vimeo.com/245810139
+vimeo: 245810139
 banner-image: "/uploads/HomepageB2B.gif"
 carousel-images:
 - "/uploads/The-Vietnam-Archive-Project-Untitled-Sides-03-Phuong-Ngo.jpg"
