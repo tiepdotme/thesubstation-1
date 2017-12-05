@@ -1,6 +1,6 @@
 ---
 title: Charlemagne Palestine
-date: 2017-12-05 16:14:00 +11:00
+date: 2008-06-23 15:14:00 +10:00
 categories:
 - whats-on
 image: "/uploads/charlemagne-palestine.jpg"
