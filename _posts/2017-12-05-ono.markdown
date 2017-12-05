@@ -1,0 +1,22 @@
+---
+title: ONO
+date: 2017-12-05 15:15:00 +11:00
+categories:
+- whats-on
+image: "/uploads/ono-2018.jpg"
+image-credit: Jessica Wood
+button-url: BUY TICKETS
+button-txt: http://thesubstation.iwannaticket.com.au/event/ono-MTQzNjk
+price: TICKETS FROM $30
+datetime:
+- 2018-04-20 21:00:00 +10:00
+has-start-time: true
+---
+
+Visceral and intimate, [ONO](https://www.o-n-o.com.au/) journeys toward a collective understanding of rhythm and sound in the belly of the SUBSTATION.
+
+Room, artists and audience—all form part of the storyline. 
+
+As narratives unfold, the response is both sonic and social. Part music performance, part installation—ONO presents an evening of international and local guests exploring the undercurrents of music today. 
+
+Presented by The SUBSTATION and ONO.
