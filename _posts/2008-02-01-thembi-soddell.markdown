@@ -6,7 +6,8 @@ categories:
 image: "/uploads/thembi-2018.jpg"
 presented-by: RESIDENCY
 datetime:
-- 0001-01-31 22:39:52 +09:39
+- 2018-02-01 00:00:00 +11:00
+- 2018-02-28 00:00:00 +11:00
 is-single-time-duration: false
 is-single-month-duration: true
 is-many-months-duration: true
