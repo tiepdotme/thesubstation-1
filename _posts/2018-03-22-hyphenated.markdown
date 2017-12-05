@@ -1,6 +1,6 @@
 ---
 title: Hyphenated
-date: 2017-12-05 14:34:00 +11:00
+date: 2018-03-22 14:34:00 +11:00
 categories:
 - whats-on
 image: "/uploads/hyphenated.jpg"
