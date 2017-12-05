@@ -1,5 +1,5 @@
 ---
-title: KIM MYHR - SOLO (NORWAY)
+title: KIM MYHR - SOLO WITH PETER KNIGHT
 date: 2017-12-05 15:57:00 +11:00
 categories:
 - whats-on
@@ -7,7 +7,7 @@ image: "/uploads/kim-myhr-9.jpg"
 image-credit: Orfee Schuijt
 button-url: http://thesubstation.iwannaticket.com.au/event/kim-myhr-solo-with-peter-knight-MTQzNzA
 button-txt: BUY TICKETS
-presented-by: WITH PETER KNIGHT
+presented-by: "(NORWAY)"
 price: TICKETS $30 | FRIDAY 8 JUNE AND SATURDAY 9 JUNE (COMBINED) $45
 datetime:
 - 2018-06-08 20:00:00 +10:00
