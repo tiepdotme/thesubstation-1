@@ -85,7 +85,7 @@
         </div>
 
     {% comment %}Multiple datetime in a list{% endcomment %}
-    {% elsif page.datetime.size >= 2 and page.is-list-of-datetime == true %}
+    {% elsif page.datetime.size >= 2 and page.is-list-of-dates == true %}
         <div class="c-post-meta">
             <span>Dates:</span>
 
@@ -119,7 +119,7 @@
         </div>
 
     {% comment %}Between datetime{% endcomment %}
-    {% elsif page.datetime.size == 2 %}
+    {% elsif page.datetime.size >= 2 %}
         <div class="c-post-meta {% if page.is-single-info-block %} c-post-meta--single{% endif %}">
             <span>Program runs:</span>
             {% if page.is-single-month-duration == true %}
