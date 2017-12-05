@@ -14,7 +14,7 @@ has-start-time: true
 is-single-date: true
 ---
 
-HOLY TRINITY ANGLICAN CHURCH
+HOLY TRINITY ANGLICAN CHURCH <br>
 2 PASCO STREET, WILLIAMSTOWN
 
 [CHARLEMAGNE PALESTINE](https://www.theguardian.com/music/2010/mar/04/charlemagne-palestine-carillon-bells) is a critically acclaimed artist exploring the transcendent potentials of music. Working across questions of resonance and duration, [PALESTINE](https://www.youtube.com/watch?v=bulibjyaQ0s&t=1247s)’s works for piano, organ, carillon and voice are defining moments in the 20th and 21st Century, exploring states of trace realised through music.
