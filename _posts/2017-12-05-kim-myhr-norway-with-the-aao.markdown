@@ -1,5 +1,5 @@
 ---
-title: Kim Myhr (Norway) with the AAO
+title: Kim Myhr with the AAO
 date: 2017-12-05 16:08:00 +11:00
 categories:
 - whats-on
