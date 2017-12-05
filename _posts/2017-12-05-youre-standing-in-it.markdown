@@ -2,7 +2,7 @@
 title: You're Standing in it
 date: 2017-12-05 15:33:00 +11:00
 categories:
-- whats on
+- whats-on
 image: "/uploads/amanda.jpg"
 image-credit: Amanda Carr
 presented-by: AMANDA CARR
