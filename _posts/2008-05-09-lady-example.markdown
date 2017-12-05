@@ -1,6 +1,6 @@
 ---
 title: Lady Example
-date: 2017-12-05 15:51:00 +11:00
+date: 2008-05-09 14:51:00 +10:00
 categories:
 - whats-on
 image: "/uploads/lady-example-2018.jpg"
