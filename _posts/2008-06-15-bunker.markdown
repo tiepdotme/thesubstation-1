@@ -1,6 +1,6 @@
 ---
 title: Bunker
-date: 2008-06-15 14:20:00 +10:00
+date: 2008-06-15 13:20:00 +10:00
 categories:
 - whats-on
 image: "/uploads/bunker-2018.jpg"
@@ -9,6 +9,8 @@ price: TICKETS FROM $30
 datetime:
 - 2018-06-15 21:00:00 +10:00
 has-start-time: true
+supporters:
+- Bunker
 ---
 
 Expect the very best in techno as [BUNKER](http://bunker-music.com/) returns to The SUBSTATION for a third year to celebrate their fifth Birthday. 
