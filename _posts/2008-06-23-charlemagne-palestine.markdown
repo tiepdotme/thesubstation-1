@@ -1,6 +1,6 @@
 ---
 title: Charlemagne Palestine
-date: 2008-06-23 15:14:00 +10:00
+date: 2008-06-23 14:14:00 +10:00
 categories:
 - whats-on
 image: "/uploads/charlemagne-palestine.jpg"
@@ -12,6 +12,8 @@ datetime:
 - 2018-06-23 19:00:00 +10:00
 has-start-time: true
 is-single-date: true
+supporters:
+- Room40
 ---
 
 HOLY TRINITY ANGLICAN CHURCH <br>
