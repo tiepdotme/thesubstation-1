@@ -15,7 +15,9 @@ is-on-home-page: true
 has-start-time: true
 notes:
   note: 18+
-supporters: Room40
+supporters:
+- Room40
+- Australia Council of Arts
 ---
 
 Legendary English singer-songwriter, musician, poet, performance, and visual artist [GENESIS BREYER P-ORRIDGE](https://www.facebook.com/Genesis-BREYER-P-ORRIDGE-171735929627691/) performs live on stage with EDLEY ODOWD, who together tour as [PSYCHIC TV](https://www.facebook.com/psychictvptv3/). 
