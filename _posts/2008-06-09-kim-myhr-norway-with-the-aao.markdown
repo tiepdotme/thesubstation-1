@@ -1,6 +1,6 @@
 ---
 title: Kim Myhr with the AAO
-date: 2008-06-09 14:08:00 +10:00
+date: 2008-06-09 13:08:00 +10:00
 categories:
 - whats-on
 image: "/uploads/kim-myhr-8.jpg"
@@ -15,6 +15,8 @@ has-start-time: true
 is-single-date: true
 supporters:
 - Melbourne International Jazz Festival
+- Australia Council of Arts
+- Hobsons Bay City Council
 ---
 
 Leading light on the Norwegian experimental scene, [KIM MYHR](http://www.kimmyhr.com/), performs in the world premiere of a new piece created especially for the shape-shifting 10-piece, the [AUSTRALIAN ART ORCHESTRA](http://www.aao.com.au/). Tailored to the group’s ability to traverse acoustic and electronic textures, MYHR weaves a complex interplay of rhythmic pulses, visceral texture and near psychedelic harmonic density.
