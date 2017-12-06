@@ -1,6 +1,6 @@
 ---
 title: ONO
-date: 2008-04-20 14:15:00 +10:00
+date: 2008-04-20 13:15:00 +10:00
 categories:
 - whats-on
 image: "/uploads/ono-2018.jpg"
@@ -11,6 +11,8 @@ price: TICKETS FROM $30
 datetime:
 - 2018-04-20 21:00:00 +10:00
 has-start-time: true
+supporters:
+- ONO
 ---
 
 Visceral and intimate, [ONO](https://www.o-n-o.com.au/) journeys toward a collective understanding of rhythm and sound in the belly of the SUBSTATION.
