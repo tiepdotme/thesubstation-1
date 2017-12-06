@@ -14,6 +14,8 @@ is-on-home-page: true
 has-opening-event: true
 is-within-gallery-open-time: true
 supporters:
+- Room40
+- Midsumma Festival
 - Australia Council of Arts
 ---
 
