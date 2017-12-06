@@ -1,6 +1,6 @@
 ---
 title: Tracing Trancendence
-date: 2008-05-04 13:49:00 +10:00
+date: 2008-05-04 12:49:00 +10:00
 categories:
 - whats-on
 image: "/uploads/shireen.jpg"
@@ -14,6 +14,9 @@ has-opening-event: true
 has-start-time: false
 is-opening-hours-time: false
 is-within-gallery-open-time: true
+supporters:
+- Australia Council of Arts
+- Hobsons Bay City Council
 ---
 
 A meditation on the distance between deserts and the worn tracks on the road to prayer — TRACING TRANSCENDENCE treads a path towards encountering the spiritual and sacred, ritual and remote.
