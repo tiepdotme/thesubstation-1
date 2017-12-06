@@ -1,6 +1,6 @@
 ---
 title: Newport Archives
-date: 2007-12-31 12:56:00 +11:00
+date: 2008-12-31 12:56:00 +11:00
 categories:
 - whats-on
 image: "/uploads/newport-archives-2017.jpg"
@@ -11,7 +11,7 @@ presented-by: Permanent Artwork by Tamara Saulwick
 price: Free
 datetime:
 - 2017-01-10 11:00:00 +11:00
-- 2017-12-16 11:00:00 +11:00
+- 2018-12-15 11:00:00 +11:00
 has-start-time: false
 is-many-months-duration: true
 is-within-gallery-open-time: true
