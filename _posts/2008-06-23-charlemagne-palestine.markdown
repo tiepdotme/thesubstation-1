@@ -1,6 +1,6 @@
 ---
 title: Charlemagne Palestine
-date: 2008-06-23 14:14:00 +10:00
+date: 2008-06-23 13:14:00 +10:00
 categories:
 - whats-on
 image: "/uploads/charlemagne-palestine.jpg"
@@ -14,6 +14,7 @@ has-start-time: true
 is-single-date: true
 supporters:
 - Room40
+- Australia Council of Arts
 ---
 
 HOLY TRINITY ANGLICAN CHURCH <br>
