@@ -11,6 +11,8 @@ datetime:
 is-single-time-duration: false
 is-single-month-duration: true
 is-many-months-duration: true
+supporters:
+- Cryptic
 ---
 
 Based an hour north of Glasgow, COVE PARK offers artist residencies that respond to the diversity of contemporary artistic practice of all art forms. In 2018, COVE PARK will host Australian sound artist, THEMBI SODDELL.
