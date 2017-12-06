@@ -12,7 +12,9 @@ datetime:
 - 2018-01-25 19:00:00 +11:00
 is-on-home-page: true
 has-start-time: true
-supporters: Liquid Architecture
+supporters:
+- Liquid Architecture
+- Still Nomads
 ---
 
 The radical Philadelphia-based collaboration BLACK QUANTUM FUTURISM, consisting of musician and poet, CAMAE AYEWA aka [MOOR MOTHER](https://moormothergoddess.bandcamp.com/) and writer and activist [RASHEEDAH PHILLIPS](http://www.afrofuturistaffair.com/creative-rasheedah-phillips) perform for the first time in Australia. 
