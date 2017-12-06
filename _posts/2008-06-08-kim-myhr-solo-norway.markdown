@@ -1,6 +1,6 @@
 ---
 title: KIM MYHR - SOLO WITH PETER KNIGHT
-date: 2008-06-08 13:57:00 +10:00
+date: 2008-06-08 12:57:00 +10:00
 categories:
 - whats-on
 image: "/uploads/kim-myhr-9.jpg"
@@ -15,6 +15,8 @@ has-start-time: true
 is-single-date: true
 supporters:
 - Melbourne International Jazz Festival
+- Australia Council of Arts
+- Hobsons Bay City Council
 ---
 
 One of the world’s most distinctive guitarists, [KIM MYHR](http://www.kimmyhr.com/)’s sound has been described as somewhere between American folk strumming and 60s avant-garde orchestral soundmass. For the first time in Australia, KIM MYHR performs redefining solo works for the 12 string guitar. 
