@@ -13,6 +13,8 @@ datetime:
 is-on-home-page: true
 has-opening-event: true
 is-within-gallery-open-time: true
+supporters:
+- Australia Council of Arts
 ---
 
 Working across art forms, [GENESIS BREYER P-ORRIDGE](https://www.facebook.com/Genesis-BREYER-P-ORRIDGE-171735929627691/) has exhibited in hundreds of exhibitions world-wide over the past 46 years, including the recent retrospectives at the Andy Warhol Museum and the Rubin Museum of Art. The SUBSTATION will bring together a collection of P-ORRODGE’s work for the first time in Australia, curated by LAWRENCE ENGLISH. 
