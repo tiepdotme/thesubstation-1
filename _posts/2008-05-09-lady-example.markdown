@@ -1,6 +1,6 @@
 ---
 title: Lady Example
-date: 2008-05-09 13:51:00 +10:00
+date: 2008-05-09 12:51:00 +10:00
 categories:
 - whats-on
 image: "/uploads/lady-example-2018.jpg"
@@ -17,6 +17,12 @@ notes:
   note: |-
     MATINEE: SAT MAY 12, 4PM
     CLOSING NIGHT: SUN MAY 13, 6.30PM
+supporters:
+- Next Wave
+- Vitalstatistix
+- City of Melbourne
+- Creative Victoria
+- Australia Council of Arts
 ---
 
 Women of the World take over, because if you don't the world will come to an end, and we haven't got long.
