@@ -13,6 +13,8 @@ datetime:
 has-opening-event: true
 has-start-time: false
 is-within-gallery-open-time: true
+supporters:
+- Australia Council of Arts
 ---
 
 Colonial constructs of Australian identity have politically and culturally distanced Australia from its geographical neighbours. Despite this, and in the face of the immigration restriction act, the Asian communities have had a long and significant history of contributing to Australia. 
