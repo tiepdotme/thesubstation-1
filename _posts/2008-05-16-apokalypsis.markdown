@@ -1,6 +1,6 @@
 ---
 title: Apokalypsis
-date: 2008-05-16 12:38:00 +10:00
+date: 2008-05-16 11:38:00 +10:00
 categories:
 - whats-on
 image: "/uploads/apokalypsis.jpg"
@@ -20,6 +20,7 @@ notes:
     CLOSING NIGHT: SUN MAY 13, 6.30PM
 supporters:
 - Next Wave
+- Australia Council of Arts
 ---
 
 Four performers. One hundred apocalypses. Sixty minutes.
