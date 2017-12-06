@@ -17,6 +17,7 @@ notes:
   note: 18+
 supporters:
 - Room40
+- Midsumma Festival
 - Australia Council of Arts
 ---
 
