@@ -1,0 +1,1614 @@
+---
+time: 1512530803
+inventory:
+  sitemap.xml:
+    sha: df15a847243e53965c4f1827449db0ba0b7d0838
+    time: 1512530803
+  whats-on/tracing-trancendence/index.html:
+    sha: e0e28e509979c5568d6fbfe30fc6a6687ebb52ba
+    time: 1512530803
+  whats-on/ono/index.html:
+    sha: 6f5c1541f5111ac37bc72a429adea6f1b32052d2
+    time: 1512530803
+  whats-on/newport-archives/index.html:
+    sha: 93aa71bcffc706c4355187f17963add261d8bd55
+    time: 1512530803
+  whats-on/charlemagne-palestine/index.html:
+    sha: d9e478866db49951a7ea8b87e83be132761a8d91
+    time: 1512530803
+  whats-on/we-are-people-an-exhibition-of-the-democratic-set/index.html:
+    sha: 904f9a0e4df3f99ccdf78378f31b56c1de6a7449
+    time: 1512530803
+  whats-on/kim-myhr-norway-with-the-aao/index.html:
+    sha: 176fea0c56f487a7b9c0b19f44144cdadf4fe6e4
+    time: 1512530803
+  whats-on/cruel-optimism/index.html:
+    sha: 5fc686994775bbdd4b6fc7270ddfcff9eee57c45
+    time: 1512530803
+  whats-on/apokalypsis/index.html:
+    sha: 532529d741b8570c8abbddc48bcec53ea93ec17d
+    time: 1512530803
+  whats-on/moor-mother-and-rasheedah-phillips/index.html:
+    sha: 1e1e778171d1ea13bef201c20da125aacb38afa5
+    time: 1512530803
+  whats-on/kim-myhr-solo-norway/index.html:
+    sha: 87bdae81938254fa53fa49af97ce94b6bb79ca73
+    time: 1512530803
+  whats-on/loyalty-does-not-end-with-death/index.html:
+    sha: ec4739a5516b4f95d554bdb4477277a4d7f6e51f
+    time: 1512530803
+  whats-on/genesis-breyer-p-orridge/index.html:
+    sha: a05f1b1cb30514a217f225fcbc714d2f845fdcde
+    time: 1512530803
+  whats-on/index.html:
+    sha: d4b20aaaeb0827308f38bf2a20a02b28e4e7437e
+    time: 1512530803
+  whats-on/youre-standing-in-it/index.html:
+    sha: 42ac1c8d46f81144791b0eadf374f27eb8172a07
+    time: 1512530803
+  whats-on/hyphenated/index.html:
+    sha: 68ff3a114baf6c110467790ee0eb838a008d76b3
+    time: 1512530803
+  whats-on/lady-example/index.html:
+    sha: 3254644a4b026e6619fe2354a5dbd6133eb0f450
+    time: 1512530803
+  whats-on/bunker/index.html:
+    sha: 37dbd11428b15a32bdae39b34f238e5c1a94a67a
+    time: 1512530803
+  CNAME:
+    sha: ceee7d82ca7c7576698deaa34f97d0fab0ba27e5
+    time: 1512530803
+  dist/styles/application.min.css:
+    sha: a097dbbd3c7cbc127e1604fcb03da07f7fc97c6e
+    time: 1512530803
+  dist/styles/application.css:
+    sha: 46fe73aef28b73327da429512f27ec7fb0656392
+    time: 1512530803
+  dist/fonts/FoundersGrotesk-Regular.woff:
+    sha: a303fc63a57655d69f5a0f48504b801a37219e32
+    time: 1512530803
+  dist/fonts/FoundersGrotesk-MediumItalic.woff:
+    sha: 3aba8a2bce8e911e680053998ef9cdc68f2c4e7c
+    time: 1512530803
+  dist/fonts/FoundersGrotesk-Medium.woff:
+    sha: 8f81f0566c4407e0b1c1b11b04f4932b02d3a288
+    time: 1512530803
+  dist/fonts/FoundersGrotesk-Semibold.woff:
+    sha: 075e5d36d73d6fa8e155d044bd9ee02fc9b6f97a
+    time: 1512530803
+  dist/fonts/FoundersGrotesk-RegularItalic.woff:
+    sha: d4ece15bfce002b92be546abc339f825190ca5de
+    time: 1512530803
+  dist/fonts/FoundersGrotesk-Regular.ttf:
+    sha: 284873ffd7842df0ea024fa40bec37087d246f3f
+    time: 1512530803
+  dist/fonts/FoundersGrotesk-RegularItalic.ttf:
+    sha: 26c61f29d8c9b72e9369bff0bb900704ee3b22e1
+    time: 1512530803
+  dist/fonts/FoundersGrotesk-Medium.ttf:
+    sha: fe508efd0c3468451afbf1a2ec41c68bca4f9311
+    time: 1512530803
+  dist/fonts/FoundersGrotesk-Semibold.ttf:
+    sha: 5bb36af91b66cd2d178cd102e89e32a3b3bf8f3a
+    time: 1512530803
+  dist/fonts/FoundersGrotesk-MediumItalic.ttf:
+    sha: ef2c0197e7ccae60b051ee83f6b224b183eda599
+    time: 1512530803
+  dist/images/logo.png:
+    sha: c51b6334689a62f68f471c5dce8bcebff9de0bd7
+    time: 1512530803
+  dist/scripts/component.affix.js:
+    sha: 2c5d5d64585ac486fb32cf4376a6d6a2338b81c8
+    time: 1512530803
+  dist/scripts/main.min.js:
+    sha: 8e8d524eb4020dea704526a42de4f900959d7cc4
+    time: 1512530803
+  dist/scripts/main.js:
+    sha: a56b7b5ca14a7a2661543a9ebafe1c11afc7b51f
+    time: 1512530803
+  dist/scripts/component.formspreeinline.js:
+    sha: c03109ce2369f7fffa83b99c3deefee6fd81dced
+    time: 1512530803
+  404.html:
+    sha: d0b4354700f57f893aeacb327529ffafefbb7f99
+    time: 1512530803
+  archive/melbourne-fringe-open-call/index.html:
+    sha: e7947e5b685d75b12bb3090e1e75693e4dac2607
+    time: 1512530803
+  archive/the-art-of-work/index.html:
+    sha: b060e5457d9fae67016c8526ab89d6b5db7ef5e0
+    time: 1512530803
+  archive/compelling-stories-intervening-in-public-places/index.html:
+    sha: 0630ba99dee45888f621d6a6644bb06942dd8eb9
+    time: 1512530803
+  archive/signal/index.html:
+    sha: 433a8c192d966d267e76934531b791f7dadb2497
+    time: 1512530803
+  archive/inland-concert-series-dry-land-ecology/index.html:
+    sha: 15362207b7e15b273c02dcf716bc8de563614241
+    time: 1512530803
+  archive/diomira/index.html:
+    sha: a26af3c86f65d2f90a15a8d09c8652531597f175
+    time: 1512530803
+  archive/ono/index.html:
+    sha: 133ae4c28eeacb6e121ce1a925b7ad09c0db8a11
+    time: 1512530803
+  archive/thembi-soddell/index.html:
+    sha: 1c65e546c664e6bc060457e42f302ee6183f1957
+    time: 1512530803
+  archive/fluorophone/index.html:
+    sha: 4bf8726a2482954550796eb814ca266e8b4ccb6f
+    time: 1512530803
+  archive/the-cell/index.html:
+    sha: 42533a652322ea865c7c6373e042c8f987d7602b
+    time: 1512530803
+  archive/tresor-25-years/index.html:
+    sha: d0bd8779651208d3d7b14b6afc9e4fd84463edd0
+    time: 1512530803
+  archive/100-years-zine/index.html:
+    sha: a7193d56dbcbaacce19b5fe4870d3a7ff60ada9c
+    time: 1512530803
+  archive/newport-archives/index.html:
+    sha: d4f75cd2c14d65e0449adcfaceb63658a0c920c8
+    time: 1512530803
+  archive/natalie-abbott/index.html:
+    sha: d5ae806d7c213a8208a58d1fa0e8d80bb823264d
+    time: 1512530803
+  archive/alice-dixon-william-mcbride-and-caroline-meaden/index.html:
+    sha: 21694903fab4aeae6586b5dbfccdd5f21b7260ba
+    time: 1512530803
+  archive/psychic-dirt/index.html:
+    sha: 33c36a639bc23ce424d0ef67f751838d4209436e
+    time: 1512530803
+  archive/xiu-xiu-plays-the-music-of-twin-peaks/index.html:
+    sha: 662d0fe6a5ce16a980efa6bfa625054a92c8c355
+    time: 1512530803
+  archive/zak-pidd-and-charles-purcell/index.html:
+    sha: 62da3c3592c8be64ff46d884d72bec8e7e38b715
+    time: 1512530803
+  archive/portable-container-art-voyages-in-public-places/index.html:
+    sha: 423f3fc1f238b9f0e986d7dace177428efe95922
+    time: 1512530803
+  archive/motorgenic/index.html:
+    sha: db6aa52e03c7b57dd189de6e694df834a1d3f61b
+    time: 1512530803
+  archive/flyway/index.html:
+    sha: 7300f9f327979ae11213f08d93d4dfed4870997d
+    time: 1512530803
+  archive/yandell-walton/index.html:
+    sha: 379657d5da8365904e33f1053db5c703a1dda505
+    time: 1512530803
+  archive/one-step-at-a-time-like-this/index.html:
+    sha: ec2ece9f0308d3d15042bc9ad1ab3a5134eec634
+    time: 1512530803
+  archive/alisdair-macindoe/index.html:
+    sha: ceb35b3647a682bf2fb746e10b6c3c941eb0f820
+    time: 1512530803
+  archive/history-history-history/index.html:
+    sha: 100a0412b677cee111cd4935aebeb7668ad62b88
+    time: 1512530803
+  archive/antony-hamilton-projects/index.html:
+    sha: 1e52494a44492814368dbd7783b1c8cb0ebe87b6
+    time: 1512530803
+  archive/vietnam-archive-project/index.html:
+    sha: 1a8a3daf91856f86ab182b4417504ce2f75d6d87
+    time: 1512530803
+  archive/more-up-a-tree/index.html:
+    sha: 254d09864f072430b56279aab63f41e7720edcc4
+    time: 1512530803
+  archive/pose-like-this/index.html:
+    sha: 752377394443a3dc36b21927e657d964da0a1cee
+    time: 1512530803
+  archive/if______was______/index.html:
+    sha: 269922bf45c55d158e8ed2306f0f56fd1fc7287a
+    time: 1512530803
+  archive/the-megaphone-project/index.html:
+    sha: 5afdc7d81db5c8d9bb9a315e60823c877974d8fc
+    time: 1512530803
+  archive/the-long-string-instrument/index.html:
+    sha: f6c57a8539a33b85f4a58dc74c840b7fc56b1a40
+    time: 1512530803
+  archive/future-tense/index.html:
+    sha: 66da4533b860e98ab2fc9083b35ad285d4339034
+    time: 1512530803
+  archive/multimodal/index.html:
+    sha: 2dbcb46e42a660e45cc482a22205302eee805993
+    time: 1512530803
+  archive/no-new-noise/index.html:
+    sha: 07be2bcaba11c909e9f236b9fdf6753b7cff8790
+    time: 1512530803
+  archive/channels/index.html:
+    sha: 94511c9ec6e3ebebfef622e552be9f5c1e128e61
+    time: 1512530803
+  archive/margie-medlin/index.html:
+    sha: 0dc7722efdeb2a8b743376eac7dc5e7338f12e25
+    time: 1512530803
+  archive/rooms-with-a-view/index.html:
+    sha: f68ab68f0268386fa952044f1081aa7e04f42395
+    time: 1512530803
+  archive/banjos-boots-and-beyonce/index.html:
+    sha: ba71b4b651dc307a4a4c4a863827e57dfd9553e4
+    time: 1512530803
+  archive/gail-priest/index.html:
+    sha: 9003d2dd7c89d34d0727fb3684cec158df45dbd4
+    time: 1512530803
+  archive/substation-contemporary-art-prize-2016/index.html:
+    sha: '09e2d98906286978832828b617bfd81629cb7832'
+    time: 1512530803
+  archive/emma-collard/index.html:
+    sha: 6ac56d949091b25c8934c20750257a85dcf6c182
+    time: 1512530803
+  archive/fotografien/index.html:
+    sha: d0b11a692d2dcf86947e342b744c8989be3bff93
+    time: 1512530803
+  archive/the-ghost-project/index.html:
+    sha: 25ebfcffe732f4e3d96781a3edc87efff24d73db
+    time: 1512530803
+  archive/xfrmr-mess-live/index.html:
+    sha: 65573eee5d5fd1ab1011201e8a1e0f2e382b337c
+    time: 1512530803
+  archive/tetsuya-umeda/index.html:
+    sha: 9db23a1451c789f21360971f100bd3058b4ea5b5
+    time: 1512530803
+  archive/cain-and-abel/index.html:
+    sha: d40bb4e6cb6a6f9756243186bb974606d6d9d725
+    time: 1512530803
+  archive/100-years/index.html:
+    sha: 932a109c7ab28658747eaba24cbe7e61257469e4
+    time: 1512530803
+  archive/two-parts-of-easy-action/index.html:
+    sha: 0071bf55d1a7924b4829c8104e0674f844aaa0d1
+    time: 1512530803
+  archive/blowin-up/index.html:
+    sha: bf653ff47d0382abe10da481aaa0d3eb3129529b
+    time: 1512530803
+  archive/plastic-loaves-makes-you-wet/index.html:
+    sha: 9b0c27c2b25d97759c176c1744e5b1541945aa83
+    time: 1512530803
+  archive/the-tribe/index.html:
+    sha: dd48f0c37816c64d4de0848550a7090266df774f
+    time: 1512530803
+  archive/robin-fox/index.html:
+    sha: 3b992b3a01bb840ab78f860ecd5ccc683de456a9
+    time: 1512530803
+  archive/screen-as-a-room/index.html:
+    sha: 5fea7b5bb5d6fdcd326a44ccb2215153760b8072
+    time: 1512530803
+  archive/index.html:
+    sha: d57c3c6c2fa446af41091471a394fb6abbd03b67
+    time: 1512530803
+  archive/pushed/index.html:
+    sha: 489bf15c74879db7acee7a2dd43e94e1abe7637a
+    time: 1512530803
+  archive/c-a-v-e-s-off-site/index.html:
+    sha: 631896e1eeffcc48742e0d4a02568a726bee4147
+    time: 1512530803
+  archive/plastic-loaves-makes-you-spring/index.html:
+    sha: f17cf647754db8dd6095ccfe6754899c47f16e98
+    time: 1512530803
+  archive/exchange-lab/index.html:
+    sha: 0442e4dcbbf0f2059774f9bfd85f333408e64247
+    time: 1512530803
+  archive/gravity-system-response/index.html:
+    sha: 6f0a65a96bfdbb2ae12abaf5efc03a7ec2e13e29
+    time: 1512530803
+  archive/noir-trail/index.html:
+    sha: cd87ae24522b94197c6433dc1230e7439914ff5b
+    time: 1512530803
+  archive/lady-example/index.html:
+    sha: 6fc3e612f516367af590e363ee1fe8dcd9b53c57
+    time: 1512530803
+  archive/conflicted-works-from-the-vietnam-archive-project/index.html:
+    sha: bef618bbd8a87ce3d4f4b83d03b50a4c8a0afa17
+    time: 1512530803
+  archive/bunker/index.html:
+    sha: 22dece5a2e0aa68a4625e9dfcb0e6c36e9815adb
+    time: 1512530803
+  venues/main-space/index.html:
+    sha: c595313a8c3808c1aaa412fce182856f4fbfbe68
+    time: 1512530803
+  venues/community-bookings/index.html:
+    sha: 71a73c351cd7690096e1fec2be5dea0146485a12
+    time: 1512530803
+  venues/wedding-bookings/index.html:
+    sha: 409c8bb704f0e6ccb5572d0f484b6d0a8973274a
+    time: 1512530803
+  venues/studio/index.html:
+    sha: bd7964eaf37ceb719ac7559e7c6cad266520c558
+    time: 1512530803
+  venues/index.html:
+    sha: 1b2844d64bc79a5864b4eba774e21bd0981a9700
+    time: 1512530803
+  venues/corporate-bookings/index.html:
+    sha: 4bf20410f1124e042e24bb38040f57bb095633b8
+    time: 1512530803
+  venues/gallery/index.html:
+    sha: 7e3e676e000f4bc90a76d23ea5f15baac00e2de1
+    time: 1512530803
+  residents/amanda-carr/index.html:
+    sha: 55b27bdefa038e1ae58999469dec5434fe2fa9fc
+    time: 1512530803
+  residents/emma-collard/index.html:
+    sha: 2f84024f696c2e802f86b2db1fd864f8d456594f
+    time: 1512530803
+  residents/index.html:
+    sha: 43581302395923d15ca885c5e8cb2ba1360f02fb
+    time: 1512530803
+  residents/plastic-loaves/index.html:
+    sha: 7e0886bb8cf2a48addd4843dd08c3dc2b14e9112
+    time: 1512530803
+  residents/the-rabble/index.html:
+    sha: 1e4ac61c3b7dcee6d12aec3a367fdefaa346517b
+    time: 1512530803
+  about/what-we-do/index.html:
+    sha: 81701d0e1e76a0e146fd2cfb0c6c2865494cbbc8
+    time: 1512530803
+  about/getting-here/index.html:
+    sha: 740bea576588e61f23ddda911634ead3f57b970e
+    time: 1512530803
+  about/work-with-us/index.html:
+    sha: 69952e9ba183021455d2eda3f628ece9bf3fdcb0
+    time: 1512530803
+  about/staff-and-board/index.html:
+    sha: 5cd3c2295b18c5d29559e5490c806cd496e6ed41
+    time: 1512530803
+  about/history/index.html:
+    sha: e00767faebe2427388b75444eb839ffeed474137
+    time: 1512530803
+  about/index.html:
+    sha: 543fc8174ee8684008a506228619fa9f18fec96e
+    time: 1512530803
+  about/volunteer/index.html:
+    sha: 553c7a2ffcbdece2e6d73170b81ce0da9819ff5b
+    time: 1512530803
+  in-development/linda-tegg/index.html:
+    sha: 9d014deac195ded0e4254d761b4763849f0399c9
+    time: 1512530803
+  in-development/thembi-soddell/index.html:
+    sha: 3c2d1cc1640e846af75acd7bffb60187faf389ff
+    time: 1512530803
+  in-development/claire-edwardes-and-richard-cilli/index.html:
+    sha: 72c5defa424515f274672d5a5863ebfb526127cd
+    time: 1512530803
+  in-development/index.html:
+    sha: c81022722632b6636deca1e9d0b983d6b16be150
+    time: 1512530803
+  in-development/the-rabble/index.html:
+    sha: 54f4be112bca9b48f68eb242cf2e37ffd0c0dd9f
+    time: 1512530803
+  src/lib/crypto-js/index.js:
+    sha: c93556a71598fddb82ab62ed06c5d51e44cdb1de
+    time: 1512530803
+  src/lib/crypto-js/sha384.js:
+    sha: a0b95bf6328b2dae9d44554f35dfce7c82d57407
+    time: 1512530803
+  src/lib/crypto-js/enc-hex.js:
+    sha: 88161ff5f629c5b7a14598614c4e9df7a677e4f8
+    time: 1512530803
+  src/lib/crypto-js/format-hex.js:
+    sha: 2e9a861f0cbaedcdc97a65034acb7ae590cd70e3
+    time: 1512530803
+  src/lib/crypto-js/pad-iso10126.js:
+    sha: 6e2aefd8394228ed4573b4294ff7f7a6a65649f1
+    time: 1512530803
+  src/lib/crypto-js/rabbit-legacy.js:
+    sha: e118b6b6a28b3ddc6d1547e42f16f8f34715e486
+    time: 1512530803
+  src/lib/crypto-js/pad-iso97971.js:
+    sha: 41049b45fc335ce11af619c9af5622fc5cda4621
+    time: 1512530803
+  src/lib/crypto-js/sha512.js:
+    sha: 335931585567e61d38c9fd4e1dfa96d3008051e1
+    time: 1512530803
+  src/lib/crypto-js/enc-utf16.js:
+    sha: 7de62457a52e57f3cf3dc53db0023764bc522920
+    time: 1512530803
+  src/lib/crypto-js/md5.js:
+    sha: 12b0fdd4b4f00066c52969ead2bac439f668df2d
+    time: 1512530803
+  src/lib/crypto-js/pbkdf2.js:
+    sha: 1258251a58f9c46b68d9d7552680fa2010c25704
+    time: 1512530803
+  src/lib/crypto-js/x64-core.js:
+    sha: 57dcc144b042207243d12dc0a488545ea4d794e6
+    time: 1512530803
+  src/lib/crypto-js/hmac-sha224.js:
+    sha: 3778863ac416f03e7ffff1dc69c13f35628e7e5c
+    time: 1512530803
+  src/lib/crypto-js/package.json:
+    sha: dae37ed2fccb40c8acf8343072f845773a405c5c
+    time: 1512530803
+  src/lib/crypto-js/docs/QuickStartGuide.wiki:
+    sha: 6b20199762d52087c316257824c59795c5d3ea4a
+    time: 1512530803
+  src/lib/crypto-js/CONTRIBUTING.md:
+    sha: '09bf774aaab77809f2ffcd19027731e3ee0aedd1'
+    time: 1512530803
+  src/lib/crypto-js/sha256.js:
+    sha: de2d7fca1019d0e23a0f85055f28aaf51b7e0f21
+    time: 1512530803
+  src/lib/crypto-js/pad-pkcs7.js:
+    sha: 3555168566e57e7baf9e13cdd48002ed92f8ea3e
+    time: 1512530803
+  src/lib/crypto-js/hmac.js:
+    sha: 8c098511429d0c01ebd7adb44df4acaacdf2ae25
+    time: 1512530803
+  src/lib/crypto-js/enc-base64.js:
+    sha: d5d40824d698242de4536c5c825beb43932560a6
+    time: 1512530803
+  src/lib/crypto-js/hmac-sha256.js:
+    sha: 33b0c9fec202fd6a2262ace762f4e32156eb4c40
+    time: 1512530803
+  src/lib/crypto-js/format-openssl.js:
+    sha: 3373edc6a66fbaaaa5f31e22d230bb56ca7e1a42
+    time: 1512530803
+  src/lib/crypto-js/hmac-sha1.js:
+    sha: 0b570cbc31a5651d1a9287028848a1252b7f56c3
+    time: 1512530803
+  src/lib/crypto-js/enc-utf8.js:
+    sha: e7a251d885bd88af5a67078b3e65b866fd8de36d
+    time: 1512530803
+  src/lib/crypto-js/evpkdf.js:
+    sha: 3fe5c01c843aa766a8138a08981740e0fbd9eb65
+    time: 1512530803
+  src/lib/crypto-js/hmac-sha3.js:
+    sha: 1248804966613af18ce1ab4d65f19edaef32e11e
+    time: 1512530803
+  src/lib/crypto-js/mode-ecb.js:
+    sha: ff0692175b6dd588c023f25b10798ee25bd6d374
+    time: 1512530803
+  src/lib/crypto-js/hmac-md5.js:
+    sha: ad7a90adc27f6b407f7d278d5c4bb21d0dd5ad0d
+    time: 1512530803
+  src/lib/crypto-js/rc4.js:
+    sha: 0e4bdff517f01602ac862305889b2fbaeee1bf36
+    time: 1512530803
+  src/lib/crypto-js/mode-cfb.js:
+    sha: 86231f1b3f1e376f25fb566e654e742f6f860d28
+    time: 1512530803
+  src/lib/crypto-js/core.js:
+    sha: 28e34c13c1ebedfc2ffdd22a0c9cd8aa0af7cca9
+    time: 1512530803
+  src/lib/crypto-js/mode-ctr-gladman.js:
+    sha: bbc56876e3cf854f7620aae07c2125eb3dbb19a5
+    time: 1512530803
+  src/lib/crypto-js/mode-ofb.js:
+    sha: c01314c2284da6d92910ccb4d98e76f5e5fe1564
+    time: 1512530803
+  src/lib/crypto-js/hmac-ripemd160.js:
+    sha: 73d55a77013f5d8b318d2e6bc550e203aae78697
+    time: 1512530803
+  src/lib/crypto-js/cipher-core.js:
+    sha: 751c816684ac75ee23ed9aa1ed796f63b642ec7b
+    time: 1512530803
+  src/lib/crypto-js/bower.json:
+    sha: a995f687cc9eba1f5afe5ca267dcd36f1e3d47a9
+    time: 1512530803
+  src/lib/crypto-js/aes.js:
+    sha: 508d512772164ea04bec7b6d3ecc6fe0e1d6caec
+    time: 1512530803
+  src/lib/crypto-js/rabbit.js:
+    sha: 1b0683362026c7143324e142515310e6f80fde00
+    time: 1512530803
+  src/lib/crypto-js/sha224.js:
+    sha: d8ce9885268313ae356a655ed641c71f5163c4f2
+    time: 1512530803
+  src/lib/crypto-js/lib-typedarrays.js:
+    sha: 264b210742682d09a07094f3ccda90064fb6b0cf
+    time: 1512530803
+  src/lib/crypto-js/mode-ctr.js:
+    sha: c3d470a6fac667465c5fe460a85bd3a7ad1c70a5
+    time: 1512530803
+  src/lib/crypto-js/hmac-sha384.js:
+    sha: 0036e2b887c69f0ae89073354a3792b88c20dfdd
+    time: 1512530803
+  src/lib/crypto-js/LICENSE:
+    sha: b0828e52a6b3f0716727bc4e03c4634d25a7568c
+    time: 1512530803
+  src/lib/crypto-js/hmac-sha512.js:
+    sha: c1005b6ac5223132073e0183e090c4c02eb9cb87
+    time: 1512530803
+  src/lib/crypto-js/sha1.js:
+    sha: 669114962a3ffcaebcf98cff345d2043f6ae5e45
+    time: 1512530803
+  src/lib/crypto-js/crypto-js.js:
+    sha: 17f2b1163a74d56fd16b4e2de193d975a0f464d2
+    time: 1512530803
+  src/lib/crypto-js/ripemd160.js:
+    sha: 24feb47c75f2ba14079a0fe0b2ec44e7bfc5f8b3
+    time: 1512530803
+  src/lib/crypto-js/sha3.js:
+    sha: 4fb27fe45e180331a225ada078d3311bab123bc8
+    time: 1512530803
+  src/lib/crypto-js/pad-ansix923.js:
+    sha: f01f21e45cc2e54e78fe9968a42e4e0f9c5372e1
+    time: 1512530803
+  src/lib/crypto-js/pad-zeropadding.js:
+    sha: 0e8a859cfdcf13f16127ff18e7988e2c4f745a5b
+    time: 1512530803
+  src/lib/crypto-js/enc-latin1.js:
+    sha: ade56dcd49425fdaac7bd87645f5592a39d31d9a
+    time: 1512530803
+  src/lib/crypto-js/README.md:
+    sha: 1f4b0efab5077451208469f81f8c7ed2ed2837fd
+    time: 1512530803
+  src/lib/crypto-js/pad-nopadding.js:
+    sha: c7787c94d2e01d979ba45d2163b90ed05e902e35
+    time: 1512530803
+  src/lib/crypto-js/tripledes.js:
+    sha: c7becf3b70ad64bd271e718a73db61286f114356
+    time: 1512530803
+  src/styles/application.scss:
+    sha: 18958af878b0d254d767122ef669c2d4eae2354e
+    time: 1512530803
+  src/images/logo.png:
+    sha: c51b6334689a62f68f471c5dce8bcebff9de0bd7
+    time: 1512530803
+  src/scripts/component.modal.js:
+    sha: 4fce5de3e652ef645e7940da8a6737b8ebd33b7b
+    time: 1512530803
+  src/scripts/lib.stickyfill.min.js:
+    sha: 28021773be9df24de76b829597b333dbc5738670
+    time: 1512530803
+  src/scripts/component.owl.js:
+    sha: e9cb37bd218f8e9322ea77273ed5b19589705f4f
+    time: 1512530803
+  src/scripts/vendor.ladda.min.css:
+    sha: e75833c142bbace9f4ae6ba644d19cfb7da54657
+    time: 1512530803
+  src/scripts/application.js:
+    sha: f13a63b7f80697a3aa093af6e4215087d437c3e0
+    time: 1512530803
+  src/scripts/lib.flickity.min.js:
+    sha: ac090fa5b5542236010ae8ce28c1ee4340ab2094
+    time: 1512530803
+  src/scripts/lib.owl.carousel.min.js:
+    sha: 064c1e0328f1641de62fa625341668c6fe0fc395
+    time: 1512530803
+  src/scripts/vendor.ladda-themeless.min.css:
+    sha: 63e0d20f0f17a85a8b79208babd163f09ae10d17
+    time: 1512530803
+  src/scripts/component.affix.js:
+    sha: 2c5d5d64585ac486fb32cf4376a6d6a2338b81c8
+    time: 1512530803
+  src/scripts/lib.ladda.min.js:
+    sha: f7f81ec74ef618773787860f0c2c4f90df77a4c6
+    time: 1512530803
+  src/scripts/lib.spin.min.js:
+    sha: 4415f5b61e48c54dc541cd66a134a6a201fbe83f
+    time: 1512530803
+  src/scripts/component.flickity.js:
+    sha: c7e09832fff829a63511e0c5d8377662d16f8b8c
+    time: 1512530803
+  src/scripts/component.formspreeinline.js:
+    sha: 529fafb3850adee6e5a95b7dad3cd85fa503ec5b
+    time: 1512530803
+  package-lock.json:
+    sha: cc10dc790279a577fa469f58d7575782ec5107c2
+    time: 1512530803
+  Gemfile:
+    sha: 742603cce44fbb292f9d3957c929efa7878e37c9
+    time: 1512530803
+  index.html:
+    sha: 869a31ebbe17e4254665af57d10d73acc5d2aa36
+    time: 1512530803
+  hidden/ad0234829205b9033196ba818f7a872b.html:
+    sha: 39e3047ad7a08e100b1399f08cb2eb7f91c461a0
+    time: 1512530804
+  hidden/098f6bcd4621d373cade4e832627b4f6.html:
+    sha: 9f70375f221910467101f2b62d7aa17c80d41109
+    time: 1512530804
+  hidden/f06715625eb65890b23835cf1a5953fa.html:
+    sha: e3e5000bdba4211602980bcae081ca972090fde4
+    time: 1512530804
+  hidden/index.html:
+    sha: cf2befffe58a0f4139ae450b7a18477b0f865da1
+    time: 1512530804
+  feed.xml:
+    sha: a871930d02e08f08bb78e6854a30b127e306e5ad
+    time: 1512530804
+  robots.txt:
+    sha: d65e2c2c7c62cc45b3f716b0611e07bb2e7834cc
+    time: 1512530804
+  uploads/supporter-re-rossX.png:
+    sha: c17fa9b60ef306a1dcd8c20de3e1d4b300ca97f6
+    time: 1512530804
+  uploads/moormother-thumb.jpg:
+    sha: 6c044706162f2f30d76cd0caa6adb4ff1e7d4ef2
+    time: 1512530804
+  uploads/shireen.jpg:
+    sha: 2860297d97af6f2b5ec4f7604cd694495c05ce4f
+    time: 1512530804
+  uploads/supporter-nelson.png:
+    sha: 7e6ae660e7330948ee48499eb9f0683aca9908b9
+    time: 1512530804
+  uploads/the-substation-weddingbookings-thumb.jpg:
+    sha: feba6769ece93b70523446e1005f8c8c9e11014d
+    time: 1512530804
+  uploads/Intern PD The SUBSTATION.pdf:
+    sha: 83ea5b63e04bb077203979ce20adee6dbef53d98
+    time: 1512530804
+  uploads/VICMOD logo.jpg:
+    sha: d4e337f8c4dd7529099a6f36d289c45fd1633586
+    time: 1512530804
+  uploads/tresor-25-years.jpg:
+    sha: '08adaeff708bda6faec5323b1e2c88c346acff2d'
+    time: 1512530804
+  uploads/supporter-sonica.png:
+    sha: 3313f66bfada208b5454adf7b599ffb86e9854d6
+    time: 1512530804
+  uploads/Intern Position Description – The SUBSTATION.pdf:
+    sha: 3c63b8721d2b46eca1797142eb5bc3e70fbca880
+    time: 1512530804
+  uploads/if-was-dancenorth-photo-by-amber-haines-thumb.jpg:
+    sha: 362f78eb4420b9d2015d3ddb3e84bceec120804f
+    time: 1512530804
+  uploads/Substation_WebsiteHomeBanner-2017Season1-EllenFullman_17.1.17_v1.1_128.gif:
+    sha: f6ddb92950b2bfb3bb3fda227894cb375cc77e03
+    time: 1512530804
+  uploads/paea-leach-thumb.jpg:
+    sha: 787397260c004b4bd8fd83168867d02606f05a4f
+    time: 1512530804
+  uploads/residency-margie-medlin.jpg:
+    sha: 18cf6495773e3ebe66c0193771c9562ac5fb79d3
+    time: 1512530804
+  uploads/supporter-franklin.png:
+    sha: 7e76116592dcb166023f6d6fdb44fbfae9d50c5d
+    time: 1512530804
+  uploads/mess.png:
+    sha: 8fe8ce8c66def6c2f3ebaf0b11c421057fb411cb
+    time: 1512530804
+  uploads/supporter-openhouse-melbourne.png:
+    sha: 9543a1961952dce907a2c0e15b16c9f5df0cdae3
+    time: 1512530804
+  uploads/st-martins.png:
+    sha: b85c1f097a03b7900cc7fb2e504c123c769fc44c
+    time: 1512530804
+  uploads/the-substation-community-bookings.jpg:
+    sha: 630949285d44a8e3ac0731dfa46ad84f2417ba5b
+    time: 1512530804
+  uploads/diomira.jpg:
+    sha: d50c21d01aa1b074e3efb632a54b058ed385cc04
+    time: 1512530804
+  uploads/stillnomads.jpg:
+    sha: 3222e3f64589a7b09ce068cd4d2bab309052df16
+    time: 1512530804
+  uploads/two-parts-of-easy-action-thumb.jpg:
+    sha: fe121b578785dca722aaf748bedf015767cae322
+    time: 1512530804
+  uploads/future-tense-thumb.jpg:
+    sha: be288f9720a9bc2dbf32d531628b423083509943
+    time: 1512530804
+  uploads/bunker-2018-thumb.jpg:
+    sha: dca03d1c3e4aefc7a358abe67d7a5c5fe38eb66a
+    time: 1512530804
+  uploads/anna-tregloan-the-ghost-project.jpg:
+    sha: 053f626d703b6585785bd583036bc0f414356480
+    time: 1512530804
+  uploads/ulyssis-thumb.jpg:
+    sha: 7ff374f1363c1ecdae779032aab31c4f84f7fffe
+    time: 1512530804
+  uploads/catalyst.png:
+    sha: b8f01d7cf68b4784472ea608f3fc3a19cb568bcc
+    time: 1512530804
+  uploads/motorgenic-photo-by-amanda-betlehem-thumb.jpg:
+    sha: 8e2bd4323cc402b3bc2c37ab7d36828ce8643854
+    time: 1512530804
+  uploads/robin-fox-organ-thumb.jpg:
+    sha: 203246742d07ddf43446493e5e3dee5eb1045449
+    time: 1512530804
+  uploads/the-substation-map-lr.jpg:
+    sha: 3bbf098470dedeaf41626080d05dd413dff95ce0
+    time: 1512530804
+  uploads/container-thumb.jpg:
+    sha: da85039db9073adf65222f418cf2e1614b44497f
+    time: 1512530804
+  uploads/blowin-up-thumb.jpg:
+    sha: bce6db39d2bbfac0632c78171115f42023cfde1c
+    time: 1512530804
+  uploads/the-substation-gallery-thumb.jpg:
+    sha: 39e1a4f01a48a7efe7cfc01c19a591d007bd9790
+    time: 1512530804
+  uploads/the-substation-donate.jpg:
+    sha: 4aa474359b7fdd922b0943236f6b6fbc3b7b1cc3
+    time: 1512530804
+  uploads/democratic-set-thumb.png:
+    sha: 96ed6cfe6594bcae47415b0cba5337b60bad1c3b
+    time: 1512530804
+  uploads/newport-library.jpg:
+    sha: 0a83d578b4cd8f7b7208127484ad6cbfc5982db9
+    time: 1512530804
+  uploads/lady-example-thumb.jpg:
+    sha: d5f188e23988a5d15694a7d53c593cbb03bf3d93
+    time: 1512530804
+  uploads/fotografien-thumb.jpg:
+    sha: 14408eebdf0d166a61920fb52aeaa867a5b79f80
+    time: 1512530804
+  uploads/future-tense.jpg:
+    sha: c79b0b2d9646a3ebb633c7fb563b63cf591c9934
+    time: 1512530804
+  uploads/container.jpg:
+    sha: 71adb8a325d785cc27e80734b34280a2267626d2
+    time: 1512530804
+  uploads/two-birds.png:
+    sha: 20fcb1fc505a0eef9076acca4e7a1966a2b50121
+    time: 1512530804
+  uploads/fotografien.jpg:
+    sha: fce77ce4b26c8f5cbad6096a8ae5861bd879557a
+    time: 1512530804
+  uploads/city-of-melbourne-logo.png:
+    sha: 6bf9c49681f0f37d98130b6b1adc2062721bf9fa
+    time: 1512530804
+  uploads/apokalypsis.jpg:
+    sha: 6fecfe6c3b90436d46871cd6846fa3783ba8edf4
+    time: 1512530804
+  uploads/HistoryHomepage.gif:
+    sha: cb3956eca9b795a224a90f22c11535566da43cca
+    time: 1512530804
+  uploads/black-thumb.jpg:
+    sha: 5436a648335f51ac2c206cdf1b781e3b310a414a
+    time: 1512530804
+  uploads/Substation_WebsiteHomeBanner-2017Season1-MegaphoneProject_31.1.17_v1.1.gif:
+    sha: f8774a9249d4dba657a2490aea65ff664aed0cd1
+    time: 1512530804
+  uploads/vitalstatistix.jpg:
+    sha: 59a9821ccef3a621e5e2e6b7e315664201fd9394
+    time: 1512530804
+  uploads/the-substation-about-the-building-thumb.jpg:
+    sha: 0a153452385325157f6fb24b30fb89864204124b
+    time: 1512530804
+  uploads/Substation_TechSpecs_070717_v1.4.1.pdf:
+    sha: 1062b362e1ea5871f860bf04a8db439ece4b1c03
+    time: 1512530804
+  uploads/if-was-dancenorth-photo-by-amber-haines.jpg:
+    sha: a75c29931a0e7baec7d6090beb862b5f90e98cfa
+    time: 1512530804
+  uploads/eastman-logo.jpg:
+    sha: f7ab22b06a6e0034c0c19c29a2964260734ad195
+    time: 1512530804
+  uploads/st-martins.jpg:
+    sha: f26aa9d3b8121e74f02457d66711782092ea32db
+    time: 1512530804
+  uploads/two-parts-of-easy-action.jpg:
+    sha: 58a881d7f6701b809a613579080f36c8db90b0a2
+    time: 1512530804
+  uploads/The-Vietnam-Archive-Project-Untitled-Sides-03-Phuong-Ngo.jpg:
+    sha: bd22249847705db1fa9af9fd19bf4677ccfe8c3f
+    time: 1512530804
+  uploads/Hompage.gif:
+    sha: b670d8861f27de8d707622d371551096858ab291
+    time: 1512530804
+  uploads/kim-myhr-8.jpg:
+    sha: 45e4a1f82e9dca05f48344851cada069a900e438
+    time: 1512530804
+  uploads/the-substation-logo.png:
+    sha: 776a167417cd8dc01f1b77b0a3090e501ebcfbff
+    time: 1512530804
+  uploads/supporter-ono.png:
+    sha: 57637b4f3ff3a2c8f7e3136a0f1888c84f11d251
+    time: 1512530804
+  uploads/compelling-telling-02.jpg:
+    sha: 17f1720111f9ba139ae17842d2dcee976dd9cfa4
+    time: 1512530804
+  uploads/the-substation-history.jpg:
+    sha: 419fca2318f5f86b2dd9130fe5281dca0833e3e6
+    time: 1512530804
+  uploads/richard-thumb.jpg:
+    sha: b269832ce6f9021eeb18b5a431e661a41913b6c5
+    time: 1512530804
+  uploads/the-substation-tech-specs.pdf:
+    sha: 9950dd94a4157e81a64baca4f1fe6a689dd1af2d
+    time: 1512530804
+  uploads/inland-concert-series-dry-land-ecology-thumb.jpg:
+    sha: a333299e7d06b76767897cc0814e35d7aa880f85
+    time: 1512530804
+  uploads/supporter-gandel.png:
+    sha: d65426539583c878792810bb58b0e1729555baf9
+    time: 1512530804
+  uploads/ono-thumb.jpg:
+    sha: 3f26c0d2fe1b299faf4aa2ef7098737e85c82ed2
+    time: 1512530804
+  uploads/multimodal-photo-by-mateo-lopez.jpg:
+    sha: 92c0cd3cd02e99f2a59ab22829e9afa01b6d74c3
+    time: 1512530804
+  uploads/the-substation-boardroom-thumb.jpg:
+    sha: 87f6f5afa42a21df16a67446559ee9bff69ae18c
+    time: 1512530804
+  uploads/supporter-rmit.jpg:
+    sha: fd24320abb7cfc149ee01afe99297d814da0ff79
+    time: 1512530804
+  uploads/cain-and-abel-photo-by-brett-boardmann-thumb.jpg:
+    sha: 052ae94f4f318a8be336b9455872fd5e7a7ce597
+    time: 1512530804
+  uploads/supporter-liquid-architecture.png:
+    sha: d55e8a52f0554d86eb9f728eaad6386c8e6b0aac
+    time: 1512530804
+  uploads/midsumma.jpg:
+    sha: d30c13493403b35781f3848bb237f3f7c4db94af
+    time: 1512530804
+  uploads/conflicted-vietnam-archive-project.jpg:
+    sha: e14a13330528dec28c72e89353e09e9023dd492d
+    time: 1512530804
+  uploads/channels-festival.jpg:
+    sha: 93e9cc3a7b5b82fb21dbaec7ee3f2a2185e10654
+    time: 1512530804
+  uploads/supporter-hobsonsbay-cc.png:
+    sha: 6cba70dc4f82e29b886b9a1bf87865f93a09f6d6
+    time: 1512530804
+  uploads/the-substation-boardroom.jpg:
+    sha: 961562e6aa2e1e3f015608bd9b0db8e04d995ac6
+    time: 1512530804
+  uploads/supporter-caves.png:
+    sha: b88c2dc32ff09ed2a01ca2224a8dfa451fcb7d82
+    time: 1512530804
+  uploads/genesis.jpg:
+    sha: e0b2137180b775dcd6d285e0500750246c3647f6
+    time: 1512530804
+  uploads/the-substation-homebanner-161110.gif:
+    sha: c17c37f7b94f9490356d8538024af8c3a96fed08
+    time: 1512530804
+  uploads/100-years-zine-photo-by-samantha-riegl-rebecca-vinci-thumb.jpg:
+    sha: 3c29e872b2968a87c1cabe595dc47cb515807ccf
+    time: 1512530804
+  uploads/int-residency-gail-priest-thumb.jpg:
+    sha: 6ad0640be02c750a4c996fc0fa1921046e129190
+    time: 1512530804
+  uploads/Marketing Manager PD The SUBSTATION.pdf:
+    sha: ba7d1bb7f12224a943f1080a560fcbbf76d8978c
+    time: 1512530804
+  uploads/antony-hamilton-projects-thumb.jpg:
+    sha: f5acbc748675d5280e15cddaa8f52c103739aa42
+    time: 1512530804
+  uploads/caves-offsite-thumb.jpg:
+    sha: 2c3eb159a038a663f73d0e7d381114132bb52fae
+    time: 1512530804
+  uploads/dixon-mcbride-meaden.jpg:
+    sha: 4249b87722f0c0dd7e2fb51e5a58bb747f1f708c
+    time: 1512530804
+  uploads/robbie-thomson-live-xfrmr-photo-by-tommy-ga-ken-wan-thumb.jpg:
+    sha: 3bb3859ef8e1f952b1fc78072a01fdcc84552b9e
+    time: 1512530804
+  uploads/lumar.png:
+    sha: 0cdd1247e53843250039451765d1643b5e9bcd71
+    time: 1512530804
+  uploads/geelong.png:
+    sha: 05f0da06159f01353b9b069f8edfe40701f12cba
+    time: 1512530804
+  uploads/amanda_bio_pic.jpg:
+    sha: 51ef7f0c61637bf47664d955d558c18349f538ad
+    time: 1512530804
+  uploads/amanda_bio_pic-thumb.jpg:
+    sha: 03b642f20974b3502cbbc640141c1f431c95ee9a
+    time: 1512530804
+  uploads/projector-bike-back-story-thumb.jpg:
+    sha: 610ce1882423329ab61e97b79b40345bb8276f4d
+    time: 1512530804
+  uploads/newport-archives-2017-thumb.jpg:
+    sha: 477f6b02d18f6edfaa4f8b6690af98efaa8ca8aa
+    time: 1512530804
+  uploads/Brick-by-brick-supporters.pdf:
+    sha: 56bdb79a77e51fdde75240f36e728a201a8261b6
+    time: 1512530804
+  uploads/lawrence-english-thumb.jpg:
+    sha: 65ec7ad05f7d6d5b8fb17c5751935341c147b29e
+    time: 1512530804
+  uploads/ash-keating-thumb.jpg:
+    sha: f873f52be1a093895d71ee3be9449ec50ee1ef2d
+    time: 1512530804
+  uploads/nextwave.jpg:
+    sha: b3e0362e00b4491254d1f7b613717e33d0f76133
+    time: 1512530804
+  uploads/the-rabble-thumb.jpg:
+    sha: 5b070070d53a05a298f664fc4242dd019fef4120
+    time: 1512530804
+  uploads/mesh-mash.png:
+    sha: 61da61d3e3c611489c1074c9069355eabe883184
+    time: 1512530804
+  uploads/signal-01.png:
+    sha: 23ef843b880603358aa74bc62d401f765003aef8
+    time: 1512530804
+  uploads/one-step-taken-by-julian-thumb.jpg:
+    sha: fbebc425b94f16655e730232353f5cf72f73d734
+    time: 1512530804
+  uploads/the-tribe.jpg:
+    sha: 963a23cbcffb85ee62e30f76842ae64fcabaa526
+    time: 1512530804
+  uploads/supporter-re-ross.png:
+    sha: 94170805598a0613c6de9c4038c9996db818426b
+    time: 1512530804
+  uploads/pose-like-this-thumb.jpg:
+    sha: 795d38335b488d80bd22c0f34a538a2ed61003b0
+    time: 1512530804
+  uploads/loyalty.jpg:
+    sha: 5509e3de503085ec685d8e17ada72df6ea775606
+    time: 1512530804
+  uploads/vicmod.jpg:
+    sha: 0562ac2dd1fb59dd73b47f0e775ce8572834f3ea
+    time: 1512530804
+  uploads/ash-keating.jpg:
+    sha: 2ca2a904d974141c047e8ad1205e7cc7ac194f67
+    time: 1512530804
+  uploads/maribrynong-logo.png:
+    sha: 3142ddf3b20ea586d0ee9dd8ce55401bfb6f2645
+    time: 1512530804
+  uploads/genesis-thumb.jpg:
+    sha: ec448cda1ce50753e323c8dd7eeaa78544460615
+    time: 1512530804
+  uploads/kim-myhr-9.jpg:
+    sha: 2ce4518ac509c5ff29d31b657eadb8d6d6bee84a
+    time: 1512530804
+  uploads/More-Up-A-Tree-Homepage-ReducedPattern.gif:
+    sha: 398c822d6ea18f01c8c44bfb87521f224d5f3140
+    time: 1512530804
+  uploads/aao.jpg:
+    sha: 75ec9f8c108f3adc31c929553a899c0ae8df7b4f
+    time: 1512530804
+  uploads/signal.jpg:
+    sha: b98eb15ba48bc266f48e2427c160df8010d9241d
+    time: 1512530804
+  uploads/motorgenic-photo-by-amanda-betlehem.jpg:
+    sha: a2677d1805879fdfeceee1e5aa31d4f4317504b6
+    time: 1512530804
+  uploads/signal-thumb.jpg:
+    sha: 799b9f90550c17bb75bf20894225dc97e78643b4
+    time: 1512530804
+  uploads/the-substation-volunteer.jpg:
+    sha: 5ec62ed19da567f6bea01fb449a6f235190d1c53
+    time: 1512530804
+  uploads/the-cell.jpg:
+    sha: 9a8ec8bfa2c6d2061f705bcaa453eb38550258a0
+    time: 1512530804
+  uploads/hyphenated-thumb.jpg:
+    sha: de9c62c03fb7436f038eaf61df68fb09f6f2307b
+    time: 1512530804
+  uploads/robbie-thomson-live-xfrmr-photo-by-tommy-ga-ken-wan.jpg:
+    sha: 55aa47018d7394159f84f2fbcca7279ea57708cc
+    time: 1512530804
+  uploads/supporter-australia-council-arts!.png:
+    sha: 3ac4557a112484d08d3ae77266c1a44227f97f20
+    time: 1512530804
+  uploads/art-in-public-places.png:
+    sha: 3acd0a7c7609578c002f2c13fdaf9c19332dafe8
+    time: 1512530804
+  uploads/supporter-metro.png:
+    sha: 41fde6835c32acca8b9f4aba245d52a332e43e2d
+    time: 1512530804
+  uploads/one-step-taken-by-julian.jpg:
+    sha: 3f3c774ef685380c438c2c8d2e586198c90770ed
+    time: 1512530804
+  uploads/amanda.jpg:
+    sha: eca752d6b43c1048bb2a2e91a08e816b9fb1616e
+    time: 1512530804
+  uploads/Homepage3.gif:
+    sha: e9d0d7e9d0f6f79920825dd954c0430f2f32d359
+    time: 1512530804
+  uploads/creffield.jpg:
+    sha: 04537c58b9dda3cd70b63eff7da275dacb3be381
+    time: 1512530804
+  uploads/RobbiePsychicDirtweb.jpg:
+    sha: 4182cb071b5d305e9e6a4bef5acbb28ce8b3e61e
+    time: 1512530804
+  uploads/inland-concert-series-dry-land-ecology.jpg:
+    sha: 144e1717c465c58d0dd9ef52dc09b07b1afd73a2
+    time: 1512530804
+  uploads/the-megaphone-project-thumb.jpg:
+    sha: 1ca5c7d6c521591fbd45b358182217a55cf3a7e8
+    time: 1512530804
+  uploads/bunker-2018.jpg:
+    sha: efe708f8f342102d1ae7ac54f01adfcf496f83a3
+    time: 1512530804
+  uploads/long-string-instrument.jpg:
+    sha: 85c064025805a48163210fe082e5e3132b4c8a88
+    time: 1512530804
+  uploads/supporter-goethe.png:
+    sha: 3e63dd480b2e902cc87e27532ee5a0b1f7ad238d
+    time: 1512530804
+  uploads/compelling-telling-02-thumb.jpg:
+    sha: 0d6f29228f24669e96281810b28aa975a23465b0
+    time: 1512530804
+  uploads/the-substation-what-we-do.jpg:
+    sha: 4cd7e5df8dc295e77bbc3d2a8ffc97994db48223
+    time: 1512530804
+  uploads/The-Vietnam-Archive-Project-Untitled-Sides-03-Phuong-Ngo-thumb.jpg:
+    sha: 4f3cfd141b5b98df5f59dc59b56b5a54109962ac
+    time: 1512530804
+  uploads/plastic-loaves-credit-by-plastic-loaves-thumb.jpg:
+    sha: 567c7b2be53338eb47ac7135278144bbb310793f
+    time: 1512530804
+  uploads/Substation_WebsiteHomeBanner-2017Season1-TheCell-edit.gif:
+    sha: d9daf83c0282ab38dbbaaad8743ce4c7f528bef5
+    time: 1512530804
+  uploads/lady-example.jpg:
+    sha: 6b8dcb57c36823b54195a55fc97e0e90a4aa28db
+    time: 1512530804
+  uploads/Brook-Andrew-The-Cell.pdf:
+    sha: 47659abd2ab02191d9dbff26e8c3da725b543b6c
+    time: 1512530804
+  uploads/melbournejazz.jpg:
+    sha: 93a1ab1e95e496a14ea030d3f9731b5d768d2472
+    time: 1512530804
+  uploads/supporter-mountain-goat.png:
+    sha: 45c7e77dd487fe363bcaf2e83f213f8cfcf7a2a7
+    time: 1512530804
+  uploads/05-Phuong-Ngo-The-Vietnam-Archive-Project-Untitled-Sides.jpg:
+    sha: 72ab1322413551de143212d78fbc9a39a7c2f44f
+    time: 1512530804
+  uploads/black.jpg:
+    sha: a04c20990176f519d0125280478b3b01b7db1ecd
+    time: 1512530804
+  uploads/channels-web.jpg:
+    sha: dad804c7751f6aaa4e6cd25fba97fa1ec96cbae2
+    time: 1512530804
+  uploads/channels-thumb.jpg:
+    sha: '0895e5f13f86d6759f762ad968df47f4b6dbae5c'
+    time: 1512530804
+  uploads/the-substation-for-artists.jpg:
+    sha: 932b5e5bec2f01a142f6ffa80220404a3ccb45ed
+    time: 1512530804
+  uploads/Substation_WebsiteHomeBanner-2017Season1-PhuongNgo_1.3.17_v1.1.gif:
+    sha: 3fc1d8766b7387f3bea9e12b9ef718a2b9b5b462
+    time: 1512530804
+  uploads/Substation_WebsiteHomeBanner-Season2_MULTISCAP.gif:
+    sha: 064f78a4c6fd14a10ebdd48a0b74a8c469217e5b
+    time: 1512530804
+  uploads/anna-tregloan-the-ghost-project-thumb.jpg:
+    sha: 6ef6604d19e32ed6f55c44b7f97de6fb5ef73876
+    time: 1512530804
+  uploads/emma-collard.jpg:
+    sha: fb192ddb2a73457a58a2e1742aa8dcce3be3c7f0
+    time: 1512530804
+  uploads/fluorophone-thumb.jpg:
+    sha: b2df1f1f3cfb8c3950d350515fa018b462fb19c6
+    time: 1512530804
+  uploads/Channels.gif:
+    sha: 14a8c60efdacfef77f7ed1e4fcce857afe440eff
+    time: 1512530804
+  uploads/richard.jpg:
+    sha: 2f6e07ecbd9080adea986f0e419290c3d5451b42
+    time: 1512530804
+  uploads/diomira-thumb.jpg:
+    sha: 672a71b1410526317c96b490e081075ec253648a
+    time: 1512530804
+  uploads/MelbourneFringe.jpg:
+    sha: 66be6569c3968120ef45ee1ba37b5a4d29019b0e
+    time: 1512530804
+  uploads/natalie-abbott.jpg:
+    sha: a93f9b50d7349545fe3ca97ec8265584976f498c
+    time: 1512530804
+  uploads/Substation_WebsiteHomeBanner-2017Season1-CAVES_31.1.17_v1.1.gif:
+    sha: c0d13b9eaa5f79d41c284a1ba881017887dc1853
+    time: 1512530804
+  uploads/the-tribe-thumb.jpg:
+    sha: 50b8848ae42a5fbad1a8a4a55f798065584672a8
+    time: 1512530804
+  uploads/the-substation-what-we-do-thumb.jpg:
+    sha: 02a051beba2a75ce4255b72d1096b770cf569eba
+    time: 1512530804
+  uploads/the-megaphone-project.jpg:
+    sha: 57e0ac3687f67024df79532f2e7c41d581f35cc7
+    time: 1512530804
+  uploads/lilian-steiner-photo-by-lauren-dunn-thumb.jpg:
+    sha: c82ab49ce843e38e90c7e537acd36ae4f64c5618
+    time: 1512530804
+  uploads/ono-2018-thumb.jpg:
+    sha: 1d9a3e84e59d3d3e29963c9b2f85b97a0d1bf084
+    time: 1512530804
+  uploads/alisdair.jpg:
+    sha: 5117c72868be05915f87d03bf5f500a1277fd60e
+    time: 1512530804
+  uploads/fcac.jpg:
+    sha: a1fbe58f373310f2922b7c6e28cd83701c80c09a
+    time: 1512530804
+  uploads/ellen-fullman.jpg:
+    sha: 85c064025805a48163210fe082e5e3132b4c8a88
+    time: 1512530804
+  uploads/the-substation-studio-thumb.jpg:
+    sha: 0a9a0fe743e1471ad6613f5c92a416597d7947ff
+    time: 1512530804
+  uploads/thembi-2018-thumb.jpg:
+    sha: 60deb2aca20fce0aaed14f5f1aa3a952c5506108
+    time: 1512530804
+  uploads/PreLaunchHomepage.gif:
+    sha: b6755d07225d7ff20d5d4f4a0544bd1b6c2b9498
+    time: 1512530804
+  uploads/history-history-history.jpg:
+    sha: 70fad0daee4021bfb22250a4ddd3b96b302ca74f
+    time: 1512530804
+  uploads/supporter-human-rights-arts.png:
+    sha: ac62f9e302ccdcca156729a09508e0a770424e7c
+    time: 1512530804
+  uploads/shireen-thumb.jpg:
+    sha: c60e112cc4705581d837bc3840f67d8ce3e7ab5f
+    time: 1512530804
+  uploads/xiu-xiu-plays-twin-peaks-thumb.jpg:
+    sha: 72bc547c0433b8bc90272b4a93c5ac5e227005b7
+    time: 1512530804
+  uploads/one-step-at-a-time-like-this.jpg:
+    sha: 6628cbba888ef59a5849597389041bd749e535e4
+    time: 1512530804
+  uploads/Substation_WebsiteHomeBanner-2017Season1-UrbanTheatreProjects_31.1.17_v1.1.gif:
+    sha: 4c561eac3209e73f7cca87983607f0220d73a2d0
+    time: 1512530804
+  uploads/bank-australia-logo.jpg:
+    sha: 3610a3b090a9d50e683fb4f66a4c84f5df6e75cf
+    time: 1512530804
+  uploads/cain-and-abel-photo-by-brett-boardmann.jpg:
+    sha: d9f64ebe63f6f538298a4bb022ad519c84f225b2
+    time: 1512530804
+  uploads/yandell-thumb.jpg:
+    sha: 9b2b3a8fd6710093e11f6eeb597e802952ed2345
+    time: 1512530804
+  uploads/supporter-lord-mayor.png:
+    sha: 25b27e979d2f6e9529b97b2e4b643a300e4d8a29
+    time: 1512530804
+  uploads/the-substation-community-bookings-thumb.jpg:
+    sha: afec2c139c9534a9f936d5b33428fe12166ff92b
+    time: 1512530804
+  uploads/UPDATED_Ground Floorplan - Gallery.pdf:
+    sha: f19de612316555a05b3af3975451c16c39c3d7fa
+    time: 1512530804
+  uploads/natalie-abbott-thumb.jpg:
+    sha: ffd1b49a32be02881b0bc8a4ac9d0dc478b8af25
+    time: 1512530804
+  uploads/exchange-lab.jpg:
+    sha: 003a69b189bd3565c7084e4b2ce6536f76b596fe
+    time: 1512530804
+  uploads/RobbiePsychicDirtweb-thumb.jpg:
+    sha: 1e74dfc8d8bcc0a9a49f7510f6833989352b9485
+    time: 1512530804
+  uploads/kim-myhr-8-thumb.jpg:
+    sha: 045edb2ec9389d58f7449928353aef316d8bb1d9
+    time: 1512530804
+  uploads/the-cell-thumb.jpg:
+    sha: a14fa61d3d58efc20de1a0e6f478feaa254fa7ac
+    time: 1512530804
+  uploads/hyphenated.jpg:
+    sha: 99308f619bfa1d7141cb4af923eb06e9bba3e067
+    time: 1512530804
+  uploads/the-substation-corporate-bookings.jpg:
+    sha: 9eb08053bd8b202aed4682573e16b27218003840
+    time: 1512530804
+  uploads/Substation_WebsiteHomeBanner-2017Season1-EmmaCollard&RafaellaMcDonald_17.1.17_v1.2.gif:
+    sha: a684544156f0a5e9055d8db47ca68d685c22cb04
+    time: 1512530804
+  uploads/plastic-loaves-logo.png:
+    sha: 7d818bcbb987117830c92ef0049d6de77953a5d7
+    time: 1512530804
+  uploads/plastic-loaves-credit-by-plastic-loaves.jpg:
+    sha: 001413b2dc79e018ea8e49b354db13de8c1d025d
+    time: 1512530804
+  uploads/one-step-at-a-time-like-this-thumb.jpg:
+    sha: d99121215eb2d4a21a10b50b6e6fd89c511adf8b
+    time: 1512530804
+  uploads/screen-as-a-room-image-by-fanni-futterknecht.jpg:
+    sha: 46dc293c6054c896c348dce09ec4466f0f12edf7
+    time: 1512530804
+  uploads/the-substation-about-the-building.jpg:
+    sha: dcbe2a680ac5b035ded5e67e1873474ff0f61edf
+    time: 1512530804
+  uploads/Substation_WebsiteHomeBanner-2017Season1-CAVES_31.1.17_v1.2.gif:
+    sha: bb568b8fda46af998f7ab13095b93a777ae2fc17
+    time: 1512530804
+  uploads/supporter-australia-council-arts.png:
+    sha: f198d58347a6dbe76a496a315de7c049810bced4
+    time: 1512530804
+  uploads/residency-margie-medlin-thumb.jpg:
+    sha: 13d4bd7b36184787738ea63742b0c1c911938837
+    time: 1512530804
+  uploads/supporter-besen.png:
+    sha: 79c47a1170be6b37f129767607b7ccfed00aae27
+    time: 1512530804
+  uploads/yandell.jpg:
+    sha: 03c55a96e90a4f8516bb8a3ed0ab02bd2fdc35e1
+    time: 1512530804
+  uploads/bunker.jpg:
+    sha: e2bf1db57a26fa1e7c2412f50b02304f1ed171bb
+    time: 1512530804
+  uploads/bunker-15a87a.jpg:
+    sha: 5edbbe087a3a31d7b659c032fc9b4e690d82d796
+    time: 1512530804
+  uploads/ulyssis.jpg:
+    sha: 6985b7447bf2396e497c21a93e7e23b95b481117
+    time: 1512530804
+  uploads/apokalypsis-thumb.jpg:
+    sha: d04a08657cfad382a3d0a2a7e8daf38aee118b7a
+    time: 1512530804
+  uploads/emma-collard-thumb.jpg:
+    sha: ad5d9da81614b3a8a46c985e9ed5e524993decda
+    time: 1512530804
+  uploads/newport-archives.jpg:
+    sha: ce48dfaaa10f2e0228f12cc38da08b643ee07d17
+    time: 1512530804
+  uploads/100-years-zoe-bastin-thumb.jpg:
+    sha: 02534476cf8957554101915f7cd9555803b98c40
+    time: 1512530804
+  uploads/The-Substation-Contemporary-Art-Prize-2016.jpg:
+    sha: 87cba6bda0666ed2c705681d65de09187a1343e4
+    time: 1512530804
+  uploads/conflicted-vietnam-archive-project-thumb.jpg:
+    sha: ff42d0c651646a006e6e0cc2a7182d4e73d68be4
+    time: 1512530804
+  uploads/the-substation-weddingbookings.jpg:
+    sha: 8cf1603ed210a2a84fb9067ee911db7e129c97db
+    time: 1512530804
+  uploads/Plastic-Loaves-photo-by-James-Robinson-thumb.jpg:
+    sha: 275bc270924663001d5eff194c5de9858baed9e6
+    time: 1512530804
+  uploads/Plastic-Loaves-photo-by-James-Robinson.jpg:
+    sha: 5cc30e5707049fe857fd6dba5af5839f56a2efa9
+    time: 1512530804
+  uploads/holly-durant-thumb.jpg:
+    sha: 165fc7d052b487ad88c9af39e1767f302c3ff393
+    time: 1512530804
+  uploads/the-substation-studio.jpg:
+    sha: 86c70038efd275df85e26959f59bb8f83990e650
+    time: 1512530804
+  uploads/robin-fox-organ.jpg:
+    sha: 7c8c1e43652c946d7ac203a429962cba9b7e96a7
+    time: 1512530804
+  uploads/supporter-victrack.png:
+    sha: 76a5edbc26bcef3adee94572bea2375f21b2a893
+    time: 1512530804
+  uploads/the substation tech specs.pdf:
+    sha: 54d637f42c6b58e04a3e0c90a2218b70bee0cc4e
+    time: 1512530804
+  uploads/ono-2018.jpg:
+    sha: 0c73eab566ef9fe9e2d032db0d2aa5e0df43b874
+    time: 1512530804
+  uploads/newport-library-thumb.jpg:
+    sha: dc295d34c4b984dc8cb7b49f9bcab068971b55f1
+    time: 1512530804
+  uploads/channels-festival-thumb.jpg:
+    sha: 9d28f2644349aac18b44ecf55431e09f68e36cb3
+    time: 1512530804
+  uploads/dixon-mcbride-meaden-thumb.jpg:
+    sha: a15e8ec1db54b8ceae3ca66694c4541fd7db3831
+    time: 1512530804
+  uploads/muat.jpg:
+    sha: 429833ef82269e2bef62ad9979e8c49b42e4bd82
+    time: 1512530804
+  uploads/no-new-noise.jpg:
+    sha: 4c2679d239a7b03dd917bd434ac212e407a1214e
+    time: 1512530804
+  uploads/fola.jpg:
+    sha: 4809cab4efbe5290e48d2b0de0b17400225a00b6
+    time: 1512530804
+  uploads/forest-fringe.png:
+    sha: 7797f515d7e3c3ccbe3e36d19793ee8267fada38
+    time: 1512530804
+  uploads/ono.jpg:
+    sha: ad756708cba6d7be62ebb7995a5ba7978863a09d
+    time: 1512530804
+  uploads/supporter-performing-lines.png:
+    sha: 444c48c9524ce06ebb2bf86560c9ff1f4ecad4d2
+    time: 1512530804
+  uploads/the-substation-gallery.jpg:
+    sha: e10c4edeb55fbe0af1451958c7629a4ffabdda4e
+    time: 1512530804
+  uploads/caves-offsite.jpg:
+    sha: 32fd5d7234973bc55c4683857039606e8013ad8f
+    time: 1512530804
+  uploads/the-substation-corporate-bookings-thumb.jpg:
+    sha: 894c87efc1cc759cf8cf0e92b598ca4043ba55e1
+    time: 1512530804
+  uploads/creativepartnerships.jpg:
+    sha: d1f8166d1799df04071dea3ecb3f8c5426e6d32f
+    time: 1512530804
+  uploads/channels.jpg:
+    sha: d88b9d353375cd6a56b9141b166aebbef5eb2d9e
+    time: 1512530804
+  uploads/screen-as-a-room-image-by-fanni-futterknecht-thumb.jpg:
+    sha: acd8b330cc261f71b2e17b32758614161b28a723
+    time: 1512530804
+  uploads/linda.jpg:
+    sha: 0712f1e12dfcc1330001f5cffc0452cb8ed013db
+    time: 1512530804
+  uploads/antony-hamilton-projects.jpg:
+    sha: 470c37d99a7bf1c9e939ada9f25dbdd929fc2ca5
+    time: 1512530804
+  uploads/alisdair-thumb.jpg:
+    sha: '074711887f965687248a4245a03d764f196780e4'
+    time: 1512530804
+  uploads/democratic-set-thumb.jpg:
+    sha: 59b791653b339c75ccbfb3380d10d9c03ab63123
+    time: 1512530804
+  uploads/lilian-steiner-photo-by-lauren-dunn.jpg:
+    sha: c89d2005ea4cfd86b74393911baae6223b6ef54e
+    time: 1512530804
+  uploads/the-substation-history-thumb.jpg:
+    sha: 931f74381452a1b17c8d91d3ce91e372b0517382
+    time: 1512530804
+  uploads/rooms-with-a-view-image-by-morgan-jones-thumb.jpg:
+    sha: 79b8e172e25fc45e374fcb62c4782df277fd81d7
+    time: 1512530804
+  uploads/no-new-noise-thumb.jpg:
+    sha: 551dea0601fa8e38a8b7456f9512dee0e705e17e
+    time: 1512530804
+  uploads/supporter-go-west.png:
+    sha: 5fcaf6110177f8af888c589ea79745c55aa14402
+    time: 1512530804
+  uploads/supporter-creative-victoria.png:
+    sha: '0339b6ca164fd8f246b944125cacd5ed4a58129a'
+    time: 1512530804
+  uploads/100-years-zine-photo-by-samantha-riegl-rebecca-vinci.jpg:
+    sha: b9876a641903abd1c930a2c057e1f77f6fff8461
+    time: 1512530804
+  uploads/newport-archives-thumb.jpg:
+    sha: d7410d99adc0747cbbe8aedabd3d1eaf9b1db86a
+    time: 1512530804
+  uploads/plastic-loaves-thumb.jpg:
+    sha: 141c5a8c270ca2e32e1edbc5aec88d967165c1e9
+    time: 1512530804
+  uploads/Substation_WebsiteHomeBanner-2017Season1-ONO_17.1.17_v1.1.gif:
+    sha: e0e9731b69bf53974aed46eb601e412e40331779
+    time: 1512530804
+  uploads/the-substation-staff-and-board-thumb.jpg:
+    sha: 153738ff2a4880fa82192934f2f6d0a491bf9c5e
+    time: 1512530804
+  uploads/SubstationShowProgram-Multimodal-v1.3.pdf:
+    sha: 9de3f89fe1ada8f6e3f8ac896fd3cfbb2914aa59
+    time: 1512530804
+  uploads/loyalty-thumb.jpg:
+    sha: f21291cdf09d421c2c8d109be5a1f4d7c07c0a3c
+    time: 1512530804
+  uploads/lawrence-english.jpg:
+    sha: 1aa325cbfc8f65d4843e0dfae22ce6ec6a0e7f2d
+    time: 1512530804
+  uploads/back-to-back.png:
+    sha: 83c278149ae61f8580cdf2034708c7b9c39a6c00
+    time: 1512530804
+  uploads/zak-thumb.jpg:
+    sha: a34e641578dee957d242781caa11bd1b04234483
+    time: 1512530804
+  uploads/TH_20161014_053.jpg:
+    sha: 1ee0e49969c53ab9da04074e5cf81579f87e1bd0
+    time: 1512530804
+  uploads/the-substation-work-with-us.jpg:
+    sha: 18ce70833355ed4d417a0c2fa24dadf48282f0ca
+    time: 1512530804
+  uploads/multimodal-photo-by-mateo-lopez-thumb.jpg:
+    sha: 699432ddb97c49dfffb767ad1a696a63d9671061
+    time: 1512530804
+  uploads/ono-f15352.jpg:
+    sha: 45b94f64c8ca898a5d67fc6a1bcd88c4b458ad57
+    time: 1512530804
+  uploads/the-substation-staff-and-board.jpg:
+    sha: '09dd0368a0e24997137a9fcc11752ec918b8b949'
+    time: 1512530804
+  uploads/kim-myhr-9-thumb.jpg:
+    sha: 184b4078956fd19ea705c91eb0b5c76791959287
+    time: 1512530804
+  uploads/flyway-thumb.jpg:
+    sha: 99d95e7f664c0f8439d0cf0d207f7eb8a7e7afed
+    time: 1512530804
+  uploads/plastic-loaves.jpg:
+    sha: 40ef69c45dc384a147783bdf24c0ae61b52c46a9
+    time: 1512530804
+  uploads/long-string-instrument-thumb.jpg:
+    sha: a0fa7490f07524e37cceae1e138cc806eb6d5dce
+    time: 1512530804
+  uploads/performance-space.png:
+    sha: e2ed2285c82dd89f6cec3013bfa0a02d9dbf1c89
+    time: 1512530804
+  uploads/natalie-abbott-running.jpg:
+    sha: 9ff8ce74e428707c346c7ec4b1017323244a94e5
+    time: 1512530804
+  uploads/the-rabble-development.jpg:
+    sha: 418f6efeb5f8d32109bcf985a3092c093de0e1dd
+    time: 1512530804
+  uploads/supporter-hobsons-bay-cc.png:
+    sha: 0dfac84c84d9679f2be4d108d3209d1cc3a4af02
+    time: 1512530804
+  uploads/supporter-melbourne-festival.png:
+    sha: 797c01331e0f4c6f6519400deda2d65089bf99c5
+    time: 1512530804
+  uploads/channels-web-thumb.jpg:
+    sha: c9831b586b7a785303048deb064642c19875291a
+    time: 1512530804
+  uploads/the-substation-volunteer-thumb.jpg:
+    sha: e0f2e443e9a85a5f05dab0fbf0003fdf8224f56a
+    time: 1512530804
+  uploads/the-substation-for-artists-thumb.jpg:
+    sha: a6d062c508dd3ac3872bb573b98d418700ea57fc
+    time: 1512530804
+  uploads/st-martins-thumb.jpg:
+    sha: d39fe8edecd7352d53629adc078fcf72153d0d9e
+    time: 1512530804
+  uploads/Casual Front Of House Staff Required.pdf:
+    sha: a0617918088878f9cfa347c3028c081770596b5c
+    time: 1512530804
+  uploads/paea-leach.jpg:
+    sha: 990b979afd7a4a68e4335ec05037998497c7b9ba
+    time: 1512530804
+  uploads/holly-durant.jpg:
+    sha: c5753137e340d843c35e086fb61348d20aa98fea
+    time: 1512530804
+  uploads/moormother.jpg:
+    sha: 9fc44040530de7f521959edbc1ea3613e3441f28
+    time: 1512530804
+  uploads/Signal.gif:
+    sha: 14b8f0bb9a3fe36962189ab5a9314c2801e0b826
+    time: 1512530804
+  uploads/exchange-lab-thumb.jpg:
+    sha: b647ac0f11e3c7c6144bcaffa4bcfc44bddc0f64
+    time: 1512530804
+  uploads/supporter-urban-theatre-projects.png:
+    sha: cd784a10f31d70e961064e56eb40116f412c3347
+    time: 1512530804
+  uploads/lady-example-2018-thumb.jpg:
+    sha: a3fc8c61aa3c3a7dfbc5b15a9a86427e490580c6
+    time: 1512530804
+  uploads/blowin-up.jpg:
+    sha: c3745b00cf9b3b926152c2f7a4a7fe1647648fbc
+    time: 1512530804
+  uploads/fluorophone.jpg:
+    sha: d2872be73d42358c5a72b902bd73d7253fd4b5e6
+    time: 1512530804
+  uploads/flyway.jpg:
+    sha: a1088da0b21acdca655b5111e70ed036f46425b7
+    time: 1512530804
+  uploads/the-substation-staff.jpg:
+    sha: c6d33c1e476a26300f31e54971a91bd3bc5d1ad5
+    time: 1512530804
+  uploads/HomepageB2B.gif:
+    sha: a2da78f960de5ce8bbae6396c9fa2cbc0485a8dd
+    time: 1512530804
+  uploads/charlemagne-palestine.jpg:
+    sha: 256291549027eaab29cc357e827c03d85d77d6a3
+    time: 1512530804
+  uploads/supporter-made-in-scotland.png:
+    sha: e508aade14a74f2c441d434b1007d278d3788480
+    time: 1512530804
+  uploads/moule-print.png:
+    sha: fed7bccde3dabb9c439ba488fdac9b51d563ff6d
+    time: 1512530804
+  uploads/the-substation-staff-thumb.jpg:
+    sha: a0ffb98726e18471892fe3299cf0ef0080d69262
+    time: 1512530804
+  uploads/Homepage_Tetsuya.gif:
+    sha: d975097275f709c10f6673a4ac313d2be94f025d
+    time: 1512530804
+  uploads/charlemagne-palestine-thumb.jpg:
+    sha: 24555fb3574a6dd2c2e125f320b65ac6429eb8a6
+    time: 1512530804
+  uploads/the-substation-main-space-thumb.jpg:
+    sha: edeb39997994a6e64b09af8203c179fb57df210c
+    time: 1512530804
+  uploads/the-rabble.jpg:
+    sha: b3db634a00238a575a6402fbaad59430f07b70ea
+    time: 1512530804
+  uploads/mess-60512e.png:
+    sha: 8fe8ce8c66def6c2f3ebaf0b11c421057fb411cb
+    time: 1512530804
+  uploads/tresor-25-years-thumb.jpg:
+    sha: f118011f649c69c3b1c5c81e02c9429d9f0268cf
+    time: 1512530804
+  uploads/supporter-cryptic.png:
+    sha: 64e3489da70c35c23e0038442e04d4c0fefb0245
+    time: 1512530804
+  uploads/lady-example-2018.jpg:
+    sha: 811bfc74099b14a5018425efa01a4629c3519011
+    time: 1512530804
+  uploads/the-substation-wedding-bookings-thumb.jpg:
+    sha: 6d02fa37845f2c64c685996477ce62f1114f7244
+    time: 1512530804
+  uploads/VICMOD logo-81dafb.jpg:
+    sha: d4e337f8c4dd7529099a6f36d289c45fd1633586
+    time: 1512530804
+  uploads/HISTORY HISTORY HISTORY-9_Image Credit Paul Blakemoreweb.jpg:
+    sha: 362adfe1cd93092172df116bf3d09805c6aa7211
+    time: 1512530804
+  uploads/muat-thumb.jpg:
+    sha: 96d9a27e56f410c0ff313ca1080b3b375abe7abf
+    time: 1512530804
+  uploads/pose-like-this.jpg:
+    sha: f6ec5669f9fb5899449e9331e0144dd3b7097737
+    time: 1512530804
+  uploads/the-substation-wedding-bookings.jpg:
+    sha: ec42785a98e1daa6c6f810572cf8692c44bd2337
+    time: 1512530804
+  uploads/pushed.jpg:
+    sha: 990b979afd7a4a68e4335ec05037998497c7b9ba
+    time: 1512530804
+  uploads/lady-example-6fa984.jpg:
+    sha: 4249b87722f0c0dd7e2fb51e5a58bb747f1f708c
+    time: 1512530804
+  uploads/newport-archives-2017.jpg:
+    sha: 92dc936e4e0c7171a0f278ae62e43204913a3011
+    time: 1512530804
+  uploads/stable-logo-01.png:
+    sha: 6ca39f58008288b434fd59562ca8b9ba40b9a655
+    time: 1512530804
+  uploads/rooms-with-a-view-image-by-morgan-jones.jpg:
+    sha: 8e54660217be4fd3b58ce0c3c81c4e09a2ad2b7d
+    time: 1512530804
+  uploads/the-substation-getting-here-thumb.jpg:
+    sha: a0da914a2567a51cd37e7087f7b1e77fc0ac46d8
+    time: 1512530804
+  uploads/supporter-rmit.png:
+    sha: e5ece4df7b4d01f0bafe3cfa69ea932bfddf610d
+    time: 1512530804
+  uploads/the-substation-support-us.jpg:
+    sha: df0e15ff09df4e42eb4aa06c309da32bb976f469
+    time: 1512530804
+  uploads/supporter-room40.png:
+    sha: c341b79c3942628a3c7b8f33f17e38cd3ff5f852
+    time: 1512530804
+  uploads/supporter-nsw-arts.png:
+    sha: 6671341ed8370819fd738f2d1ab38c0aa12da62c
+    time: 1512530804
+  uploads/the-substation-main-space.jpg:
+    sha: 65c7d07ce98ba1465d90dc0c4885e24a8d932a58
+    time: 1512530804
+  uploads/tetsuya-thumb.jpg:
+    sha: deca9b2f5803f75dd6f477b50ef8addfb4a9cba7
+    time: 1512530804
+  uploads/the-rabble-development-thumb.jpg:
+    sha: 02dc5c3647540d2d8fe93dca4fce9b8d788d2c86
+    time: 1512530804
+  uploads/zak.jpg:
+    sha: a4a2615088accf857accdff3305dfe05b3eb0ed3
+    time: 1512530804
+  uploads/amanda-thumb.jpg:
+    sha: 70cf254c70c8859259b52f7bfc838cce4b0ca306
+    time: 1512530804
+  uploads/projector-bike-back-story.jpg:
+    sha: ac90f10685104932aacec80e41f47ee026e9770a
+    time: 1512530804
+  uploads/xiu-xiu-plays-twin-peaks.jpg:
+    sha: 222b4d20809cc40e9a06f51904c10e975d62cba1
+    time: 1512530804
+  uploads/The-Substation-Contemporary-Art-Prize-2016-thumb.jpg:
+    sha: 0f3622bee2088cc83b70abf9c3db6fa9e4fd0d34
+    time: 1512530804
+  uploads/democratic-set.jpg:
+    sha: 1c757303e2a85ba9b20433eb5a1fd6c34f18acbe
+    time: 1512530804
+  uploads/bunker-thumb.jpg:
+    sha: 7ff420c082b71f7c93567194bda72e9b796cdf30
+    time: 1512530804
+  uploads/the-substation-work-with-us-thumb.jpg:
+    sha: 38ebfbf776adb15c441a48cd8e0c94c4a22359b0
+    time: 1512530804
+  uploads/100-years-zoe-bastin.jpg:
+    sha: 985d4762f311974cb17f939e3ecd3dcd69de40cb
+    time: 1512530804
+  uploads/int-residency-gail-priest.jpg:
+    sha: 90daddf3b0af65a4102b69d150525dce9555c18a
+    time: 1512530804
+  uploads/supporter-bunker.png:
+    sha: a14b2233acf7b669f36450d8bd404a3970243735
+    time: 1512530804
+  uploads/tetsuya.jpg:
+    sha: 1fb2cbee657d033ab68e973155fc856b97e6a034
+    time: 1512530804
+  uploads/history-history-history-thumb.jpg:
+    sha: 493795dd5c7425ba2411c9fe07230f90ee592e83
+    time: 1512530804
+  uploads/supporter-melbourne-fringe.png:
+    sha: aa200e3d8b43770c5b4899ac25cf3396b75a6c97
+    time: 1512530804
+  uploads/the-substation-getting-here.jpg:
+    sha: d7eaed45c312a14dc3f6c92c552bad87f6317521
+    time: 1512530804
+  uploads/thembi-2018.jpg:
+    sha: 838b18d75af732c73ab877ec2db2f02f2fc5998f
+    time: 1512530804
+  uploads/channels-logo.png:
+    sha: d43dda6dbddd26f8a1462e7d0ff88886198242a3
+    time: 1512530804
+  uploads/MelbourneFestival.jpg:
+    sha: b2c2d3e1832097e0486ecb887e4e635f129c5c56
+    time: 1512530804
+  uploads/linda-thumb.jpg:
+    sha: ad5fa8a7629cafd1fa4614955cc09ad5b45f522d
+    time: 1512530804
+  donate/index.html:
+    sha: 5f43d9aa46ec9bb564c6f9de244b22c0e24a94c9
+    time: 1512530804
+  ".inventory.yml":
+    sha: e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+    time: 1512530804
+  ".siteleaf_done":
+    sha: 71047818eddfde5867f8048df8c7c642b6ad08f6
+    time: 1512530804
