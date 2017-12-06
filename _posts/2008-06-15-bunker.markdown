@@ -1,6 +1,6 @@
 ---
 title: Bunker
-date: 2008-06-15 13:20:00 +10:00
+date: 2008-06-15 12:20:00 +10:00
 categories:
 - whats-on
 image: "/uploads/bunker-2018.jpg"
@@ -17,5 +17,7 @@ Expect the very best in techno as [BUNKER](http://bunker-music.com/) returns to 
 
 With two international guests to be announced and support by an array of Melbourne’s best. 
 
-Tickets on sale and full line up announced in April.Presented by The SUBSTATION and BUNKER.
+Tickets on sale and full line up announced in April.
+
+Presented by The SUBSTATION and BUNKER.
 
