@@ -1,6 +1,6 @@
 ---
 title: Apokalypsis
-date: 2008-05-16 13:38:00 +10:00
+date: 2008-05-16 12:38:00 +10:00
 categories:
 - whats-on
 image: "/uploads/apokalypsis.jpg"
@@ -18,6 +18,8 @@ notes:
   note: |-
     MATINEE: SAT MAY 12, 4PM
     CLOSING NIGHT: SUN MAY 13, 6.30PM
+supporters:
+- Next Wave
 ---
 
 Four performers. One hundred apocalypses. Sixty minutes.
