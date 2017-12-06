@@ -17,6 +17,11 @@ is-single-date: true
 notes:
   date: 2018-03-24 13:00:00 +11:00
   note: RADICAL LISTENING WORKSHOP WITH LAWRENCE ENGLISH
+supporters:
+- Room40
+- Australia Council of Arts
+- Festival of Live Art
+- Footscray Community Arts Centre
 ---
 
 Connected by their common interest in activating the body as an ear, [LAWRENCE ENGLISH](http://www.lawrenceenglish.com/) performs his response to the current geo-political climate, [CRUEL OPTIMISM](https://lawrenceenglish.bandcamp.com/album/cruel-optimism), <br>
