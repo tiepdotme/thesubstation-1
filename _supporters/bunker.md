@@ -1,6 +1,6 @@
 ---
 title: Bunker
-image: "/uploads/supporter-bunker.png"
+image: "/uploads/bunker-15a87a.jpg"
 presenting: true
 ---
 
