@@ -1,6 +1,6 @@
 ---
 title: Lady Example
-date: 2008-05-09 12:51:00 +10:00
+date: 2008-05-09 11:51:00 +10:00
 categories:
 - whats-on
 image: "/uploads/lady-example-2018.jpg"
@@ -27,7 +27,7 @@ supporters:
 
 Women of the World take over, because if you don't the world will come to an end, and we haven't got long.
 
-From the makers of THIS IS WHAT’S HAPPENING, BLOWIN’ UP and FALLEN O’ER — LADY EXAMPLE, is a demented and exquisite stocktake of history to propose a feminine future. Let us turn to our lady examples. 
+From the makers of THIS IS WHAT’S HAPPENING, BLOWIN’ UP and FALLEN O’ER — LADY EXAMPLE, is a deranged and exquisite stocktake of history to propose a feminine future. Let us turn to our lady examples. 
 
 Created and performed by ALICE DIXON, CAROLINE MEADEN and WILLIAM MCBRIDE with an ensemble of artists. 
 
