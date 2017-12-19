@@ -7,8 +7,8 @@ image: "/uploads/yandell.jpg"
 image-credit: artdocumentation.com.au
 presented-by: THE SUBSTATION COMMISSIONING PROGRAM
 datetime:
-- 
-- 
+- 2017-12-19 09:00:00 +11:00
+- 2018-12-31 09:00:00 +11:00
 is-single-month-duration: true
 is-many-months-duration: true
 ---
