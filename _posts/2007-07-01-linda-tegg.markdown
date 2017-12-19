@@ -1,8 +1,8 @@
 ---
 title: Linda Tegg
-date: 2007-07-01 09:42:00 +10:00
+date: 2007-07-01 08:42:00 +10:00
 categories:
-- in-development
+- archive
 image: "/uploads/linda.jpg"
 image-credit: Linda Tegg, “Terrain (Prairie Grass)” (2015), Whole Foods Bulk Bin Seeds
   (Small Red Chilli Beans, Extra Large Fava Beans, Black Beans (Turtle Beans), Pinto
