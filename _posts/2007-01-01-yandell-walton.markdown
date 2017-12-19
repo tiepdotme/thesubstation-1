@@ -1,0 +1,21 @@
+---
+title: Yandell Walton
+date: 2007-01-01 00:00:00 +11:00
+categories:
+- in-development
+image: "/uploads/yandell.jpg"
+image-credit: artdocumentation.com.au
+presented-by: THE SUBSTATION COMMISSIONING PROGRAM
+datetime:
+- 
+- 
+is-single-month-duration: true
+is-many-months-duration: true
+---
+
+Exploring ideas around impermanence and our changing environment, [YANDELL WALTON](http://yandellw.tumblr.com/)’s work uses projection, installation and digital media to meld architectural space with projected images. 
+
+Blurring the lines between the actual and the virtual, WALTON explores the relationship between nature and human mortality through environmental, political, personal and social experiences.
+
+YANDELL WALTON's work is part of The SUBSTATION COMMISSIONING PROGRAM. For more information or to donate, [click here.](https://thesubstation.org.au/donate/)
+
