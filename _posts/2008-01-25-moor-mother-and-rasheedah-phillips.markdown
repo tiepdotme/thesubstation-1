@@ -25,13 +25,13 @@ The MOOR MOTHER sound is abrasive; a torrent of noise, free jazz, hip-hop, poetr
 
 RASHEEDAH PHILLIPS is a community housing activist, a mother, writer, the creator of [THE AFROFUTURIST AFFAIR](http://www.afrofuturistaffair.com/) and a founding member of [METROPOLARITY QUEER SCI-FI COLLECTIVE](http://metropolarity.net/). In 2014, she published her first speculative fiction collection, Recurrence Plot (and Other Time Travel Tales), followed by an anthology of experimental essays from Black visionary writers called Black Quantum Futurism: Theory & Practice Vol. I.
 
-**In Support:
+**In Support: <br>
 Kandere <br>
 Papaphilia <br>
 Neil Morris <br>
 Sezzo Snot** <br>
 
-**With readings from:
+**With readings from: <br>
 Pauline Vetuna <br>
 Bigoa Chuol <br>
 Rasheedah Philips** <br>
