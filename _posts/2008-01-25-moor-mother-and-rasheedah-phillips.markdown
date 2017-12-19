@@ -34,6 +34,6 @@ Sezzo Snot** <br>
 **With readings from: <br>
 Pauline Vetuna <br>
 Bigoa Chuol <br>
-Rasheedah Philips** <br>
+Rasheedah Phillips** <br>
 
 Presented by The SUBSTATION, [LIQUID ARCHITECTURE](http://www.liquidarchitecture.org.au/) and [STILL NOMADS](https://www.facebook.com/stillnomads/) in association with MONA FOMA.
