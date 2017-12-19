@@ -31,7 +31,7 @@ Kandere is the duo of artists, Lakyn Tarai and Ripley Kavara. Their connection i
 **Papaphilia**<br>
 Papaphilia is the solo project of Fjorn. Fjorn has previously explored anxiety-ridden embodiment in live performance through improvised harshed out electronic effects and tape manipulation. 
 **Neil Morris**<br>
-Yorta yorta song carrier sound breather. Story giver sovereign spirit. Through collages of sound and word fused with various modern technologies, Neil Morris creates art that positions itself in futuristic realms, whilst continuing reverberations of the ancient into the now, with a strong impetus of decolonisation embodied.
+Yorta yorta song carrier sound breather. Story giver sovereign spirit. Through collages of sound and word fused with various modern technologies, Neil Morris creates art that positions itself in futuristic realms, whilst continuing reverberations of the ancient into the now, with a strong impetus of decolonisation embodied.<br>
 **Sezzo Snot** <br>
 Sezzo Snot emerges as a club DJ who combines social media commentary and philosophy. In her hometown of Brisbane, she curated the first QTIPOC club nights outside of the normative gay sphere.<br>
 **With readings from: <br>
