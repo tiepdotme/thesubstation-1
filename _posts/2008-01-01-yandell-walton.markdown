@@ -10,7 +10,8 @@ datetime:
 - 2018-01-01 09:00:00 +11:00
 - 2018-12-31 09:00:00 +11:00
 is-single-month-duration: false
-is-many-months-duration: true
+is-many-months-duration: false
+is-year-duration: true
 ---
 
 Exploring ideas around impermanence and our changing environment, [YANDELL WALTON](http://yandellw.tumblr.com/)’s work uses projection, installation and digital media to meld architectural space with projected images. 
