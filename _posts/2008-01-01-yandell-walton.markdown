@@ -10,7 +10,7 @@ datetime:
 - 2018-01-01 09:00:00 +11:00
 - 2018-12-31 09:00:00 +11:00
 is-single-month-duration: false
-is-many-months-duration: false
+is-many-months-duration: true
 is-year-duration: true
 ---
 
