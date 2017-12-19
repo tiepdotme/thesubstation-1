@@ -1,13 +1,14 @@
 ---
 title: The Orbweavers
-date: 2017-12-19 14:46:00 +11:00
+date: 2008-01-01 14:46:00 +11:00
 categories:
 - in-development
 presented-by: THE SUBSTATION COMMISSIONING PROGRAM
 datetime:
 - 2018-01-01 09:00:00 +11:00
 - 2018-12-19 09:00:00 +11:00
-is-many-months-duration: true
+is-many-months-duration: false
+is-year-duration: true
 ---
 
 MARITA DYSON and STUART FLANAGAN together as [THE
