@@ -2,7 +2,7 @@
 title: Claire Edwardes and Richard Cilli
 date: 2007-12-01 10:46:00 +11:00
 categories:
-- in-development
+- archive
 image: "/uploads/richard.jpg"
 image-credit: Imanuel Dado
 datetime:
