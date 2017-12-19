@@ -17,5 +17,6 @@ Exploring ideas around impermanence and our changing environment, [YANDELL WALTO
 
 Blurring the lines between the actual and the virtual, WALTON explores the relationship between nature and human mortality through environmental, political, personal and social experiences.
 
-YANDELL WALTON's work is part of The SUBSTATION COMMISSIONING PROGRAM. For more information or to donate, [click here.](https://thesubstation.org.au/donate/)
+YANDELL WALTON's work is part of The SUBSTATION COMMISSIONING PROGRAM. <br>
+For more information or to donate, [click here.](https://thesubstation.org.au/donate/)
 
