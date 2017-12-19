@@ -47,4 +47,6 @@ Join LAWRENCE ENGLISH for a workshop in field recording, sound documentation, ma
 
 Limited number of tickets available.
 
+**Please note:** Participants will need to bring their own recording device for this workshop. These devices do not need to be high tech, and could be a mobile phone or cassette recorder. 
+
 THEMBI SODDELL’s LOVE SONGS is assisted by the Australian Government through the Australia Council, its arts funding and advisory body.
