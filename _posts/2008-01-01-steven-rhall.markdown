@@ -1,6 +1,6 @@
 ---
 title: Steven Rhall
-date: 2017-12-19 18:17:00 +11:00
+date: 2008-01-01 18:17:00 +11:00
 image: "/uploads/steven-rhall.jpg"
 presented-by: THE SUBSTATION COMMISSIONING PROGRAM
 datetime:
