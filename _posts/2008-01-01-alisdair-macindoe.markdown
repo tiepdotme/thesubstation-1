@@ -9,7 +9,7 @@ datetime:
 - 2018-01-01 00:00:00 +11:00
 - 2018-12-19 00:00:00 +11:00
 is-many-months-duration: true
-is-year-duration: true
+is-year-duration: false
 ---
 
 Exploring multi room instrumentation, robotic music and programmatic composition, ALISDAIR
