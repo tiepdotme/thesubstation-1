@@ -15,4 +15,5 @@ Exploring multi room instrumentation, robotic music and programmatic composition
 MACINDOE’s work reflects on the idea that digital technology is a new lifeform that we are currently
 gestating.
 
-ALISDAIR MACINDOE’s work is part of The SUBSTATION COMMISSIONING PROGRAM. For more information or to donate, [click here.](https://thesubstation.org.au/donate/)
+ALISDAIR MACINDOE’s work is part of The SUBSTATION COMMISSIONING PROGRAM. 
+For more information or to donate, [click here.](https://thesubstation.org.au/donate/)
