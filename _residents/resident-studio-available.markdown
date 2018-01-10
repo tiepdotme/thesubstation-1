@@ -4,6 +4,7 @@ date: 2018-01-10 15:16:00 +11:00
 button-url: mailto:manager@thesubstation.org.au
 button-txt: APPLY
 image: "/uploads/resident-artist.jpg"
+current: true
 ---
 
 The SUBSTATION is seeking expressions of interest from Victorian-based individual artists, artist groups and companies to join our current list of Resident Artists for 2018.  
