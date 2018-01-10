@@ -1,6 +1,6 @@
 ---
 title: Emerging Artist Studio
-date: 2008-01-01 12:47:00 +11:00
+date: 2008-12-31 12:47:00 +11:00
 categories:
 - in-development
 button-url: mailto:manager@thesubstation.org.au
@@ -23,7 +23,6 @@ The SUBSTATION is seeking applications from emerging artists of all disciplines 
 •	Consideration for inclusion in future programming.  
 
 Applicants must be within 5 years of graduating from an arts degree at a tertiary level.
-
 
 Please outline your arts practice. 200 words max.
 
