@@ -1,6 +1,6 @@
 ---
 title: Emerging Artist Studio
-date: 2008-12-31 12:47:00 +11:00
+date: 2009-01-01 12:47:00 +11:00
 categories:
 - in-development
 image: "/uploads/emerging-artist.jpg"
