@@ -4,7 +4,7 @@ date: 2008-12-31 12:47:00 +11:00
 categories:
 - in-development
 image: "/uploads/emerging-artist.jpg"
-button-url: mailto:manager@thesubstation.org.au
+button-url: mailto:manager@thesubstation.org.au?subject=Emerging%20Artist%20Studio%20EOI
 button-txt: Apply
 datetime:
 - 2018-01-01 00:00:00 +11:00
