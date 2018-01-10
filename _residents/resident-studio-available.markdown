@@ -9,6 +9,7 @@ current: true
 
 **RESIDENT ARTIST STUDIO**
 <br>
+
 The SUBSTATION is seeking expressions of interest from Victorian-based individual artists, artist groups and companies to join our current list of Resident Artists for 2018.  
 <br>
 
