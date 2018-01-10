@@ -6,6 +6,7 @@ categories:
 image: "/uploads/emerging-artist.jpg"
 button-url: mailto:manager@thesubstation.org.au?subject=Emerging%20Artist%20Studio%20EOI
 button-txt: Apply
+presented-by: EXPRESSION OF INTEREST NOW OPEN
 datetime:
 - 2018-01-01 00:00:00 +11:00
 is-year-duration: true
