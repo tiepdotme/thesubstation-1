@@ -12,6 +12,7 @@ datetime:
 is-year-duration: true
 ---
 
+**EMERGING ARTIST STUDIO EOI** <br>
 The SUBSTATION is seeking expressions of interest from individual artists to undertake our inaugural Emerging Artist Studio Residency. 
  
 The SUBSTATION presents an annual curated program of creative development, residencies and presentation. Engaging with artists from across artistic disciplines, working in non-traditional modes and across art-forms, we provide the opportunity for artists and audiences to connect with our unique space and distinctive location in Newport in the west of Melbourne. 
