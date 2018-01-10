@@ -1,8 +1,7 @@
 ---
 title: Channels Festival
 date: 2016-11-30 15:34:00 +11:00
-published: false
-current: true
+current: false
 image: "/uploads/channels-festival.jpg"
 image-credit: Jody Haines. Sam Smith, NOTES, 2015, Performance at ACMI Studio for
   Channels Festival 2015
