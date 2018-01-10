@@ -17,3 +17,7 @@ For further information please contact Kali Michailidis, General Manager, 03 939
 **[PRODUCTION MANAGER POSITION DESCRIPTION](/uploads/PRODUCTION%20MANAGER%20Position%20Description.pdf)**
 
 **[MARKETING COORDINATOR POSITION DESCRIPTION](/uploads/Marketing%20Coordinator%20Position%20Description.pdf)**
+
+**OTHER WAYS TO WORK WITH US**<br>
+**[EMERGING ARTISTS' STUDIO EXPRESSION OF INTERESTS NOW OPEN](http://thesubstation.org.au/in-development/emerging-artist-studio/)**<br>
+**[RESIDENT STUDIO AVAILABLE](http://thesubstation.org.au/residents/resident-studio-available/)**
