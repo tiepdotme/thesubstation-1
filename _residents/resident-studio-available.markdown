@@ -21,4 +21,5 @@ There are currently several office/studio spaces available that are 4.4m x 3.7m 
 For further information, please contact Kali Michailidis, General Manager on 03 9391 1110. 
 
 To Apply;
+
 Please explain your artistic practice and biography in 250 words or less. 
