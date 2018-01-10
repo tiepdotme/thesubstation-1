@@ -3,10 +3,12 @@ title: Emerging Artist Studio
 date: 2008-12-31 12:47:00 +11:00
 categories:
 - in-development
+image: "/uploads/emerging-artist.jpg"
 button-url: mailto:manager@thesubstation.org.au
 button-txt: Apply
 datetime:
 - 2018-01-01 00:00:00 +11:00
+is-year-duration: true
 ---
 
 The SUBSTATION is seeking expressions of interest from individual artists to undertake our inaugural Emerging Artist Studio Residency. 
