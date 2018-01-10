@@ -4,7 +4,7 @@ date: 2008-12-31 12:47:00 +11:00
 categories:
 - in-development
 image: "/uploads/emerging-artist.jpg"
-button-url: mailto:manager@thesubstation.org.au?subject=Emerging%20Artist%20Studio%20EOI
+button-url: https://www.judgify.me/emergingartist
 button-txt: Apply
 presented-by: EXPRESSION OF INTEREST NOW OPEN
 datetime:
