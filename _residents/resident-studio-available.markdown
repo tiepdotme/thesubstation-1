@@ -1,7 +1,7 @@
 ---
 title: Resident Studio Available
 date: 2018-01-10 15:16:00 +11:00
-button-url: mailto:manager@thesubstation.org.au?subject=Resident%20Studio
+button-url: https://www.judgify.me/residentartist2018
 button-txt: APPLY
 image: "/uploads/resident-artist.jpg"
 current: true
