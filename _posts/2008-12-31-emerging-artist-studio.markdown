@@ -27,6 +27,8 @@ The SUBSTATION is seeking applications from emerging artists of all disciplines 
 
 Applicants must be within 5 years of graduating from an arts degree at a tertiary level.
 
+To Apply;
+
 Please outline your arts practice (200 words max.)
 
 How would this studio residency benefit you and your practice? (150 words max.)
