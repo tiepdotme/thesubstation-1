@@ -1,6 +1,6 @@
 ---
 title: Antony Hamilton
-date: 2017-12-20 13:03:00 +11:00
+date: 2008-12-17 13:03:00 +11:00
 image: "/uploads/antony-hamilton.jpg"
 current: true
 ---
