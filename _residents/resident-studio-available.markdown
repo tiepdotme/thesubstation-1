@@ -1,7 +1,7 @@
 ---
 title: Resident Studio Available
 date: 2018-01-10 15:16:00 +11:00
-button-url: mailto:manager@thesubstation.org.au
+button-url: mailto:manager@thesubstation.org.au?subject=Resident%20Studio
 button-txt: APPLY
 image: "/uploads/resident-artist.jpg"
 current: true
@@ -19,4 +19,5 @@ There are currently several office/studio spaces available that are 4.4m x 3.7m 
 
 For further information, please contact Kali Michailidis, General Manager on 03 9391 1110. 
 
+To Apply;
 Please explain your artistic practice and biography in 250 words or less. 
