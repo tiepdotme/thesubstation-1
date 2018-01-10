@@ -5,6 +5,7 @@ button-url: https://www.judgify.me/residentartist2018
 button-txt: APPLY
 image: "/uploads/resident-artist.jpg"
 current: true
+image-credit: 'IMAGE CREDIT: ANTONY HAMILTON'
 ---
 
 **RESIDENT ARTIST STUDIO**
