@@ -9,6 +9,8 @@ button-txt: Apply
 presented-by: EXPRESSION OF INTEREST NOW OPEN
 datetime:
 - 2018-01-01 00:00:00 +11:00
+is-single-month-duration: false
+is-many-months-duration: true
 is-year-duration: true
 ---
 
@@ -30,8 +32,13 @@ The SUBSTATION is seeking applications from emerging artists of all disciplines 
 Applicants must be within 5 years of graduating from an arts degree at a tertiary level.
 
 To Apply;
+
 Please outline your arts practice (200 words max.)
+
 How would this studio residency benefit you and your practice? (150 words max.)
+
 Artist CV (2 pages)
+
 Images (max. 10 combined into a single PDF)
+
 Letters of support (max. 2 pages)
