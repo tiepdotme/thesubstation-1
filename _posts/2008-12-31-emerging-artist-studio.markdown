@@ -17,18 +17,18 @@ The SUBSTATION presents an annual curated program of creative development, resid
  
 Our 100-year-old repurposed, industrial building houses a visual arts gallery, rehearsal studio and large-scale performance space. We encourage artists to engage with our post-industrial space and foster a culture of interconnectedness, collaboration and independence, where we value new ideas, imagination and difference. Our artistic program includes significant investment in the creation of new work by artists from across artforms and a commitment to a collaborative relationship between artists and presenter.
 
-The SUBSTATION is seeking applications from emerging artists of all disciplines and art forms to apply for a studio residency in our venue for 12 months. The successful applicant will receive: 
-•	A studio space free of charge with 24-hour access
-•	An artist fee of $4,000
-•	Access to The SUBSTATION's facilities and resources
-•	Mentoring by The SUBSTATION's staff
-•	Consideration for inclusion in future programming.  
+The SUBSTATION is seeking applications from emerging artists of all disciplines and art forms to apply for a studio residency in our venue for 12 months. The successful applicant will receive:<br> 
+•	A studio space free of charge with 24-hour access <br>
+•	An artist fee of $4,000 <br>
+•	Access to The SUBSTATION's facilities and resources <br>
+•	Mentoring by The SUBSTATION's staff <br>
+•	Consideration for inclusion in future programming. <br>
 
 Applicants must be within 5 years of graduating from an arts degree at a tertiary level.
 
-Please outline your arts practice. 200 words max.
+Please outline your arts practice (200 words max.)
 
-How would this studio residency benefit you and your practice? 150 words max. 
+How would this studio residency benefit you and your practice? (150 words max.)
 
 Artist CV (2 pages)
 
