@@ -8,7 +8,7 @@ button-url: https://www.judgify.me/emergingartist
 button-txt: Apply
 presented-by: EXPRESSION OF INTEREST NOW OPEN
 datetime:
-- 2018-01-01 00:00:00 +11:00
+- 2018-02-09 17:00:00 +11:00
 is-single-month-duration: false
 is-many-months-duration: true
 is-year-duration: true
@@ -33,7 +33,7 @@ The SUBSTATION is seeking applications from emerging artists of all disciplines 
 •	Mentoring by The SUBSTATION's staff <br>
 •	Consideration for inclusion in future programming. <br>
 <br>
-Applicants must be within 5 years of graduating from an arts degree at a tertiary level.
+Applicants must be within 5 years of graduating from any arts degree at a tertiary level and live within the Greater Western Suburbs of Melbourne.
 
 To Apply;
 
@@ -46,3 +46,5 @@ Artist CV (2 pages)
 Images (max. 10 combined into a single PDF)
 
 Letters of support (max. 2 pages)
+
+Applications close 9 February, 5pm.
