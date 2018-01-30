@@ -11,7 +11,11 @@ datetime:
 - 2018-02-02 11:00:00 +11:00
 - 2018-03-10 17:00:00 +11:00
 is-on-home-page: true
-has-opening-event: true
+has-opening-event:
+- true
+- 
+has-preview-event:
+- 
 is-within-gallery-open-time: true
 supporters:
 - Room40
