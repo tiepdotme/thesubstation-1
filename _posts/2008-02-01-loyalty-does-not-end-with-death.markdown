@@ -8,7 +8,7 @@ image-credit: Drew Weidemann
 presented-by: GENESIS BREYER P-ORRIDGE
 price: FREE
 datetime:
-- 2018-02-02 11:00:00 +11:00
+- 2018-02-01 18:00:00 +11:00
 - 2018-03-10 17:00:00 +11:00
 is-on-home-page: true
 has-opening-event:
