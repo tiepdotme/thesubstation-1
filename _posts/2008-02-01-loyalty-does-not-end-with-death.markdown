@@ -13,6 +13,7 @@ datetime:
 is-on-home-page: true
 has-opening-event:
 - true
+has-start-time: true
 is-within-gallery-open-time: true
 supporters:
 - Room40
