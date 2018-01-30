@@ -13,7 +13,6 @@ datetime:
 is-on-home-page: true
 has-opening-event:
 - true
-- 
 has-preview-event:
 - 
 is-within-gallery-open-time: true
