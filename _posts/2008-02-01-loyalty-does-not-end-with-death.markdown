@@ -1,6 +1,7 @@
 ---
 title: Loyalty Does Not End With Death
 date: 2008-02-01 14:57:00 +11:00
+published: false
 categories:
 - whats-on
 image: "/uploads/loyalty.jpg"
@@ -8,7 +9,7 @@ image-credit: Drew Weidemann
 presented-by: GENESIS BREYER P-ORRIDGE
 price: FREE
 datetime:
-- 2018-02-01 18:00:00 +11:00
+- 2018-02-02 11:00:00 +11:00
 - 2018-03-10 17:00:00 +11:00
 is-on-home-page: true
 has-opening-event: true
