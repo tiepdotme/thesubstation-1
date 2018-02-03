@@ -10,7 +10,7 @@ presented-by: "(USA)"
 price: FULL $30 / CONCESSION $20
 datetime:
 - 2018-01-25 19:00:00 +11:00
-is-on-home-page: true
+is-on-home-page: false
 has-start-time: true
 supporters:
 - Liquid Architecture
