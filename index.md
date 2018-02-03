@@ -1,7 +1,7 @@
 ---
 title: Home
 pages: What's On
-events: 
+events: Cruel Optimism
 youtube: 
 vimeo: 245810139
 banner-image: "/uploads/HomepageB2B.gif"
