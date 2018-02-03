@@ -2,7 +2,7 @@
 title: GENESIS BREYER P-ORRIDGE with EDLEY ODOWD
 date: 2008-02-02 20:00:00 +11:00
 categories:
-- whats-on
+- archive
 image: "/uploads/genesis.jpg"
 image-credit: Drew Weidemann
 button-url: https://thesubstation.org.au/whats-on/loyalty-does-not-end-with-death/
