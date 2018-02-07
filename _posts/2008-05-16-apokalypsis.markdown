@@ -1,6 +1,6 @@
 ---
 title: Apokalypsis
-date: 2008-05-16 11:38:00 +10:00
+date: 2008-05-16 10:38:00 +10:00
 categories:
 - whats-on
 image: "/uploads/apokalypsis.jpg"
@@ -16,8 +16,8 @@ has-start-time: true
 is-list-of-dates: false
 notes:
   note: |-
-    MATINEE: SAT MAY 12, 4PM
-    CLOSING NIGHT: SUN MAY 13, 6.30PM
+    MATINEE: SAT MAY 19, 4PM
+    CLOSING NIGHT: SUN MAY 20, 6.30PM
 supporters:
 - Next Wave
 - Australia Council of Arts
