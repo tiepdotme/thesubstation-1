@@ -1,6 +1,6 @@
 ---
 title: Apokalypsis
-date: 2008-05-16 10:38:00 +10:00
+date: 2008-05-16 09:38:00 +10:00
 categories:
 - whats-on
 image: "/uploads/apokalypsis.jpg"
@@ -12,10 +12,12 @@ price: STANDARD $28/CONCESSION $23 + BF
 datetime:
 - 2018-05-16 19:30:00 +10:00
 - 2018-05-20 18:30:00 +10:00
+has-preview-event: true
 has-start-time: true
 is-list-of-dates: false
 notes:
   note: |-
+    PREVIEW: WED MAY 16, 7.30PM
     MATINEE: SAT MAY 19, 4PM
     CLOSING NIGHT: SUN MAY 20, 6.30PM
 supporters:
