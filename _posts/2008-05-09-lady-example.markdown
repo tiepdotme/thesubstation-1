@@ -1,6 +1,6 @@
 ---
 title: Lady Example
-date: 2008-05-09 08:51:00 +10:00
+date: 2008-05-09 07:51:00 +10:00
 categories:
 - whats-on
 image: "/uploads/lady-example-2018.jpg"
@@ -18,8 +18,7 @@ has-start-time: true
 is-list-of-dates: false
 notes:
   note: |-
-    MATINEE: SAT MAY 12, 4PM
-
+    MATINEE: SAT MAY 12, 4PM <br />
     CLOSING NIGHT: SUN MAY 13, 6.30PM
 supporters:
 - Next Wave
