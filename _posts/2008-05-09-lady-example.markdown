@@ -1,6 +1,6 @@
 ---
 title: Lady Example
-date: 2008-05-09 10:51:00 +10:00
+date: 2008-05-09 09:51:00 +10:00
 categories:
 - whats-on
 image: "/uploads/lady-example-2018.jpg"
@@ -18,7 +18,6 @@ has-start-time: true
 is-list-of-dates: false
 notes:
   note: |-
-    PREVIEW: WED MAY 9, 7.30PM
     MATINEE: SAT MAY 12, 4PM
     CLOSING NIGHT: SUN MAY 13, 6.30PM
 supporters:
