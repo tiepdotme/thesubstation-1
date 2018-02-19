@@ -1,6 +1,6 @@
 ---
 title: Lady Example
-date: 2008-05-09 07:51:00 +10:00
+date: 2008-05-09 06:51:00 +10:00
 categories:
 - whats-on
 image: "/uploads/lady-example-2018.jpg"
@@ -18,7 +18,7 @@ has-start-time: true
 is-list-of-dates: false
 notes:
   note: |-
-    MATINEE: SAT MAY 12, 4PM <br>
+    MATINEE: SAT MAY 12, 4PM  <br />
     CLOSING NIGHT: SUN MAY 13, 6.30PM
 supporters:
 - Next Wave
@@ -31,6 +31,8 @@ supporters:
 Women of the World take over, because if you don't the world will come to an end, and we haven't got long.
 
 From the makers of THIS IS WHAT’S HAPPENING, BLOWIN’ UP and FALLEN O’ER — LADY EXAMPLE, is a deranged and exquisite stocktake of history to propose a feminine future. Let us turn to our lady examples. 
+
+Green Tickets are available for purchase on Wednesday, May 9 to patrons who travel to the venue in an environmentally friendly way. You must provide evidence of travel at the box office.
 
 Created and performed by ALICE DIXON, CAROLINE MEADEN and WILLIAM MCBRIDE with an ensemble of artists. 
 
