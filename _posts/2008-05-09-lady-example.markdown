@@ -18,6 +18,7 @@ has-start-time: true
 is-list-of-dates: false
 notes:
   note: |-
+    PREVIEW: WED MAY 9, 7.30PM
     MATINEE: SAT MAY 12, 4PM
     CLOSING NIGHT: SUN MAY 13, 6.30PM
 supporters:
