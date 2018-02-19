@@ -19,7 +19,7 @@ has-start-time: true
 is-list-of-dates: false
 notes:
   note: |-
-    MATINEE: SAT MAY 19, 4.00PM <br>
+    MATINEE: SAT MAY 19, 4.00PM  <br />
     CLOSING NIGHT: SUN MAY 20, 6.30PM
 supporters:
 - Next Wave
