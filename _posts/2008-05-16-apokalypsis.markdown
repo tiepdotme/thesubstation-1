@@ -1,6 +1,6 @@
 ---
 title: Apokalypsis
-date: 2008-05-16 07:38:00 +10:00
+date: 2008-05-16 06:38:00 +10:00
 categories:
 - whats-on
 image: "/uploads/apokalypsis.jpg"
@@ -19,7 +19,7 @@ has-start-time: true
 is-list-of-dates: false
 notes:
   note: |-
-    MATINEE: SAT MAY 19, 4.00PM <br />
+    MATINEE: SAT MAY 19, 4.00PM <br>
     CLOSING NIGHT: SUN MAY 20, 6.30PM
 supporters:
 - Next Wave
