@@ -2,6 +2,7 @@
 title: The Australian Art Orchestra
 date: 2018-02-19 11:14:00 +11:00
 image: "/uploads/AAO-Credit_MiaForrest%232.jpg"
+current: true
 ---
 
 Led by Peter Knight, [[The Australian Art Orchestra](http://www.aao.com.au/)] (AAO) is one of Australia’s leading contemporary ensembles. Its work constantly seeks to stretch genres and break down the barriers separating disciplines, forms and cultures. It explores the interstices between the avant-garde and the traditional, between art and popular music, between electronic and acoustic approaches, and creates music that traverses the continuum between improvised and notated forms.
