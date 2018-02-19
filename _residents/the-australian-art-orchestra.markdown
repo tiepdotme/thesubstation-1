@@ -5,7 +5,7 @@ image: "/uploads/AAO-Credit_MiaForrest2.jpg"
 current: true
 ---
 
-Led by Peter Knight, <uThe Australian Art Orchestra/u> (AAO) is one of Australia’s leading contemporary ensembles. Its work constantly seeks to stretch genres and break down the barriers separating disciplines, forms and cultures. It explores the interstices between the avant-garde and the traditional, between art and popular music, between electronic and acoustic approaches, and creates music that traverses the continuum between improvised and notated forms.
+Led by Peter Knight, [<uThe Australian Art Orchestra/u>](http://www.aao.com.au/) (AAO) is one of Australia’s leading contemporary ensembles. Its work constantly seeks to stretch genres and break down the barriers separating disciplines, forms and cultures. It explores the interstices between the avant-garde and the traditional, between art and popular music, between electronic and acoustic approaches, and creates music that traverses the continuum between improvised and notated forms.
 
 The AAO takes influence from the acclaimed Art Ensemble of Chicago and in doing so it builds on a set of ideas that stretch back to the beginnings of jazz. These ideas, in turn, drew on an extraordinary collision of cultures, ways of thinking, and folk traditions that are so old that their beginnings are untraceable.
 
