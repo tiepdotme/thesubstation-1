@@ -1,6 +1,6 @@
 ---
 title: Apokalypsis
-date: 2008-05-16 08:38:00 +10:00
+date: 2008-05-16 07:38:00 +10:00
 categories:
 - whats-on
 image: "/uploads/apokalypsis.jpg"
@@ -10,8 +10,8 @@ button-txt: BUY TICKETS
 presented-by: ZAK PIDD AND CHARLES PURCELL
 price: STANDARD $28/CONCESSION $23 + BF
 datetime:
-- 2018-05-17 19:30:00 +10:00
 - 2018-05-16 19:30:00 +10:00
+- 2018-05-17 19:30:00 +10:00
 - 2018-05-20 18:30:00 +10:00
 has-opening-event: true
 has-preview-event: true
@@ -19,8 +19,7 @@ has-start-time: true
 is-list-of-dates: false
 notes:
   note: |-
-    MATINEE: SAT MAY 19, 4.00PM
-
+    MATINEE: SAT MAY 19, 4.00PM <br />
     CLOSING NIGHT: SUN MAY 20, 6.30PM
 supporters:
 - Next Wave
