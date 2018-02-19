@@ -1,6 +1,6 @@
 ---
 title: Lady Example
-date: 2008-05-09 09:51:00 +10:00
+date: 2008-05-09 08:51:00 +10:00
 categories:
 - whats-on
 image: "/uploads/lady-example-2018.jpg"
@@ -10,7 +10,7 @@ presented-by: SLOWN, SMALLENED & SON
 price: STANDARD $28/ $23 CONCESSION + BF
 datetime:
 - 2018-05-09 19:30:00 +10:00
-- 2018-05-10 07:30:00 +10:00
+- 2018-05-10 19:30:00 +10:00
 - 2018-05-13 18:30:00 +10:00
 has-opening-event: true
 has-preview-event: true
