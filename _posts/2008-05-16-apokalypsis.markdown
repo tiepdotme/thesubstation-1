@@ -1,6 +1,6 @@
 ---
 title: Apokalypsis
-date: 2008-05-16 06:38:00 +10:00
+date: 2008-05-16 05:38:00 +10:00
 categories:
 - whats-on
 image: "/uploads/apokalypsis.jpg"
@@ -40,6 +40,6 @@ Lighting Design: Katie Sfetkidis
 Sound Design: Zak Pidd
 Dramaturgy: Katy Maudlin
 Mentor: Bruce Gladwin
-Associate Producer: Bron Belcher
+Producer: Tash Phillips
 
 Presented by The SUBSTATION and [NEXT WAVE](http://nextwave.org.au/) as part of the KICKSTART HELIX PROGRAM.
