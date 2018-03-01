@@ -1,5 +1,5 @@
 ---
-title: 'Sound School: Anne Lanzilotti, Gahlord Dewald, & Fia Fiell'
+title: 'SOUND SCHOOL: ANNE LANZILOTTI, GAHLORD DEWALD & FIA FIELL'
 date: 2008-03-12 17:45:00 +11:00
 image: "/uploads/sound-school.jpg"
 image-credit: Anne Lanzilotti
