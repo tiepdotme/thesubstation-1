@@ -8,7 +8,7 @@ image-credit: Orfee Schuijt
 button-url: http://thesubstation.iwannaticket.com.au/event/kim-myhr-solo-with-peter-knight-MTQzNzA
 button-txt: BUY TICKETS
 presented-by: "(NORWAY)"
-price: TICKETS $35 | FRIDAY 8 JUNE AND SATURDAY 9 JUNE (COMBINED) $45
+price: TICKETS $25 | FRIDAY 8 JUNE AND SATURDAY 9 JUNE (COMBINED) $45
 datetime:
 - 2018-06-08 20:00:00 +10:00
 has-start-time: true
