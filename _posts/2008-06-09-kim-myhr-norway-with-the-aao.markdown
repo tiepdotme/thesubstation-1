@@ -1,6 +1,6 @@
 ---
 title: Kim Myhr with the AAO
-date: 2008-06-09 13:08:00 +10:00
+date: 2008-06-09 12:08:00 +10:00
 categories:
 - whats-on
 image: "/uploads/kim-myhr-8.jpg"
@@ -8,7 +8,7 @@ image-credit: Orfee Schuijt
 button-url: http://thesubstation.iwannaticket.com.au/event/kim-myhr-norway-with-the-australian-art-orchestra-MTQzNzE
 button-txt: BUY TICKETS
 presented-by: "(NORWAY)"
-price: TICKETS $30 | FRIDAY 8 JUNE AND SATURDAY 9 JUNE (COMBINED) $45
+price: TICKETS $35 | FRIDAY 8 JUNE AND SATURDAY 9 JUNE (COMBINED) $45
 datetime:
 - 2018-06-09 20:00:00 +10:00
 has-start-time: true
