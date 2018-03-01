@@ -34,12 +34,12 @@ As history speeds towards the present day and energy and resources diminish, wha
 
 Jump cutting between genres and underpinned by a gradually evolving live score, APOKALYPSIS is a high octane, searing indictment of denialism and our inability to work together in this extraordinary moment in time: the eve of the Anthropocene. 
 
-Devisors and Performers: Kai Bradley, Rosie Clynes, Zak Pidd and Charles Purcell
-Set and Costume Design: Jonathan Hindmarsh
-Lighting Design: Katie Sfetkidis
-Sound Design: Zak Pidd
-Dramaturgy: Katy Maudlin
-Mentor: Bruce Gladwin
-Producer: Tash Phillips
+Devisors and Performers: Kai Bradley, Rosie Clynes, Zak Pidd and Charles Purcell <br>
+Set and Costume Design: Jonathan Hindmarsh <br>
+Lighting Design: Katie Sfetkidis <br>
+Sound Design: Zak Pidd <br>
+Dramaturgy: Katy Maudlin <br>
+Mentor: Bruce Gladwin <br>
+Producer: Tash Phillips <br>
 
 Presented by The SUBSTATION and [NEXT WAVE](http://nextwave.org.au/) as part of the KICKSTART HELIX PROGRAM.
