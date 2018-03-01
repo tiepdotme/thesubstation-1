@@ -19,3 +19,5 @@ LANZILOTTI, Assistant Professor of Viola at University of Northern Colorado Scho
 GAHLORD DEWALD is an experimental double bass and modular synthesiser artist specializing in acoustic, electric, and synthetic low frequencies. Together they form The Yes &, a viola and modular synth duo. A presentation on the inner workings of their practice of combined classical string instruments and experimental electronics and the philosophy of Deep Listening will be followed by a live performance on viola and modular synthesiser. 
 
 ANNE and GAHLORD are joined by Melbourne experimental dance music artist FIA FIELL, who brings her classical training as a pianist to modern synthesis. 
+
+Presented by Sound School
