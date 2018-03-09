@@ -7,7 +7,7 @@ image: "/uploads/genesis.jpg"
 image-credit: Drew Weidemann
 button-url: https://thesubstation.org.au/whats-on/loyalty-does-not-end-with-death/
 button-txt: MORE INFO
-is-on-home-page: true
+is-on-home-page: false
 has-start-time: false
 notes:
   note: 18+
