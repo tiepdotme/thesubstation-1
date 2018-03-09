@@ -10,7 +10,7 @@ price: FREE
 datetime:
 - 2018-02-01 18:00:00 +11:00
 - 2018-03-10 17:00:00 +11:00
-is-on-home-page: true
+is-on-home-page: false
 has-opening-event:
 - true
 has-start-time: true
