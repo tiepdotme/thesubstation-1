@@ -1,6 +1,8 @@
 ---
 title: REMUSE Equinox V Vênus | VAMFF Offsite Runway
 date: 2008-03-18 17:47:00 +11:00
+categories:
+- whats-on
 image: "/uploads/VAMFF_EquinoxV_substation_anthonytosello1.jpg"
 image-credit: Anthony Tosello
 presented-by: 'R E M U S E '
