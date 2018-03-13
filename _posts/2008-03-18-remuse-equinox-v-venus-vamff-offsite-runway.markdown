@@ -19,3 +19,5 @@ On the new moon prior to the Autumnal Equinox, Equinox V Vênus will teleport yo
 Showcasing the label's Equinox V / Autumn 2018 collection in collaboration with select musicians, performance and installation artists. 
 
 All ticket profits will be donated directly to [ISER Caribe](https://isercaribe.org/), Puerto Rico based humanitarian and environmental conservation organisation formed after Hurricane Maria humanitarian, and curated as part of the VAMFF Offsite Runway Program.
+
+Supported by, Creative Victoria and Salvos Stores
