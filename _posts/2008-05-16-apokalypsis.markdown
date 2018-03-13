@@ -1,6 +1,6 @@
 ---
 title: Apokalypsis
-date: 2008-05-16 05:38:00 +10:00
+date: 2008-05-16 04:38:00 +10:00
 categories:
 - whats-on
 image: "/uploads/apokalypsis.jpg"
@@ -23,16 +23,14 @@ notes:
     CLOSING NIGHT: SUN MAY 20, 6.30PM
 supporters:
 - Next Wave
-- Australia Council of Arts
+- Creative Victoria
 ---
 
-Four performers. One hundred apocalypses. Sixty minutes.
+While the world spews forth an unrelenting stream of doom and despair, Apokalypsis sees four performers take on the task of presenting 100 historical disasters in 60 minutes. 
 
-Beginning with the Big Bang and hurtling through wars, famines, kingdoms collapsing, extinctions and dictatorships, APOKALYPSIS establishes a narrative of the world as one of repeated annihilation and overcoming.
+Beginning with the Big Bang and hurtling through a quick-fire stream of events that have edged us into the Anthropocene, this theatrical flip-book presents a narrative of the world as one of repeated annihilation and renewal.
 
-As history speeds towards the present day and energy and resources diminish, what emerges is a hallucinogenic vision of a world on the brink of total collapse. This is contemporary Western society: people with the tools, intelligence and power to change the course of the planet, but who can't find the will.
-
-Jump cutting between genres and underpinned by a gradually evolving live score, APOKALYPSIS is a high octane, searing indictment of denialism and our inability to work together in this extraordinary moment in time: the eve of the Anthropocene. 
+As history speeds towards the present day and energy and resources diminish, what emerges is a hallucinogenic vision of a world on the brink of collapse, and a searing indictment of denialism at this extraordinary moment in Earth’s history.
 
 Devisors and Performers: Kai Bradley, Rosie Clynes, Zak Pidd and Charles Purcell <br>
 Set and Costume Design: Jonathan Hindmarsh <br>
