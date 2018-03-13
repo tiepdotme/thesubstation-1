@@ -40,4 +40,4 @@ Dramaturgy: Katy Maudlin <br>
 Producer: Natasha Phillips <br>
 Associate Producer: Bron Belcher <br> 
 
-Presented by The SUBSTATION and [NEXT WAVE](http://nextwave.org.au/) as part of the KICKSTART HELIX PROGRAM.
+Apokalypsis is presented by The SUBSTATION and has been commissioned and developed through Next Wave’s flagship learning program Kickstart Helix. The project is supported by the Victorian Government through Creative Victoria, The Seaborn, Broughton and Walford Foundation and The Besen Family Foundation.
