@@ -32,12 +32,12 @@ Beginning with the Big Bang and hurtling through a quick-fire stream of events t
 
 As history speeds towards the present day and energy and resources diminish, what emerges is a hallucinogenic vision of a world on the brink of collapse, and a searing indictment of denialism at this extraordinary moment in Earth’s history.
 
-Devisors and Performers: Kai Bradley, Rosie Clynes, Zak Pidd and Charles Purcell <br>
-Set and Costume Design: Jonathan Hindmarsh <br>
+Performers and Co-Creators: Kai Bradley, Rosie Clynes, Marcus McKenzie, Charles Purcell <br>
+Sound Design and Co-Creator: Zak Pidd <br>
+Set & Costume Design: Jonathan Hindmarsh <br>
 Lighting Design: Katie Sfetkidis <br>
-Sound Design: Zak Pidd <br>
 Dramaturgy: Katy Maudlin <br>
-Mentor: Bruce Gladwin <br>
-Producer: Tash Phillips <br>
+Producer: Natasha Phillips <br>
+Associate Producer: Bron Belcher <br> 
 
 Presented by The SUBSTATION and [NEXT WAVE](http://nextwave.org.au/) as part of the KICKSTART HELIX PROGRAM.
