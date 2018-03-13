@@ -1,6 +1,6 @@
 ---
 title: Apokalypsis
-date: 2008-05-16 04:38:00 +10:00
+date: 2008-05-16 03:38:00 +10:00
 categories:
 - whats-on
 image: "/uploads/apokalypsis.jpg"
@@ -24,6 +24,7 @@ notes:
 supporters:
 - Next Wave
 - Creative Victoria
+- Besen Foundation
 ---
 
 While the world spews forth an unrelenting stream of doom and despair, Apokalypsis sees four performers take on the task of presenting 100 historical disasters in 60 minutes. 
