@@ -3,18 +3,18 @@ title: Hyphenated
 date: 2008-03-22 14:34:00 +11:00
 categories:
 - whats-on
-has-opening-event: true
+image: "/uploads/hyphenated.jpg"
+image-credit: Nikki Lam, Still... What is Left, 2017, HD Video
 presented-by: Curated by Phuong Ngo and Tammy Wong Hulbert
+price: FREE
 datetime:
 - 2018-03-22 18:00:00 +11:00
 - 2017-04-21 17:00:00 +10:00
+has-opening-event: true
+has-start-time: false
+is-within-gallery-open-time: true
 supporters:
 - Australia Council of Arts
-is-within-gallery-open-time: true
-has-start-time: false
-image-credit: Nikki Lam, Still... What is Left, 2017, HD Video
-image: "/uploads/hyphenated.jpg"
-price: FREE
 ---
 
 Colonial constructs of Australian identity have politically and culturally distanced Australia from its geographical neighbours. Despite this, and in the face of the immigration restriction act, the Asian communities have had a long and significant history of contributing to Australia. 
@@ -25,5 +25,5 @@ Exhibiting artists include [RUSHDI ANWAR](http://www.rushdi.com.au/), [SOFI BASS
 
 Presented by The SUBSTATION.
 
-RMIT University’s Centre for Art Society and Transformation (CAST) will host a panel discussion on Transnationalism in Art in conjunction with the exhibition on 28 March, 5pm-7pm, The Storey Hall, Green Brain Conference Room, Level 7.
+RMIT University’s Centre for Art Society and Transformation (CAST) will host a symposium on Art and Inter-cultural Identity in conjunction with the exhibition on 28 March, 5pm-7pm, The Storey Hall, Green Brain Conference Room, Level 7.
 
