@@ -1,6 +1,6 @@
 ---
 title: Apokalypsis
-date: 2008-05-16 00:38:00 +10:00
+date: 2008-05-15 23:38:00 +10:00
 categories:
 - whats-on
 image: "/uploads/apokalypsis.jpg"
@@ -25,6 +25,7 @@ supporters:
 - Next Wave
 - Creative Victoria
 - Besen Foundation
+- SBW Foundation
 ---
 
 While the world spews forth an unrelenting stream of doom and despair, Apokalypsis sees four performers take on the task of presenting 100 historical disasters in 60 minutes. Beginning with the Big Bang and hurtling through a quick-fire stream of events that have edged us into the Anthropocene, this theatrical flip-book presents a narrative of the world as one of repeated annihilation and renewal.
