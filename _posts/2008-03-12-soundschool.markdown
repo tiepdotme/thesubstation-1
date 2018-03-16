@@ -2,7 +2,7 @@
 title: 'SOUND SCHOOL: ANNE LANZILOTTI, GAHLORD DEWALD & FIA FIELL'
 date: 2008-03-12 17:45:00 +11:00
 categories:
-- whats-on
+- archive
 image: "/uploads/sound-school.jpg"
 image-credit: Anne Lanzilotti
 button-url: https://www.eventbrite.com/e/experimental-classical-anne-lanzilotti-gahlord-dewald-fia-fiell-tickets-42938186271
