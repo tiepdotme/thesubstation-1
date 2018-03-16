@@ -9,7 +9,7 @@ button-url: https://www.eventbrite.com/e/experimental-classical-anne-lanzilotti-
 button-txt: BUY TICKETS
 price: FREE
 datetime: 2018-03-14 18:00:00 +11:00
-is-on-home-page: true
+is-on-home-page: false
 has-start-time: true
 ---
 
