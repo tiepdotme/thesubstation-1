@@ -2,7 +2,7 @@
 title: REMUSE Equinox V Vênus | VAMFF Offsite Runway
 date: 2008-03-18 17:47:00 +11:00
 categories:
-- whats-on
+- archive
 image: "/uploads/VAMFF-Equinox.jpg"
 image-credit: Anthony Tosello
 button-url: http://premier.ticketek.com.au/shows/show.aspx?sh=REMUSEDE18
