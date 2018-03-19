@@ -10,6 +10,7 @@ price: FREE
 datetime:
 - 2018-03-22 18:00:00 +11:00
 - 2017-04-21 17:00:00 +10:00
+is-on-home-page: true
 has-opening-event: true
 has-start-time: false
 is-within-gallery-open-time: true
