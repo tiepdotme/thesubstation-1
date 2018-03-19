@@ -26,5 +26,5 @@ Exhibiting artists include [RUSHDI ANWAR](http://www.rushdi.com.au/), [SOFI BASS
 
 Presented by The SUBSTATION.
 
-RMIT University’s Centre for Art Society and Transformation (CAST) will host a symposium on Art and Inter-cultural Identity in conjunction with the exhibition on 28 March, 5pm-7pm, The Storey Hall, Green Brain Conference Room, Level 7.
+RMIT University’s Contemporary Art and Social Transformation (CAST) will host a symposium on Art and Inter-cultural Identity in conjunction with the exhibition on 28 March, 5pm-7pm, The Storey Hall, Green Brain Conference Room, Level 7.
 
