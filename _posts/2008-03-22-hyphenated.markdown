@@ -6,7 +6,7 @@ categories:
 image: "/uploads/hyphenated.jpg"
 image-credit: Nikki Lam, Still... What is Left, 2017, HD Video
 button-url: "/uploads/Artist%20Statements%20%20%20Bios%20Online.pdf"
-button-txt: Full Artist Statments
+button-txt: DOWNLOAD ARTIST STATEMENTS
 presented-by: Curated by Phuong Ngo and Tammy Wong Hulbert
 price: FREE
 datetime:
@@ -29,4 +29,6 @@ Exhibiting artists include [RUSHDI ANWAR](http://www.rushdi.com.au/), [SOFI BASS
 Presented by The SUBSTATION.
 
 RMIT University’s Contemporary Art and Social Transformation (CAST) will host a symposium on Art and Inter-cultural Identity in conjunction with the exhibition on 28 March, 5pm-7pm, The Storey Hall, Green Brain Conference Room, Level 7.
+
+
 
