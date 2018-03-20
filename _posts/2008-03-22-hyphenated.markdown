@@ -6,7 +6,7 @@ categories:
 image: "/uploads/hyphenated.jpg"
 image-credit: Nikki Lam, Still... What is Left, 2017, HD Video
 button-url: "/uploads/Artist%20Statements%20%20%20Bios%20Online.pdf"
-button-txt: DOWNLOAD ARTIST STATEMENTS
+button-txt: ARTIST STATEMENTS
 presented-by: Curated by Phuong Ngo and Tammy Wong Hulbert
 price: FREE
 datetime:
