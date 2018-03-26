@@ -12,7 +12,7 @@ price:
 - "$25"
 datetime:
 - 2018-03-23 20:00:00 +11:00
-is-on-home-page: true
+is-on-home-page: false
 has-start-time: true
 is-single-date: true
 notes:
