@@ -2,7 +2,7 @@
 title: Cruel Optimism
 date: 2008-03-23 14:13:00 +11:00
 categories:
-- whats-on
+- archive
 image: "/uploads/lawrence-english.jpg"
 image-credit: Lawrence English, Photo by Traianos Pakioufakis
 button-url: https://thesubstation.iwannaticket.com.au/event/cruel-optimism-MTQzNTc
