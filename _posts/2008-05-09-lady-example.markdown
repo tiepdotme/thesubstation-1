@@ -1,6 +1,6 @@
 ---
 title: Lady Example
-date: 2008-05-09 05:51:00 +10:00
+date: 2008-05-09 04:51:00 +10:00
 categories:
 - whats-on
 image: "/uploads/lady-example-2018.jpg"
@@ -12,6 +12,7 @@ datetime:
 - 2018-05-09 19:30:00 +10:00
 - 2018-05-10 19:30:00 +10:00
 - 2018-05-13 18:30:00 +10:00
+is-on-home-page: true
 has-opening-event: true
 has-preview-event: true
 has-start-time: true
