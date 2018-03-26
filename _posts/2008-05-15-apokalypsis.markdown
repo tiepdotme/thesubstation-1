@@ -1,6 +1,6 @@
 ---
 title: Apokalypsis
-date: 2008-05-15 22:38:00 +10:00
+date: 2008-05-15 21:38:00 +10:00
 categories:
 - whats-on
 image: "/uploads/apokalypsis.jpg"
@@ -32,13 +32,13 @@ While the world spews forth an unrelenting stream of doom and despair, Apokalyp
 
 As history speeds towards the present day and energy and resources diminish, what emerges is a hallucinogenic vision of a world on the brink of collapse, and a searing indictment of denialism at this extraordinary moment in Earth’s history.
 
-Performers & Co-Creators: Charles Purcell, Kai Bradley, Marcus McKenzie, Rosie Clynes
-Sound Design & Co-Creator: Zak Pidd 
-Set & Costume Design: Jonathan Hindmarsh 
-Lighting Design: Katie Sfetkidis 
-Dramaturgy: Katy Maudlin 
-Stage Manager: Tonie-Rayne Steele
-Producer: Natasha Phillips 
-Associate Producer: Bron Belcher
+Performers & Co-Creators: Charles Purcell, Kai Bradley, Marcus McKenzie, Rosie Clynes <br>
+Sound Design & Co-Creator: Zak Pidd <br>
+Set & Costume Design: Jonathan Hindmarsh <br>
+Lighting Design: Katie Sfetkidis <br>
+Dramaturgy: Katy Maudlin <br>
+Stage Manager: Tonie-Rayne Steele <br>
+Producer: Natasha Phillips <br>
+Associate Producer: Bron Belcher <br>
 
 APOKALYPSIS is presented by The SUBSTATION and has been commissioned and developed through Next Wave’s flagship learning program Kickstart Helix. The project is supported by the Victorian Government through Creative Victoria, The Seaborn, Broughton and Walford Foundation and The Besen Family Foundation.
