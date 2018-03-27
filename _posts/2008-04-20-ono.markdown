@@ -1,12 +1,13 @@
 ---
 title: ONO
-date: 2008-04-20 10:15:00 +10:00
+date: 2008-04-20 09:15:00 +10:00
 categories:
 - whats-on
 image: "/uploads/ono-2018.jpg"
 image-credit: Jessica Wood
 button-url: http://thesubstation.iwannaticket.com.au/event/ono-MTQzNjk
 button-txt: BUY TICKETS
+presented-by: A Temporary Hearth
 price: TICKETS FROM $30
 datetime:
 - 2018-04-20 21:00:00 +10:00
@@ -18,7 +19,15 @@ supporters:
 
 Visceral and intimate, [ONO](https://www.o-n-o.com.au/) journeys toward a collective understanding of rhythm and sound in the belly of the SUBSTATION.
 
-Room, artists and audience—all form part of the storyline. 
+Performances from: <br>
+BEE MASK presents MARBLES - Live ( USA ) <br>
+AGONIS - Live/hybrid ( CH ) <br>
+SIMON LEMONT - Live/hybrid ( CH ) <br>
+ALBRECHT LA'BROOY - Live ( AUS ) <br>
+
+Room, artists and audience—all form part of the storyline.
+
+The night will feature American experimentalist BEE MASK [live], Swiss electronic producer AGONIS, Swiss DJ SIMON LEMONT and Melbourne’s own ALBRECHT LA'BROOY [live].
 
 As narratives unfold, the response is both sonic and social. Part music performance, part installation—ONO presents an evening of international and local guests exploring the undercurrents of music today. 
 
