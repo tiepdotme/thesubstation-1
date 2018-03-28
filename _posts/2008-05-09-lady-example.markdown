@@ -33,11 +33,6 @@ LADY EXAMPLE is a dance – of bodies, words, and women.
 
 Created and performed by Alice Dixon, Caroline Meaden and William McBride, with an ensemble of artists, Lady Example undertakes a deranged and exquisite stocktake of our histories and mythologies to propose a litany of new, glorious, shuddering worlds. Combining contemporary dance, text and theatre, this tender and sly performance considers the historical and contemporary feminine – on our stages, on our screens, and in the performance of everyday life – looking at the lady examples that made us, and the lady examples we are making still.
 
-
-Sound by EMAH FOX. <br>
-Lighting by JASON CRICK. <br> 
-Design by MATILDA WOODROOFE. <br>
-
 Choreography: Alice Dixon, William McBride and Caroline Meaden
 Performed by Fleur Conlon, Alice Dixon, Patrick Durnan Silva, Benjamin Hurley, William McBride, Caroline Meaden, Hannah Monson, Emma Riches and Joanne White <br>
 Sound Design: Emah Fox <br>
@@ -46,6 +41,4 @@ Set and Costume Design: Matilda Woodroofe <br>
 Produced: Erin Milne <br>
 Image: Mischa Baka <br>
 
-Green Tickets are available for purchase on Wednesday, May 9 to patrons who travel to the venue in an environmentally friendly way. You must provide evidence of travel at the box office.
-
-Presented by THE SUBSTATION and [NEXT WAVE](http://nextwave.org.au/). 
+Presented by THE SUBSTATION and [NEXT WAVE](http://nextwave.org.au/). Supported by City of Melbourne through the Boyd Studio, Creative Victoria, Besen Family Foundation, Creative Partnerships Australia and the Australian Government through Australia Council, its arts funding and advisory body.
