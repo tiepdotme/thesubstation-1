@@ -42,12 +42,12 @@ _Events Manager_<br>
 _Finance Manager_<br>
 [accounts (@) thesubstation.org.au](mailto:accounts@thesubstation.org.au)
 
-**Jamie Dale**<br>
+**Robert Sowinski**<br>
 _Production Manager_<br>
 [production (@) thesubstation.org.au](mailto:production@thesubstation.org.au)
 
-**Carolyn Lambert**<br>
-_Marketing and Audience Engagement Coordinator_<br>
+**Leela Schauble**<br>
+_Marketing Coordinator_<br>
 [marketing (@) thesubstation.org.au](mailto:marketing@thesubstation.org.au)
 
 **General Enquiries**<br>
