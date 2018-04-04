@@ -28,13 +28,14 @@ Look beyond the cities and the headlines and you’ll see that Islam isn’t new
 
 Guided by a strong sense of discipline and tradition, [SHIREEN TAWEEL'S](http://shireentaweel.com/) installation of copper, light and sound charts the history of the country’s mosques. Inspired by remote Australian landscapes and Islamic decorative arts, Taweel’s approach is rooted in cross-cultural dialogue and consideration of sacred and secular spaces. The resulting work is a delicate and meditative intersection of past, present and future.
 
+**PUBLIC PROGRAM** – From Here Onwards <br>
+SATURDAY 12 May, 1pm – 2pm <br>
+Artist-led Panel discussion unpacking representations in greater Australia, ideas of local histories, fluid identities and transformations from cultural exchange.<br>
+Speakers : Hayley Millar-Baker, Phuong Ngo, Tamara Saulwick and Shireen Taweel
+
+
 LFTAR FEAST FOR RAMADAN <br>
-THURSDAY 17 May, 5.45pm – 7.00pm
+THURSDAY 17 May, 5.45pm – 7.00pm <br>
 Food and artists performances in the gallery during the sacred time of Ramadan. Celebrate collective of communities in the west with the simple act of a shared meal.
 
 Presented by The SUBSTATION, Tracing Transcendence has been assisted by Create NSW, Anchor Ceramics and the Australian Government through Australia Council, its arts funding and advisory body.
-
-
-
-
-
