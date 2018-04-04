@@ -14,7 +14,7 @@ has-opening-event: true
 has-start-time: false
 is-opening-hours-time: false
 is-within-gallery-open-time: true
-panel discussion:
+panel-discussion:
   date: 2018-05-12 13:00:00 +10:00
   note: |-
     Artist-led Panel discussion unpacking representations in greater Australia, ideas of local histories, fluid identities and transformations from cultural exchange.
