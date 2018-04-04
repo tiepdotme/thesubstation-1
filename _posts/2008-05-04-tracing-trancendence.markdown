@@ -34,7 +34,7 @@ Artist-led Panel discussion unpacking representations in greater Australia, idea
 Speakers : Hayley Millar-Baker, Phuong Ngo, Tamara Saulwick and Shireen Taweel
 
 
-LFTAR FEAST FOR RAMADAN <br>
+IFTAR FEAST FOR RAMADAN <br>
 THURSDAY 17 May, 5.45pm – 7.00pm <br>
 Food and artists performances in the gallery during the sacred time of Ramadan. Celebrate collective of communities in the west with the simple act of a shared meal.
 
