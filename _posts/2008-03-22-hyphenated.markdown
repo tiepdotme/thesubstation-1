@@ -30,5 +30,7 @@ Presented by The SUBSTATION.
 
 RMIT University’s Contemporary Art and Social Transformation (CAST) will host a symposium on Art and Inter-cultural Identity in conjunction with the exhibition on 28 March, 5pm-7pm, The Storey Hall, Green Brain Conference Room, Level 7.
 
+Listen to the panel discussion [HERE](https://soundcloud.com/tammy-wong-hulbert/hyphenated-artists-panel-discussion-rmit-cast-mav-28th-march-2018)
+
 
 
