@@ -6,6 +6,7 @@ categories:
 image: "/uploads/bunker-2018.jpg"
 image-credit: Billy Roberts Photography
 button-url: https://www.residentadvisor.net/events/1094209
+button-txt: BOOK NOW
 price: TICKETS FROM $30
 datetime:
 - 2018-06-15 21:00:00 +10:00
@@ -16,7 +17,9 @@ supporters:
 
 Expect the very best in techno as [BUNKER](http://bunker-music.com/) returns to The SUBSTATION for a third year to celebrate their fifth Birthday. 
 
+Joining the celebrations will be two international guests Ansome (Live) (S.L.A.M / MORD / Perc Trax, UK) and Stephanie Sykes (47 / Full Panda, UK).
 
+Local support from DJ Kiti b2b Nite Fleit, ACM (Live) & Concealed.
 
 Presented by The SUBSTATION and BUNKER.
 
