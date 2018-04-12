@@ -1,6 +1,6 @@
 ---
 title: Lady Example
-date: 2008-05-09 03:51:00 +10:00
+date: 2008-05-09 02:51:00 +10:00
 categories:
 - whats-on
 image: "/uploads/lady-example-2018.jpg"
@@ -42,3 +42,5 @@ Produced: Erin Milne <br>
 Image: Mischa Baka <br>
 
 Presented by THE SUBSTATION and [NEXT WAVE](http://nextwave.org.au/). Supported by City of Melbourne through the Boyd Studio, Creative Victoria, Besen Family Foundation, Creative Partnerships Australia and the Australian Government through Australia Council, its arts funding and advisory body.
+
+Content warning: contains nudity and strobe effects.
