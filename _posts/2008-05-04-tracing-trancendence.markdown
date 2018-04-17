@@ -17,6 +17,7 @@ is-within-gallery-open-time: true
 supporters:
 - Australia Council of Arts
 - Hobsons Bay City Council
+- Next Wave
 panel-discussion:
   date: 2018-05-12 13:00:00 +10:00
   note: |-
