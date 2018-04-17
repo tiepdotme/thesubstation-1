@@ -1,6 +1,6 @@
 ---
 title: Tracing Transcendence
-date: 2008-05-04 09:49:00 +10:00
+date: 2008-05-04 08:49:00 +10:00
 categories:
 - whats-on
 image: "/uploads/shireen.jpg"
@@ -38,4 +38,4 @@ IFTAR FEAST FOR RAMADAN <br>
 THURSDAY 17 May, 5.45pm – 7.00pm <br>
 Food and artists performances in the gallery during the sacred time of Ramadan. Celebrate collective of communities in the west with the simple act of a shared meal.
 
-Presented by The SUBSTATION, tracing transcendence has been assisted by Create NSW, Anchor Ceramics and the Australian Government through Australia Council, its arts funding and advisory body.
+Presented by The SUBSTATION and Next Wave, tracing transcendence has been assisted by Create NSW, Anchor Ceramics and the Australian Government through Australia Council, its arts funding and advisory body.
