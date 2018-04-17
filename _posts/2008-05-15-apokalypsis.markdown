@@ -1,6 +1,6 @@
 ---
 title: Apokalypsis
-date: 2008-05-15 21:38:00 +10:00
+date: 2008-05-15 20:38:00 +10:00
 categories:
 - whats-on
 image: "/uploads/apokalypsis.jpg"
@@ -38,6 +38,7 @@ Set & Costume Design: Jonathan Hindmarsh <br>
 Lighting Design: Katie Sfetkidis <br>
 Dramaturgy: Katy Maudlin <br>
 Stage Manager: Tonie-Rayne Steele <br>
+Assistant Stage Manager: Thomas Crawford <br>
 Producer: Natasha Phillips <br>
 Associate Producer: Bron Belcher <br>
 
