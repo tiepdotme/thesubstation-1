@@ -1,6 +1,6 @@
 ---
 title: Apokalypsis
-date: 2008-05-15 20:38:00 +10:00
+date: 2008-05-15 19:38:00 +10:00
 categories:
 - whats-on
 image: "/uploads/apokalypsis.jpg"
@@ -13,6 +13,7 @@ datetime:
 - 2018-05-16 19:30:00 +10:00
 - 2018-05-17 19:30:00 +10:00
 - 2018-05-20 18:30:00 +10:00
+is-on-home-page: true
 has-opening-event: true
 has-preview-event: true
 has-start-time: true
