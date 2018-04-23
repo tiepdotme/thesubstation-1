@@ -1,6 +1,6 @@
 ---
 title: Tracing Transcendence
-date: 2008-05-04 08:49:00 +10:00
+date: 2008-05-04 07:49:00 +10:00
 categories:
 - whats-on
 image: "/uploads/shireen.jpg"
@@ -10,6 +10,7 @@ price: FREE
 datetime:
 - 2018-05-04 18:00:00 +10:00
 - 2018-06-16 00:00:00 +10:00
+is-on-home-page: true
 has-opening-event: true
 has-start-time: false
 is-opening-hours-time: false
