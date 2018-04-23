@@ -1,6 +1,6 @@
 ---
 title: ONO
-date: 2008-04-20 09:15:00 +10:00
+date: 2008-04-20 08:15:00 +10:00
 categories:
 - whats-on
 image: "/uploads/ono-2018.jpg"
@@ -11,7 +11,7 @@ presented-by: A Temporary Hearth
 price: TICKETS FROM $30
 datetime:
 - 2018-04-20 21:00:00 +10:00
-is-on-home-page: true
+is-on-home-page: false
 has-start-time: true
 supporters:
 - ONO
