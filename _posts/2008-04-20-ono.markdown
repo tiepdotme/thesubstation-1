@@ -1,8 +1,8 @@
 ---
 title: ONO
-date: 2008-04-20 08:15:00 +10:00
+date: 2008-04-20 07:15:00 +10:00
 categories:
-- whats-on
+- archive
 image: "/uploads/ono-2018.jpg"
 image-credit: Jessica Wood
 button-url: http://thesubstation.iwannaticket.com.au/event/ono-MTQzNjk
