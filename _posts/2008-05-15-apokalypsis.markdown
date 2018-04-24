@@ -1,6 +1,6 @@
 ---
 title: Apokalypsis
-date: 2008-05-15 19:38:00 +10:00
+date: 2008-05-15 18:38:00 +10:00
 categories:
 - whats-on
 image: "/uploads/apokalypsis.jpg"
@@ -20,7 +20,7 @@ has-start-time: true
 is-list-of-dates: false
 notes:
   note: |-
-    MATINEE: SAT MAY 19, 4.00PM  <br />
+    AUSLAN: FRI MAY 18, 7.30PM  <br />
     CLOSING NIGHT: SUN MAY 20, 6.30PM
 supporters:
 - Next Wave
@@ -37,10 +37,11 @@ Performers & Co-Creators: Charles Purcell, Kai Bradley, Marcus McKenzie, Rosie C
 Sound Design & Co-Creator: Zak Pidd <br>
 Set & Costume Design: Jonathan Hindmarsh <br>
 Lighting Design: Katie Sfetkidis <br>
+Lighting Assistant: Nick Moloney (on internship from the Faculty of VCA and Music, Production Course) <br>
 Dramaturgy: Katy Maudlin <br>
 Stage Manager: Tonie-Rayne Steele <br>
 Assistant Stage Manager: Thomas Crawford <br>
 Producer: Natasha Phillips <br>
 Associate Producer: Bron Belcher <br>
 
-APOKALYPSIS is presented by The SUBSTATION and has been commissioned and developed through Next Wave’s flagship learning program Kickstart Helix. The project is supported by the Victorian Government through Creative Victoria, The Seaborn, Broughton and Walford Foundation and The Besen Family Foundation.
+APOKALYPSIS is presented by The SUBSTATION and has been commissioned and developed through Next Wave’s flagship learning program Kickstart Helix. The project is supported by the Victorian Government through Creative Victoria, The Seaborn, Broughton and Walford Foundation, Silvia & Michael Kantor and The Besen Family Foundation.
