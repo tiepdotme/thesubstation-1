@@ -8,7 +8,7 @@ image-credit: Shireen Taweel, Tracing Trancendence, detail, 2017
 presented-by: Shireen Taweel
 price: FREE
 datetime:
-- 2018-05-12 13:00:00 +10:00
+- 2018-05-12 14:00:00 +10:00
 - 2018-05-04 18:00:00 +10:00
 - 2018-06-16 00:00:00 +10:00
 is-on-home-page: true
