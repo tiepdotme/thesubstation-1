@@ -1,7 +1,6 @@
 ---
 title: DREW MCDOWALL
 date: 2018-07-08 20:00:00 +10:00
-published: false
 categories:
 - whats-on
 image: "/uploads/Drew%20McDowall_Atonal%202016%20copy.jpg"
