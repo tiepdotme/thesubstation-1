@@ -8,8 +8,8 @@ image-credit: PRESENTS COIL’S TIME MACHINES
 button-url: https://thesubstation.iwannaticket.com.au/event/drew-mcdowall-presents-coils-time-machines-MTUwODU
 button-txt: BUY TICKETS
 price: "$29  / 19 "
-datetime: 0008-07-06 10:39:52 +09:39
-has-opening-event: true
+datetime: 2018-07-08 20:00:00 +10:00
+has-opening-event: false
 has-start-time: true
 is-single-date: true
 supporters: Room40
