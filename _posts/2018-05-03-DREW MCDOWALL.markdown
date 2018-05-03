@@ -1,9 +1,10 @@
 ---
-title: DREW MCDOWALL PRESENTS COIL’S TIME MACHINES
+title: DREW MCDOWALL
 date: 2018-05-03 14:21:00 +10:00
 categories:
 - whats-on
 image: "/uploads/Drew%20McDowall_Atonal%202016%20copy.jpg"
+image-credit: PRESENTS COIL’S TIME MACHINES
 button-url: https://thesubstation.iwannaticket.com.au/event/drew-mcdowall-presents-coils-time-machines-MTUwODU
 button-txt: BUY TICKETS
 datetime: 0005-12-31 22:39:52 +09:39
