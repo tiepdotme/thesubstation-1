@@ -5,9 +5,9 @@ published: false
 categories:
 - whats-on
 image: "/uploads/Drew%20McDowall_Atonal%202016%20copy.jpg"
-image-credit: PRESENTS COIL’S TIME MACHINES
 button-url: https://thesubstation.iwannaticket.com.au/event/drew-mcdowall-presents-coils-time-machines-MTUwODU
 button-txt: BUY TICKETS
+presented-by: PRESENTS COIL’S TIME MACHINES
 price: "$29  / 19 "
 datetime: 2018-07-08 20:00:00 +10:00
 has-opening-event: false
