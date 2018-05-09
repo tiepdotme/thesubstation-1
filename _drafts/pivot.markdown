@@ -3,6 +3,7 @@ title: " PIVOT"
 date: 2018-06-12 15:00:00 +10:00
 image: "/uploads/PIVOT.jpg"
 image-credit: PHOTO BY GREGORY LORENZUTTI
+presented-by: " Madeleine Flynn & Tim Humphrey"
 price: FREE
 datetime:
 - 2018-07-10 11:00:00 +10:00
