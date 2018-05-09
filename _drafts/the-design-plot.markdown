@@ -1,6 +1,7 @@
 ---
 title: The Design Plot
 date: 2018-06-12 15:00:00 +10:00
+image: "/uploads/The%20Design%20Plot_RMTC%20Film%20Still.jpg"
 image-credit: 'Shelley Lasica, The Design Plot (2016–). Video still. Videography by
   James Wright. '
 presented-by: 'Shelley Lasica '
