@@ -18,8 +18,8 @@ THE DESIGN PLOT uses the structure of dancing, with the discipline of scenograph
 
 Responding to the context, this utterance of the project will take over The SUBSTATION, unfolding through a methodology that includes open research sessions, public talks, installation and the development of performance mechanisms.
 
-Dancers: Ellen Davies, Timothy Harvey, Louella May Hogan, Daniel Newell, Lilian Steiner and Jo White <br>
-Cinematographer: James Wright
+Dancers: ELLEN DAVIES, TIMOTHY HARVEY, LOUELLA MAY HOGAN, DANIEL NEWELL, LILIAN STEINER AND JO WHITE <br>
+Cinematographer: JAMES WRIGHT
 
 The project has previously been presented at RMIT Design Hub, MPavilion, Gertrude Glasshouse, Minanoie, the Royal Melbourne Tennis Club and Sutton Projects.
 
