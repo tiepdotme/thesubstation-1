@@ -1,6 +1,7 @@
 ---
 title: NONCOMPETE
 date: 2018-05-09 15:00:00 +10:00
+image: "/uploads/Alisdair%20Macindoe.JPG"
 presented-by: Alisdair Macindoe
 datetime:
 - 2018-07-27 00:00:00 +10:00
