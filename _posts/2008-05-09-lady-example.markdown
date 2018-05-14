@@ -12,7 +12,7 @@ datetime:
 - 2018-05-09 19:30:00 +10:00
 - 2018-05-10 19:30:00 +10:00
 - 2018-05-13 18:30:00 +10:00
-is-on-home-page: true
+is-on-home-page: false
 has-opening-event: true
 has-preview-event: true
 has-start-time: true
