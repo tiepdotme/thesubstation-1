@@ -1,8 +1,8 @@
 ---
 title: Lady Example
-date: 2008-05-09 02:51:00 +10:00
+date: 2008-05-09 01:51:00 +10:00
 categories:
-- whats-on
+- archive
 image: "/uploads/lady-example-2018.jpg"
 button-url: http://thesubstation.iwannaticket.com.au/event/lady-example-MTQzNzM
 button-txt: BUY TICKETS
