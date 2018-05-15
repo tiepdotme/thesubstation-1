@@ -1,6 +1,6 @@
 ---
 title: Apokalypsis
-date: 2008-05-15 17:38:00 +10:00
+date: 2008-05-15 16:38:00 +10:00
 categories:
 - whats-on
 image: "/uploads/apokalypsis.jpg"
@@ -34,8 +34,8 @@ While the world spews forth an unrelenting stream of doom and despair, Apokalyp
 As history speeds towards the present day and energy and resources diminish, what emerges is a hallucinogenic vision of a world on the brink of collapse, and a searing indictment of denialism at this extraordinary moment in Earth’s history.
 
 
-**[Download the program (PDF)]**(/uploads/Apokalypsis%20Program.pdf)
-**[Download the program (Word)]**(/uploads/Apokalypsis%20Program_Accessibility%20.docx)
+**[Download the program (PDF)](/uploads/Apokalypsis%20Program.pdf)**
+**[Download the program (Word)](/uploads/Apokalypsis%20Program_Accessibility%20.docx)**
 
 
 Performers & Co-Creators: Charles Purcell, Kai Bradley, Marcus McKenzie, Rosie Clynes <br>
