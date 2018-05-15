@@ -1,6 +1,6 @@
 ---
 title: Apokalypsis
-date: 2008-05-15 18:38:00 +10:00
+date: 2008-05-15 17:38:00 +10:00
 categories:
 - whats-on
 image: "/uploads/apokalypsis.jpg"
@@ -32,6 +32,11 @@ supporters:
 While the world spews forth an unrelenting stream of doom and despair, Apokalypsis sees four performers take on the task of presenting 100 historical disasters in 60 minutes. Beginning with the Big Bang and hurtling through a quick-fire stream of events that have edged us into the Anthropocene, this theatrical flip-book presents a narrative of the world as one of repeated annihilation and renewal.
 
 As history speeds towards the present day and energy and resources diminish, what emerges is a hallucinogenic vision of a world on the brink of collapse, and a searing indictment of denialism at this extraordinary moment in Earth’s history.
+
+
+**[Download the program (PDF)]**(/uploads/Apokalypsis%20Program.pdf)
+**[Download the program (Word)]**(/uploads/Apokalypsis%20Program_Accessibility%20.docx)
+
 
 Performers & Co-Creators: Charles Purcell, Kai Bradley, Marcus McKenzie, Rosie Clynes <br>
 Sound Design & Co-Creator: Zak Pidd <br>
