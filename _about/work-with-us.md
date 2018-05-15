@@ -13,7 +13,3 @@ The SUBSTATION is seeking an experienced Production Manager and an enthusiastic 
 Please read the position description below with more information on how to apply. 
 
 For further information please contact Kali Michailidis, General Manager, 03 9391 1110, [manager(@)thesubstation.org.au](mailto:manager@thesubstation.org.au).
-
-**[PRODUCTION MANAGER POSITION DESCRIPTION](/uploads/PRODUCTION%20MANAGER%20Position%20Description.pdf)**
-
-**[MARKETING COORDINATOR POSITION DESCRIPTION](/uploads/Marketing%20Coordinator%20Position%20Description.pdf)**
