@@ -1,8 +1,8 @@
 ---
 title: Apokalypsis
-date: 2008-05-15 16:38:00 +10:00
+date: 2008-05-15 15:38:00 +10:00
 categories:
-- whats-on
+- archive
 image: "/uploads/apokalypsis.jpg"
 image-credit: Sarah Walker
 button-url: http://thesubstation.iwannaticket.com.au/event/apokalypsis-MTQzNzQ
