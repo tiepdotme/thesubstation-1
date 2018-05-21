@@ -1,6 +1,6 @@
 ---
 title: Kim Myhr with the AAO
-date: 2008-06-09 12:08:00 +10:00
+date: 2008-06-09 11:08:00 +10:00
 categories:
 - whats-on
 image: "/uploads/kim-myhr-8.jpg"
@@ -11,6 +11,7 @@ presented-by: "(NORWAY)"
 price: TICKETS $35 | FRIDAY 8 JUNE AND SATURDAY 9 JUNE (COMBINED) $45
 datetime:
 - 2018-06-09 20:00:00 +10:00
+is-on-home-page: true
 has-start-time: true
 is-single-date: true
 supporters:
