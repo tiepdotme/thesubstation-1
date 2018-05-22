@@ -1,6 +1,6 @@
 ---
-title: KIM MYHR - SOLO WITH PETER KNIGHT AND TONY BUCK
-date: 2008-06-08 06:57:00 +10:00
+title: THREE SOLOS WITH KIM MYHR, PETER KNIGHT AND TONY BUCK
+date: 2008-06-08 05:57:00 +10:00
 categories:
 - whats-on
 image: "/uploads/kim-myhr-9.jpg"
