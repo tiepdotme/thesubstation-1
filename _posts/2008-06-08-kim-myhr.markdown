@@ -3,7 +3,7 @@ title: THREE SOLOS
 date: 2008-06-08 04:57:00 +10:00
 categories:
 - whats-on
-image: "/uploads/kim-myhr-9.jpg"
+image: "/uploads/Three-Solos.jpg"
 image-credit: Orfee Schuijt
 button-url: http://thesubstation.iwannaticket.com.au/event/kim-myhr-solo-with-peter-knight-MTQzNzA
 button-txt: BUY TICKETS
