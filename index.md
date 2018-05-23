@@ -4,7 +4,7 @@ pages: What's On
 events: 
 youtube: 
 vimeo: 
-banner-image: "/uploads/homepage-MIJF-2018-bd58e7.gif"
+banner-image: "/uploads/homepage-MIJF-2018-highres.gif"
 carousel-images:
 - "/uploads/loyalty.jpg"
 - "/uploads/lawrence-english-thumb.jpg"
