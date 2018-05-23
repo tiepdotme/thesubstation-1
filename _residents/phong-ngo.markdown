@@ -1,5 +1,5 @@
 ---
-title: PHONG NGO
+title: PHUONG NGO
 date: 2018-05-23 13:08:00 +10:00
 image: "/uploads/Phuong-Ngo-res.jpg"
 is current: true
