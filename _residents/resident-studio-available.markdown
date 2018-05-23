@@ -1,6 +1,7 @@
 ---
 title: Resident Studio Available
 date: 2009-01-01 15:16:00 +11:00
+published: false
 button-url: https://www.judgify.me/residentartist2018
 button-txt: APPLY
 image: "/uploads/resident-artist.jpg"
