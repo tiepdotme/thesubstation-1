@@ -2,6 +2,7 @@
 title: PHONG NGO
 date: 2018-05-23 13:08:00 +10:00
 image: "/uploads/Phuong-Ngo-res.jpg"
+is current: true
 ---
 
 [PHONG NGO](http://www.pthngo.com/) is a contemporary visual artist; his practice is concerned with the interpretation of history, memory and place, and how it impacts individual and collected identity. His collaborative practice with Hwafern Quach, Slippage, examines the cycles of history in conjunction with current geopolitical and economic issues through the lens of vernacular cultures, artifacts and language.
