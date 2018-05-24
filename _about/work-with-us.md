@@ -8,8 +8,6 @@ button-txt:
 button-url: 
 ---
 
-The SUBSTATION is seeking an experienced Production Manager and an enthusiastic and skilled Marketing Coordinator to join our team, to support our program of activity and the organisation.
+We have no vacant positions. [Subscribe to our newsletter](https://thesubstation.us5.list-manage.com/subscribe/post?u=21cfc09295377f72f03e377c6&id=f0c98b414b) to hear more about employment opportunities at The SUBSTATION. 
 
-Please read the position description below with more information on how to apply. 
-
-For further information please contact Kali Michailidis, General Manager, 03 9391 1110, [manager(@)thesubstation.org.au](mailto:manager@thesubstation.org.au).
+The SUBSTATION is now accepting applications to join The SUBSTATION's Volunteer Team! For more information go to our [Volunteers page](https://thesubstation.org.au/about/volunteer/). 
