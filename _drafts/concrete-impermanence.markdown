@@ -2,7 +2,7 @@
 title: CONCRETE IMPERMANENCE
 date: 2018-06-12 15:00:00 +10:00
 image: "/uploads/Concrete-impermanance-sam.jpg"
-image-credit: 'IMAGE CREDIT: Rodeo . Featuring Jessie Oshodi'
+image-credit: PHOTO BY SAM ROBERTS
 presented-by: 'Alison Currie '
 price: FULL $25 / CONCESSION $20
 datetime:
