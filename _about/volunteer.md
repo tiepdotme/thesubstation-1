@@ -2,7 +2,7 @@
 title: Volunteer
 position: 4
 current: true
-image: "/uploads/the-substation-volunteer.jpg"
+image: "/uploads/Vols.JPG"
 ---
 
 The SUBSTATION is on the look-out for volunteers who are enthusiastic and dedicated to the promotion of visual and performing arts in its myriad forms. The SUBSTATION volunteers play an active role in delivering excellent customer experiences and ensuring The SUBSTATION remains a valued cultural destination. Whether you want to gain experience in the industry, learn more about visual and performing arts, pass on your skills and knowledge to others or just want to socialise with people with similar interests – we want to hear from you!
