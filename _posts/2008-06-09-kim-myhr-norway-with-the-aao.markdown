@@ -1,6 +1,6 @@
 ---
-title: Kim Myhr with the AAO
-date: 2008-06-09 11:08:00 +10:00
+title: Kim Myhr with the AAO and Tony Buck
+date: 2008-06-09 10:08:00 +10:00
 categories:
 - whats-on
 image: "/uploads/kim-myhr-8.jpg"
@@ -22,7 +22,7 @@ supporters:
 
 Leading light on the Norwegian experimental scene, [KIM MYHR](http://www.kimmyhr.com/), performs in the world premiere of a new piece created especially for the shape-shifting 10-piece, the [AUSTRALIAN ART ORCHESTRA](http://www.aao.com.au/). Tailored to the group’s ability to traverse acoustic and electronic textures, MYHR weaves a complex interplay of rhythmic pulses, visceral texture and near psychedelic harmonic density.
 
-KIM MYHR has an established reputation as one of the industries leading contemporary innovators, creating arresting compositions for chamber ensembles, electroacoustic settings and various theatrical projects. These include, most recently, MURAL, with INGAR ZACH and Australian saxophone icon JIM DENLEY, and CIRCADIA with DAVID STACKENÄS, JOE WILLIAMSON, and THE NECKS’ drummer TONY BUCK.
+KIM MYHR has an established reputation as one of the industries leading contemporary innovators, creating arresting compositions for chamber ensembles, electroacoustic settings and various theatrical projects. These include, most recently, MURAL, with INGAR ZACH and Australian saxophone icon JIM DENLEY, and CIRCADIA with DAVID STACKENÄS, JOE WILLIAMSON.
 
 Presented by The SUBSTATION and the [MELBOURNE INTERNATIONAL JAZZ FESTIVAL](http://melbournejazz.com/).
 
