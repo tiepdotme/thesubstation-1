@@ -22,7 +22,15 @@ supporters:
 
 Leading light on the Norwegian experimental scene, [KIM MYHR](http://www.kimmyhr.com/), performs in the world premiere of a new piece created especially for the shape-shifting 10-piece, the [AUSTRALIAN ART ORCHESTRA](http://www.aao.com.au/). Tailored to the group’s ability to traverse acoustic and electronic textures, MYHR weaves a complex interplay of rhythmic pulses, visceral texture and near psychedelic harmonic density.
 
-KIM MYHR has an established reputation as one of the industries leading contemporary innovators, creating arresting compositions for chamber ensembles, electroacoustic settings and various theatrical projects. These include, most recently, MURAL, with INGAR ZACH and Australian saxophone icon JIM DENLEY, and CIRCADIA with DAVID STACKENÄS, JOE WILLIAMSON.
+Kim Myhr, guitar <br>
+Peter Knight, trumpet, electronics <br> 
+Aviva Endean, bass clarinet <br>
+Tony Buck drum kit <br>
+Lizzy Welsh, violin <br>
+Erkki Veltheim, violin <br>
+Jacques Emery, contra bass, hammered dulcimer <br>
+Joe Talia, Revox B77 reel-to-reel tape machine, percussion <br>
+Jem Savage, sound design, live sound  <br>
 
 Presented by The SUBSTATION and the [MELBOURNE INTERNATIONAL JAZZ FESTIVAL](http://melbournejazz.com/).
 
