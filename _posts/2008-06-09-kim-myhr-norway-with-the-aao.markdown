@@ -36,4 +36,4 @@ Jem Savage, sound design, live sound  <br>
 
 Presented by The SUBSTATION and the [MELBOURNE INTERNATIONAL JAZZ FESTIVAL](http://melbournejazz.com/).
 
-The Australian Art Orchestra is assisted by the Australian Government through the Australia Council, its arts funding and advisory body.
+The AUSTRALIAN ART ORCHESTRA is assisted by the Australian Government through the Australia Council, its arts funding and advisory body.
