@@ -20,7 +20,9 @@ supporters:
 - Hobsons Bay City Council
 ---
 
-Leading light on the Norwegian experimental scene, [KIM MYHR](http://www.kimmyhr.com/), performs in the world premiere of a new piece created especially for the shape-shifting 10-piece, the [AUSTRALIAN ART ORCHESTRA](http://www.aao.com.au/). Tailored to the group’s ability to traverse acoustic and electronic textures, MYHR weaves a complex interplay of rhythmic pulses, visceral texture and near psychedelic harmonic density.
+[KIM MYHR](http://www.kimmyhr.com/) takes to the stage with one of Australia’s most distinctive and adventurous contemporary music ensembles the [AUSTRALIAN ART ORCHESTRA](http://www.aao.com.au/), performing the world premiere of a work he created especially for the shape-shifting 10-piece orchestra. Two violinists, two drummers, bass, hammered dulcimer, electronics, bass clarinet, Revox reel-to-reel tape machine and Myhr’s 12-string electric guitar make up the unusual sonic union.
+
+Award-winning young bass clarinet virtuoso, [AVIVA ENDEAN](https://www.avivaendean.com/), incendiary violinist [ERKKI VELTHEIM](http://erkkiveltheim.com/), [TONY BUCK](http://tony-buck.com/) and PETER KNIGHT are amongst the musician line-up.
 
 Kim Myhr, guitar <br>
 Peter Knight, trumpet, electronics <br> 
