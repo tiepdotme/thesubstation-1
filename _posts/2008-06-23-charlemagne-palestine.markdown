@@ -1,6 +1,6 @@
 ---
 title: Charlemagne Palestine
-date: 2008-06-23 13:14:00 +10:00
+date: 2008-06-23 12:14:00 +10:00
 categories:
 - whats-on
 image: "/uploads/charlemagne-palestine.jpg"
@@ -10,6 +10,7 @@ presented-by: "(USA)"
 price: TICKETS FROM $39
 datetime:
 - 2018-06-23 19:00:00 +10:00
+is-on-home-page: true
 has-start-time: true
 is-single-date: true
 supporters:
