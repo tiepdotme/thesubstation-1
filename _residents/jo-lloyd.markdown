@@ -1,7 +1,7 @@
 ---
 title: Jo Lloyd
 date: 2018-06-07 14:17:00 +10:00
-image: "/uploads/Jo%20Lloyd.jpeg"
+image: "/uploads/Jo%20Lloyd-thumb.jpeg"
 current: true
 image-credit: 'Jo Lloyd, OVERTURE (development). Photo by Peter Rosetzky
 
