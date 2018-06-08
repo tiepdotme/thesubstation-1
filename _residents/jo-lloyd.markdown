@@ -3,6 +3,9 @@ title: Jo Lloyd
 date: 2018-06-07 14:17:00 +10:00
 image: "/uploads/Jo%20Lloyd.jpeg"
 current: true
+image-credit: 'Jo Lloyd, OVERTURE (development). Photo by Peter Rosetzky
+
+'
 ---
 
 [JO LLOYD](https://www.jolloyd.com) is an influential Melbourne dance artist working with choreography as a social encounter, revealing behaviour over particular durations and circumstances. A graduate of the Victorian College of the Arts, Jo has presented her work in gallery spaces and theatres in Japan, New York, Hong Kong, Dance Massive, the Biennale of Sydney, Liveworks, Dark MOFO and the Museum of Contemporary Art, Sydney. In 2016 Jo was the Resident Director of Lucy Guerin Inc. 
