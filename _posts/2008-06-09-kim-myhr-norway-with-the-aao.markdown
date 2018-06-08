@@ -1,6 +1,6 @@
 ---
 title: Kim Myhr with the AAO and Tony Buck
-date: 2008-06-09 10:08:00 +10:00
+date: 2008-06-09 09:08:00 +10:00
 categories:
 - whats-on
 image: "/uploads/kim-myhr-8.jpg"
@@ -18,6 +18,7 @@ supporters:
 - Melbourne International Jazz Festival
 - Australia Council of Arts
 - Hobsons Bay City Council
+- RRR
 ---
 
 [KIM MYHR](http://www.kimmyhr.com/) takes to the stage with one of Australia’s most distinctive and adventurous contemporary music ensembles the [AUSTRALIAN ART ORCHESTRA](http://www.aao.com.au/), performing the world premiere of a work he created especially for the shape-shifting 10-piece orchestra. Two violinists, two drummers, bass, hammered dulcimer, electronics, bass clarinet, Revox reel-to-reel tape machine and Myhr’s 12-string electric guitar make up the unusual sonic union.
