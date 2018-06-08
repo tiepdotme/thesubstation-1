@@ -1,6 +1,6 @@
 ---
 title: THREE SOLOS
-date: 2008-06-08 03:57:00 +10:00
+date: 2008-06-08 02:57:00 +10:00
 categories:
 - whats-on
 image: "/uploads/Three-Solos.jpg"
