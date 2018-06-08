@@ -10,7 +10,7 @@ datetime:
 - 2018-09-08 00:00:00 +10:00
 is-within-gallery-open-time: true
 artists-talk:
-  date: 2018-09-08 13:00:00 +10:00
+  date: 2018-08-18 13:00:00 +10:00
 ---
 
 NONCOMPETE is a post-human music, sculpture and installation featuring new electro-mechanical robotic instruments with hundreds of moving parts.
