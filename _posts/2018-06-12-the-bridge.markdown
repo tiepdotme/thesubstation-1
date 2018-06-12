@@ -1,6 +1,8 @@
 ---
 title: The Bridge
 date: 2018-06-12 15:00:00 +10:00
+categories:
+- whats-on
 image: "/uploads/The-Bridge.jpg"
 image-credit: Bindi Cole Chocka
 presented-by: Danna Jackson, James Henry, Bindi Cole Chocka and Vicki Reynolds
