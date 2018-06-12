@@ -5,6 +5,8 @@ categories:
 - whats-on
 image: "/uploads/Concrete-impermanance-sam.jpg"
 image-credit: PHOTO BY SAM ROBERTS
+button-url: https://thesubstation.iwannaticket.com.au/event/concrete-impermanence-MTUyNzE
+button-txt: BOOK NOW
 presented-by: 'Alison Currie '
 price: FULL $25 / CONCESSION $20
 datetime:
