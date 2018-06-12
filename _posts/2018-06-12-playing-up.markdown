@@ -16,7 +16,9 @@ supporters:
 - Melbourne Fringe
 - Tate Modern
 - LIVE ART DEVELOPMENT AGENCY
-- 
+- Fundus Theatre
+- Playing Up
+- Collaborative Arts Partnership
 ---
 
 Make clothes out of food, remote control your parents, invent your own form of sports, search for miracles, deconstruct electrical devices, build what-happens-next-machines!
