@@ -15,6 +15,8 @@ has-start-time: true
 notes:
   note: 'MATINEE: SAT NOVEMBER 24, 2.00PM'
 supporters:
+- Hobsons Bay City Council
+- Australia Council of Arts
 - 
 ---
 
