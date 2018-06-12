@@ -6,7 +6,7 @@ categories:
 image: "/uploads/The-Bridge.jpg"
 image-credit: Bindi Cole Chocka
 presented-by: Danna Jackson, James Henry, Bindi Cole Chocka and Vicki Reynolds
-price: FREE
+price: STANDARD $28/ $23 CONCESSION + BF
 datetime:
 - 2018-11-22 20:00:00 +11:00
 - 2018-11-24 20:00:00 +11:00
