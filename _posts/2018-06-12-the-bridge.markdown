@@ -5,6 +5,8 @@ categories:
 - whats-on
 image: "/uploads/The-Bridge.jpg"
 image-credit: Bindi Cole Chocka
+button-url: https://thesubstation.iwannaticket.com.au/event/the-bridge-MTUyNzY
+button-txt: BOOK NOW
 presented-by: Danna Jackson, James Henry, Bindi Cole Chocka and Vicki Reynolds
 price: STANDARD $28/ $23 CONCESSION + BF
 datetime:
@@ -17,7 +19,7 @@ notes:
 supporters:
 - Hobsons Bay City Council
 - Australia Council of Arts
-- 
+- Art & Industry Festival
 ---
 
 A highly regarded verbatim play by the late VICKI REYNOLDS, THE BRIDGE will be presented within a multi-media installation featuring video projection and design by BINDI COLE CHOCKA and music by JAMES HENRY. Directed by DONNA JACKSON and performed by an ensemble cast of actors and community members, THE BRIDGE revisits the collapse of a giant span of Melbourne’s Westgate Bridge in 1970 that claimed the lives of thirty-five workers. 
