@@ -15,7 +15,7 @@ datetime:
 has-start-time: true
 supporters:
 - Asialink
-- Melbourne Festival
+- Melbourne Festival 2018
 ---
 
 
