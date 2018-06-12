@@ -25,5 +25,5 @@ The first art museums were spaces of conquest when they weren't showcasing items
 
 Located at the flashpoints of the European art canon and First Nations art practice, RHALL's work roams across forms – performance, video, text and photography – and in recent years his playful and thought-provoking creations have been seen in the National Gallery of Victoria, ACCA and the Centre for Contemporary Photography. DEFUNCTIONALISED AUTONOMOUS OBJECTS is RHALL’s first major solo exhibition and confirms his place at the leading edge of a new generation of Australian artists.
 
-Presented by The SUBSTATION and MELBOURNE FESTIVAL. 
+Presented by The SUBSTATION and [MELBOURNE FESTIVAL](https://www.festival.melbourne/). 
 Defunctionalised Autonomous Objects is supported by the Victorian Government through Creative Victoria, Australia Council for the Arts and Creative Partnerships Australia through their Plus 1 program. 
