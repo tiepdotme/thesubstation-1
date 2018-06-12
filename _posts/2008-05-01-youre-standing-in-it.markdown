@@ -1,8 +1,8 @@
 ---
 title: You're Standing in it
-date: 2008-05-01 14:33:00 +10:00
+date: 2008-05-01 13:33:00 +10:00
 categories:
-- whats-on
+- archive
 image: "/uploads/amanda.jpg"
 image-credit: Amanda Carr
 presented-by: AMANDA CARR
