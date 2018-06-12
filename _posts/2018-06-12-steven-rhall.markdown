@@ -12,11 +12,11 @@ datetime:
 has-opening-event: true
 is-within-gallery-open-time: true
 supporters:
+- Melbourne Festival 2018
 - Creative Victoria
 - Creative Partnerships Australia
 - Australia Council of Arts
 - Hobsons Bay City Council
-- Melbourne Festival 2018
 ---
 
 Art is just a frame of mind. [STEVEN RHALL](http://stevenrhall.com/) takes the frame out of the picture.
