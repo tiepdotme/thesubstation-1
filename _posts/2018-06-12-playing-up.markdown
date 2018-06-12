@@ -1,6 +1,6 @@
 ---
 title: PLAYING UP
-date: 2018-06-12 15:00:00 +10:00
+date: 2018-06-12 14:00:00 +10:00
 categories:
 - whats-on
 image: "/uploads/PLAYING-UP.jpg"
