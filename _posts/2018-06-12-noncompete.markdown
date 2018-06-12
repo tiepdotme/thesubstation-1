@@ -5,6 +5,7 @@ categories:
 - whats-on
 image: "/uploads/Alisdair-M.jpg"
 presented-by: Alisdair Macindoe
+price: FREE
 datetime:
 - 2018-07-27 00:00:00 +10:00
 - 2018-09-08 00:00:00 +10:00
