@@ -1,8 +1,8 @@
 ---
 title: THREE SOLOS
-date: 2008-06-08 02:57:00 +10:00
+date: 2008-06-08 01:57:00 +10:00
 categories:
-- whats-on
+- archive
 image: "/uploads/Three-Solos.jpg"
 image-credit: Orfee Schuijt
 button-url: http://thesubstation.iwannaticket.com.au/event/kim-myhr-solo-with-peter-knight-MTQzNzA
@@ -11,7 +11,7 @@ presented-by: 'feat. KIM MYHR (Norway), PETER KNIGHT, TONY BUCK (Berlin/Aust), '
 price: TICKETS $25 | FRIDAY 8 JUNE AND SATURDAY 9 JUNE (COMBINED) $45
 datetime:
 - 2018-06-08 20:00:00 +10:00
-is-on-home-page: true
+is-on-home-page: false
 has-start-time: true
 is-single-date: true
 supporters:
