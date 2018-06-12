@@ -13,6 +13,10 @@ datetime:
 - 2018-11-30 20:00:00 +11:00
 has-start-time: true
 is-list-of-dates: true
+supporters:
+- Mistletone
+- State Library of Victoria
+- Creative Victoria
 ---
 
 Musicians MARITA DYSON and STUART FLANAGAN, [The ORBWEAVERS](http://www.theorbweavers.com/), present the culmination of their research into the changes that occurred to the waterways of Melbourne’s West in the late 19th and 20th centuries. NEWER VOLCANICS explores the industrial history and environmental change and the lives of people who lived and worked the waterways of Melbourne's West through a concert of music, poetry and drawings. 
