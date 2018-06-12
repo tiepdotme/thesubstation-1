@@ -8,10 +8,11 @@ image-credit: 'Shelley Lasica, The Design Plot (2016–). Video still. Videograp
   James Wright. '
 presented-by: 'Shelley Lasica '
 price: FREE
-has-start-time: false
 datetime:
 - 2018-07-28 11:00:00 +10:00
 - 2018-07-29 11:00:00 +10:00
+is-on-home-page: true
+has-start-time: false
 is-list-of-dates:
 - false
 is-opening-hours-time: true
