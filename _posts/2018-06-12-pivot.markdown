@@ -1,6 +1,8 @@
 ---
 title: " PIVOT"
 date: 2018-06-12 15:00:00 +10:00
+categories:
+- whats-on
 image: "/uploads/PIVOT-s.jpg"
 image-credit: PHOTO BY GREGORY LORENZUTTI
 presented-by: " Madeleine Flynn & Tim Humphrey"
@@ -9,6 +11,10 @@ datetime:
 - 2018-07-10 11:00:00 +10:00
 - 2018-07-14 17:00:00 +10:00
 is-within-gallery-open-time: true
+supporters:
+- Australia Council of Arts
+- Melbourne Fringe
+- City of Melbourne
 ---
 
 Rejoice in the safe absurdity of a see-saw ride with PIVOT. A field of semi-intelligent seesaws programmed to listen, remember and consider all words they hear. As our democracy teeters towards ever more dangerous farce, PIVOT asks riders for patience, contemplation, for itself and with each other. 

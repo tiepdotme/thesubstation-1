@@ -3,7 +3,7 @@ title: Home
 pages: What's On
 events: 
 youtube: 
-vimeo: 
+vimeo: https://vimeo.com/273997889
 banner-image: "/uploads/homepage-MIJF-2018-highres.gif"
 carousel-images:
 - "/uploads/loyalty.jpg"
