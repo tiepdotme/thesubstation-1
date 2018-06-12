@@ -10,6 +10,7 @@ presented-by: PRESENTS COIL’S TIME MACHINES
 price: STANDARD $29/ $19 CONCESSION + BF
 datetime:
 - 2018-07-06 20:00:00 +10:00
+is-on-home-page: true
 has-opening-event: false
 has-start-time: true
 is-single-date: true
