@@ -14,6 +14,9 @@ is-opening-hours-time: true
 is-within-gallery-open-time: true
 supporters:
 - Melbourne Fringe
+- Tate Modern
+- LIVE ART DEVELOPMENT AGENCY
+- 
 ---
 
 Make clothes out of food, remote control your parents, invent your own form of sports, search for miracles, deconstruct electrical devices, build what-happens-next-machines!
