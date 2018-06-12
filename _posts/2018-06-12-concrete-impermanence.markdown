@@ -14,7 +14,7 @@ datetime:
 - 2018-08-18 19:30:00 +10:00
 has-opening-event: true
 has-start-time: true
-is-list-of-dates: true
+is-list-of-dates: false
 is-single-time-duration: true
 supporters:
 - Arts SA
