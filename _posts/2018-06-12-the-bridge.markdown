@@ -1,6 +1,6 @@
 ---
 title: The Bridge
-date: 2018-06-12 11:06:00 +10:00
+date: 2018-06-12 15:00:00 +10:00
 presented-by: Danna Jackson, James Henry, Bindi Cole Chocka and Vicki Reynolds
 datetime:
 - 2018-11-22 20:00:00 +11:00
@@ -9,6 +9,8 @@ datetime:
 has-start-time: true
 notes:
   note: 'MATINEE: SAT NOVEMBER 24, 2.00PM'
+supporters:
+- 
 ---
 
 A highly regarded verbatim play by the late VICKI REYNOLDS, THE BRIDGE will be presented within a multi-media installation featuring video projection and design by BINDI COLE CHOCKA and music by JAMES HENRY. Directed by DONNA JACKSON and performed by an ensemble cast of actors and community members, THE BRIDGE revisits the collapse of a giant span of Melbourne’s Westgate Bridge in 1970 that claimed the lives of thirty-five workers. 
