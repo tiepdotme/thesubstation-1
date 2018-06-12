@@ -1,8 +1,8 @@
 ---
 title: Kim Myhr with the AAO and Tony Buck
-date: 2008-06-09 09:08:00 +10:00
+date: 2008-06-09 08:08:00 +10:00
 categories:
-- whats-on
+- archive
 image: "/uploads/kim-myhr-8.jpg"
 image-credit: Orfee Schuijt
 button-url: http://thesubstation.iwannaticket.com.au/event/kim-myhr-norway-with-the-australian-art-orchestra-MTQzNzE
@@ -11,7 +11,7 @@ presented-by: "(NORWAY)"
 price: TICKETS $35 | FRIDAY 8 JUNE AND SATURDAY 9 JUNE (COMBINED) $45
 datetime:
 - 2018-06-09 20:00:00 +10:00
-is-on-home-page: true
+is-on-home-page: false
 has-start-time: true
 is-single-date: true
 supporters:
