@@ -7,7 +7,7 @@ image: "/uploads/The-Bridge.jpg"
 image-credit: Bindi Cole Chocka
 button-url: https://thesubstation.iwannaticket.com.au/event/the-bridge-MTUyNzY
 button-txt: BOOK NOW
-presented-by: Danna Jackson, James Henry, Bindi Cole Chocka and Vicki Reynolds
+presented-by: Donna Jackson, James Henry, Bindi Cole Chocka and Vicki Reynolds
 price: STANDARD $28/ $23 CONCESSION + BF
 datetime:
 - 2018-11-22 20:00:00 +11:00
