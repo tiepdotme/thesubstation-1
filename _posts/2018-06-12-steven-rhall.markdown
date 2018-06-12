@@ -16,6 +16,7 @@ supporters:
 - Creative Partnerships Australia
 - Australia Council of Arts
 - Hobsons Bay City Council
+- Melbourne Festival
 ---
 
 Art is just a frame of mind. [STEVEN RHALL](http://stevenrhall.com/) takes the frame out of the picture.
