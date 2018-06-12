@@ -12,6 +12,7 @@ price: FULL $25 / CONCESSION $20
 datetime:
 - 2018-08-15 19:30:00 +10:00
 - 2018-08-18 19:30:00 +10:00
+has-start-time: true
 is-single-time-duration: true
 supporters:
 - Arts SA
