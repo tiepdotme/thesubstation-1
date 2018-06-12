@@ -3,6 +3,9 @@ title: NEWER VOLCANICS
 date: 2018-06-12 15:00:00 +10:00
 categories:
 - whats-on
+image: "/uploads/Orbweavers.jpg"
+image-credit: Photo by Daniel Aulsebrook
+button-txt: BOOK NOW
 presented-by: THE ORBWEAVERS
 ---
 
