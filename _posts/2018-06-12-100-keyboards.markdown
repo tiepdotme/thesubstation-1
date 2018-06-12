@@ -5,6 +5,7 @@ categories:
 - whats-on
 image: "/uploads/ASUNA.jpg"
 image-credit: Asuna
+button-url: https://thesubstation.iwannaticket.com.au/event/100-keyboards-MTUyNzQ
 button-txt: BOOK NOW
 presented-by: ASUNA (JAPAN)
 price: STANDARD $39/ $29 CONCESSION + BF
