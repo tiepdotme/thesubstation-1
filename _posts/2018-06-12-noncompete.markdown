@@ -17,4 +17,4 @@ NONCOMPETE is a post-human music, sculpture and installation featuring new elect
 
 ALISDAIR MACINDOE’s work is a musical reflection on the idea that digital technology is a new life that we are currently gestating and though it is made by us and reflects our development, the point where technology has agency and its own agenda is inevitable. 
 
-Presented by The SUBSTATION  
+Presented by The SUBSTATION.  
