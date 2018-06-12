@@ -5,7 +5,8 @@ categories:
 - whats-on
 image: "/uploads/Orbweavers.jpg"
 image-credit: Photo by Daniel Aulsebrook
-button-txt: 'BOOK '
+button-url: https://thesubstation.iwannaticket.com.au/event/newer-volcanics-MTUyNzc
+button-txt: BOOK  NOW
 presented-by: THE ORBWEAVERS
 price: "$20 + BF"
 datetime:
