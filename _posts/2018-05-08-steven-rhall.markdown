@@ -1,6 +1,6 @@
 ---
 title: Defunctionalised Autonomous Objects
-date: 2018-06-12 15:00:00 +10:00
+date: 2018-05-08 15:00:00 +10:00
 categories:
 - whats-on
 image: "/uploads/steven.jpg"
