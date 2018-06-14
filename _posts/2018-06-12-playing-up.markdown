@@ -16,7 +16,7 @@ supporters:
 - Australia Council of Arts
 - Creative Victoria
 - Melbourne Fringe
-- Hobsons Bay City Council
+- Hobsons Bay + Creative City
 - Goethe Institut
 - Tate Modern
 - LIVE ART DEVELOPMENT AGENCY
