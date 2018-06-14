@@ -1,6 +1,6 @@
 ---
 title: Melbourne Fringe
-image: "/uploads/MelbourneFringe.jpg"
+image: "/uploads/Melbourne-Fringe.jpg"
 presenting: false
 ---
 
