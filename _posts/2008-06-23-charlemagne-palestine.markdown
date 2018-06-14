@@ -1,13 +1,13 @@
 ---
 title: Charlemagne Palestine
-date: 2008-06-23 10:14:00 +10:00
+date: 2008-06-23 09:14:00 +10:00
 categories:
 - whats-on
 image: "/uploads/charlemagne-palestine.jpg"
 button-url: http://thesubstation.iwannaticket.com.au/event/charlemagne-palestine-usa-MTQzNzI
 button-txt: BUY TICKETS
 presented-by: "(USA)"
-price: TICKETS FROM $39
+price: FINAL RELEASE TICKETS $59 + BF
 datetime:
 - 2018-06-23 19:00:00 +10:00
 is-on-home-page: true
