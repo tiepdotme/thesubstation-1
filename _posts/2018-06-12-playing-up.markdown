@@ -13,12 +13,16 @@ datetime:
 is-opening-hours-time: true
 is-within-gallery-open-time: true
 supporters:
+- Australia Council of Arts
+- Creative Victoria
 - Melbourne Fringe
+- Hobsons Bay City Council
+- Goethe Institut
 - Tate Modern
 - LIVE ART DEVELOPMENT AGENCY
 - Fundus Theatre
-- Playing Up
 - Collaborative Arts Partnership
+- Playing Up
 ---
 
 Make clothes out of food, remote control your parents, invent your own form of sports, search for miracles, deconstruct electrical devices, build what-happens-next-machines!
