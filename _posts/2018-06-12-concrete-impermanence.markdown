@@ -3,7 +3,7 @@ title: CONCRETE IMPERMANENCE
 date: 2018-06-12 15:00:00 +10:00
 categories:
 - whats-on
-image: "/uploads/Concrete-impermanance-sam.jpg"
+image: "/uploads/Concrete.jpg"
 image-credit: PHOTO BY SAM ROBERTS
 button-url: https://thesubstation.iwannaticket.com.au/event/concrete-impermanence-MTUyNzE
 button-txt: BOOK NOW
