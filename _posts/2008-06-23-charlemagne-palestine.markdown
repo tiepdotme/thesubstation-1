@@ -1,6 +1,6 @@
 ---
 title: Charlemagne Palestine
-date: 2008-06-23 12:14:00 +10:00
+date: 2008-06-23 11:14:00 +10:00
 categories:
 - whats-on
 image: "/uploads/charlemagne-palestine.jpg"
@@ -13,6 +13,8 @@ datetime:
 is-on-home-page: true
 has-start-time: true
 is-single-date: true
+notes:
+  note: "LOCATION: HOLY TRINITY ANGLICAN CHURCH \n2 PASCO STREET, WILLIAMSTOWN"
 supporters:
 - Room40
 - Australia Council of Arts
