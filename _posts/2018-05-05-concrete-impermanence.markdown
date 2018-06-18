@@ -23,6 +23,7 @@ supporters:
 - LW Dance Hub
 - Adelaide Festival Centre
 - Allbirds
+- Restless Dance Theatre
 ---
 
 Adelaide based choreographer and artist, [ALISON](www.alisoncurrie.com) CURRIE presents her new work CONCRETE IMPERMANENCE, tackling global and personal instability, environmental disaster and personal trauma through the connection of sculptural objects and people on stage. Through these relationships and environments, she reveals the fragility of human existence; in its tragedy, its poetic beauty and in the inevitable reality of a fragile existence.
