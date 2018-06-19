@@ -1,8 +1,8 @@
 ---
 title: Tracing Transcendence
-date: 2008-05-04 05:49:00 +10:00
+date: 2008-05-04 04:49:00 +10:00
 categories:
-- whats-on
+- archive
 image: "/uploads/shireen.jpg"
 image-credit: Shireen Taweel, Tracing Trancendence, detail, 2017
 presented-by: Shireen Taweel
