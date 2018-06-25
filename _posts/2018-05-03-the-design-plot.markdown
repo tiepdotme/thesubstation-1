@@ -11,7 +11,7 @@ price: FREE
 datetime:
 - 2018-07-28 11:00:00 +10:00
 - 2018-07-29 11:00:00 +10:00
-is-on-home-page: false
+is-on-home-page: true
 has-start-time: false
 is-list-of-dates:
 - false
