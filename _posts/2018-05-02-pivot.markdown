@@ -16,6 +16,7 @@ supporters:
 - Australia Council of Arts
 - Melbourne Fringe
 - City of Melbourne
+- 
 ---
 
 Rejoice in the safe absurdity of a see-saw ride with PIVOT. A field of semi-intelligent seesaws programmed to listen, remember and consider all words they hear. As our democracy teeters towards ever more dangerous farce, PIVOT asks riders for patience, contemplation, for itself and with each other. 
@@ -30,5 +31,5 @@ Construction management: Additive <br>
 Production management: Emily O'Brien <br>
 
 Presented by The SUBSTATION. 
-This project has been assisted by the Australian Government through the Australia Council, its arts funding and advisory body.
-PIVOT was commissioned by Melbourne Fringe and the City of Melbourne.
+This project has been assisted by the Australian Government through the Australia Council, its arts funding and advisory body. 
+PIVOT was commissioned by Melbourne Fringe, the City of Melbourne and Federation Square.
