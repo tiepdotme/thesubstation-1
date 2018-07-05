@@ -32,6 +32,11 @@ supporters:
 - 
 ---
 
+WED 11–THUR 12 JULY, 1PM–4PM
+FRI 13–SAT 14 JULY, 1PM–5PM
+SAT 28–SUN 29 JULY, 11AM–5PM
+
+
 THE DESIGN PLOT is an ongoing performance project by [SHELLEY LASICA](http://shelleylasica.com/) including collaborations with six dancers and a cinematographer.
 
 THE DESIGN PLOT uses the structure of dancing, with the discipline of scenography as a source for its design and development. Responding to the context, this utterance of the project will take over The SUBSTATION, unfolding through a methodology that includes open research sessions, public talks, installation and the development of performance mechanisms.
