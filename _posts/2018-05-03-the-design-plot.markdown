@@ -9,12 +9,9 @@ image-credit: 'Shelley Lasica, The Design Plot (2016–). Video still. Videograp
 presented-by: 'Shelley Lasica '
 price: FREE
 datetime:
-- Key 1: July 10, 2018 at 1:00pm
-  Key: July 12, 2018 at 4:00pm
-- Key 1: July 13, 2018 at 1:00pm
-  Key: July 14, 2018 at 5:00pm
-- Key 1: July 28, 2018 at 11:00am
-  Key: July 28, 2018 at 5:00pm
+- date: 2018-07-12 16:00:00 +10:00
+- date: 2018-07-14 17:00:00 +10:00
+- date: 2018-07-28 17:00:00 +10:00
 is-on-home-page: true
 has-start-time: true
 is-single-date: false
