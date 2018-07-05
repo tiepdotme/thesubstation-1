@@ -32,9 +32,9 @@ supporters:
 - 
 ---
 
-WED 11–THUR 12 JULY, 1PM–4PM
-FRI 13–SAT 14 JULY, 1PM–5PM
-SAT 28–SUN 29 JULY, 11AM–5PM
+WED 11–THUR 12 JULY, 1PM–4PM <br>
+FRI 13–SAT 14 JULY, 1PM–5PM <br>
+SAT 28–SUN 29 JULY, 11AM–5PM <br>
 
 
 THE DESIGN PLOT is an ongoing performance project by [SHELLEY LASICA](http://shelleylasica.com/) including collaborations with six dancers and a cinematographer.
