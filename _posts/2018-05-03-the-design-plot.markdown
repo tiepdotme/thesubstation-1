@@ -29,6 +29,7 @@ notes:
   date:
   - 2018-07-28 11:00:00 +10:00
   - 2018-07-29 17:00:00 +10:00
+  note: 11am–5pm
 supporters:
 - Openhouse Melbourne
 - 
