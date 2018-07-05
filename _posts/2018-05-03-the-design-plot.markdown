@@ -13,7 +13,7 @@ datetime:
 - datetime: 2018-07-14 17:00:00 +10:00
 - datetime: 2018-07-28 17:00:00 +10:00
 is-on-home-page: true
-has-start-time: true
+has-start-time: false
 is-single-date: false
 is-list-of-dates:
 - true
