@@ -9,9 +9,9 @@ image-credit: 'Shelley Lasica, The Design Plot (2016–). Video still. Videograp
 presented-by: 'Shelley Lasica '
 price: FREE
 datetime:
-- date: 2018-07-12 16:00:00 +10:00
-- date: 2018-07-14 17:00:00 +10:00
-- date: 2018-07-28 17:00:00 +10:00
+- datetime: 2018-07-12 16:00:00 +10:00
+- datetime: 2018-07-14 17:00:00 +10:00
+- datetime: 2018-07-28 17:00:00 +10:00
 is-on-home-page: true
 has-start-time: true
 is-single-date: false
