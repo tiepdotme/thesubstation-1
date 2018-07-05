@@ -26,10 +26,7 @@ artists-talk:
   date: 2018-07-28 12:30:00 +10:00
   note: In Conversation with Phip Murray
 notes:
-  date:
-  - 2018-07-28 11:00:00 +10:00
-  - 2018-07-29 17:00:00 +10:00
-  note: 11am–5pm
+  notes: 
 supporters:
 - Openhouse Melbourne
 - 
