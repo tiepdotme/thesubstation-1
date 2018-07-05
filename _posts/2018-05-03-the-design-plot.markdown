@@ -17,6 +17,7 @@ datetime:
 - 2018-07-29 11:00:00 +10:00
 is-on-home-page: true
 has-start-time: false
+is-single-date: true
 is-list-of-dates:
 - true
 is-opening-hours-time: true
