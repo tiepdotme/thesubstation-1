@@ -11,12 +11,19 @@ price: FREE
 datetime:
 - 2018-07-28 11:00:00 +10:00
 - 2018-07-29 11:00:00 +10:00
+- 2018-07-10 13:00:00 +10:00
+- 2018-07-12 16:00:00 +10:00
+- 2018-07-13 13:00:00 +10:00
+- 2018-07-14 17:00:00 +10:00
 is-on-home-page: true
 has-start-time: false
 is-list-of-dates:
-- false
+- true
 is-opening-hours-time: true
-is-within-gallery-open-time: true
+is-within-gallery-open-time: false
+artists-talk:
+  date: 2018-07-28 12:30:00 +10:00
+  note: In Conversation with Phip Murray
 supporters:
 - Openhouse Melbourne
 - 
