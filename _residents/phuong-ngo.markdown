@@ -5,7 +5,7 @@ image: "/uploads/Phuong-Ngo-res.jpg"
 current: true
 ---
 
-[PHONG NGO](http://www.pthngo.com/) is a contemporary visual artist; his practice is concerned with the interpretation of history, memory and place, and how it impacts individual and collected identity. His collaborative practice with Hwafern Quach, Slippage, examines the cycles of history in conjunction with current geopolitical and economic issues through the lens of vernacular cultures, artifacts and language.
+[PHUONG NGO](http://www.pthngo.com/) is a contemporary visual artist; his practice is concerned with the interpretation of history, memory and place, and how it impacts individual and collected identity. His collaborative practice with Hwafern Quach, Slippage, examines the cycles of history in conjunction with current geopolitical and economic issues through the lens of vernacular cultures, artifacts and language.
 
 In 2018 he co-curated [HYPHENATED](https://thesubstation.org.au/archive/hyphenated/) at The SUBSTATION, an exhibition of presenting the work of Asian-Australian Artist living and working in Victoria, which has resulted in the development of Hyphenated Projects a platform for presenting Asian Australian Art in Victoria. 
 
