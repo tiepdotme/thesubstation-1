@@ -2,7 +2,7 @@
 title: DREW MCDOWALL
 date: 2018-05-01 20:00:00 +10:00
 categories:
-- whats-on
+- archive
 image: "/uploads/Drew-McDowall.jpg"
 button-url: https://thesubstation.iwannaticket.com.au/event/drew-mcdowall-presents-coils-time-machines-MTUwODU
 button-txt: BUY TICKETS
@@ -10,7 +10,7 @@ presented-by: PRESENTS COIL’S TIME MACHINES with KUSUM NORMOYLE
 price: STANDARD $29/ $19 CONCESSION + BF
 datetime:
 - 2018-07-06 20:00:00 +10:00
-is-on-home-page: true
+is-on-home-page: false
 has-opening-event: false
 has-start-time: true
 is-single-date: true
