@@ -12,6 +12,7 @@ price: FULL $25 / CONCESSION $20
 datetime:
 - 2018-08-15 19:30:00 +10:00
 - 2018-08-18 19:30:00 +10:00
+is-on-home-page: true
 has-opening-event: true
 has-start-time: true
 is-list-of-dates: false
