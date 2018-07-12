@@ -11,7 +11,9 @@ datetime:
 - 2018-09-26 00:00:00 +10:00
 - 2018-09-28 00:00:00 +10:00
 is-opening-hours-time: true
-is-within-gallery-open-time: true
+is-within-gallery-open-time: false
+notes:
+  note: 11am–5pm
 supporters:
 - Australia Council of Arts
 - Creative Victoria
