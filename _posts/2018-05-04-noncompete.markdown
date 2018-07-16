@@ -9,6 +9,7 @@ price: FREE
 datetime:
 - 2018-07-27 18:00:00 +10:00
 - 2018-09-08 00:00:00 +10:00
+is-on-home-page: true
 has-opening-event: true
 is-within-gallery-open-time: true
 artists-talk:
