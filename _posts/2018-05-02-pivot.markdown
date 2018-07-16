@@ -2,7 +2,7 @@
 title: " PIVOT"
 date: 2018-05-02 15:00:00 +10:00
 categories:
-- whats-on
+- archive
 image: "/uploads/PIVOT-s.jpg"
 image-credit: PHOTO BY GREGORY LORENZUTTI
 presented-by: " Madeleine Flynn & Tim Humphrey"
@@ -10,7 +10,7 @@ price: FREE
 datetime:
 - 2018-07-10 11:00:00 +10:00
 - 2018-07-14 17:00:00 +10:00
-is-on-home-page: true
+is-on-home-page: false
 is-within-gallery-open-time: true
 supporters:
 - Australia Council of Arts
