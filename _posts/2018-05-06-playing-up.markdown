@@ -29,7 +29,7 @@ supporters:
 
 Make clothes out of food, remote control your parents, invent your own form of sports, search for miracles, deconstruct electrical devices, build what-happens-next-machines!
 
-PLAYING UP is an artwork by Sibylle Peters of Theatre of Research, exploring the potential of Live Art to bridge generations and suggest different ways of looking at the world. Drawing on key Live Art themes and seminal works, PLAYING UP takes the form of a game played by adults and kids together. 
+PLAYING UP is an artwork by [SIBYLLE PETERS](http://www.liveartuk.org/blog/sibylle-peters/) of Theatre of Research, exploring the potential of Live Art to bridge generations and suggest different ways of looking at the world. Drawing on key Live Art themes and seminal works, PLAYING UP takes the form of a game played by adults and kids together. 
 
 Children, grown-ups, families and friends are all welcome. Pick a card, follow the instructions, create your own piece of Live Art, and perform it.
 
