@@ -18,6 +18,6 @@ artists-talk:
 
 NONCOMPETE is a post-human music, sculpture and installation featuring new electro-mechanical robotic instruments with hundreds of moving parts.
 
-Exploring multi-room instrumentation, robotic music and programmatic composition, ALISDAIR MACINDOE's work reflects on the idea that digital technology is a new life-form we are currently gestating. NONCOMPETE explores the inevitable point where technology has agency and its own agenda. 
+Exploring multi-room instrumentation, robotic music and programmatic composition, [ALISDAIR MACINDOE](http://alisdairmacindoe.com/)'s work reflects on the idea that digital technology is a new life-form we are currently gestating. NONCOMPETE explores the inevitable point where technology has agency and its own agenda. 
 
 Presented by The SUBSTATION.  
