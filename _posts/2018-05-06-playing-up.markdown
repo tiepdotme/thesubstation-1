@@ -5,6 +5,8 @@ categories:
 - whats-on
 image: "/uploads/PLAYING-UP.jpg"
 image-credit: Playing Up, TATE Modern. Photo by Seraphina Neville
+button-url: "/uploads/MPaterson.PlayingUp_FINAL_AE.pdf"
+button-txt: READ
 presented-by: SIBYLLE PETERS (GERMANY)
 price: FREE
 datetime:
