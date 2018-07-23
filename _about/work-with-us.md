@@ -8,13 +8,6 @@ button-txt:
 button-url: 
 ---
 
-The SUBSTATION is seeking a Front Of House Causal Staff member to join our team.  <br>
+There are currently no vacancies at The SUBSTATION. 
 
-
-**FRONT OF HOUSE CASUAL STAFF** <br> 
-[Download Position Description ](/uploads/Casual%20PD's%202018.pdf)<br>
-
-
-Please direct applications to Kali Michailidis, General Manager: manager[at]thesubstation.org.au. <br> 
-
-
+To keep up with employment opportunities, please subscribe to The SUBSTATION’s e‐news and follow us on [LinkedIn](https://www.linkedin.com/company/the-substation-newport/) and [Twitter](https://twitter.com/TheSubstation_).
