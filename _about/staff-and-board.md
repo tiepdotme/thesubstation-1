@@ -10,15 +10,16 @@ image: "/uploads/the-substation-staff-and-board.jpg"
 **Dominic Arcaro** <br>
 _Chair_<br>
 
-**Orlanda Bryars**<br>
+**James Lockyer**<br>
 _Treasurer_<br>
 
 **Amber Stuart**<br>
 _Secretary_<br>
 
 **Cr Angela Altair**<br>
+_Council Observer_<br>
 
-**Elizabeth Tupper**<br>
+**Hilary Sadek**<br>
 
 **Jude Gun**<br>
 
