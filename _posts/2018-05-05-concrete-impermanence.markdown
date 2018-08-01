@@ -32,3 +32,23 @@ Adelaide based choreographer and artist, [ALISON CURRIE](https://www.alisoncurri
 Presented by The SUBSTATION and ALISON CURRIE.
 
 Supported by [Insite Arts](http://insitearts.com.au/), [Arts SA](https://arts.sa.gov.au/), Australia Council for the Arts, [Restless Dance Theatre](http://restlessdance.org/), [LWDance Hub](https://www.lwd.com.au/), [Access2Arts](https://access2arts.org.au/), [Adelaide Festival Centre.](https://www.adelaidefestivalcentre.com.au/)
+
+Directed and Choreographed by Alison Currie
+Dancers: Alison Currie, Harrison Richie-Jones & Stephen Sheehan
+Choreography in collaboration with Carlie Angel, Amrita Hepi, Jessie Oshodi, Lewis Rankin & Stephen Sheehan
+Sound: Alisdair Macindoe
+Lighting Design: Matthew Adey
+Visuals: Jason Lam: Kaboom Studios
+Creative Assistant: Carlie Angel
+Sculptural Objects molo: designers Stephanie Forsythe & Todd MacAllen
+Costume: Anny Duff: Goods Studios, shoes by All Birds
+Creative Producer: Jason Cross
+ 
+Set consultation: Stephen Hayter
+Design consultation: Morag Cook
+Sound consultation: Sascha Budimski
+Audio description consultation: Lara Torr: Access 2 Arts
+Secondment dancers: Rita Bush & Cazna Brass
+ 
+Stills documentation: Jessie McKinlay, Kel Mocilnik & Sam Roberts
+Video documentation: Sam Roberts & Daylight Breaks: Tim Standing
