@@ -2,7 +2,7 @@
 title: The Design Plot
 date: 2018-05-03 15:00:00 +10:00
 categories:
-- whats-on
+- archive
 image: "/uploads/The-Design.jpg"
 image-credit: 'Shelley Lasica, The Design Plot (2016–). Video still. Videography by
   James Wright. '
