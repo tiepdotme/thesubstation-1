@@ -33,22 +33,22 @@ Presented by The SUBSTATION and ALISON CURRIE.
 
 Supported by [Insite Arts](http://insitearts.com.au/), [Arts SA](https://arts.sa.gov.au/), Australia Council for the Arts, [Restless Dance Theatre](http://restlessdance.org/), [LWDance Hub](https://www.lwd.com.au/), [Access2Arts](https://access2arts.org.au/), [Adelaide Festival Centre.](https://www.adelaidefestivalcentre.com.au/)
 
-Directed and Choreographed by Alison Currie
-Dancers: Alison Currie, Harrison Richie-Jones & Stephen Sheehan
-Choreography in collaboration with Carlie Angel, Amrita Hepi, Jessie Oshodi, Lewis Rankin & Stephen Sheehan
-Sound: Alisdair Macindoe
-Lighting Design: Matthew Adey
-Visuals: Jason Lam: Kaboom Studios
-Creative Assistant: Carlie Angel
-Sculptural Objects molo: designers Stephanie Forsythe & Todd MacAllen
-Costume: Anny Duff: Goods Studios, shoes by All Birds
-Creative Producer: Jason Cross
+Directed and Choreographed by Alison Currie<br>
+Dancers: Alison Currie, Harrison Richie-Jones & Stephen Sheehan<br>
+Choreography in collaboration with Carlie Angel, Amrita Hepi, Jessie Oshodi, Lewis Rankin & Stephen Sheehan<br>
+Sound: Alisdair Macindoe<br>
+Lighting Design: Matthew Adey<br>
+Visuals: Jason Lam: Kaboom Studios<br>
+Creative Assistant: Carlie Angel<br>
+Sculptural Objects molo: designers Stephanie Forsythe & Todd MacAllen<br>
+Costume: Anny Duff: Goods Studios, shoes by All Birds<br>
+Creative Producer: Jason Cross<br>
  
-Set consultation: Stephen Hayter
-Design consultation: Morag Cook
-Sound consultation: Sascha Budimski
-Audio description consultation: Lara Torr: Access 2 Arts
-Secondment dancers: Rita Bush & Cazna Brass
+Set consultation: Stephen Hayter<br>
+Design consultation: Morag Cook<br>
+Sound consultation: Sascha Budimski<br>
+Audio description consultation: Lara Torr: Access 2 Arts<br>
+Secondment dancers: Rita Bush & Cazna Brass<br>
  
-Stills documentation: Jessie McKinlay, Kel Mocilnik & Sam Roberts
-Video documentation: Sam Roberts & Daylight Breaks: Tim Standing
+Stills documentation: Jessie McKinlay, Kel Mocilnik & Sam Roberts<br>
+Video documentation: Sam Roberts & Daylight Breaks: Tim Standing<br>
