@@ -29,7 +29,7 @@ _Council Observer_<br>
 
 **Brad Spolding**<br>
 _Director_<br>
-[info (@) thesubstation.org.au](mailto:info@thesubstation.org.au)
+[director (@) thesubstation.org.au](mailto:director@thesubstation.org.au)
 
 **Kali Michailidis**<br>
 _General Manager_<br>
