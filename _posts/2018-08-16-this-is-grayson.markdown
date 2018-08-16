@@ -6,6 +6,7 @@ categories:
 image: "/uploads/Grayson.jpg"
 button-url: http://melbournefringe.com.au/event/this-is-grayson/
 button-txt: BOOK NOW
+presented-by: Gold Satino
 price: "$30 / $25 "
 datetime:
 - 2018-09-18 19:00:00 +10:00
