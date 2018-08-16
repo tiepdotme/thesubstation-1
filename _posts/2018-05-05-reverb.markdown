@@ -9,6 +9,7 @@ button-txt: BOOK NOW
 presented-by: Detroit Techno Militia 2 x 4 (T.Linder x DJ Seoul) USA
 price: "$30 / $45 p+ BF \n"
 datetime: 2018-09-15 20:00:00 +10:00
+is-on-home-page: true
 has-start-time: true
 ---
 
