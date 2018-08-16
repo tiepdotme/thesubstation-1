@@ -13,6 +13,10 @@ datetime:
 has-start-time: true
 has-mins: true
 is-single-time-duration: false
+supporters:
+- Melbourne Fringe
+- Hobsons Bay + Creative City
+- Australia Council of Arts
 ---
 
 Grayson has been in this carpark for ten thousand two hundred and sixty-one years. She’s been waiting for you. So she can show you the gaps. Between her world and yours.
