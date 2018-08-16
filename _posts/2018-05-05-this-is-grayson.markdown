@@ -11,6 +11,7 @@ price: FULL $30 / CONCESSION $25
 datetime:
 - 2018-09-18 19:00:00 +10:00
 - 2018-09-30 19:00:00 +10:00
+has-opening-event: true
 has-start-time: true
 has-mins: false
 is-single-time-duration: false
