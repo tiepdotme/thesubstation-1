@@ -14,7 +14,6 @@ datetime:
 has-start-time: true
 has-mins: false
 is-single-time-duration: false
-event-duration-txt: 60 mins
 supporters:
 - Melbourne Fringe
 - Hobsons Bay + Creative City
