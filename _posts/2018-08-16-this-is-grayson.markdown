@@ -12,8 +12,8 @@ datetime:
 - 2018-09-18 19:00:00 +10:00
 - 2018-09-30 19:00:00 +10:00
 has-start-time: true
-has-mins: true
-is-single-time-duration: true
+has-mins: false
+is-single-time-duration: false
 event-duration-txt: 60 mins
 supporters:
 - Melbourne Fringe
