@@ -7,7 +7,7 @@ image: "/uploads/Reverb.jpg"
 button-url: https://www.eventbrite.com.au/e/reverb-featuring-detroit-techno-militia-2-x-4-tlinder-x-dj-seoul-usa-tickets-48588318970?aff=efbeventtix
 button-txt: BOOK NOW
 presented-by: Detroit Techno Militia 2 x 4 (T.Linder x DJ Seoul) USA
-price: "$30 / $45 p+ BF \n"
+price: "$30 / $45 + BF \n"
 datetime:
 - 2018-09-15 20:00:00 +10:00
 is-on-home-page: true
