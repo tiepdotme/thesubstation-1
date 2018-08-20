@@ -2,7 +2,7 @@
 title: CONCRETE IMPERMANENCE
 date: 2018-05-05 15:00:00 +10:00
 categories:
-- whats-on
+- archive
 image: "/uploads/Concrete.jpg"
 image-credit: PHOTO BY SAM ROBERTS
 button-url: https://thesubstation.iwannaticket.com.au/event/concrete-impermanence-MTUyNzE
