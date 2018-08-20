@@ -5,7 +5,6 @@ categories:
 - archive
 image: "/uploads/Concrete.jpg"
 image-credit: PHOTO BY SAM ROBERTS
-video: 281439556
 button-url: https://thesubstation.iwannaticket.com.au/event/concrete-impermanence-MTUyNzE
 button-txt: BOOK NOW
 presented-by: 'Alison Currie '
