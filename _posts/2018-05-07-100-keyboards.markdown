@@ -3,6 +3,7 @@ title: 100 KEYBOARDS
 date: 2018-05-07 14:40:00 +10:00
 categories:
 - whats-on
+video: "/uploads/100%20keyboards.mp4"
 image: "/uploads/ASUNA.jpg"
 image-credit: Asuna
 button-url: https://thesubstation.iwannaticket.com.au/event/100-keyboards-MTUyNzQ
