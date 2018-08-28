@@ -91,17 +91,13 @@ option[type="selected"] {
 .c-formWrapper-note {
     @include headlineSm();
     font-family: $font-text-bold;
-    //@include textAside();
-    //@include textRg();
-    //font-family: $font-serif;
-
-  background-color: rgba( palette(brand), 0.15 );
-    //border-bottom: 1px solid palette(muted);
+    line-height: 1;
+    background-color: rgba( palette(brand), 0.15 );
     margin: $blockSpace 0 0;
-  padding: space(0.5) space(1);
+    padding: space(0.5) space(1);
 
     @include media-breakpoint-up(lg) {
-      padding: space(1) 20% space(1) space(2);
+      padding: space(1.333) space(2) space(1);
     }
 
     ~ .c-formWrapper {

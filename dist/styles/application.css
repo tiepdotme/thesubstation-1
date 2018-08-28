@@ -4392,6 +4392,7 @@ option[type="selected"] {
   font-size: 18px;
   text-transform: uppercase;
   font-family: "FoundersGrotesk-Medium", -apple-system, BlinkMacSystemFont, "Roboto", "Helvetica Neue", "Droid Sans", "Segoe UI", "Fira Sans", "Ubuntu", sans-serif;
+  line-height: 1;
   background-color: rgba(21, 21, 21, 0.15);
   margin: 5.5vh 0 0;
   padding: 12px 24px; }
@@ -4411,7 +4412,7 @@ option[type="selected"] {
     margin: 0; }
   @media (min-width: 992px) {
     .c-formWrapper-note {
-      padding: 24px 20% 24px 48px; } }
+      padding: 31.992px 48px 24px; } }
   .c-formWrapper-note ~ .c-formWrapper {
     margin-top: 0;
     padding-top: 18px; }
