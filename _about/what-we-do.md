@@ -15,3 +15,5 @@ Reflecting the broader history of Melbourne’s inner west, we encourage artists
 <br>
 <br>
 Find out [What's On.](https://thesubstation.org.au/whats-on/)
+
+The SUBSTATION is proud to be a part of Arts West, a unique alliance of arts organisations who reflect the exciting, vibrant and diverse arts and culture thriving in Melbourne’s inner west.
