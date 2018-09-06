@@ -2,7 +2,7 @@
 title: NONCOMPETE
 date: 2018-05-04 15:00:00 +10:00
 categories:
-- whats-on
+- archive
 image: "/uploads/Alisdair-M.jpg"
 presented-by: Alisdair Macindoe
 price: FREE
