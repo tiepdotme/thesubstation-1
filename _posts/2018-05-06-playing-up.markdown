@@ -12,7 +12,7 @@ price: FREE
 datetime:
 - 2018-09-26 00:00:00 +10:00
 - 2018-09-28 00:00:00 +10:00
-is-on-home-page: false
+is-on-home-page: true
 is-opening-hours-time: true
 is-within-gallery-open-time: false
 notes:
