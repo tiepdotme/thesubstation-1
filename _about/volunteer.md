@@ -1,5 +1,5 @@
 ---
-title: WORK WITH US
+title: Work with us
 position: 4
 current: true
 image: "/uploads/Vols.JPG"
