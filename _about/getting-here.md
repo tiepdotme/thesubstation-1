@@ -14,7 +14,7 @@ The SUBSTATION <br>
 ## GALLERY HOURS
 
 Tuesday to Saturday <br> 
-11am–5pm <br>
+11am – 5pm <br>
 Closed on public holidays 
 
 For information on public transport, head to [PTV Journey Planner](http://ptv.vic.gov.au/journey#jpsearch%5Baction%5D=showPlanner).
