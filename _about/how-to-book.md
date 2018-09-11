@@ -10,11 +10,11 @@ button-url:
 
 Tickets to performances can be purchased online or over the phone on (03) 9391 1110. Doors sales for performances are subject to availability. 
 
-Please note a transaction fee may apply
+Please note a transaction fee may apply.
 
 ## CONCESSIONS
 
-Concession prices (where available) apply to;
+Concession prices (where available) apply to:
 
 * Persons age 14 years and under, full pensioners, Victorian Carer, Seniors and Health Care Card holders. 
 
