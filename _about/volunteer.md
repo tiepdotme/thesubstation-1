@@ -4,7 +4,7 @@ position: 4
 current: true
 image: "/uploads/Vols.JPG"
 button-url: https://goo.gl/forms/ptfJtRDDYn0fP1T73
-button-txt: APPLY
+button-txt: REGISTER
 ---
 
 The SUBSTATION is on the look-out for volunteers who are enthusiastic and dedicated to the promotion of visual and performing arts in its myriad forms. The SUBSTATION volunteers play an active role in delivering excellent customer experiences and ensuring The SUBSTATION remains a valued cultural destination. Whether you want to gain experience in the industry, learn more about visual and performing arts, pass on your skills and knowledge to others or just want to socialise with people with similar interests – we want to hear from you!
@@ -24,9 +24,14 @@ Volunteers at The SUBSTATION are involved in a broad range of experiences. The b
 
 The SUBSTATION volunteers operate primarily in front of house roles, invigilating exhibitions, ushering for performances and assisting with private and corporate events.
 
-The SUBSTATION is also open to Expressions of Interest for internships from tertiary or post-graduate students in areas of marketing, production and    general administration (subject to availability).
+The SUBSTATION is also open to Expressions of Interest for internships from tertiary or post-graduate students in areas of marketing, production and general administration (subject to availability).
 
+## REGISTER TO VOLUNTEER AT THE SUBSTATION
 
-The SUBSTATION Volunteers:
-Current: John Simmons, Pippa Griffiths, Stephanie Morrison, Emma Woodhams-Bertozzi, Chris Fletcher, Agathe Paradis, Kimberly Budd, Ruby Mae Scanlan, Braden Howard, Laura Hernandez, Annabelle Gautier, Kirby Casilli, Katie Page, Ivy Yan, Cassie Ross
-Past: Daniel Longo, Evie Clark, Melissa O'Donovan, Emily Boyd, Hannah Potter, Akasha Amjad, Eleanor Orchard, Sharmane Rabusa, Rainer, Gus Mileson, Bonnie Lee, Rachel Pullman, Linh Nguyen, Marion Brazier, Skye Williams, Sam Cairney, Louise Tate, Claire Sims, Shannan Holland, Milica Lazovic, Samuel Rowe.
+The SUBSTATION is currently seeking Front Of House Volunteers. 
+Detailed descriptions for all volunteer positions can be downloaded below.
+FRONT OF HOUSE VOLUNTEER
+Volunteer registration is now open, simply click the REGISTER button and fill out the form. 
+
+The SUBSTATION Volunteers: <br>
+John Simmons, Pippa Griffiths, Stephanie Morrison, Emma Woodhams-Bertozzi, Chris Fletcher, Agathe Paradis, Kimberly Budd, Ruby Mae Scanlan, Braden Howard, Laura Hernandez, Annabelle Gautier, Kirby Casilli, Katie Page, Ivy Yan, Cassie Ross, Daniel Longo, Evie Clark, Melissa O'Donovan, Emily Boyd, Hannah Potter, Akasha Amjad, Eleanor Orchard, Sharmane Rabusa, Rainer, Gus Mileson, Bonnie Lee, Rachel Pullman, Linh Nguyen, Marion Brazier, Skye Williams, Sam Cairney, Louise Tate, Claire Sims, Shannan Holland, Milica Lazovic, Samuel Rowe.
