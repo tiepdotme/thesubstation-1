@@ -28,9 +28,10 @@ The SUBSTATION is also open to Expressions of Interest for internships from tert
 
 ## REGISTER TO VOLUNTEER AT THE SUBSTATION
 
-The SUBSTATION is currently seeking Front Of House Volunteers. 
+The SUBSTATION is currently seeking Front Of House Volunteers.
 Detailed descriptions for all volunteer positions can be downloaded below.
-FRONT OF HOUSE VOLUNTEER
+[FRONT OF HOUSE VOLUNTEER](/uploads/Front%20of%20House%20Volunteer%20Position%20Description.pdf)
+
 Volunteer registration is now open, simply click the REGISTER button and fill out the form. 
 
 The SUBSTATION Volunteers: <br>
