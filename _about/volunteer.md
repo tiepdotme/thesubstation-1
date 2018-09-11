@@ -31,3 +31,7 @@ The SUBSTATION is also open to Expressions of Interest for internships from tert
 To register your interest for volunteering with us, please contact Kali Michailidis, General Manager:
 - Email: [manager (@) thesubstation.org.au](mailto:manager@thesubstation.org.au)
 - Tel: (03) 9391 1110
+
+The SUBSTATION Volunteers:
+Current: John Simmons, Pippa Griffiths, Stephanie Morrison, Emma Woodhams-Bertozzi, Chris Fletcher, Agathe Paradis, Kimberly Budd, Ruby Mae Scanlan, Braden Howard, Laura Hernandez, Annabelle Gautier, Kirby Casilli, Katie Page, Ivy Yan, Cassie Ross
+Past: Daniel Longo, Evie Clark, Melissa O'Donovan, Emily Boyd, Hannah Potter, Akasha Amjad, Eleanor Orchard, Sharmane Rabusa, Rainer, Gus Mileson, Bonnie Lee, Rachel Pullman, Linh Nguyen, Marion Brazier, Skye Williams, Sam Cairney, Louise Tate, Claire Sims, Shannan Holland, Milica Lazovic, Samuel Rowe.
