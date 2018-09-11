@@ -12,8 +12,9 @@ The SUBSTATION is on the look-out for volunteers who are enthusiastic and dedica
 ## CURRENT POSITIONS 
 
 The SUBSTATION is currently seeking Front Of House Volunteers. <br>
-Detailed position descriptions can be downloaded below.<br>
-[FRONT OF HOUSE VOLUNTEER](/uploads/Front%20of%20House%20Volunteer%20Position%20Description.pdf)
+The Front of House volunteer position is suited to individuals who are interested in a career in arts administration, customer service and arts management.
+
+[FRONT OF HOUSE VOLUNTEER POSITION DESCRIPTION](/uploads/Front%20of%20House%20Volunteer%20Position%20Description.pdf)
 
 ## WHY VOLUNTEER AT THE SUBSTATION?
 
