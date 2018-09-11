@@ -26,6 +26,7 @@ Volunteers at The SUBSTATION are involved in a broad range of experiences. The b
 - Building industry contacts and networks
 - Volunteer program events, activities and training
 - Regular curatorial briefings for exhibitions and performances
+- Volunteers will be offered free admission to shows
 
 ## WHAT DO VOLUNTEERS DO?
 
