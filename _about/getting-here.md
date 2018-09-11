@@ -8,7 +8,7 @@ image-bottom: "/uploads/the-substation-map-lr.jpg"
 
 ## ADDRESS
 
-The SUBSTATION
+The SUBSTATION <br>
 [1 Market Street <br> Newport, Victoria 3015](https://goo.gl/maps/WG1MkodsgHP2).
 
 ## GALLERY HOURS
