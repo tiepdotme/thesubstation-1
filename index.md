@@ -2,7 +2,7 @@
 title: Home
 pages: What's On
 events: 
-youtube: https://www.youtube.com/watch?v=Vh3H6x1GFn4
+youtube: https://youtu.be/Vh3H6x1GFn4?t=25s
 vimeo: 
 banner-image: 
 carousel-images:
