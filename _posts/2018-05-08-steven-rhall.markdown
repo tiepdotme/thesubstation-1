@@ -9,6 +9,7 @@ price: FREE
 datetime:
 - 2018-10-13 17:00:00 +11:00
 - 2018-12-07 00:00:00 +11:00
+is-on-home-page: true
 has-opening-event: true
 is-within-gallery-open-time: true
 supporters:
