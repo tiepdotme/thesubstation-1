@@ -2,9 +2,9 @@
 title: Home
 pages: What's On
 events: 
-youtube: 
-vimeo: 285956977
-banner-image: "/uploads/homepage-MIJF-2018-highres.gif"
+youtube: https://www.youtube.com/watch?v=Vh3H6x1GFn4
+vimeo: 
+banner-image: 
 carousel-images:
 - "/uploads/loyalty.jpg"
 - "/uploads/lawrence-english-thumb.jpg"
