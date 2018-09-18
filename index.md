@@ -2,7 +2,8 @@
 title: Home
 pages: What's On
 events: 
-youtube: https://youtu.be/Vh3H6x1GFn4?t=25s
+youtube: <iframe width="560" height="315" src="https://www.youtube.com/embed/Vh3H6x1GFn4?start=25"
+  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 vimeo: 
 banner-image: 
 carousel-images:
