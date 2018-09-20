@@ -2,7 +2,7 @@
 title: REVERB
 date: 2018-05-05 15:04:00 +10:00
 categories:
-- whats-on
+- archive
 image: "/uploads/Reverb.jpg"
 button-url: https://www.eventbrite.com.au/e/reverb-featuring-detroit-techno-militia-2-x-4-tlinder-x-dj-seoul-usa-tickets-48588318970?aff=efbeventtix
 button-txt: BOOK NOW
