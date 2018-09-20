@@ -12,6 +12,7 @@ price: STANDARD $39/ $29 CONCESSION + BF
 datetime:
 - 2018-10-10 20:00:00 +11:00
 - 2018-10-13 20:00:00 +11:00
+is-on-home-page: true
 has-start-time: true
 supporters:
 - Asialink
