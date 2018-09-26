@@ -17,6 +17,7 @@ has-start-time: true
 supporters:
 - Asialink
 - Melbourne Festival 2018
+- Next Wave
 ---
 
 
