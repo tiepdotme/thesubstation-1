@@ -5,8 +5,8 @@ categories:
 - whats-on
 image: "/uploads/PLAYING-UP.jpg"
 image-credit: Playing Up, TATE Modern. Photo by Seraphina Neville
-button-url: "/uploads/MPaterson.PlayingUp_FINAL_AE.pdf"
-button-txt: READ
+button-url: https://www.thisisunbound.co.uk/products/playing-up
+button-txt: BUY YOUR OWN PLAYING UP CARDS
 presented-by: SIBYLLE PETERS (GERMANY)
 price: FREE
 datetime:
