@@ -2,7 +2,7 @@
 title: This is Grayson
 date: 2018-05-05 15:05:00 +10:00
 categories:
-- whats-on
+- archive
 image: "/uploads/Grayson.jpg"
 button-url: http://melbournefringe.com.au/event/this-is-grayson/
 button-txt: BOOK NOW
