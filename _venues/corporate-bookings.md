@@ -13,6 +13,4 @@ If you are planning a small meeting, a conference for up to 200 or a large event
 
 Our open warehouse style space offers a point of difference to your event and endless creative opportunities.
 
-**Need an alternative venue for your end of year party?**
-The SUBSTATION is taking bookings for November and December 2017. We have created packaged hire deals that include furniture, catering and a PA system. Please contact events@thesubstation.org.au with your function details and we will get back to you with more information.
-
+Need an alternative venue for your corporate event? Contact events@thesubstation.org.au with your function details and we will get back to you with information on how we can help.
