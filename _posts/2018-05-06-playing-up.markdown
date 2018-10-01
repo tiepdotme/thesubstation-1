@@ -2,7 +2,7 @@
 title: PLAYING UP
 date: 2018-05-06 14:00:00 +10:00
 categories:
-- whats-on
+- archive
 image: "/uploads/PLAYING-UP.jpg"
 image-credit: Playing Up, TATE Modern. Photo by Seraphina Neville
 button-url: https://www.thisisunbound.co.uk/products/playing-up
@@ -12,7 +12,7 @@ price: FREE
 datetime:
 - 2018-09-26 00:00:00 +10:00
 - 2018-09-28 00:00:00 +10:00
-is-on-home-page: true
+is-on-home-page: false
 is-opening-hours-time: true
 is-within-gallery-open-time: false
 notes:
