@@ -3,8 +3,8 @@ title: Home
 pages: What's On
 events: 
 youtube: 
-vimeo: 290411131
-banner-image: 
+vimeo: 
+banner-image: "/uploads/Orbweavers.jpg"
 carousel-images:
 - "/uploads/loyalty.jpg"
 - "/uploads/lawrence-english-thumb.jpg"
