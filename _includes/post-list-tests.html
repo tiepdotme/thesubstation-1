@@ -19,7 +19,7 @@ NO: {% assign sortedPosts = (site.categories[categoryName] | sort: "datetime" | 
 
     {% assign sortedPosts = (site.categories[categoryName] | sort: "firstDate" ) | reverse %}
     {% for post in sortedPosts %}
-    {% include post-cell-alt.html %}
+    {% include post-list-item.html %}
     {% endfor %}
 
 </div>
@@ -37,7 +37,7 @@ NO: {% assign sortedPosts = (site.categories[categoryName] | sort: "datetime" | 
     {% endfor %}
 
     {% for post in categoryPosts %}
-    {% include post-cell-alt.html %}
+    {% include post-list-item.html %}
     {% endfor %}
 
 </div>
@@ -55,7 +55,7 @@ NO: {% assign sortedPosts = (site.categories[categoryName] | sort: "datetime" | 
     {% assign categoryPosts = site.categories[categoryName] %}
 
     {% for post in categoryPosts | sort: "firstDate" %}
-    {% include post-cell-alt.html %}
+    {% include post-list-item.html %}
     {% endfor %}
 
 </div>
@@ -68,6 +68,6 @@ NO: {% assign sortedPosts = (site.categories[categoryName] | sort: "datetime" | 
     {% assign categoryPosts = (site.categories[categoryName] | sort) %}
     {% for post in categoryPosts %}
 
-    {% include post-cell-alt.html %}
+    {% include post-list-item.html %}
     {% endfor %}
 </div>

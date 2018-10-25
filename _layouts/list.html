@@ -5,12 +5,12 @@ layout: default
 <div class="Grid Grid--withGutterSm">
 
     {% for post in site.posts %}
-        {% assign categoryname = '' %}
-        {% if post.category == categoryname %}
+    {% assign categoryname = '' %}
+    {% if post.category == categoryname %}
 
-            {% include posts-list.html %}
+    {% include post-list.html %}
 
-        {% endif %}
+    {% endif %}
     {% endfor %}
 
 </div>

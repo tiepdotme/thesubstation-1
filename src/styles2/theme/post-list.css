@@ -1,4 +1,4 @@
-.PostsList > * {
+.PostList > * {
   flex-basis: calc(100% / 2);
   
   @media (--sm) { 
@@ -13,22 +13,22 @@
     margin: 0;
     flex-basis: calc(100% / 4);
     @media (--sm) { flex-basis: calc(100% / 7); }
-  }
-
-  @include when-inside(".c-post-next") {
-    @media (--sm) { flex-basis: calc(100% / 5); }
   } */
 }
 
-.three.PostsList { 
-  @media (--sm) { flex-basis: calc(100% / 3); } 
+.three .PostList-item { 
+  @media (--sm) { 
+    flex-basis: calc(100% / 3); 
+  }
 }
 
-.four.PostsList { 
-  @media (--sm) { flex-basis: calc(100% / 4); } 
+.four .PostList-item { 
+  @media (--sm) { 
+    flex-basis: calc(100% / 4); 
+  } 
 }
 
-.PostsList .AspectRatio {
+.PostList .AspectRatio {
   padding-bottom: 35vh;
 
   @media (--sm) { 
@@ -39,8 +39,11 @@
   }
 }
 
-.c-post-next .PostsList .FlexEmbed-ratio,
-.c-post-next .PostsList .AspectRatio {
+.c-post-next .PostList > * {
+  @media (--sm) { flex-basis: calc(100% / 5); }
+}
+
+.c-post-next .PostList .AspectRatio {
   padding-bottom: 20vh;
 }
 

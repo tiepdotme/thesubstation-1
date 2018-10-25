@@ -1,13 +1,14 @@
 ---
 title: Venues
 layout: default
+grid-max-number: three
 ---
 
 <div class="FlexGrid c-postGrid">
 
     {% assign sortedPosts = site.venues | sort: 'position' %}
     {% for post in sortedPosts %}
-    {% include post-cell-alt.html %}
+    {% include post-list-item.html %}
     {% endfor %}
 
 </div>

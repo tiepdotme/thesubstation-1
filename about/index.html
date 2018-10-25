@@ -4,12 +4,12 @@ layout: default
 grid-max-number: three
 ---
 
-<div class="FlexGrid c-postGrid">
+<div class="FlexGrid PostList">
 
     {% assign sortedPosts = site.about | sort: 'position' %}
     {% for post in sortedPosts %}
     {% if post.is-visible %}
-    {% include post-cell-alt.html %}
+    {% include post-list-item.html %}
     {% endif %}
     {% endfor %}
 

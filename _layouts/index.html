@@ -67,7 +67,7 @@ layout: default
         {% assign homePosts = site.categories[categoryName] | sort: "date" %}
         {% for post in homePosts %}
         {% if post.is-on-home-page %}
-        {% include post-cell-alt.html %}
+        {% include post-list-item.html %}
         {% endif %}
         {% endfor %}
     </div>
