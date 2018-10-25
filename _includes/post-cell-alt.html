@@ -2,34 +2,31 @@
 {% if page.url contains page.slug %} u-hide{% endif%}
 {% endcomment %}
 
-<a class="c-postCell" href="{{ post.url }}">
+<a class="PostList-item" href="{{ post.url }}">
   <div class="AspectRatio">
-    <div class="AspectRatio-object c-postCell-image" style="background-image: url('{{ post.image | remove: ".jpg" | append: "-thumb.jpg" }}')">
-      <div class="f-childrenCenter">
+    <div class="AspectRatio-object PostList-item-image CoverImage" style="background-image: url('{{ post.image | remove: ".jpg" | append: "-thumb.jpg" }}')">
+      <div class="f-childrenCenter u-relative">
         <div>
-          <h1 class="c-postCell-headline Meta c-bg">{{ post.title }}</h1>
+          <h1 class="Meta fw-600 u-textCenter c-bg m-b3">{{ post.title }}</h1>
 
           {% if post.datetime %}
-          {% if post.is-year-duration == true %}
-          <date class="c-postCell-subheadline Meta c-text-light">{{ post.datetime | first | date: "%Y" }}</date>
-          {% elsif post.datetime.size == 1 or post.is-single-date %}
-          <date class="c-postCell-subheadline Meta c-text-light">{{ post.datetime | first | date: "%B %d %Y" }}</date>
-          {% elsif post.is-single-month-duration == true %}
-          <date class="c-postCell-subheadline Meta c-text-light">{{ post.datetime | last | date: "%B %Y" }}</date>
-          {% elsif post.is-many-months-duration == true %}
-          <date class="c-postCell-subheadline Meta c-text-light">{{ post.datetime | first | date: "%B" }} - {{
-            post.datetime | last |
-            date: "%B %Y" }}</date>
-          {% else %}
-          <date class="c-postCell-subheadline Meta c-text-light">{{ post.datetime | first | date: "%B %d" }} - {{
-            post.datetime | last |
-            date: "%B %d %Y" }}</date>
-          {% endif %}
+            {% if post.is-year-duration == true %}
+            <date class="Meta fw-600 u-textCenter u-block">{{ post.datetime | first | date: "%Y" }}</date>
+            {% elsif post.datetime.size == 1 or post.is-single-date %}
+            <date class="Meta fw-600 u-textCenter u-block">{{ post.datetime | first | date: "%B %d %Y" }}</date>
+            {% elsif post.is-single-month-duration == true %}
+            <date class="Meta fw-600 u-textCenter u-block">{{ post.datetime | last | date: "%B %Y" }}</date>
+            {% elsif post.is-many-months-duration == true %}
+            <date class="Meta fw-600 u-textCenter u-block">{{ post.datetime | first | date: "%B" }} - {{
+              post.datetime | last | date: "%B %Y" }}</date>
+            {% else %}
+            <date class="Meta fw-600 u-textCenter u-block">{{ post.datetime | first | date: "%B %d" }} - {{
+              post.datetime | last | date: "%B %d %Y" }}</date>
+            {% endif %}
           {% endif %}
 
         </div>
       </div>
     </div>
-
   </div>
 </a>

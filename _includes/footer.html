@@ -6,86 +6,61 @@
 </div>
 FlexGrid FlexGrid--spaceBetween {% endcomment %}
 
-<footer class="c-footer {% if page.layout == 'post' or page.layout == 'page' or page.layout contains 'protected' and page.url != '/404.html' %} c-footer--rule{% endif %}">
+<footer class="b-py1 {% if page.layout == 'post' or page.layout == 'page' or page.layout contains 'protected' and page.url != '/404.html' %} c-footer--rule{% endif %}">
 
-    {% if page.layout == 'post' or page.layout == 'page' or page.layout contains 'protected' or page.url == '/404.html'
-    %}
-    <div class="c-footer-nav c-nav">
+  {% if page.layout == 'post' or page.layout == 'page' or page.layout contains 'protected' or page.url == '/404.html'
+  %}
+  <div class="c-footer-nav c-nav">
+    {% include nav.html %}
+  </div>
+  {% endif %}
+
+  <div class="Container Container--xl">
+    <div class="FlexGrid Meta-block c-block-text-mid">
+      <ul class="u-listUnstyled flh-footer m-mo-b4">
+        <li>
+          <a href="{{ site.address-link }}">
+            {{ site.address }}
+            <br> {{ site.address-second }}
+          </a>
+        </li>
+        <li>
+          <a href="tel:{{ site.phone }}">T: {{ site.phone }}</a>
+        </li>
+      </ul>
+      <ul class="u-listUnstyled flh-footer m-mo-b4">
+        <li>Gallery: {{ site.gallery-hours }}</li>
+        <li>Office: {{ site.office-hours }}</li>
+        <li>
+          <a href="mailto:{{ site.email }}">E: {{ site.email }}</a>
+        </li>
+      </ul>
+      {% include socials.html %}
+      {%- comment -%} {% unless page.layout contains 'protected' %} {% include form-news-signup.html %} {% endunless %} {%- endcomment -%}
+    </div>
+  </div>
+
+  <div class="u-md-hide">
+    <hr class="b-my1 bg-rule">
+    <div class="Container Container--xl">
+      <div class="flh-footer-block" id="nav">
+        <div class="Nav-item {% if page.url == '/' %}is-active{% endif %}">
+          <a class="Meta c-text-mid" href="/">Home</a>
+        </div>
+
         {% include nav.html %}
-    </div>
-    {% endif %}
 
-    <div class="c-footer-info">
-        <div class="Container Container--xl">
-            <div class="c-footer-infoBlock">
-
-                {% unless page.layout contains 'protected' %} {% include form-news-signup.html %} {% endunless %}
-
-                <div class="c-footer-infoDetails">
-                    <ul>
-                        <li>
-                            <a href="{{ site.address-link }}">
-                                {{ site.address }}
-                                <br> {{ site.address-second }}
-                            </a>
-                        </li>
-                        <li>
-                            <a href="tel:{{ site.phone }}">T: {{ site.phone }}</a>
-                        </li>
-                    </ul>
-                    <ul>
-                        <li>Gallery: {{ site.gallery-hours }}</li>
-                        <li>Office: {{ site.office-hours }}</li>
-                        <li>
-                            <a href="mailto:{{ site.email }}">E: {{ site.email }}</a>
-                        </li>
-                    </ul>
-                    {% include socials.html %}
-                </div>
-            </div>
-
-            {% comment %} {% if page.layout == 'post' or page.layout == 'page' %}
-            <!-- <a class="u-footerBackTop" href="#top">↑ Back to top</a> -->
-            <a class="o-iconWrapper u-footerBackTop" href="#top">
-                <svg class="o-icon o-icon--sm o-icon--left u-colorMedium">
-                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#ic-up"></use>
-                </svg>
-                Back to top
-            </a>
-            {% endif %} {% endcomment %}
-
-        </div>
-    </div>
-
-    {% comment %} {% if page.layout == 'post' %}
-    <div class="u-smDown-blockB--3by4 u-sm-blockB--1by3
-            {% unless page.layout == 'post' %}c-footer-hideMobileLogo{% endunless %}">
-        <a href="/" class="c-footer-logo">
-            <img class="" src="{{ site.imageurl }}logo.png" alt="{{ site.title }}" />
+        <a class="u-iconWrapper u-footerRowItem" href="#top">
+          <span class="u-icon c-text-mid">
+            <svg height="11" width="11">
+              <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#ic-up"></use>
+            </svg>
+          </span>
+          <span class="Meta c-text-mid">
+            Back to top
+          </span>
         </a>
+      </div>
     </div>
-    {% endif %} {% endcomment %}
-
-    <div class="c-footer-block u-md-hide">
-        <div class="Container Container--xl">
-            <div class="Grid-cell" id="nav">
-
-                <div class="c-nav-item {% if page.url == '/' %}is-active{% endif %}">
-                    <a class="" href="/">Home</a>
-                </div>
-
-                {% include nav.html %}
-
-                <a class="o-iconWrapper u-footerRowItem" href="#top">
-                    <svg class="o-icon o-icon--sm o-icon--left u-colorMedium">
-                        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#ic-up"></use>
-                    </svg>
-                    Back to top
-                </a>
-
-
-            </div>
-        </div>
-    </div>
-
+  </div>
 </footer>

@@ -28,9 +28,9 @@
   @media (--sm) { flex-basis: calc(100% / 4); } 
 }
 
-.PostsList .FlexEmbed-ratio,
 .PostsList .AspectRatio {
   padding-bottom: 35vh;
+
   @media (--sm) { 
     padding-bottom: 25vh; 
   }
@@ -51,40 +51,56 @@
 
 
 
+/* @mixin complexLink {
+	display: block;
+	width: 100%;
+
+	@include on-event() {
+		.o-linkBuriedTarget {
+			background-color: palette(brand);
+		}
+	}
+} */
 
 
 
-
-/* a.c-postCell {
-  @include complexLink();
+.PostList-item {
+  display: block;
   border: 0;
   position: relative;
 
-  .FlexEmbed {
+  & > * {
     margin: 1px 0.5px 0;
   }
 
-  @include on-event() {
-    .c-postCell-image {
-      @include baseTransition();
-      background-color: $lightBlendColor;
+  & date {
+    color: var(--c-text-light);
+    transition: all 500ms ease-in-out;
+  }
+
+  &:hover,
+  &:active {
+    & .PostList-item-image {
+      background-color: rgba(0,0,0,0.25);
       filter: grayscale(0);
+      transition: all 500ms ease-in-out;
     }
 
-    .c-postCell-subheadline {
-      @include baseTransition();
-      color: palette(white);
+    & date {
+      color: var(--c-bg);
+      transition: all 500ms ease-in-out;
     }
   }
-} */
-
-/* .c-postCell-image {
-    @include baseTransition();
-    @include imageBlend();
-    @include coverImage();
-    filter: grayscale(100%);
 }
 
+.PostList-item-image {
+  background-blend-mode: multiply;
+  background-color: rgba(0,0,0,0.8);
+  filter: grayscale(100%);
+  transition: all 500ms ease-in-out;
+}
+
+/*
 .c-postCell-headline,
 .c-postCell-subheadline {
     @include textAside();
@@ -119,7 +135,7 @@
 
 
 
-.FlexEmbed-ratio--hero {
+/* .FlexEmbed-ratio--hero {
     padding-bottom: 90%;
     @media (--sm) { padding-bottom: 56.25%; }
     @media (--xl) { padding-bottom: 50%; }
@@ -176,6 +192,7 @@
     text-align: center;
     width: 100%;
 }
+ */
 
 
 
@@ -189,10 +206,8 @@
 
 
 
-
-.c-post-info {
-
-    @media (--lg-for-container-lg) {
+/* .c-post-info {
+    @media (--lg) {
         margin: 0;
         transform: translateY(-100%);
         width: 100%;
@@ -335,3 +350,4 @@
         margin-bottom: $blockSpace * 0.5;
     }
 }
+ */

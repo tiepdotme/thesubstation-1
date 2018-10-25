@@ -1,18 +1,18 @@
 {% for item in site.data.navigation.header %}
-    <div class="c-nav-item
-        {% if page.url != '/' and page.url contains item.url %}is-active
-        {% elsif page.url contains 'show' and page.categories contains item.categories %}is-active
-        {% endif %}">
+<div class="Nav-item
+  {% if page.url != '/' and page.url contains item.url %}is-active
+  {% elsif page.url contains 'show' and page.categories contains item.categories %}is-active
+  {% endif %}">
 
-        <a class="" href="{{ item.url }}">{{ item.title }}</a>
+  <a class="Meta c-text-mid" href="{{ item.url }}">{{ item.title }}</a>
 
-        {% comment %}
-        <br>
-        {{ item.categories }}<br>
-        {{ page.categories }}<br>
-        {{ page.url }}<br>
-        {{ item.url }}
-        {% endcomment %}
+  {% comment %}
+  <br>
+  {{ item.categories }}<br>
+  {{ page.categories }}<br>
+  {{ page.url }}<br>
+  {{ item.url }}
+  {% endcomment %}
 
-    </div>
+</div>
 {% endfor %}

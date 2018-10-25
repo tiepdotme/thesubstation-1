@@ -24,10 +24,11 @@ ol,
   -------------------------------------------------
  */
 
-.Meta {
+.Meta,
+.Meta-block > * {
   font-family: var(--ff-text), var(--ff-stack-text);
   font-size: var(--rfs-text-sm);
-  font-weight: 600;
+  /* font-weight: 600; */
   letter-spacing: var(--fls-loose);
   text-transform: uppercase;
 }

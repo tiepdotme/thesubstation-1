@@ -128,8 +128,8 @@
   --c-black: hsl(0, 0%, 3%);
   --c-ash: hsl(213, 11%, 8%);
   --c-text: #1a1a1a;
-  --c-text-mid: hsl(0, 0%, 33%);
-  --c-text-light: hsl(0, 0%, 66%);
+  --c-text-mid: hsl(0, 0%, 40%);
+  --c-text-light: hsl(0, 0%, 70%);
 
   --c-gray: hsl(0, 0%, 60%);
   --c-muted: hsl(0, 0%, 75%);
@@ -152,7 +152,7 @@
    */
 
   --border-radius: 4px;
-  --cover-image-screen-color: rgba(0, 0, 0, 0.25);
+  --cover-image-screen-color: rgba(0, 0, 0, 0.8);
   --figure-space-align-within-text: 0;
   --figcaption-margin-top: 0.5rem;
   --figcaption-font-weight: 400;
