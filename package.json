@@ -1,15 +1,19 @@
 {
   "name": "the-substation",
   "version": "1.0.0",
-  "description": "Marketing website",
+  "description": "The Substation marketing & events website",
   "main": "gulpfile.js",
   "scripts": {
+    "css": "postcss ./src/styles2/application-181025.css --output ./src/styles2/application-181025A.css --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Quench",
+  "author": "Callum Flack",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "crypto-js": "^3.1.9-1",
+    "iremono": "callumflack/iremono#experiments"
+  },
+  "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^3.1.1",
     "gulp-cache": "0.4.5",
@@ -20,9 +24,7 @@
     "gulp-rename": "1.2.2",
     "gulp-sass": "^3.1.0",
     "gulp-sourcemaps": "^2.6.1",
-    "gulp-uglify": "^2.0.1"
-  },
-  "dependencies": {
+    "gulp-uglify": "^2.0.1",
     "source-map": "^0.6.1"
   }
 }

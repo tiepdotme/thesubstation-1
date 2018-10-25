@@ -1,0 +1,22 @@
+/* 
+  https://www.smashingmagazine.com/2013/02/setting-weights-and-styles-at-font-face-declaration/#unique-font-family-names-matching-weights-and-styles 
+ */
+
+@font-face {
+  font-family: var(--ff-text);
+  font-style: normal;
+  font-weight: 400;
+  src: url("/dist/fonts/FoundersGrotesk-Regular.woff") format("woff");
+}
+@font-face {
+  font-family: var(--ff-text);
+  font-style: normal;
+  font-weight: 500;
+  src: url("/dist/fonts/FoundersGrotesk-Medium.woff") format("woff");
+}
+@font-face {
+  font-family: var(--ff-text);
+  font-style: normal;
+  font-weight: 600;
+  src: url("/dist/fonts/FoundersGrotesk-Semibold.woff") format("woff");
+}

@@ -4,18 +4,19 @@
     <br>
     <a href="mailto:{{ site.email }}">E: {{ site.email }}</a>
 </div>
-o-grid o-grid--spaceBetween {% endcomment %}
+FlexGrid FlexGrid--spaceBetween {% endcomment %}
 
 <footer class="c-footer {% if page.layout == 'post' or page.layout == 'page' or page.layout contains 'protected' and page.url != '/404.html' %} c-footer--rule{% endif %}">
 
-    {% if page.layout == 'post' or page.layout == 'page' or page.layout contains 'protected' or page.url == '/404.html' %}
+    {% if page.layout == 'post' or page.layout == 'page' or page.layout contains 'protected' or page.url == '/404.html'
+    %}
     <div class="c-footer-nav c-nav">
         {% include nav.html %}
     </div>
     {% endif %}
 
     <div class="c-footer-info">
-        <div class="o-container">
+        <div class="Container Container--xl">
             <div class="c-footer-infoBlock">
 
                 {% unless page.layout contains 'protected' %} {% include form-news-signup.html %} {% endunless %}
@@ -66,7 +67,7 @@ o-grid o-grid--spaceBetween {% endcomment %}
     {% endif %} {% endcomment %}
 
     <div class="c-footer-block u-md-hide">
-        <div class="o-container">
+        <div class="Container Container--xl">
             <div class="Grid-cell" id="nav">
 
                 <div class="c-nav-item {% if page.url == '/' %}is-active{% endif %}">

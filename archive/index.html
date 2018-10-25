@@ -6,13 +6,13 @@ layout: default
 {% assign categoryName = 'archive' %}
 
 {% comment %}
-    {% include posts-list.html %}
-    We're not using the include here because we want the archive to show from most recent to oldest.
+{% include posts-list.html %}
+We're not using the include here because we want the archive to show from most recent to oldest.
 {% endcomment %}
 
-<div class="o-grid c-postGrid">
+<div class="FlexGrid c-postGrid">
     {% assign sortedPosts = site.categories[categoryName] | sort: "date" | reverse %}
     {% for post in sortedPosts%}
-        {% include post-cell-alt.html %}
+    {% include post-cell-alt.html %}
     {% endfor %}
 </div>

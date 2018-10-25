@@ -1,0 +1,55 @@
+/* 
+
+  LINKS
+
+*/
+
+p a,
+.Link {
+  transition: opacity 1000ms ease-out;
+}
+/* a:hover:not(.Button):not(.BlockLink), */
+p a:hover,
+p a:active,
+.Link:hover,
+.Link:active {
+  opacity: 0.4;
+  transition: opacity 600ms ease-out;
+}
+
+.nuxt-link-active span {
+  position: relative;
+
+  &:after {
+    background-color: currentColor;
+    content: "";
+    height: 1px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: -0.5em;
+  }
+}
+
+.BlockLink {
+  display: block;
+  transition: 600ms ease-out;
+  transform: translateY(0);
+
+  &:hover {
+    transition: 250ms ease-out;
+    transform: translateY(-2%);
+    opacity: 1 !important;
+  }
+}
+
+.BlockLink-target {
+  display: inline-block;
+  transform: translateX(0);
+  transition: 1000ms ease-out;
+}
+
+.BlockLink:hover .BlockLink-target {
+  transform: translateX(4px);
+  transition: 600ms ease-out;
+}

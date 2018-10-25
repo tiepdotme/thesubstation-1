@@ -4,9 +4,9 @@ javascripts: true
 ---
 
 {% comment %}
-    http://jekyllrb.com/docs/configuration/#specifying-a-jekyll-environment-at-build-time
-    https://www.siteleaf.com/blog/jekyll-environments/
-    $ JEKYLL_ENV=production bundle exec jekyll serve
+http://jekyllrb.com/docs/configuration/#specifying-a-jekyll-environment-at-build-time
+https://www.siteleaf.com/blog/jekyll-environments/
+$ JEKYLL_ENV=production bundle exec jekyll serve
 {% endcomment %}
 
 
@@ -14,120 +14,121 @@ javascripts: true
 
 
 {% unless page.datetime.size == null %}
-    <div class="c-post-info">
-        <div class="o-container--postInfo">
-            {% include post-info.html %}
-        </div>
+<div class="c-post-info">
+    <div class="o-container--postInfo">
+        {% include post-info.html %}
     </div>
+</div>
 {% endunless %}
 
 
 {% comment %}
 u-smDown-blockR--3by4
-<div>debug… url: {{ page.url }} categories: {{ page.categories }} slug: {{ page.slug }} permalink: {{ page.permalink }} title: {{ page.title }}</div>
+<div>debug… url: {{ page.url }} categories: {{ page.categories }} slug: {{ page.slug }} permalink: {{ page.permalink }}
+    title: {{ page.title }}</div>
 {{ site.categories }} {{ page.categories }}
 {% endcomment %}
 
 
 <div class="c-post-article">
-    <div class="o-container">
+    <div class="Container Container--xl">
         <div class="Grid Grid--withGutter">
             <div class="Grid-cell u-sm-size7of10 u-xl-size8of10 u-smDown-blockT--3by4">
 
                 {% comment %}
-                    -------------------------
-                    post article
-                    -------------------------
+                -------------------------
+                post article
+                -------------------------
                 {% endcomment %}
 
                 <article class="s-post">
                     {{ page.content | markdownify }}
 
                     {% unless page.venue-cta != true %}
-                        {% include venue-cta.html %}
+                    {% include venue-cta.html %}
                     {% endunless %}
-                    
+
                     {% comment %}
-                        -------------------------
-                        add an image at the bottom of the article
-                        -------------------------
+                    -------------------------
+                    add an image at the bottom of the article
+                    -------------------------
                     {% endcomment %}
-                    
+
                     {% if page.image-bottom %}
-                        <figure><img src="{{ page.image-bottom }}" alt="{{ page.image-bottom }}" /></figure>
+                    <figure><img src="{{ page.image-bottom }}" alt="{{ page.image-bottom }}" /></figure>
                     {% endif %}
-                    
+
                 </article>
 
 
 
 
                 {% comment %}
-                    -------------------------
-                    event supporters
-                    see: https://www.siteleaf.com/blog/author-pages-in-jekyll-and-siteleaf/
-                    see: https://www.siteleaf.com/blog/customizing-the-siteleaf-admin/#smart-fields
-                    see: https://jekyllrb.com/docs/templates/ (where expression!)
-                    {% for item in site.supporters %}
-                        <p>{{ item.title }}</p>
-                    {% endfor %}
-                    -------------------------
+                -------------------------
+                event supporters
+                see: https://www.siteleaf.com/blog/author-pages-in-jekyll-and-siteleaf/
+                see: https://www.siteleaf.com/blog/customizing-the-siteleaf-admin/#smart-fields
+                see: https://jekyllrb.com/docs/templates/ (where expression!)
+                {% for item in site.supporters %}
+                <p>{{ item.title }}</p>
+                {% endfor %}
+                -------------------------
                 {% endcomment %}
 
                 {% if page.supporters %}
-                    <div class="c-post-endBlock">
-                        Supported by:
+                <div class="c-post-endBlock">
+                    Supported by:
 
-                        <div class="c-post-supporters">
+                    <div class="c-post-supporters">
 
-                            {% assign supporters = site.supporters | where_exp: "item", "page.supporters contains item.title" %}
-                            {% for supporter in supporters %}
-                                <img
-                                    class="{% if supporter.portrait == true %}portrait{% endif %}"
-                                    src="{{ supporter.image }}"
-                                    alt="{{ supporter.title }}" />
-                            {% endfor %}
-
-                        </div>
+                        {% assign supporters = site.supporters | where_exp: "item", "page.supporters contains
+                        item.title" %}
+                        {% for supporter in supporters %}
+                        <img class="{% if supporter.portrait == true %}portrait{% endif %}" src="{{ supporter.image }}"
+                            alt="{{ supporter.title }}" />
+                        {% endfor %}
 
                     </div>
+
+                </div>
                 {% endif %}
 
 
                 {% comment %}
-                    -------------------------
-                    image credit or archive
-                    -------------------------
+                -------------------------
+                image credit or archive
+                -------------------------
                 {% endcomment %}
 
                 {% if page.image-credit or page.categories contains 'archive' %}
-                    <div class="c-post-endBlock">
-                        {% if page.image-credit %}
-                            Image credit: {{ page.image-credit }}
-                        {% endif %}
-                        {% if page.categories contains 'archive' %}
-                            <br>This show is <a href="/archive">archived</a>. It originally ran in {{ page.datetime | first | date: "%Y" }}.
-                        {% endif %}
-                    </div>
+                <div class="c-post-endBlock">
+                    {% if page.image-credit %}
+                    Image credit: {{ page.image-credit }}
+                    {% endif %}
+                    {% if page.categories contains 'archive' %}
+                    <br>This show is <a href="/archive">archived</a>. It originally ran in {{ page.datetime | first |
+                    date: "%Y" }}.
+                    {% endif %}
+                </div>
                 {% endif %}
 
 
                 {% comment %}
-                    -------------------------
-                    forms
-                    -------------------------
+                -------------------------
+                forms
+                -------------------------
                 {% endcomment %}
 
                 {% unless page.categories %}
-                    <div class="c-formWrapper">
-                        {% include enews-form.html %}
-                    </div>
+                <div class="c-formWrapper">
+                    {% include enews-form.html %}
+                </div>
                 {% endunless %}
 
                 {% if page.has-form == true %}
-                    {% include form.html %}
+                {% include form.html %}
                 {% endif %}
-                
+
             </div>
 
             <div class="Grid-cell u-sm-size3of10 u-xl-size2of10 u-smDown-flexOrderFirst">
@@ -136,66 +137,69 @@ u-smDown-blockR--3by4
 
 
             {% comment %}
-                ------------------------------
-                next / prev
-                ------------------------------
+            ------------------------------
+            next / prev
+            ------------------------------
             {% endcomment %}
 
             {% if page.url contains 'whats-on' %}
-                {% assign categoryName = 'whats-on' %}
+            {% assign categoryName = 'whats-on' %}
             {% elsif page.url contains 'in-development' %}
-                {% assign categoryName = 'in-development' %}
+            {% assign categoryName = 'in-development' %}
             {% elsif page.url contains 'residents' %}
-                {% assign collectionName = 'residents' %}
+            {% assign collectionName = 'residents' %}
             {% elsif page.url contains 'venues' %}
-                {% assign collectionName = 'venues' %}
+            {% assign collectionName = 'venues' %}
             {% elsif page.url contains 'about' %}
-                {% assign collectionName = 'about' %}
+            {% assign collectionName = 'about' %}
             {% endif %}
 
             {% if categoryName %}
-                <div class="Grid-cell ">
-                    <div class="c-post-next">
-                        <h3 class="c-nav-item"><a class="is-active" href="/{{ categoryName }}">More {{ categoryName | replace: '-', ' ' }}</a></h3>
-                        <div class="o-grid c-postGrid">
+            <div class="Grid-cell ">
+                <div class="c-post-next">
+                    <h3 class="c-nav-item"><a class="is-active" href="/{{ categoryName }}">More {{ categoryName |
+                            replace: '-', ' ' }}</a></h3>
+                    <div class="FlexGrid c-postGrid">
 
-                            {% for post in site.categories[categoryName] limit: 5 %}
-                                {% comment %}
-                                    Skip anything in the array that matches your argument, but keep looping over the rest of the values
-                                    See: https://github.com/Shopify/liquid/wiki/Liquid-for-Designers
-                                    And: https://help.shopify.com/themes/liquid/tags/iteration-tags
-                                {% endcomment %}
-                                {% if post.url contains page.url %}
-                                    {% continue %}
-                                {% endif %}
-                                {% comment %}If it's not hidden, print it{% endcomment %}
-                                {% include post-cell-alt.html %}
-                            {% endfor %}
+                        {% for post in site.categories[categoryName] limit: 5 %}
+                        {% comment %}
+                        Skip anything in the array that matches your argument, but keep looping over the rest of the
+                        values
+                        See: https://github.com/Shopify/liquid/wiki/Liquid-for-Designers
+                        And: https://help.shopify.com/themes/liquid/tags/iteration-tags
+                        {% endcomment %}
+                        {% if post.url contains page.url %}
+                        {% continue %}
+                        {% endif %}
+                        {% comment %}If it's not hidden, print it{% endcomment %}
+                        {% include post-cell-alt.html %}
+                        {% endfor %}
 
-                        </div>
                     </div>
                 </div>
+            </div>
 
             {% elsif collectionName %}
-                <div class="Grid-cell ">
-                    <div class="c-post-next">
-                        <h3 class="c-nav-item">
-                            <a class="is-active" href="/{{ collectionName }}">More {{ collectionName | replace: '-', ' ' }}{% if collectionName == "about" %} us{% endif %}</a>
-                        </h3>
-                        <div class="o-grid c-postGrid">
+            <div class="Grid-cell ">
+                <div class="c-post-next">
+                    <h3 class="c-nav-item">
+                        <a class="is-active" href="/{{ collectionName }}">More {{ collectionName | replace: '-', ' '
+                            }}{% if collectionName == "about" %} us{% endif %}</a>
+                    </h3>
+                    <div class="FlexGrid c-postGrid">
 
-                            {% for post in site[collectionName] limit: 5 %}
-                                {% if !post.current %}
-                                    {% if post.url contains page.url %}
-                                        {% continue %}
-                                    {% endif %}
-                                    {% include post-cell-alt.html %}
-                                {% endif %}
-                            {% endfor %}
+                        {% for post in site[collectionName] limit: 5 %}
+                        {% if !post.current %}
+                        {% if post.url contains page.url %}
+                        {% continue %}
+                        {% endif %}
+                        {% include post-cell-alt.html %}
+                        {% endif %}
+                        {% endfor %}
 
-                        </div>
                     </div>
                 </div>
+            </div>
             {% endif %}
 
 

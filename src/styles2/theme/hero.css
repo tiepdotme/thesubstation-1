@@ -1,0 +1,14 @@
+.Hero-image {
+  /* border: 1px solid var(--c-bg); */
+  border-bottom: 0;
+}
+
+.Hero-image img {
+  /* mix-blend-mode: multiply; */
+  margin: 0 auto;
+  object-fit: cover;
+}
+
+.Hero-blacken {
+  background-color: rgba(26, 26, 26, 0.25);
+}

@@ -9,80 +9,81 @@ image: "/uploads/the-substation-about-the-building.jpg"
 {% comment %}
 u-smDown-blockR--3by4
 {{ site.categories }} {{ page.categories }}
-<div>debug… url: {{ page.url }} categories: {{ page.categories }} slug: {{ page.slug }} permalink: {{ page.permalink }} title: {{ page.title }}</div>
+<div>debug… url: {{ page.url }} categories: {{ page.categories }} slug: {{ page.slug }} permalink: {{ page.permalink }}
+    title: {{ page.title }}</div>
 {% endcomment %}
 
 <div class="c-post-article">
-    <div class="o-container">
+    <div class="Container Container--xl">
         <div class="Grid Grid--withGutter">
             <div class="Grid-cell u-sm-size7of10 u-xl-size8of10 u-smDown-blockT--3by4">
 
                 <article class="s-post">
 
                     {% for section in page.sections %}
-                        {% if section.image %}
-                            <figure><img src="{{ section.image }}" alt="{{ section.image }}" /></figure>
-                        {% endif %}
-                        {% if section.title %}
-                            <h2>{{ section.title }}</h2>
-                        {% endif %}
-                        {{ section.copy | markdownify }}
-                        {% if section.list %}
-                            <div class="s-post-list">
-                                {{ section.list | markdownify }}
-                            </div>
-                        {% endif %}
-                        {% if section.image-bottom %}
-                            <figure><img src="{{ section.image-bottom }}" alt="{{ section.image-bottom }}" /></figure>
-                        {% endif %}
+                    {% if section.image %}
+                    <figure><img src="{{ section.image }}" alt="{{ section.image }}" /></figure>
+                    {% endif %}
+                    {% if section.title %}
+                    <h2>{{ section.title }}</h2>
+                    {% endif %}
+                    {{ section.copy | markdownify }}
+                    {% if section.list %}
+                    <div class="s-post-list">
+                        {{ section.list | markdownify }}
+                    </div>
+                    {% endif %}
+                    {% if section.image-bottom %}
+                    <figure><img src="{{ section.image-bottom }}" alt="{{ section.image-bottom }}" /></figure>
+                    {% endif %}
                     {% endfor %}
                 </article>
 
                 {% comment %}
-                    -------------------------
-                    list 'supporters'
-                    -------------------------
+                -------------------------
+                list 'supporters'
+                -------------------------
                 {% endcomment %}
 
                 {% if page.list-orgs == true %}
 
-                    <div class="c-post-endBlock">
-                        Organisational
-                        <div class="c-post-supporters">
-                            {% for supporter in site.supporters %}
-                                {% if supporter.organisational %}
-                                    {% include supporter-image.html %}
-                                {% endif %}
-                            {% endfor %}
-                        </div>
+                <div class="c-post-endBlock">
+                    Organisational
+                    <div class="c-post-supporters">
+                        {% for supporter in site.supporters %}
+                        {% if supporter.organisational %}
+                        {% include supporter-image.html %}
+                        {% endif %}
+                        {% endfor %}
                     </div>
-                    <div class="c-post-endBlock">
-                        Program
-                        <div class="c-post-supporters">
-                            {% for supporter in site.supporters %}
-                                {% if supporter.program %}
-                                    {% include supporter-image.html %}
-                                {% endif %}
-                            {% endfor %}
-                        </div>
+                </div>
+                <div class="c-post-endBlock">
+                    Program
+                    <div class="c-post-supporters">
+                        {% for supporter in site.supporters %}
+                        {% if supporter.program %}
+                        {% include supporter-image.html %}
+                        {% endif %}
+                        {% endfor %}
                     </div>
-                    <div class="c-post-endBlock">
-                        Presenting
-                        <div class="c-post-supporters">
-                            {% for supporter in site.supporters %}
-                                {% if supporter.presenting %}
-                                    {% include supporter-image.html %}
-                                {% endif %}
-                            {% endfor %}
-                        </div>
+                </div>
+                <div class="c-post-endBlock">
+                    Presenting
+                    <div class="c-post-supporters">
+                        {% for supporter in site.supporters %}
+                        {% if supporter.presenting %}
+                        {% include supporter-image.html %}
+                        {% endif %}
+                        {% endfor %}
                     </div>
+                </div>
 
                 {% endif %}
 
                 {% if page.has-newsletter-signup %}
-                    <div class="c-formWrapper">
-                        {% include enews-form.html %}
-                    </div>
+                <div class="c-formWrapper">
+                    {% include enews-form.html %}
+                </div>
                 {% endif %}
 
 

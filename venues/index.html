@@ -3,11 +3,11 @@ title: Venues
 layout: default
 ---
 
-<div class="o-grid c-postGrid">
+<div class="FlexGrid c-postGrid">
 
     {% assign sortedPosts = site.venues | sort: 'position' %}
     {% for post in sortedPosts %}
-        {% include post-cell-alt.html %}
+    {% include post-cell-alt.html %}
     {% endfor %}
 
 </div>

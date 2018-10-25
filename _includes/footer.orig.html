@@ -5,21 +5,21 @@
 <footer class="c-footer c-site-footer{% if page.layout == 'post' %} c-footer--post{% endif %}">
 
     {% if page.layout == 'post' %}
-        <div class="c-footer-nav c-nav">
-            {% include nav.html %}
-        </div>
+    <div class="c-footer-nav c-nav">
+        {% include nav.html %}
+    </div>
     {% endif %}
 
-	<div class="{% if page.layout == 'post' %}c-footer-block{% endif %}">
-	    <div class="o-container">
+    <div class="{% if page.layout == 'post' %}c-footer-block{% endif %}">
+        <div class="Container Container--xl">
 
             {% if page.layout == 'post' %}
-                <div class="u-smDown-blockB--3by4 u-sm-blockB--1by3
+            <div class="u-smDown-blockB--3by4 u-sm-blockB--1by3
                     {% unless page.layout == 'post' %}c-footer-hideMobileLogo{% endunless %}">
-                    <a href="/" class="c-footer-logo">
-                        <img class="" src="{{ site.imageurl }}logo.png" alt="{{ site.title }}" />
-                    </a>
-                </div>
+                <a href="/" class="c-footer-logo">
+                    <img class="" src="{{ site.imageurl }}logo.png" alt="{{ site.title }}" />
+                </a>
+            </div>
             {% endif %}
 
             <div class="Grid Grid--withGutter">
@@ -41,13 +41,13 @@
 
                 </div>
             </div>
-	    </div>
-	</div>
+        </div>
+    </div>
 
 
 
     <div class="c-footer-block u-sm-hide">
-        <div class="o-container">
+        <div class="Container Container--xl">
             <div class="Grid-cell" id="nav">
 
                 <div class="c-nav-item {% if page.url == '/' %}is-active{% endif %}">

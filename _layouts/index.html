@@ -3,7 +3,7 @@ layout: default
 ---
 
 {% comment %}
-    {{ page.events | where: "categories", "whats-on" | replace: ' ', '-' | downcase }}
+{{ page.events | where: "categories", "whats-on" | replace: ' ', '-' | downcase }}
 
 <div class="">
     {{ page.events.url }}
@@ -17,72 +17,58 @@ layout: default
     {% elsif page.events %}/whats-on/{{ page.events | replace: ' – ', ' ' | replace: ' - ', ' ' | replace: '-', '' | replace: ':', '' | replace: '…', '' | replace: '.', '' | replace: ' ', '-' | downcase }}
     {% else %}/whats-on{% endif %}">
 
-        
+
 
         {% if page.vimeo %}
 
-            {% comment %}
-                vimeo looping doesn't work: &loop=1
-                www.vimeorepeat.com ?
-            {% endcomment %}
+        {% comment %}
+        vimeo looping doesn't work: &loop=1
+        www.vimeorepeat.com ?
+        {% endcomment %}
 
-            <div class="FlexEmbed">
-                <div class="FlexEmbed-ratio FlexEmbed-ratio--heroVideo"></div>
-                <div class="FlexEmbed-content">
-                    <iframe
-                        class="o-posAbsoluteCenterAlt"
-                        src="https://player.vimeo.com/video/{{ page.vimeo }}?autoplay=1&loop=1&title=0&byline=0&portrait=0"
-                        width="100%"
-                        height="100%"
-                        frameborder="0"
-                        allowTransparency="true"
-                        webkitallowfullscreen
-                        mozallowfullscreen
-                        allowfullscreen>
-                    </iframe>
-                </div>
+        <div class="FlexEmbed">
+            <div class="FlexEmbed-ratio FlexEmbed-ratio--heroVideo"></div>
+            <div class="FlexEmbed-content">
+                <iframe class="o-posAbsoluteCenterAlt" src="https://player.vimeo.com/video/{{ page.vimeo }}?autoplay=1&loop=1&title=0&byline=0&portrait=0"
+                    width="100%" height="100%" frameborder="0" allowTransparency="true" webkitallowfullscreen
+                    mozallowfullscreen allowfullscreen>
+                </iframe>
             </div>
+        </div>
 
         {% elsif page.youtube %}
 
-            <div class="FlexEmbed">
-                <div class="FlexEmbed-ratio FlexEmbed-ratio--heroVideo"></div>
-                <div class="FlexEmbed-content">
-                    <iframe
-                        class="u-posAbsoluteCenter"
-                        src="https://www.youtube.com/embed/{{ page.youtube }}?autoplay=1"
-                        width="100%"
-                        height="100%"
-                        frameborder="0"
-                        allowTransparency="true"
-                        webkitallowfullscreen
-                        mozallowfullscreen
-                        allowfullscreen>
-                    </iframe>
-                </div>
+        <div class="FlexEmbed">
+            <div class="FlexEmbed-ratio FlexEmbed-ratio--heroVideo"></div>
+            <div class="FlexEmbed-content">
+                <iframe class="u-posAbsoluteCenter" src="https://www.youtube.com/embed/{{ page.youtube }}?autoplay=1"
+                    width="100%" height="100%" frameborder="0" allowTransparency="true" webkitallowfullscreen
+                    mozallowfullscreen allowfullscreen>
+                </iframe>
             </div>
+        </div>
 
         {% else %}
 
-            <div class="FlexEmbed">
-                <div class="FlexEmbed-ratio FlexEmbed-ratio--hero"></div>
-                <div class="FlexEmbed-content">
-                    {% assign image = page.banner-image %}
-                    {% include responsive-img.html %}
-                </div>
+        <div class="FlexEmbed">
+            <div class="FlexEmbed-ratio FlexEmbed-ratio--hero"></div>
+            <div class="FlexEmbed-content">
+                {% assign image = page.banner-image %}
+                {% include responsive-img.html %}
             </div>
+        </div>
 
         {% endif %}
 
     </a>
 
-    <div class="o-grid c-postGrid">
+    <div class="FlexGrid c-postGrid">
         {% assign categoryName = 'whats-on' %}
         {% assign homePosts = site.categories[categoryName] | sort: "date" %}
         {% for post in homePosts %}
-            {% if post.is-on-home-page %}
-                {% include post-cell-alt.html %}
-            {% endif %}
+        {% if post.is-on-home-page %}
+        {% include post-cell-alt.html %}
+        {% endif %}
         {% endfor %}
     </div>
 </div>

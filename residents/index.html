@@ -3,12 +3,12 @@ title: Residents
 layout: default
 ---
 
-<div class="o-grid c-postGrid">
+<div class="FlexGrid c-postGrid PostsList">
 
     {% assign sortedPosts = site.residents | where:"current","true" | sort: "position" %}
     {% for post in sortedPosts %}
 
-        {% include post-cell-alt.html %}
+    {% include post-cell-alt.html %}
 
     {% endfor %}
 

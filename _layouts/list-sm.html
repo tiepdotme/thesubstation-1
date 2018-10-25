@@ -2,16 +2,16 @@
 layout: default
 ---
 
-<div class="o-container">
+<div class="Container Container--xl">
     <div class="Grid Grid--withGutterSm">
 
         {% for post in site.posts %}
-            {% assign categoryname = '' %}
-            {% if post.category == categoryname %}
+        {% assign categoryname = '' %}
+        {% if post.category == categoryname %}
 
-                {% include posts-list.html %}
+        {% include posts-list.html %}
 
-            {% endif %}
+        {% endif %}
         {% endfor %}
 
     </div>

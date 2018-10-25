@@ -9,7 +9,7 @@ layout: compress
 <body id="top" class="{{ page.body_class }} {{ page.grid-max-number }}">
 
     <header class="c-header">
-        <div class="o-container">
+        <div class="Container Container--xl">
             <div class="c-header-brand">
                 <div class="Grid Grid--withGutter">
                     <div class="Grid-cell u-sm-size7of10">
@@ -23,7 +23,7 @@ layout: compress
     </header>
 
     <main class="c-content c-content--page" aria-label="Content">
-        <div class="o-container">
+        <div class="Container Container--xl">
             <div class="Grid Grid--withGutter">
                 <div class="Grid-cell u-sm-size7of10 u-xl-size8of10 u-smDown-blockT--3by4">
 
@@ -32,8 +32,8 @@ layout: compress
                     </div>
 
                     <form class="c-footer-newsForm u-sm-size3of4">
-                      <input id="password" type="password"/>
-                      <button class="Button t-button t-button--lineHeight">Submit</button>
+                        <input id="password" type="password" />
+                        <button class="Button t-button t-button--lineHeight">Submit</button>
                     </form>
 
                 </div>
@@ -48,11 +48,11 @@ layout: compress
     <script src="/assets/lib/crypto-js/crypto-js.js"></script>
 
     <script>
-        $("form").submit(function(e) {
+        $("form").submit(function (e) {
 
             var hashed_slug = CryptoJS.MD5($('#password').val());
 
-            $("body").load("/hidden/"+hashed_slug+".html", function(response, status, xhr) {
+            $("body").load("/hidden/" + hashed_slug + ".html", function (response, status, xhr) {
                 if (status == "error") alert("Incorrect password");
             });
 
