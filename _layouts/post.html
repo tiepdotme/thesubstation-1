@@ -188,14 +188,7 @@ u-smDown-blockR--3by4
                     </h3>
                     <div class="FlexGrid c-postGrid">
 
-                        {% for post in site[collectionName] limit: 5 %}
-                        {% if !post.current %}
-                        {% if post.url contains page.url %}
-                        {% continue %}
-                        {% endif %}
-                        {% include post-cell-alt.html %}
-                        {% endif %}
-                        {% endfor %}
+                        
 
                     </div>
                 </div>
