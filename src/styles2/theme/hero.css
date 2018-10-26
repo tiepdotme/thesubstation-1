@@ -1,4 +1,5 @@
 .Hero {
+  background-color: var(--c-text);
   padding-bottom: 90%;
 
   @media (--sm) { 
