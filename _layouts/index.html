@@ -6,69 +6,60 @@ layout: default
 {{ page.events | where: "categories", "whats-on" | replace: ' ', '-' | downcase }}
 
 <div class="">
-    {{ page.events.url }}
+  {{ page.events.url }}
 </div>
 {% endcomment %}
 
 <div class="c-hero" role="banner">
-    <a href="
-    {% if page.pages contains 'What' %}/whats-on
-    {% elsif page.pages %}/{{ page.pages | replace: ' ', '-' | replace: ':', '' | downcase }}
-    {% elsif page.events %}/whats-on/{{ page.events | replace: ' – ', ' ' | replace: ' - ', ' ' | replace: '-', '' | replace: ':', '' | replace: '…', '' | replace: '.', '' | replace: ' ', '-' | downcase }}
-    {% else %}/whats-on{% endif %}">
+  <a href="
+  {% if page.pages contains 'What' %}/whats-on
+  {% elsif page.pages %}/{{ page.pages | replace: ' ', '-' | replace: ':', '' | downcase }}
+  {% elsif page.events %}/whats-on/{{ page.events | replace: ' – ', ' ' | replace: ' - ', ' ' | replace: '-', '' | replace: ':', '' | replace: '…', '' | replace: '.', '' | replace: ' ', '-' | downcase }}
+  {% else %}/whats-on{% endif %}">
 
+    {% if page.vimeo %}
 
+    {% comment %}
+    vimeo looping doesn't work: &loop=1
+    www.vimeorepeat.com ?
+    {% endcomment %}
 
-        {% if page.vimeo %}
-
-        {% comment %}
-        vimeo looping doesn't work: &loop=1
-        www.vimeorepeat.com ?
-        {% endcomment %}
-
-        <div class="FlexEmbed">
-            <div class="FlexEmbed-ratio FlexEmbed-ratio--heroVideo"></div>
-            <div class="FlexEmbed-content">
-                <iframe class="o-posAbsoluteCenterAlt" src="https://player.vimeo.com/video/{{ page.vimeo }}?autoplay=1&loop=1&title=0&byline=0&portrait=0"
-                    width="100%" height="100%" frameborder="0" allowTransparency="true" webkitallowfullscreen
-                    mozallowfullscreen allowfullscreen>
-                </iframe>
-            </div>
-        </div>
-
-        {% elsif page.youtube %}
-
-        <div class="FlexEmbed">
-            <div class="FlexEmbed-ratio FlexEmbed-ratio--heroVideo"></div>
-            <div class="FlexEmbed-content">
-                <iframe class="u-posAbsoluteCenter" src="https://www.youtube.com/embed/{{ page.youtube }}?autoplay=1"
-                    width="100%" height="100%" frameborder="0" allowTransparency="true" webkitallowfullscreen
-                    mozallowfullscreen allowfullscreen>
-                </iframe>
-            </div>
-        </div>
-
-        {% else %}
-
-        <div class="FlexEmbed">
-            <div class="FlexEmbed-ratio FlexEmbed-ratio--hero"></div>
-            <div class="FlexEmbed-content">
-                {% assign image = page.banner-image %}
-                {% include responsive-img.html %}
-            </div>
-        </div>
-
-        {% endif %}
-
-    </a>
-
-    <div class="FlexGrid c-postGrid">
-        {% assign categoryName = 'whats-on' %}
-        {% assign homePosts = site.categories[categoryName] | sort: "date" %}
-        {% for post in homePosts %}
-        {% if post.is-on-home-page %}
-        {% include post-list-item.html %}
-        {% endif %}
-        {% endfor %}
+    <div class="AspectRatio AspectRatio--16x9">
+      <iframe class="AspectRatio-object" src="https://player.vimeo.com/video/{{ page.vimeo }}?autoplay=1&loop=1&title=0&byline=0&portrait=0"
+        width="100%" height="100%" frameborder="0" allowTransparency="true" webkitallowfullscreen
+        mozallowfullscreen allowfullscreen>
+      </iframe>
     </div>
+
+    {% elsif page.youtube %}
+
+    <div class="AspectRatio AspectRatio--16x9">
+      <iframe class="AspectRatio-object" src="https://www.youtube.com/embed/{{ page.youtube }}?autoplay=1"
+        width="100%" height="100%" frameborder="0" allowTransparency="true" webkitallowfullscreen
+        mozallowfullscreen allowfullscreen>
+      </iframe>
+    </div>
+
+    {% else %}
+
+    <div class="AspectRatio Hero">
+      <div class="AspectRatio-object">
+        {% assign image = page.banner-image %}
+        {% include responsive-img.html %}
+      </div>
+    </div>
+
+    {% endif %}
+
+  </a>
+
+  <div class="FlexGrid FlexGrid--noGutter PostList">
+    {% assign categoryName = 'whats-on' %}
+    {% assign homePosts = site.categories[categoryName] | sort: "date" %}
+    {% for post in homePosts %}
+    {% if post.is-on-home-page %}
+    {% include post-list-item.html %}
+    {% endif %}
+    {% endfor %}
+  </div>
 </div>

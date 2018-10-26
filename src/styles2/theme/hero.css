@@ -1,3 +1,31 @@
+.Hero {
+  padding-bottom: 90%;
+
+  @media (--sm) { 
+    padding-bottom: 56.25%; 
+  }
+  @media (--xl) { 
+    padding-bottom: 50%; 
+  }
+  @media (--su) { 
+    padding-bottom: 40%; 
+  }
+}
+
+.Hero--half {
+  padding-bottom: 90%;
+
+  @media (--sm) { 
+    padding-bottom: 56.25%; 
+  }
+  @media (--xl) { 
+    padding-bottom: 25%; 
+  }
+  @media (--su) { 
+    padding-bottom: 20%; 
+  }
+}
+
 .Hero-image {
   /* border: 1px solid var(--c-bg); */
   border-bottom: 0;
@@ -9,6 +37,15 @@
   object-fit: cover;
 }
 
-.Hero-blacken {
-  background-color: rgba(26, 26, 26, 0.25);
+.Hero-darken {
+  background-color: rgba(26, 26, 26, 0.5);
+}
+
+.Hero-hgroup {
+  margin: 0 auto;
+  max-width: 80vw;
+
+  @media (--lg) {
+    
+  }
 }

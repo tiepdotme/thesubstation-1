@@ -1,0 +1,136 @@
+/* Post info block */
+
+.Post-details {
+  position: relative;
+  
+  @media (--lg) {
+    height: 0;
+  }
+}
+
+.Post-details-envelope {
+  @media (--lg) {
+    margin: 0;
+    transform: translateY(-100%);
+    width: 100%;
+  }
+}
+
+.Post-details-container {
+  background-color: var(--c-bg);
+  padding-left: var(--flex-grid-gutter);
+  padding-right: var(--flex-grid-gutter);
+}
+
+/* Post info type blocks */
+
+.Post-meta {
+  margin: 0;
+  padding: calc(1 * var(--rs-space));
+
+  /* borders */
+  border: 1px solid var(--c-text);
+
+  /* + .c-post-meta { margin-left: -1px; }
+  @include after-first(4) { border-top: 0; }
+  &:nth-child(5) { margin-left: 0; } */
+
+  @media (--lg) {
+    border: 0;
+    min-height: 90px;
+    margin: 0;
+    
+    &:not(:first-child) { 
+      border-left: 1px solid var(--c-text); 
+    }
+  }
+
+  /* typography */
+  & span {
+    @media (--sm) {
+      display: block;
+      margin-bottom: var(--s-1);
+    }
+  }
+
+  & p {
+    font-weight: 500;
+    margin-bottom: 0;
+  }
+
+  p a {
+    @include underlineLink();
+    letter-spacing: 0.075em;
+  }
+
+  /* &--single {
+    text-align: center;
+  } */
+}
+
+
+
+/* End of article supporters logos (using vendor.family) */
+
+.Post-supporters {
+  opacity: 0.5;
+}
+
+.Post-supporters img {
+  display: inline-block;
+  height: 35px;
+  margin-top: var(--flex-grid-gutter);
+  margin-bottom: var(--flex-grid-gutter);
+
+  @media (--xl) {
+    height: 45px;
+    width: auto;
+  }
+
+  &.portrait {
+    height: 52.5px;
+    width: auto;
+
+    @media (--sm) { 
+      height: 65px; 
+    }
+  }
+}
+
+/* Shares */
+
+.Post-share {
+  display: flex;
+
+  &:not(:first-child) {
+    margin-top: $blockSpace * 0.75;
+  }
+
+  @media (--sm) {
+    display: block;
+  }
+
+  & > a {
+    @include underlineLink(none);
+    color: palette(muted);
+    display: inline-block;
+    text-align: center;
+
+    &:not(:first-child) {
+      margin-left: -1px;
+    }
+
+    @media (--sm) {
+      display: block;
+
+      &:not(:first-child) {
+        margin-left: 0;
+        margin-top: -1px;
+      }
+    }
+
+    @include on-event() {
+      color: palette(muted);
+    }
+  }
+}

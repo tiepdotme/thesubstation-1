@@ -37,7 +37,7 @@
     }
 
     // Post-info grid
-    @include when-inside(".c-post-next") {
+    @include when-inside(".NextPostList") {
         @include media-breakpoint-up(sm) { flex-basis: calc(100% / 5); }
     }
 }
@@ -56,7 +56,7 @@
     @include media-breakpoint-up(sm) { padding-bottom: 25vh; }
     @include media-breakpoint-up(md) { padding-bottom: 50vh; }
 
-    @include when-inside(".c-post-next") {
+    @include when-inside(".NextPostList") {
         padding-bottom: 20vh;
         //@include media-breakpoint-up(sm) { padding-bottom: 25vh; }
     }
@@ -141,7 +141,7 @@ a.c-postCell {
 // Post hero
 // --------------------------------------------------------------------------
 
-.FlexEmbed-ratio--hero {
+.Hero {
     padding-bottom: 90%;
     @include media-breakpoint-up(sm) { padding-bottom: 56.25%; }
     @include media-breakpoint-up(xl) { padding-bottom: 50%; }
@@ -156,13 +156,13 @@ a.c-postCell {
     //}
 }
 
-.FlexEmbed-ratio--heroHalf {
+.HeroHalf {
     padding-bottom: 90%;
     @include media-breakpoint-up(sm) { padding-bottom: 56.25%; }
     @include media-breakpoint-up(xl) { padding-bottom: 25%; }
 }
 
-.FlexEmbed-ratio--heroVideo {
+.AspectRatio--16x9 {
     padding-bottom: 56.25%;
     // @include media-breakpoint-up(sm) { padding-bottom: 56.25%; }
 }
@@ -259,7 +259,7 @@ a.c-postCell {
 
 // Post markdown scope
 // --------------------------------------------------------------------------
-.s-post {
+.Post {
     a {
         @include underlineLink();
     }
@@ -324,12 +324,12 @@ a.c-postCell {
 
 }
 
-.s-post-list {
+.Post-list {
     column-count: 2;
 }
 
 // markdown tables scope
-.s-post table {
+.Post table {
     //background-color: rgba( palette(brand), 0.15);
     //border: 1px solid palette(base);
     border-collapse: collapse;
@@ -379,7 +379,7 @@ a.c-postCell {
 // Post next/prev
 // --------------------------------------------------------------------------
 
-.c-post-next {
+.NextPostList {
     margin-top: $blockSpace * 2;
 
     h3 {

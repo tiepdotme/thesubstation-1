@@ -4,7 +4,7 @@ layout: default
 grid-max-number: three
 ---
 
-<div class="FlexGrid PostList">
+<div class="FlexGrid FlexGrid--noGutter PostList">
 
     {% assign sortedPosts = site.about | sort: 'position' %}
     {% for post in sortedPosts %}

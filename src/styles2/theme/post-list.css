@@ -39,11 +39,11 @@
   }
 }
 
-.c-post-next .PostList > * {
+.NextPostList .PostList > * {
   @media (--sm) { flex-basis: calc(100% / 5); }
 }
 
-.c-post-next .PostList .AspectRatio {
+.NextPostList .PostList .AspectRatio {
   padding-bottom: 20vh;
 }
 
@@ -53,19 +53,7 @@
 
 
 
-
-/* @mixin complexLink {
-	display: block;
-	width: 100%;
-
-	@include on-event() {
-		.o-linkBuriedTarget {
-			background-color: palette(brand);
-		}
-	}
-} */
-
-
+/* PostList item */
 
 .PostList-item {
   display: block;
@@ -98,10 +86,20 @@
 
 .PostList-item-image {
   background-blend-mode: multiply;
-  background-color: rgba(0,0,0,0.8);
+  background-color: rgba(0,0,0,0.7);
   filter: grayscale(100%);
   transition: all 500ms ease-in-out;
 }
+
+
+
+
+
+
+
+
+
+
 
 /*
 .c-postCell-headline,
@@ -126,107 +124,7 @@
     color: palette(muted);
     display: block;
     font-family: $font-text-regular;
-} */
-
-
-
-
-
-
-
-
-
-
-
-/* .FlexEmbed-ratio--hero {
-    padding-bottom: 90%;
-    @media (--sm) { padding-bottom: 56.25%; }
-    @media (--xl) { padding-bottom: 50%; }
-
-
-}
-
-.FlexEmbed-ratio--heroHalf {
-    padding-bottom: 90%;
-    @media (--sm) { padding-bottom: 56.25%; }
-    @media (--xl) { padding-bottom: 25%; }
-}
-
-.FlexEmbed-ratio--heroVideo {
-    padding-bottom: 56.25%;
-}
-
-.c-post-hgroup {
-    margin: ($blockSpace * 0.75);
-
-    @media (--sm) { max-width: 80vw; margin: 0 auto; }
-    @media (--xl) { max-width: 60vw; }
-}
-
-.c-post-headline {
-    @include headline();
-    letter-spacing: 0.45em;
-
-    @media (--sm) {
-        width: 80%;
-        margin-left: 0;
-    }
-
-    @media (--sm) {
-        margin-left: 1.5%
-    }
-}
-
-.c-post-subheadline {
-    @include headlineSm();
-    font-family: $font-text-bold;
-    margin-top: space(0.5);
-
-    p {
-        @include textMeta();
-        color: palette(medium);
-        margin-bottom: 0;
-    }
-}
-
-.c-post-headline,
-.c-post-subheadline {
-    color: palette(white);
-    text-align: center;
-    width: 100%;
-}
- */
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* .c-post-info {
-    @media (--lg) {
-        margin: 0;
-        transform: translateY(-100%);
-        width: 100%;
-    }
-}
-
-
-
-
-
-
-
-
-
-
-
+} 
 
 .c-post-article {
     @include blockSpaceMarginTop();
@@ -235,118 +133,7 @@
 
 
 
-
-.s-post {
-    a {
-        @include underlineLink();
-    }
-
-    strong {
-        text-transform: uppercase;
-    }
-
-    em {
-        font-family: $font-text-regular-i;
-    }
-
-    h2,
-    h3 {
-        &:not(:first-child) {
-            margin-top: $blockSpace * 0.75;
-        }
-
-        &:not(:last-child) {
-            margin-bottom: $paragraphSpace;
-        }
-    }
-
-    h2 {
-        @include headlineSm();
-
-        @media (--sm) {
-            width: 85%;
-        }
-    }
-
-    h3 {
-        @include textAside();
-        font-family: $font-text-bold;
-    }
-
-    hr {
-        border: 0;
-        border-top: 1px solid palette(light);
-        margin: $paragraphSpace * 2 0;
-    }
-
-    blockquote p {
-        border-left: 1px solid palette(muted);
-        color: palette(medium);
-        padding-left: space(1);
-    }
-
-    figure {
-        &:not(:first-child) {
-            margin-top: $blockSpace * 0.75;
-        }
-
-        padding-bottom: $paragraphSpace * 0.5;
-    }
-
-    @media (--sm) { margin-right: $gutterSpace; }
-    @media (--xl) { margin-right: $gutterSpace * 2; }
-
-}
-
-.s-post-list {
-    column-count: 2;
-}
-
-.s-post table {
-    border-collapse: collapse;
-    font-family: $font-serif;
-    letter-spacing: 0;
-    margin: $blockSpace * 0.75 0;
-
-    thead tr {
-        background-color: rgba( palette(brand), 0.15);
-    }
-
-    th {
-        @include headlineSm();
-        font-family: $font-text-bold;
-        padding: space(0.5);
-    }
-
-    tbody tr {
-        @include odd() { background-color: rgba( palette(brand), 0.15); }
-        @include even() { background-color: rgba( palette(brand), 0.09); }
-    }
-
-    td {
-        padding: space(0.5);
-        vertical-align: baseline;
-
-        &:first-child {
-            @include textAside();
-            border-right: 1px solid palette(muted);
-            line-height: 1.5;
-            text-align: right;
-
-            @media (--sm) {
-                width: calc(100% / 3);
-            }
-        }
-    }
-}
-
-
-
-
-
-
-
-.c-post-next {
+.NextPostList {
     margin-top: $blockSpace * 2;
 
     h3 {

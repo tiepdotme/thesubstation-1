@@ -1,270 +1,269 @@
-<div class="FlexGrid c-postGrid">
+<div class="FlexGrid">
 
-    {% comment %}
-    {% if page.presented-by %}
-    <div class="c-post-meta">
-        <p>
-            <span>Presented by: </span>
-            {{ page.presented-by }}
-        </p>
+  {% comment %}
+  {% if page.presented-by %}
+  <div class="Post-meta Meta-block">
+    <p>
+      <span>Presented by: </span>
+      {{ page.presented-by }}
+    </p>
+  </div>
+  {% endif %}
+  {{ page.has-preview-event }}
+  {% endcomment %}
+
+
+  {% comment %}
+  ----------------------------------------
+  Opening/preview night
+  ----------------------------------------
+  {% endcomment %}
+
+  {% if page.has-preview-event and page.has-opening-event %}
+  <div class="Post-meta Meta-block">
+    <span class="fs-text-xs">Preview event:</span>
+      <p>
+        {{ page.datetime | first | date: "%a %B %d" }}, {{ page.datetime | first | date: "%l:%M%p" }}
+      </p>
+  </div>
+  <div class="Post-meta Meta-block">
+    <span class="fs-text-xs">Opening event:</span>
+      <p>
+        {{ page.datetime[1] | date: "%a %B %d" }}, {{ page.datetime[1] | date: "%l:%M%p" }}
+      </p>
+  </div>
+  {% endif %}
+
+  {% if page.has-opening-event and page.has-preview-event == false %}
+  <div class="Post-meta Meta-block">
+    <span class="fs-text-xs">Opening event:</span>
+    <p>
+      {{ page.datetime | first | date: "%a %B %d" }}, {{ page.datetime | first | date: "%l:%M%p" }}
+    </p>
+
+    {% comment %}Event duration as text{% endcomment %}
+    {% if page.opening-event-text %}
+    <p>{{ page.opening-event-text }}</p>
+    {% endif %}
+  </div>
+  {% endif %}
+
+
+  {% comment %}
+  ----------------------------------------
+  Show datetime
+  ----------------------------------------
+  {% endcomment %}
+
+  {% comment %}Single date array of 2 (start and end times){% endcomment %}
+  {% if page.datetime.size == 1 or page.datetime.size == 2 and page.is-single-date == true %}
+  <div class="Post-meta Meta-block">
+    <span class="fs-text-xs">Date:</span>
+
+    <p>
+      {% comment %}yeah, gotta be ==true here for some unknown reason…{% endcomment %}
+      {% if is-opening-hours-time == true %}
+      {{ page.datetime | first | date: "%a %B %d" }}
+      {% else %}
+      {% if page.datetime.size == 1 %}
+      {{ page.datetime | first | date: "%a %B %d" }}
+      {% else %}
+      {{ page.datetime | first | date: "%a %B %d" }}, {{ page.datetime | first | date: "%l:%M%p" }} - {{
+      page.datetime | last | date: "%l:%M%p" }}
+      {% endif %}
+      {% endif %}
+    </p>
+
+    {% comment %}Event duration
+    {% if page.event-duration-txt %}
+    <div class="Post-meta Meta-block">
+      <p><span>Show duration: {{ page.event-duration-txt }}</span></p>
     </div>
     {% endif %}
-
-    {{ page.has-preview-event }}
-
     {% endcomment %}
 
+  </div>
 
-    {% comment %}
-    ----------------------------------------
-    Opening/preview night
-    ----------------------------------------
-    {% endcomment %}
-    {% if page.has-preview-event and page.has-opening-event %}
-    <div class="c-post-meta">
-        <span>Preview event:
-            <p>
-                {{ page.datetime | first | date: "%a %B %d" }}, {{ page.datetime | first | date: "%l:%M%p" }}
-            </p>
-    </div>
-    <div class="c-post-meta">
-        <span>Opening event:
-            <p>
-                {{ page.datetime[1] | date: "%a %B %d" }}, {{ page.datetime[1] | date: "%l:%M%p" }}
-            </p>
-    </div>
+  {% comment %}Multiple datetime in a list{% endcomment %}
+  {% elsif page.datetime.size >= 2 and page.is-list-of-dates == true %}
+  <div class="Post-meta Meta-block">
+    <span class="fs-text-xs">Dates:</span>
+
+    {% comment %}Iterate thru event datetime collection
+    {% for event in page.datetime %}
+    {% if page.datetime.size == 2 and page.program-is-single-date == true %}
+    <p>
+      {{ event | date: "%a %B %d" }}, {{ event | first | date: "%l:%M%p" }}-{{ event | first | date: "%l:%M%p" }}
+    </p>
+    {% elsif page.datetime.size >= 2 and page.program-is-single-date != true %}
+    <p>
+      {% if page.show-event-in-mins %}{{ event | date: "%a %B %d" }}, {{ event | date: "%l:%M%p" }}{% else %}{{
+      event | date: "%a %B %d" }}, {{ event | date: "%l%p" }}{% endif %}
+    </p>
     {% endif %}
-
-    {% if page.has-opening-event and page.has-preview-event == false %}
-    <div class="c-post-meta">
-        <span>Opening event:</span>
-        <p>
-            {{ page.datetime | first | date: "%a %B %d" }}, {{ page.datetime | first | date: "%l:%M%p" }}
-        </p>
-
-        {% comment %}Event duration as text{% endcomment %}
-        {% if page.opening-event-text %}
-        <p>{{ page.opening-event-text }}</p>
-        {% endif %}
-    </div>
-    {% endif %}
-
-
-    {% comment %}
-    ----------------------------------------
-    Show datetime
-    ----------------------------------------
+    {% endfor %}
     {% endcomment %}
 
-    {% comment %}Single date array of 2 (start and end times){% endcomment %}
-    {% if page.datetime.size == 1 or page.datetime.size == 2 and page.is-single-date == true %}
-    <div class="c-post-meta">
-        <span>Date:</span>
+    {% comment %}Iterate thru event datetime collection{% endcomment %}
+    {% for event in page.datetime %}
+    <p>{{ event | date: "%a %B %d" }}</p>
+    {% endfor %}
 
-        <p>
-            {% comment %}yeah, gotta be ==true here for some unknown reason…{% endcomment %}
-            {% if is-opening-hours-time == true %}
-            {{ page.datetime | first | date: "%a %B %d" }}
-            {% else %}
-            {% if page.datetime.size == 1 %}
-            {{ page.datetime | first | date: "%a %B %d" }}
-            {% else %}
-            {{ page.datetime | first | date: "%a %B %d" }}, {{ page.datetime | first | date: "%l:%M%p" }} - {{
-            page.datetime | last | date: "%l:%M%p" }}
-            {% endif %}
-            {% endif %}
-        </p>
-
-        {% comment %}Event duration
-        {% if page.event-duration-txt %}
-        <div class="c-post-meta">
-            <p><span>Show duration: {{ page.event-duration-txt }}</span></p>
-        </div>
-        {% endif %}
-        {% endcomment %}
-
-    </div>
-
-    {% comment %}Multiple datetime in a list{% endcomment %}
-    {% elsif page.datetime.size >= 2 and page.is-list-of-dates == true %}
-    <div class="c-post-meta">
-        <span>Dates:</span>
-
-        {% comment %}Iterate thru event datetime collection
-        {% for event in page.datetime %}
-        {% if page.datetime.size == 2 and page.program-is-single-date == true %}
-        <p>
-            {{ event | date: "%a %B %d" }}, {{ event | first | date: "%l:%M%p" }}-{{ event | first | date: "%l:%M%p" }}
-        </p>
-        {% elsif page.datetime.size >= 2 and page.program-is-single-date != true %}
-        <p>
-            {% if page.show-event-in-mins %}{{ event | date: "%a %B %d" }}, {{ event | date: "%l:%M%p" }}{% else %}{{
-            event | date: "%a %B %d" }}, {{ event | date: "%l%p" }}{% endif %}
-        </p>
-        {% endif %}
-        {% endfor %}
-        {% endcomment %}
-
-        {% comment %}Iterate thru event datetime collection{% endcomment %}
-        {% for event in page.datetime %}
-        <p>{{ event | date: "%a %B %d" }}</p>
-        {% endfor %}
-
-        {% comment %}Event duration
-        {% if page.event-duration %}
-        <div class="c-post-meta">
-            <p><span>Show duration: {{ page.event-duration }}</span></p>
-        </div>
-        {% endif %}
-        {% endcomment %}
-
-    </div>
-
-    {% comment %}Between datetime{% endcomment %}
-    {% elsif page.datetime.size >= 2 %}
-    <div class="c-post-meta {% if page.is-single-info-block %} c-post-meta--single{% endif %}">
-        <span>Program runs:</span>
-        {% if page.is-single-month-duration == true %}
-        <p>{{ page.datetime | first | date: "%B" }} {{ page.datetime | first | date: "%Y" }}</p>
-        {% elsif page.is-many-months-duration == true %}
-        <p>{{ page.datetime | first | date: "%B" }} - {{ page.datetime | last | date: "%B" }} {{ page.datetime | first
-            | date: "%Y" }}</p>
-        {% else %}
-        <p>{{ page.datetime | first | date: "%a %B %d" }} - <em class="u-lg-lineBreak">{{ page.datetime | last | date:
-                "%a %B %d" }}</em></p>
-        {% endif %}
+    {% comment %}Event duration
+    {% if page.event-duration %}
+    <div class="Post-meta Meta-block">
+      <p><span>Show duration: {{ page.event-duration }}</span></p>
     </div>
     {% endif %}
-
-
-    {% comment %}
-    ----------------------------------------
-    Show the start time & duration
-    ----------------------------------------
     {% endcomment %}
 
-    {% if page.event-duration-txt and page.has-start-time != true %}
-    <div class="c-post-meta">
-        <span>Event duration:</span>
-        <p>{{ page.event-duration-txt }}</p>
-    </div>
-    {% elsif page.has-start-time %}
-    <div class="c-post-meta">
-        <span>Start time:</span>
-        <p>
-            <!-- Starting: -->
-            {% comment %}
-            {% if has-mins == true %}
-            {{ page.datetime | first | date: "%l:%M%p" }}
-            {% else %}
-            {{ page.datetime | first | date: "%l%p" }}
-            {% endif %}
-            {% endcomment %}
-            {{ page.datetime | first | date: "%l:%M%p" }}
+  </div>
 
-            {% comment %}Event duration{% endcomment %}
-            {% if page.event-duration-txt %}
-            {{ page.event-duration-txt }}
-            {% endif %}
-        </p>
-
-        {% comment %}Alternate program times as text{% endcomment %}
-        {% if page.program-alt-start-time %}
-        <p><span>{{ page.program-alt-start-time }}</span></p>
-        {% endif %}
-    </div>
+  {% comment %}Between datetime{% endcomment %}
+  {% elsif page.datetime.size >= 2 %}
+  <div class="Post-meta Meta-block {% if page.is-single-info-block %} Post-meta Meta-block--single{% endif %}">
+    <span class="fs-text-xs">Program runs:</span>
+    {% if page.is-single-month-duration == true %}
+    <p>{{ page.datetime | first | date: "%B" }} {{ page.datetime | first | date: "%Y" }}</p>
+    {% elsif page.is-many-months-duration == true %}
+    <p>{{ page.datetime | first | date: "%B" }} - {{ page.datetime | last | date: "%B" }} {{ page.datetime | first
+      | date: "%Y" }}</p>
+    {% else %}
+    <p>{{ page.datetime | first | date: "%a %B %d" }} - <em class="u-lg-lineBreak">{{ page.datetime | last | date:
+        "%a %B %d" }}</em></p>
     {% endif %}
+  </div>
+  {% endif %}
 
 
+  {% comment %}
+  ----------------------------------------
+  Show the start time & duration
+  ----------------------------------------
+  {% endcomment %}
+
+  {% if page.event-duration-txt and page.has-start-time != true %}
+  <div class="Post-meta Meta-block">
+    <span class="fs-text-xs">Event duration:</span>
+    <p>{{ page.event-duration-txt }}</p>
+  </div>
+  {% elsif page.has-start-time %}
+  <div class="Post-meta Meta-block">
+    <span class="fs-text-xs">Start time:</span>
+    <p>
+      <!-- Starting: -->
+      {% comment %}
+      {% if has-mins == true %}
+      {{ page.datetime | first | date: "%l:%M%p" }}
+      {% else %}
+      {{ page.datetime | first | date: "%l%p" }}
+      {% endif %}
+      {% endcomment %}
+      {{ page.datetime | first | date: "%l:%M%p" }}
+
+      {% comment %}Event duration{% endcomment %}
+      {% if page.event-duration-txt %}
+      {{ page.event-duration-txt }}
+      {% endif %}
+    </p>
+
+    {% comment %}Alternate program times as text{% endcomment %}
+    {% if page.program-alt-start-time %}
+    <p><span>{{ page.program-alt-start-time }}</span></p>
+    {% endif %}
+  </div>
+  {% endif %}
+
+
+  {% comment %}
+  ----------------------------
+  free-artist-talk (free text)
+  ----------------------------
+  {% endcomment %}
+  {% if page.free-artist-talk-text %}
+  <div class="Post-meta Meta-block">
+    <span class="fs-text-xs">Free artist's talk:</span>
+    <p>{{ page.free-artist-talk-text }}</p>
+  </div>
+  {% endif %}
+
+
+  {% comment %}
+  -----------------------------------------
+  end-date-is-closing-event (uses end-date)
+  -----------------------------------------
+  {% endcomment %}
+  {% if page.has-closing-event %}
+  <div class="Post-meta Meta-block">
+    <span class="fs-text-xs">Closing event:</span>
+    <p>
+      {{ page.datetime | last | date: "%a %B %d" }}, {{ page.datetime | last | date: "%l:%M%p" }}
+    </p>
+  </div>
+  {% endif %}
+
+
+  {% comment %}
+  ----------------------------
+  price, note, links
+  ----------------------------
+  {% endcomment %}
+  {% if page.price %}
+  <div class="Post-meta Meta-block">
+    <span class="fs-text-xs">Price: </span>
+    {% for item in page.price %}
+    <p>{{ item }}</p>
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  {% if page.is-within-gallery-open-time %}
+  <div class="Post-meta Meta-block">
+    <span class="fs-text-xs">Gallery open:</span>
+    <p>TUES–SAT, 11AM–5PM</p>
+  </div>
+  {% endif %}
+
+  {% unless page.artists-talk.date == null %}
+  <div class="Post-meta Meta-block">
+    <span class="fs-text-xs">Artist's talk:</span>
+    <p>
+      {{ page.artists-talk.date | date: "%a %B %d" }}, {{ page.artists-talk.date | date: "%l:%M%p" }} {{
+      page.artists-talk.note }}
+    </p>
+  </div>
+  {% endunless %}
+
+  {% unless page.notes.note == null %}
+  <div class="Post-meta Meta-block">
+    <span class="fs-text-xs">Note:</span>
     {% comment %}
-    ----------------------------
-    free-artist-talk (free text)
-    ----------------------------
+    {% for note in page.notes %}
+    <p>{{ note }}</p>
+    {% endfor %}
     {% endcomment %}
-    {% if page.free-artist-talk-text %}
-    <div class="c-post-meta">
-        <span>Free artist's talk:</span>
-        <p>{{ page.free-artist-talk-text }}</p>
-    </div>
-    {% endif %}
+    <p>
+      {% if page.notes.date %}{{ page.notes.date | date: "%a %B %d" }}, {{ page.notes.date | date: "%l:%M%p" }}{%
+      endif %}
+      {{ page.notes.note }}
+    </p>
+  </div>
+  {% endunless %}
 
 
-    {% comment %}
-    -----------------------------------------
-    end-date-is-closing-event (uses end-date)
-    -----------------------------------------
-    {% endcomment %}
-    {% if page.has-closing-event %}
-    <div class="c-post-meta">
-        <span>Closing event:</span>
-        <p>
-            {{ page.datetime | last | date: "%a %B %d" }}, {{ page.datetime | last | date: "%l:%M%p" }}
-        </p>
-    </div>
-    {% endif %}
-
-
-    {% comment %}
-    ----------------------------
-    price, note, links
-    ----------------------------
-    {% endcomment %}
-    {% if page.price %}
-    <div class="c-post-meta">
-        <span>Price: </span>
-        {% for item in page.price %}
-        <p>{{ item }}</p>
-        {% endfor %}
-    </div>
-    {% endif %}
-
-    {% if page.is-within-gallery-open-time %}
-    <div class="c-post-meta">
-        <span>Gallery open:</span>
-        <p>TUES–SAT, 11AM–5PM</p>
-    </div>
-    {% endif %}
-
-    {% unless page.artists-talk.date == null %}
-    <div class="c-post-meta">
-        <span>Artist's talk:</span>
-        <p>
-            {{ page.artists-talk.date | date: "%a %B %d" }}, {{ page.artists-talk.date | date: "%l:%M%p" }} {{
-            page.artists-talk.note }}
-        </p>
-    </div>
-    {% endunless %}
-
-    {% unless page.notes.note == null %}
-    <div class="c-post-meta">
-        <span>Note:</span>
-        {% comment %}
-        {% for note in page.notes %}
-        <p>{{ note }}</p>
-        {% endfor %}
-        {% endcomment %}
-        <p>
-            {% if page.notes.date %}{{ page.notes.date | date: "%a %B %d" }}, {{ page.notes.date | date: "%l:%M%p" }}{%
-            endif %}
-            {{ page.notes.note }}
-        </p>
-    </div>
-    {% endunless %}
-
-
-    {% comment %}
-    ----------------------------------------
-    Newport library opening hours
-    ----------------------------------------
-    {% endcomment %}
-    {% if page.title contains 'Library' %}
-    <div class="c-post-meta">
-        <span>Opening hours:</span>
-        <p>MON-THURS, 10AM-5PM</p>
-        <p>FRI, 8AM-6PM</p>
-        <p>SAT, 10AM-1PM</p>
-    </div>
-    {% endif %}
+  {% comment %}
+  ----------------------------------------
+  Newport library opening hours
+  ----------------------------------------
+  {% endcomment %}
+  {% if page.title contains 'Library' %}
+  <div class="Post-meta Meta-block">
+    <span class="fs-text-xs">Opening hours:</span>
+    <p>MON-THURS, 10AM-5PM</p>
+    <p>FRI, 8AM-6PM</p>
+    <p>SAT, 10AM-1PM</p>
+  </div>
+  {% endif %}
 
 
 </div>

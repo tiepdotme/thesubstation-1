@@ -45,28 +45,33 @@ ol,
 .Supertitle {
   font-family: var(--ff-text), var(--ff-stack-text);
   font-size: var(--rfs-title);
-  font-weight: 500;
+  font-weight: 400;
   letter-spacing: 0;
 }
 
-.Supertitle {
-  font-size: var(--rfs-supertitle);
+.Post h2,
+.Post h3,
+.Heading {
+  font-size: var(--rfs-heading);
   font-weight: 400;
-  letter-spacing: -0.0025em;
+  letter-spacing: var(--fls-loose);
+  text-transform: uppercase;
 }
 
 .Title,
 .Supertitle {
   line-height: 1.2;
-  letter-spacing: var(--fls-tight);
 
   @media (--sm) {
-    /* transform: translateY(-0.25em); */
-    transform: translateY(-1px);
+    /* transform: translateY(-1px); */
   }
 }
 
-.Heading {
-  font-size: var(--rfs-heading);
-  font-weight: 700;
+.Supertitle {
+  color: var(--c-bg);
+  font-size: var(--rfs-supertitle);
+  font-weight: 500;
+  letter-spacing: var(--fls-super);
+  text-align: center;
+  text-transform: uppercase;
 }

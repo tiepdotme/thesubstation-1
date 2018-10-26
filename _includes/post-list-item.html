@@ -6,21 +6,21 @@
   <div class="AspectRatio">
     <div class="AspectRatio-object PostList-item-image CoverImage" style="background-image: url('{{ post.image | remove: ".jpg" | append: "-thumb.jpg" }}')">
       <div class="f-childrenCenter u-relative">
-        <div>
-          <h1 class="Meta fw-600 u-textCenter c-bg m-b3">{{ post.title }}</h1>
+        <div class="p-x5">
+          <h1 class="Meta fw-500 u-textCenter c-bg m-b3">{{ post.title }}</h1>
 
           {% if post.datetime %}
             {% if post.is-year-duration == true %}
-            <date class="Meta fw-600 u-textCenter u-block">{{ post.datetime | first | date: "%Y" }}</date>
+            <date class="Meta fw-500 u-textCenter u-block">{{ post.datetime | first | date: "%Y" }}</date>
             {% elsif post.datetime.size == 1 or post.is-single-date %}
-            <date class="Meta fw-600 u-textCenter u-block">{{ post.datetime | first | date: "%B %d %Y" }}</date>
+            <date class="Meta fw-500 u-textCenter u-block">{{ post.datetime | first | date: "%B %d %Y" }}</date>
             {% elsif post.is-single-month-duration == true %}
-            <date class="Meta fw-600 u-textCenter u-block">{{ post.datetime | last | date: "%B %Y" }}</date>
+            <date class="Meta fw-500 u-textCenter u-block">{{ post.datetime | last | date: "%B %Y" }}</date>
             {% elsif post.is-many-months-duration == true %}
-            <date class="Meta fw-600 u-textCenter u-block">{{ post.datetime | first | date: "%B" }} - {{
+            <date class="Meta fw-500 u-textCenter u-block">{{ post.datetime | first | date: "%B" }} - {{
               post.datetime | last | date: "%B %Y" }}</date>
             {% else %}
-            <date class="Meta fw-600 u-textCenter u-block">{{ post.datetime | first | date: "%B %d" }} - {{
+            <date class="Meta fw-500 u-textCenter u-block">{{ post.datetime | first | date: "%B %d" }} - {{
               post.datetime | last | date: "%B %d %Y" }}</date>
             {% endif %}
           {% endif %}

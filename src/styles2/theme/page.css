@@ -34,7 +34,7 @@
   @media (--md) {
     max-width: 50%;
   }
-  @media (--md-landscape) {
+  @media (--mdl) {
     max-width: calc((0.85 * var(--container-sm)) - (2 * var(--grid-gutter)));
   }
   @media (--lg) {
@@ -45,7 +45,7 @@
   max-width: 100%;
   padding: 0;
 
-  @media (--md-landscape) {
+  @media (--mdl) {
     max-width: calc((0.85 * var(--container-rg)) - (2 * var(--grid-gutter)));
   }
   @media (--lg) {
@@ -81,6 +81,31 @@
   @media (--sm) {
     line-height: 1.96;
   }
+}
+
+
+
+/* 
+
+  AMENDING IREMONO
+
+*/
+
+.print {
+  background-color: pink;
+}
+
+
+
+/* 
+
+  AMENDING IREMONO
+
+*/
+
+.Button {
+  padding-bottom: 0;
+  padding-top: var(--button-text-alignment);
 }
 
 
@@ -140,6 +165,11 @@
   }
 }
 
+.b-mdl-pb1 {
+  @media (--mdl) {
+    padding-bottom: calc(1 * var(--rs-block-space));
+  }
+}
 
 .b-pbFooter {
   padding-bottom: calc(3.5 * var(--rs-block-space));
@@ -206,11 +236,11 @@
 
 /* 
 
-  iPad layouts (--md-landscape)
+  iPad layouts (--mdl)
 
  */
 
-@media (--md-landscape) {
+@media (--mdl) {
   .f-mdl-childrenCenter {
     align-items: center;
     display: flex;
@@ -267,26 +297,6 @@
 
 
 /* NON-MIXINS */
-
-.FlexGrid {
-  --flex-grid-gutter: 0;
-
-  display: flex;
-  flex-wrap: wrap;
-  flex-direction: column;
-  margin-right: calc(-1 * var(--flex-grid-gutter));
-  margin-left: calc(-1 * var(--flex-grid-gutter));
-
-  & > * {
-    flex: 1 1 auto;
-    padding-right: var(--flex-grid-gutter);
-    padding-left: var(--flex-grid-gutter);
-  }
-
-  @media (--sm) {
-    flex-direction: row;
-  }
-}
 
 .f-childrenCenter {
   align-items: center;

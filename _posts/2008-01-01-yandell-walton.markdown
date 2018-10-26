@@ -4,7 +4,7 @@ date: 2008-01-01 00:00:00 +11:00
 categories:
 - in-development
 image: "/uploads/yandell.jpg"
-image-credit: artdocumentation.com.au
+image-credit: <a href="http://www.artdocumentation.com.au/">artdocumentation.com.au</a>
 presented-by: THE SUBSTATION COMMISSIONING PROGRAM
 datetime:
 - 2018-01-01 09:00:00 +11:00

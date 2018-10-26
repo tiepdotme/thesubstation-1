@@ -1,0 +1,84 @@
+.Post {
+  & strong {
+    font-weight: normal;
+    text-transform: uppercase;
+  }
+
+  & em {
+  font-style: italic;
+  }
+
+  & h2,
+  & h3 {
+    &:not(:first-child) {
+      margin-top: calc(3 * var(--s-paragraph));
+    }
+  }
+
+  & ul {
+    margin-bottom: var(--s-paragraph);
+  }
+
+  & hr {
+    border: 0;
+    border-top: 1px solid palette(light);
+    margin: $paragraphSpace * 2 0;
+  }
+
+  & blockquote p {
+    border-left: 1px solid var(--c-rule);
+    color: var(--c-text-mid);
+    padding-left: var(--s-3);
+  }
+
+  & figure {
+    &:not(:first-child) {
+      margin-top: calc(3 * var(--s-paragraph));
+    }
+    &:not(:last-child) {
+      margin-bottom: calc(3 * var(--s-paragraph));
+    }
+  }
+}
+
+.Post-list {
+  column-count: 2;
+}
+
+/* .Post table {
+  border-collapse: collapse;
+  font-family: $font-serif;
+  letter-spacing: 0;
+  margin: $blockSpace * 0.75 0;
+
+  thead tr {
+    background-color: rgba( palette(brand), 0.15);
+  }
+
+  th {
+    @include headlineSm();
+    font-family: $font-text-bold;
+    padding: space(0.5);
+  }
+
+  tbody tr {
+    @include odd() { background-color: rgba( palette(brand), 0.15); }
+    @include even() { background-color: rgba( palette(brand), 0.09); }
+  }
+
+  td {
+    padding: space(0.5);
+    vertical-align: baseline;
+
+    &:first-child {
+      @include textAside();
+      border-right: 1px solid palette(muted);
+      line-height: 1.5;
+      text-align: right;
+
+      @media (--sm) {
+      width: calc(100% / 3);
+      }
+    }
+  }
+} */

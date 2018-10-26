@@ -9,7 +9,7 @@ NO: {% assign sortedPosts = (site.categories[categoryName] | sort: "datetime" | 
 {% endcomment %}
 
 {% comment %}
-<div class="FlexGrid c-postGrid">
+<div class="FlexGrid FlexGrid--noGutter PostList">
 
     {% capture firstDate %}
     {% for date in post.datetime %}
@@ -26,7 +26,7 @@ NO: {% assign sortedPosts = (site.categories[categoryName] | sort: "datetime" | 
 
 
 
-<div class="FlexGrid c-postGrid">
+<div class="FlexGrid FlexGrid--noGutter PostList">
 
     {% assign categoryPosts = site.categories[categoryName] %}
     {% assign postDates = post.datetime %}
@@ -44,7 +44,7 @@ NO: {% assign sortedPosts = (site.categories[categoryName] | sort: "datetime" | 
 
 
 
-<div class="FlexGrid c-postGrid">
+<div class="FlexGrid FlexGrid--noGutter PostList">
 
     {% capture firstDate %}
     {% for datetime in post.datetime %}
@@ -64,7 +64,7 @@ NO: {% assign sortedPosts = (site.categories[categoryName] | sort: "datetime" | 
 
 {% endcomment %}
 
-<div class="FlexGrid c-postGrid">
+<div class="FlexGrid FlexGrid--noGutter PostList">
     {% assign categoryPosts = (site.categories[categoryName] | sort) %}
     {% for post in categoryPosts %}
 

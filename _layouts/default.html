@@ -8,13 +8,11 @@ layout: compress
 
 <body id="top" class="{{ page.body_class }} {{ page.grid-max-number }}">
 
-    {% include header.html %}
+    {% include nav.html %}
 
     <main
-        class="c-content
-        {% if page.layout == 'post' %} c-content--post{% endif %}
-        {% if page.layout == 'page' and page.url != '/404.html' %} c-content--page{% endif %}"
-        aria-label="Content">
+        class="b-pb2"
+        aria-label="content">
         {{ content }}
     </main>
 

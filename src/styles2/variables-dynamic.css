@@ -65,37 +65,40 @@
 :root {
   --rfs-text-xs: 10px;
   --rfs-text-sm: 12px;
-  --rfs-text: 13px;
-  --rfs-text-md: 13px;
+  --rfs-text: 14px;
+  --rfs-text-md: 14px;
   --rfs-text-lg: 16px;
   --rfs-heading: 16px;
   --rfs-title: 27px;
+  --rfs-supertitle: 40px;
 }
 @media (--sm) {
   :root {
-    --rfs-text-xs: 12px;
+    --rfs-text-xs: 11px;
     --rfs-text-sm: 13px;
-    --rfs-text: 16px;
-    --rfs-text-md: 16px;
+    --rfs-text: 17px;
+    --rfs-text-md: 17px;
     --rfs-text-lg: 19px;
     --rfs-heading: 19px;
     --rfs-title: 30px;
+    --rfs-supertitle: 48px;
   }
 }
-@media (--md-landscape) {
+@media (--mdl) {
   :root {
     --rfs-title: 36px;
+    --rfs-supertitle: 60px;
   }
 }
 @media (--lg) {
   :root {
-    --rfs-text-xs: 13px;
+    --rfs-text-xs: 12px;
     --rfs-text-sm: 14px;
-    --rfs-text: 18px;
+    --rfs-text: 19px;
     --rfs-text-md: 19px;
     --rfs-text-lg: 22px;
-    --rfs-heading: 22px;
+    --rfs-heading: 24px;
     --rfs-title: 44px;
-    --rfs-supertitle: 48px;
+    --rfs-supertitle: 72px;
   }
 }

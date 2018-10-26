@@ -2,6 +2,19 @@ header:
 - title: What's On
   url: /whats-on/
   categories: 'whats-on'
+- title: Venue hire
+  url: /venues/
+  categories: 'venues'
+- title: Visit Us
+  url: /about/getting-here
+  categories: 'about'
+- title: Donate
+  url: /donate/
+
+secondary:
+- title: What's On
+  url: /whats-on/
+  categories: 'whats-on'
 - title: In Development
   url: /in-development/
   categories: 'in-development'

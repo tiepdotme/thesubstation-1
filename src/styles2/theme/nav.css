@@ -1,5 +1,5 @@
 .Nav {
-  padding: 0 4%; 
+  /* padding: 0 4%; 
 
   @media (--mo) {
     display: none;
@@ -9,7 +9,8 @@
   }
   @media (--su) { 
     padding: 0 18%; 
-  }
+  } */
+  
   /* @include when-inside(".c-footer") {
     margin-bottom: $blockSpace * 1.25;
 
@@ -49,20 +50,19 @@
 
 .Nav-logo > img {
   margin-bottom: 0;
-  width: 150px;
+  height: 24px;
 
   @media (--sm) { 
-    width: 225px; 
+    height: 30px; 
   }
   @media (--xl) { 
-    width: 260px; 
+    height: 40px; 
   }
 }
 
 .Nav-trigger {
   border: 1px solid var(--c-text-light);
   border-radius: 3px;
-  /* line-height: 2 !important; */
   padding: 9px 12px 6px;
   position: absolute;
   right: var(--space);
@@ -73,7 +73,7 @@
     margin-right: 3px;
   }
 
-  @media (--md) {
+  @media (--mdl) {
     display: none;
   }
 }

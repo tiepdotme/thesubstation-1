@@ -13,5 +13,7 @@
 @import "./theme/links.css";
 @import "./theme/nav.css";
 @import "./theme/page.css";
+@import "./theme/post.css";
 @import "./theme/post-list.css";
 @import "./theme/typography.css";
+@import "./theme/typography-scope.css";

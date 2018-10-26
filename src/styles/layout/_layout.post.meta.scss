@@ -113,7 +113,7 @@
 // End of article post-meta for supporters, image credit & archive note.
 // ---------------------------------------------------------------------
 
-.c-post-endBlock {
+.Post-credit {
     @include textMetaHeadline();
     border-top: 1px solid palette(light);
     color: palette(medium);
@@ -131,7 +131,7 @@
 // End of article supporters logos (using vendor.family)
 // --------------------------------------------------------------------------
 
-.c-post-supporters {
+.Post-supporters {
     margin: $paragraphSpace * 0.5 0 0;
     opacity: 0.5;
 

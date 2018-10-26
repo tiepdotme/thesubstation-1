@@ -4,32 +4,122 @@
 
 */
 
-p a,
+
+/* a,
+button {
+  color: inherit;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+a {
+  text-decoration: var(--text-link-decoration);
+}
+
+button {
+  text-decoration: initial;
+} */
+
+
+
+
+/* p a,
 .Link {
   transition: opacity 1000ms ease-out;
 }
-/* a:hover:not(.Button):not(.BlockLink), */
+
+a:hover:not(.Button):not(.BlockLink),
 p a:hover,
 p a:active,
 .Link:hover,
 .Link:active {
   opacity: 0.4;
   transition: opacity 600ms ease-out;
-}
+}*/
 
-.nuxt-link-active span {
+/* @mixin complexLink {
+  display: block;
+  width: 100%;
+
+  @include on-event() {
+    .o-linkBuriedTarget {
+      background-color: palette(brand);
+    }
+  }
+} */
+
+/* .Post a,
+.Link,
+.Link-block a {
+  background-image: linear-gradient(180deg,rgba(38,38,38,0) 50%,#262626 0);
+  background-repeat: repeat-x;
+  background-size: 1px 2px;
+  background-position: 0 100%;
+  color: currentColor;
+  padding-bottom: 0;
+  text-decoration: none;
+  transition: background-image 500ms ease-out;
+
+  &:hover {
+    background-image: none;
+    color: inherit;
+    transition: background-image 500ms ease-out;
+  }
+} */
+
+/* GREEN */
+/* .Post a,
+.Link,
+.Link-block a {
   position: relative;
+  z-index: 1;
 
-  &:after {
+  &:before {
     background-color: currentColor;
+    background-color: rgba(84, 255, 0, .3);
+    content: "";
+    height: 100%;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0.125em;
+    transition: background-color 500ms ease-out;
+    z-index: -1;
+  }
+
+  &:hover:before {
+    background-color: transparent;
+    transition: background-color 500ms ease-out;
+  }
+} */
+
+/* UNDERLINE */
+.Post a,
+.Link,
+.Link-block a {
+  position: relative;
+  z-index: 1;
+
+  &:before {
+    background-color: rgba(0, 0, 0, .4);
     content: "";
     height: 1px;
     position: absolute;
     left: 0;
     right: 0;
-    bottom: -0.5em;
+    bottom: 0.05em;
+    transition: background-color 500ms ease-out;
+    z-index: -1;
+  }
+
+  &:hover:before {
+    background-color: transparent;
+    transition: background-color 500ms ease-out;
   }
 }
+
+
+/* block link */
 
 .BlockLink {
   display: block;
@@ -37,9 +127,9 @@ p a:active,
   transform: translateY(0);
 
   &:hover {
-    transition: 250ms ease-out;
-    transform: translateY(-2%);
-    opacity: 1 !important;
+  transition: 250ms ease-out;
+  transform: translateY(-2%);
+  opacity: 1 !important;
   }
 }
 

@@ -3,7 +3,7 @@ title: Residents
 layout: default
 ---
 
-<div class="FlexGrid c-postGrid PostList">
+<div class="FlexGrid FlexGrid--noGutter PostList PostList">
 
     {% assign sortedPosts = site.residents | where:"current","true" | sort: "position" %}
     {% for post in sortedPosts %}

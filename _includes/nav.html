@@ -1,18 +1,41 @@
-{% for item in site.data.navigation.header %}
-<div class="Nav-item
-  {% if page.url != '/' and page.url contains item.url %}is-active
-  {% elsif page.url contains 'show' and page.categories contains item.categories %}is-active
-  {% endif %}">
+{% comment %}
+{% if page.url != '/' and page.url contains item.url and page.tag != 'archive' %}is-active{% endif %}
+{% elsif page.categories contains item.categories %}is-active
+{% endcomment %}
 
-  <a class="Meta c-text-mid" href="{{ item.url }}">{{ item.title }}</a>
+<nav class="b-py1">
+  <div class="Container Container--lg">
+    <div class="b-mdl-pb1 u-relative">
+      <div class="f f-justifyBetween">
+        <a href="/" class="Nav-logo">
+          <img class="" src="{{ site.imageurl }}logo.png" alt="{{ site.title }}" />
+        </a>
+        <a class="Nav-trigger Meta" href="#nav">
+          menu
+        </a>
+      </div>
+    </div>
 
-  {% comment %}
-  <br>
-  {{ item.categories }}<br>
-  {{ page.categories }}<br>
-  {{ page.url }}<br>
-  {{ item.url }}
-  {% endcomment %}
+  </div>
 
-</div>
-{% endfor %}
+  <div class="Container Container--lg">
+    {%- comment -%} <div class="Nav GutterInsetX f-sm f-justifyBetween u-mo-hidden"> {%- endcomment -%}
+    <div class="Nav f-mdl f-justifyBetween u-hidden">
+      
+      {% for item in site.data.navigation.header %}
+      <div class="Nav-item
+        {% if page.url != '/' and page.url contains item.url %}is-active
+        {% elsif page.url contains 'show' and page.categories contains item.categories %}is-active
+        {% endif %}">
+        <a class="Meta fw-500" href="{{ item.url }}">
+          {{ item.title }}
+        </a>
+      </div>
+      {% endfor %}
+
+      <div class="Nav-item">
+        <span class="Meta fw-500">More ↓</span>
+      </div>
+  </div>
+  </div>
+</nav>

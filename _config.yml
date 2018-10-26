@@ -117,7 +117,7 @@ social:
   - https://www.instagram.com/thesubstation/
   - https://twitter.com/thesubstation_
   - https://www.linkedin.com/company/the-substation-newport/
-author: patternworks_
+author: Callum Flack Design
 address: 1 Market Street, Newport
 address-second: Victoria 3015, Australia
 address-link: https://goo.gl/maps/WG1MkodsgHP2
@@ -148,6 +148,4 @@ exclude:
 - package.json
 - node_modules
 - yarn.lock
-- DESCRIPTION*
 - README*
-- TODO*
