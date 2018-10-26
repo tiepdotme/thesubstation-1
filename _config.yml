@@ -74,6 +74,7 @@ defaults:
     image: 
     image-credit: 
     video: 
+    video-thumbnail: 
     button-url: 
     button-txt: 
     presented-by: false

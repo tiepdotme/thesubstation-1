@@ -17,9 +17,13 @@
 }
 
 .Post-details-container {
-  background-color: var(--c-bg);
+  background-color: var(--c-rule);
   padding-left: var(--flex-grid-gutter);
   padding-right: var(--flex-grid-gutter);
+
+  @media (--sm) {
+    background-color: var(--c-bg);
+  }
 }
 
 /* Post info type blocks */
@@ -29,7 +33,7 @@
   padding: calc(1 * var(--rs-space));
 
   /* borders */
-  border: 1px solid var(--c-text);
+  border-bottom: 1px solid var(--c-text);
 
   /* + .c-post-meta { margin-left: -1px; }
   @include after-first(4) { border-top: 0; }

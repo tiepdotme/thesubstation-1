@@ -130,6 +130,12 @@
   background-color: color-mod(var(--c-brand-alt) alpha(15%));
 }
 
+.w-mo-100 {
+  @media (--mo) {
+    width: 100% !important;
+  }
+}
+
 .h-mo-auto {
   @media (--mo) {
     height: auto;
@@ -140,6 +146,11 @@
   flex-basis: auto !important;
 }
 
+.b-mo-pb1 {
+  @media (--mo) {
+    padding-bottom: calc(1 * var(--rs-block-space));
+  }
+}
 .b-mo-py5 {
   @media (--mo) {
     padding-top: calc(6.5 * var(--rs-block-space));

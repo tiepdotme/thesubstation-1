@@ -29,19 +29,19 @@
  */
 
 :root {
-  --rs-space: 0.5rem;
+  --rs-space: 0.666rem;
   --rs-block-space: 1.5rem;
   --rs-nav-height: 5rem;
   --rs-hero: 24rem;
 }
 @media (--sm) {
   :root {
-    --rs-space: 0.666rem;
+    --rs-space: 0.725rem;
   }
 }
 @media (--md) {
   :root {
-    --rs-space: 0.825rem;
+    --rs-space: 0.85rem;
     --rs-block-space: 2.25rem;
     --rs-nav-height: 104px;
     --rs-hero: 38rem;

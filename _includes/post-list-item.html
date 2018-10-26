@@ -2,9 +2,21 @@
 {% if page.url contains page.slug %} u-hide{% endif%}
 {% endcomment %}
 
-<a class="PostList-item" href="{{ post.url }}">
+<a class="PostList-item{% if post.video-thumbnail %} has-video{% endif %}" href="{{ post.url }}">
   <div class="AspectRatio">
-    <div class="AspectRatio-object PostList-item-image CoverImage" style="background-image: url('{{ post.image | remove: ".jpg" | append: "-thumb.jpg" }}')">
+    {% if post.video-thumbnail %}
+      <iframe
+        class="AspectRatio-object"
+        frameborder="0" allowtransparency="true" allowfullscreen="" width="100%" height="100%"
+        src="https://player.vimeo.com/video/{{ post.video }}?background=1"
+      ></iframe>
+    {% endif %}
+
+    <div
+      class="AspectRatio-object PostList-item-image CoverImage" 
+      style="background-image: url('{{ post.image | remove: ".jpg" | append: "-thumb.jpg" }}')">
+    </div>
+    <div class="AspectRatio-object">
       <div class="f-childrenCenter u-relative">
         <div class="p-x5">
           <h1 class="Meta fw-500 u-textCenter c-bg m-b3">{{ post.title }}</h1>
@@ -28,5 +40,6 @@
         </div>
       </div>
     </div>
+
   </div>
 </a>

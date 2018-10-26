@@ -1,5 +1,5 @@
 .PostList > * {
-  flex-basis: calc(100% / 2);
+  /* flex-basis: calc(100% / 2); */
   
   @media (--sm) { 
     flex-basis: calc(100% / 3); 
@@ -56,8 +56,8 @@
 /* PostList item */
 
 .PostList-item {
-  display: block;
   border: 0;
+  display: block;
   position: relative;
 
   & > * {
@@ -91,6 +91,15 @@
   transition: all 500ms ease-in-out;
 }
 
+.PostList-item.has-video .PostList-item-image {
+  opacity: 1;
+  transition: all 250ms ease-in-out;
+}
+
+.PostList-item.has-video:hover .PostList-item-image {
+  opacity: 0;
+  transition: all 250ms ease-in-out;
+}
 
 
 
