@@ -51,5 +51,5 @@ By purchasing a ticket, you agree to our Terms and Conditions:
 * The SUBSTATION guarantees that your personal details will never be sold to a third party.
 
 The SUBSTATION reserves the right to refuse entry if:
-* you are unable to produce a valid ticket or verify your name against a venue’s door list
-* you cannot provide proof of concession where a concession ticket has been purchased
+* you are unable to produce a valid ticket or verify your name against a venue’s door list.
+* you cannot provide proof of concession where a concession ticket has been purchased.
