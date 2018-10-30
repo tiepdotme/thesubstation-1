@@ -56,35 +56,64 @@
 /* PostList item */
 
 .PostList-item {
-  border: 0;
+  /* border: 0; */
+  border: 0.5px solid var(--c-bg);
   display: block;
   position: relative;
+  overflow: hidden;
 
   & > * {
-    margin: 1px 0.5px 0;
+    /* margin: 1px 0.5px 0; */
+  }
+
+  & .PostList-item-image img,
+  & .PostList-item-text,
+  & date {
+    transition: all 500ms ease-in-out;
   }
 
   & date {
     color: var(--c-text-light);
-    transition: all 500ms ease-in-out;
   }
 
   &:hover,
   &:active {
-    & .PostList-item-image {
-      background-color: rgba(0,0,0,0.25);
+    & .PostList-item-image img,
+    & .PostList-item-text,
+    & date {
+      transition: all 150ms ease-in-out;
+    }
+
+    & .PostList-item-image img {
       filter: grayscale(0);
-      transition: all 500ms ease-in-out;
+    }
+    & .PostList-item-image:after {
+      background-color: rgba(0,0,0,0.3);
     }
 
     & date {
       color: var(--c-bg);
-      transition: all 500ms ease-in-out;
+    }
+
+    & .PostList-item-image img {
+      transform: scale(1.025);
+    }
+    & .PostList-item-text {
+      transform: scale(1.1);
     }
   }
 }
 
-.PostList-item-image {
+.PostList-item-image:after {
+  background-blend-mode: multiply;
+  background-color: rgba(0,0,0,0.7);
+  content: "";
+  position: absolute;
+  top: 0; bottom: 0; left: 0; right: 0;
+  transition: all 500ms ease-in-out;
+}
+
+.PostList-item-image img {
   background-blend-mode: multiply;
   background-color: rgba(0,0,0,0.7);
   filter: grayscale(100%);
@@ -93,12 +122,12 @@
 
 .PostList-item.has-video .PostList-item-image {
   opacity: 1;
-  transition: all 250ms ease-in-out;
+  transition: all 500ms ease-in-out;
 }
 
 .PostList-item.has-video:hover .PostList-item-image {
   opacity: 0;
-  transition: all 250ms ease-in-out;
+  transition: all 150ms ease-in-out;
 }
 
 

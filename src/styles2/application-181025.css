@@ -9,6 +9,7 @@
 /* Theme */
 @import "./theme/animations.css";
 @import "./theme/flex-grid.css";
+@import "./theme/form.css";
 @import "./theme/hero.css";
 @import "./theme/links.css";
 @import "./theme/nav.css";

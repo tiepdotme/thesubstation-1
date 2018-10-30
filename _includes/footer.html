@@ -40,7 +40,9 @@ FlexGrid FlexGrid--spaceBetween {% endcomment %}
       <div class="Meta-block c-block-text-mid">
         {% include socials.html %}
       </div>
-      {%- comment -%} {% unless page.layout contains 'protected' %} {% include form-news-signup.html %} {% endunless %} {%- endcomment -%}
+
+      {% unless page.layout contains 'protected' %} {% include form-news-signup.html %} {% endunless %}
+
     </div>
     <div class="b-pt075">
       <p class="fs-text-sm c-text-light w-sm-1x2">

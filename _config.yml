@@ -76,8 +76,9 @@ defaults:
     video: 
     video-thumbnail: 
     button-url: 
-    button-txt: 
+    button-txt: Book now
     presented-by: false
+    tagline: false
     price: false
     datetime: 
     is-on-home-page: false

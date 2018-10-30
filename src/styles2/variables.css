@@ -191,9 +191,9 @@
   --button-font-case: initial;
   --button-font-family: inherit;
   --button-font-size: var(--fs-button);
-  --button-font-weight: 600;
+  --button-font-weight: 500;
   --button-letter-spacing-case: var(--fls-regular);
-  --button-text-alignment: 3px;
+  --button-text-alignment: 5px;
 
   /* 
 

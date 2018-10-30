@@ -18,7 +18,14 @@ $ JEKYLL_ENV=production bundle exec jekyll serve
 <div class="Post-details">
   <div class="Post-details-envelope">
     <div class="Container Container--xl p-mo-x0">
-      <div class="Post-details-container">
+      {% if page.tagline %}
+      <div class="Post-tagline-container bg-text">
+        <div class="Heading c-bg u-textCenter w-sm-9x12 m-xA">
+          {{ page.tagline }}
+        </div>
+      </div>
+      {% endif %}
+      <div class="Post-meta-container">
         {% include post-info.html %}
       </div>
     </div>

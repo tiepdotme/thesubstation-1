@@ -5,6 +5,7 @@
   
   @media (--lg) {
     height: 0;
+    height: calc(220px * 0.5);
   }
 }
 
@@ -12,11 +13,19 @@
   @media (--lg) {
     margin: 0;
     transform: translateY(-100%);
+    transform: translateY(-49.75%);
     width: 100%;
   }
 }
 
-.Post-details-container {
+.Post-meta-container,
+.Post-tagline-container {
+  @media (--lg) {
+    min-height: 110px;
+  }
+}
+
+.Post-meta-container {
   background-color: var(--c-rule);
   padding-left: var(--flex-grid-gutter);
   padding-right: var(--flex-grid-gutter);
@@ -24,6 +33,15 @@
   @media (--sm) {
     background-color: var(--c-bg);
   }
+
+  /* tests */
+  border: 1px solid var(--c-text);
+  border-top: 0;
+}
+
+.Post-tagline-container {
+  padding-top: calc(0.625em + var(--s-3));
+  padding-bottom: var(--s-3);
 }
 
 /* Post info type blocks */
@@ -42,6 +60,8 @@
   @media (--lg) {
     border: 0;
     min-height: 90px;
+    min-height: 110px;
+    min-height: 100%;
     margin: 0;
     
     &:not(:first-child) { 

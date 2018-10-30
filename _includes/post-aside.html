@@ -8,7 +8,7 @@
   {% endcomment %}
 
   {% if page.button-url %}
-    <div class="u-textCenter">
+    <div class="u-textCenter b-pb1">
       <a class="Button Meta w-mo-100" href="{{ page.button-url }}">
         {% if page.button-txt %}
           {{ page.button-txt }}
@@ -27,8 +27,8 @@
     -------------------------
   {% endcomment %}
 
-  <div class="c-post-share">
-    {%- comment -%} {% include share.html %} {%- endcomment -%}
+  <div class="u-textCenter">
+    {% include share.html %}
   </div>
 
 

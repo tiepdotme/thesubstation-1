@@ -1,12 +1,12 @@
 ---
 title: Newport Archives
 date: 2018-05-12 12:56:00 +10:00
+tagline: Songs and poetry exploring the Industrial history of Melbourne's western waterways
 categories:
 - whats-on
 image: "/uploads/newport-archives-2017.jpg"
 image-credit: Suzie Blake
 button-url: mailto:info@thesubstation.org.au
-button-txt: book
 presented-by: Permanent Artwork by Tamara Saulwick
 price: Free
 datetime:
