@@ -10,6 +10,9 @@ button-url:
 
 Tickets to performances can be purchased online or over the phone on (03) 9391 1110. Doors sales for performances are subject to availability. 
 
+In an effort to reduce waste, The SUBSTATION asks that patrons do not print their tickets at home. We ask that you have your ticket ready on your mobile device when you arrive at the venue or just bring some photo ID to verify your identity.
+
+
 Please note a transaction fee may apply.
 
 ## CONCESSIONS
