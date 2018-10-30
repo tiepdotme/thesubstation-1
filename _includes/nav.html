@@ -33,9 +33,29 @@
       </div>
       {% endfor %}
 
-      <div class="Nav-item">
-        <span class="Meta fw-500">More ↓</span>
+      <div class="SecondNav">
+        <div class="Nav-item Nav-secondary u-mo-hidden">
+          <span class="Meta fw-500">
+            More 
+            <svg class="u-icon" height="18" width="18">
+              <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#ic-more"></use>
+            </svg>
+          </span>
+        </div>
+        <div class="SecondNav-container">
+          {% for item in site.data.navigation.secondary %}
+          <div class="Nav-item
+            {% if page.url != '/' and page.url contains item.url %}is-active
+            {% elsif page.url contains 'show' and page.categories contains item.categories %}is-active
+            {% endif %}">
+            <a class="Meta fw-500" href="{{ item.url }}">
+              {{ item.title }}
+            </a>
+          </div>
+          {% endfor %}
+        </div>
       </div>
-  </div>
+
+    </div>
   </div>
 </nav>

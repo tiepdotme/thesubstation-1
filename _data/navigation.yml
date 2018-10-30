@@ -12,9 +12,6 @@ header:
   url: /donate/
 
 secondary:
-- title: What's On
-  url: /whats-on/
-  categories: 'whats-on'
 - title: In Development
   url: /in-development/
   categories: 'in-development'
@@ -24,11 +21,6 @@ secondary:
 - title: Past events
   url: /archive/
   categories: 'archive'
-- title: Venues
-  url: /venues/
-  categories: 'venues'
 - title: About Us
   url: /about/
   categories: 'about'
-- title: Donate
-  url: /donate/
