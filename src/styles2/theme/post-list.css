@@ -48,6 +48,12 @@
 }
 
 
+/* PostList V2 */
+
+.PostList2 {
+  justify-content: center;
+}
+
 
 
 
@@ -129,53 +135,3 @@
   opacity: 0;
   transition: all 150ms ease-in-out;
 }
-
-
-
-
-
-
-
-
-
-
-/*
-.c-postCell-headline,
-.c-postCell-subheadline {
-    @include textAside();
-    color: palette(white);
-    font-family: $font-text-bold !important;
-    padding: 0 15%;
-    text-align: center;
-
-    &:not(:first-child) {
-        margin-top: space(0.25);
-    }
-}
-
-.c-postCell-headline {
-    color: palette(white);
-}
-
-.c-postCell-subheadline {
-    @include baseTransition();
-    color: palette(muted);
-    display: block;
-    font-family: $font-text-regular;
-} 
-
-.c-post-article {
-    @include blockSpaceMarginTop();
-}
-
-
-
-
-.NextPostList {
-    margin-top: $blockSpace * 2;
-
-    h3 {
-        margin-bottom: $blockSpace * 0.5;
-    }
-}
- */

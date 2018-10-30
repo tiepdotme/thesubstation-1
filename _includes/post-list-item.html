@@ -2,13 +2,13 @@
 {% if page.url contains page.slug %} u-hide{% endif%}
 {% endcomment %}
 
-<a class="PostList-item{% if post.video-thumbnail %} has-video{% endif %}" href="{{ post.url }}">
+<a class="PostList-item w-sm-1x2 w-lg-1x3{% if post.video-thumbnail %} has-video{% endif %}" href="{{ post.url }}">
   <div class="AspectRatio">
     {% if post.video-thumbnail %}
       <iframe
         class="AspectRatio-object"
         frameborder="0" allowtransparency="true" allowfullscreen="" width="100%" height="100%"
-        src="https://player.vimeo.com/video/{{ post.video }}?background=1"
+        src="https://player.vimeo.com/video/{{ post.video-thumbnail }}?background=1&autoplay=1&loop=1&byline=0&title=0"
       ></iframe>
     {% endif %}
 
