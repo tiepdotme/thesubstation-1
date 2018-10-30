@@ -21,13 +21,13 @@
 
 .Nav-logo > img {
   margin-bottom: 0;
-  height: 24px;
+  height: 27px;
 
   @media (--sm) { 
-    height: 30px; 
+    height: 39px; 
   }
   @media (--xl) { 
-    height: 40px; 
+    height: 50px; 
   }
 }
 

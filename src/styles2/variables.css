@@ -154,7 +154,7 @@
 
   --border-radius: 4px;
   --cover-image-screen-color: rgba(0, 0, 0, 0.8);
-  --container-window-inset: 3vw;
+  --container-window-inset: 0;
   --figure-space-align-within-text: 0;
   --figcaption-margin-top: 0.5rem;
   --figcaption-font-weight: 400;

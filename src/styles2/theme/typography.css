@@ -58,8 +58,7 @@ ol,
   text-transform: uppercase;
 }
 
-.Title,
-.Supertitle {
+.Title {
   line-height: 1.2;
 
   @media (--sm) {
@@ -72,6 +71,8 @@ ol,
   font-size: var(--rfs-supertitle);
   font-weight: 500;
   letter-spacing: var(--fls-super);
+  line-height: 1;
+  margin-bottom: 0;
   text-align: center;
   text-transform: uppercase;
 }

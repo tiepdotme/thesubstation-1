@@ -18,13 +18,6 @@ $ JEKYLL_ENV=production bundle exec jekyll serve
 <div class="Post-details">
   <div class="Post-details-envelope">
     <div class="Container Container--xl p-mo-x0">
-      {% if page.tagline %}
-      <div class="Post-tagline-container bg-text">
-        <div class="Heading c-bg u-textCenter w-sm-9x12 m-xA">
-          {{ page.tagline }}
-        </div>
-      </div>
-      {% endif %}
       <div class="Post-meta-container">
         {% include post-info.html %}
       </div>
@@ -42,8 +35,13 @@ u-smDown-blockR--3by4
 {% endcomment %}
 
 
-<div class="b-py2">
+<div class="b-pt1 b-pb2">
   <div class="Container Container--lg">
+    <div class="b-pb1 p-t4">
+      <div class="Heading fw-500 u-textCenter w-sm-10x12 m-xA">
+        {{ page.tagline }}
+      </div>
+    </div>
     <div class="FlexGrid FlexGrid--noGrow">
       <div class="w-sm-7x10">
 

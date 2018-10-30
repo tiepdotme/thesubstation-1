@@ -9,8 +9,35 @@ FlexGrid FlexGrid--spaceBetween {% endcomment %}
 <footer class="m-t2 b-pb2">
 
   {% if page.layout == 'post' or page.layout == 'page' or page.layout contains 'protected' or page.url == '/404.html' %}
-    <hr class="b-mb1">
-    {% include nav.html %}
+    <hr class="">
+    <div class="b-py1">
+      <div class="Container Container--lg">
+        <div class="Nav m-t2 f-mdl f-justifyBetween u-hidden">
+          
+          {% for item in site.data.navigation.header %}
+          <div class="Nav-item
+            {% if page.url != '/' and page.url contains item.url %}is-active
+            {% elsif page.url contains 'show' and page.categories contains item.categories %}is-active
+            {% endif %}">
+            <a class="Meta fw-500" href="{{ item.url }}">
+              {{ item.title }}
+            </a>
+          </div>
+          {% endfor %}
+          {% for item in site.data.navigation.secondary %}
+          <div class="Nav-item
+            {% if page.url != '/' and page.url contains item.url %}is-active
+            {% elsif page.url contains 'show' and page.categories contains item.categories %}is-active
+            {% endif %}">
+            <a class="Meta fw-500" href="{{ item.url }}">
+              {{ item.title }}
+            </a>
+          </div>
+          {% endfor %}
+
+        </div>
+      </div>
+    </div>
   {% endif %}
 
   <div class="Container Container--lg">
@@ -45,7 +72,7 @@ FlexGrid FlexGrid--spaceBetween {% endcomment %}
 
     </div>
     <div class="b-pt075">
-      <p class="fs-text-sm c-text-light w-sm-1x2">
+      <p class="fs-text-sm c-text-light w-sm-8x12">
         The SUBSTATION acknowledges that we are located on the traditional lands of the Boon Wurrung people of the Kulin Nation. We extend our respects to their ancestors and elders past, present and emerging, and to all First Nations people.
       </p>
     </div>
