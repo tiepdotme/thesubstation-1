@@ -69,9 +69,9 @@
 .SecondNav-container {
   background-color: var(--c-bg);
   height: 0;
-  margin-top: var(--s-1);
   opacity: 0;
   padding: var(--s-3b);
+  padding-top: var(--s-4);
   position: absolute;
   top: var(--s-3b);
   left: calc(-1 * var(--s-3b));
