@@ -12,7 +12,7 @@ datetime:
 - 2018-01-18 19:00:00 +11:00
 - 2018-01-19 19:00:00 +11:00
 has-start-time: true
-is-single-date: true
+is-single-date: false
 ---
 
 ## **“A TRIP DEEP WITHIN THE MOTHERSHIP – HYPNOTIC AND BEAUTIFULLY DISORIENTATING” – The Wire magazine**
