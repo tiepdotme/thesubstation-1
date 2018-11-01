@@ -14,6 +14,6 @@ has-opening-event: true
 is-opening-hours-time: true
 ---
 
-## ** A darkly humorous look at the social function of gossip. **
+## **A darkly humorous look at the social function of gossip.** 
 
 Performance artist Melanie Jame Wolfe’s video and sound installation Chorus explores Greek mythology through a high camp lens. Drawing its title from the group of performers in Greek theatre whose role it is to comment on the action, Wolfe’s artwork takes a darkly humorous look at the social function of gossip. 
