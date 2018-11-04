@@ -1,7 +1,7 @@
 ---
 title: Home
-pages: What's On
-events: 
+pages: 
+events: NEWER VOLCANICS
 youtube: 
 vimeo: 
 banner-image: "/uploads/Orbweavers.jpg"
