@@ -37,12 +37,16 @@ u-smDown-blockR--3by4
 
 <div class="b-pt1 b-pb2">
   <div class="Container Container--lg">
+
+    {% if page.tagline %}
     <div class="b-pb1 p-t4">
       <div class="Heading fw-500 u-textCenter w-sm-10x12 m-xA">
         {{ page.tagline }}
       </div>
     </div>
-    <div class="FlexGrid FlexGrid--noGrow">
+    {% endif %}
+
+    <div class="FlexGrid FlexGrid--noGrow{% unless post.tagline %} b-pt1{% endunless %}">
       <div class="w-sm-7x10">
 
       {% comment %}
@@ -186,20 +190,19 @@ next / prev post list
           <span class="BlockLink-target">→</span>
         </a>
       </h3>
-      <div class="FlexGrid FlexGrid--noGutter PostList">
+      <div class="FlexGrid FlexGrid--noGutter PostList2">
 
-        {% for post in site.categories[categoryName] limit: 3 %}
-        {% comment %}
-        Skip anything in the array that matches your argument, but keep looping over the rest of the
-        values
-        See: https://github.com/Shopify/liquid/wiki/Liquid-for-Designers
-        And: https://help.shopify.com/themes/liquid/tags/iteration-tags
-        {% endcomment %}
-        {% if post.url contains page.url %}
-        {% continue %}
-        {% endif %}
-        {% comment %}If it's not hidden, print it{% endcomment %}
-        {% include post-list-item.html %}
+        {% for post in site.categories[categoryName] limit: 4 %}
+          {%- comment -%} 
+            https://stackoverflow.com/questions/40443429/exclude-current-post-from-recent-posts-query-in-jekyll 
+          {%- endcomment -%}
+          {% if post.url != page.url %} 
+            {% if forloop.index < 4 or found %}
+              {% include post-list-item.html %}
+            {% endif %}
+          {% else %}
+            {% assign found = true %} 
+          {% endif %}
         {% endfor %}
 
       </div>
@@ -214,14 +217,13 @@ next / prev post list
           <span class="BlockLink-target">→</span>
         </a>
       </h3>
-      <div class="FlexGrid FlexGrid--noGutter PostList">
-        {% for post in site[collectionName] limit: 5 %}
-        {% if post.current %}
-        {% if post.url contains page.url %}
-        {% continue %}
-        {% endif %}
-        {% include post-list-item.html %}
-        {% endif %}
+      <div class="FlexGrid FlexGrid--noGutter PostList2">
+        {% for post in site[collectionName] limit: 4 %}
+          {% if post.url == page.url %}
+            {% continue %}
+          {% else %}
+            {% include post-list-item.html %}
+          {% endif %}
         {% endfor %}
       </div>
     </div>

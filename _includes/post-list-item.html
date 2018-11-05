@@ -2,7 +2,7 @@
 {% if page.url contains page.slug %} u-hide{% endif%}
 {% endcomment %}
 
-<a class="PostList-item w-sm-1x2 w-lg-1x3{% if post.video-thumbnail %} has-video{% endif %}" href="{{ post.url }}">
+<a class="PostList-item w-sm-1x2 w-lg-1x3 w-xl-1x4{% if post.video-thumbnail %} has-video{% endif %}" href="{{ post.url }}">
   <div class="AspectRatio">
     {% if post.video-thumbnail %}
       <iframe
@@ -19,6 +19,8 @@
       <div class="f-childrenCenter u-relative">
         <div class="PostList-item-text p-x5">
           <h1 class="Meta fw-500 u-textCenter c-bg m-b1">{{ post.title }}</h1>
+
+          {%- comment -%} <p class="print">{{ post.datetime }}</p> {%- endcomment -%}
 
           {% if post.datetime %}
             {% if post.is-year-duration == true %}
