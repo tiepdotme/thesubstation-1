@@ -1,8 +1,9 @@
 ---
 title: One Step at a Time Like This
-date: 2007-06-30 13:13:00 +10:00
+date: 2007-06-30 12:13:00 +10:00
 categories:
 - archive
+- in-development-archive
 image: "/uploads/one-step-at-a-time-like-this.jpg"
 image-credit: Clair Korobacz
 supporters: Creative Victoria
