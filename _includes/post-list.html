@@ -1,4 +1,4 @@
-<div class="FlexGrid FlexGrid--noGrow FlexGrid--noGutter PostList2">
+<div class="FlexGrid FlexGrid--noGutter PostList2">
   {% assign sortedPosts = site.categories[categoryName] | orderByDateTime %}
   {% for post in sortedPosts %}
   {% include post-list-item.html %}
