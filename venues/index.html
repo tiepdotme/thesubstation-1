@@ -8,7 +8,7 @@ grid-max-number: three
 
     {% assign sortedPosts = site.venues | sort: 'position' %}
     {% for post in sortedPosts %}
-    {% include post-list-item.html %}
+        {% include post-list-item.html %}
     {% endfor %}
 
 </div>

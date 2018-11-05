@@ -14,6 +14,11 @@ ol,
   letter-spacing: var(--fls-regular);
 }
 
+.Post tr {
+  font-size: var(--rfs-text-sm);
+  letter-spacing: var(--fls-regular);
+}
+
 /* 
   -------------------------------------------------
   

@@ -1,103 +1,91 @@
 {% comment %}
 <p class="c-formWrapper-note">
-    To hire this space please fill in this form, or contact our Events Manager, Marisa Fiume, during office hours on <a href="tel:{{ site.phone }}">{{
-        site.phone }}</a> or via <a href="mailto:{{ site.email-events }}">{{ site.email-events }}</a>.
+  To hire this space please fill in this form, or contact our Events Manager, Marisa Fiume, during office hours on <a href="tel:{{ site.phone }}">{{
+    site.phone }}</a> or via <a href="mailto:{{ site.email-events }}">{{ site.email-events }}</a>.
 </p>
 To hire this space please fill in this form: {% endcomment %}
 
-<div class="c-formWrapper-note">
-    Hire this space
+<div class="c-formWrapper-note b-mt1">
+  Hire this space
 </div>
 
 <div class="c-formWrapper">
-    <form class="c-form" id="contact-form" accept-charset="UTF-8" action="https://formspree.io/{{ site.email-events }}" method="POST">
+  <form class="Form" id="contact-form" accept-charset="UTF-8" action="https://formspree.io/{{ site.email-events }}" method="POST">
 
-        <label class="c-form-labelBlock u-marginT0">
-            Name (Required)
-            <input name="name" type="text" placeholder="Your Name" required/>
-        </label>
-        <label class="c-form-labelBlock">
-            Email (Required)
-            <input name="_replyto" type="email" placeholder="Your Email" required/>
-        </label>
+    <p class="Text fs-block-sm">
+      <label class="c-form-labelBlock">Name (Required)</label>
+      <input name="name" type="text" placeholder="Your Name" required/>
+    </p>
+    <p class="Text fs-block-sm">
+      <label class="c-form-labelBlock">Email (Required)</label>
+      <input name="_replyto" type="email" placeholder="Your Email" required/>
+    </p>
 
-        <div class="Grid Grid--withGutter">
-            <div class="Grid-cell u-sm-size1of2">
-                <label class="c-form-labelBlock">
-                    Phone (Required)
-                    <input name="telephone" type="tel" placeholder="Your Phone Number" required/>
-                </label>
-            </div>
-            <div class="Grid-cell u-sm-size1of2">
-                <label class="c-form-labelBlock">
-                    Post code
-                    <input name="post-code" type="text" placeholder="Your post code" />
-                </label>
-            </div>
+    <div class="FlexGrid">
+      <p class="Text fs-block-sm">
+        <label class="c-form-labelBlock">Phone (Required)</label>
+        <input name="telephone" type="tel" placeholder="Your Phone Number" required/>
+      </p>
+      <p class="Text fs-block-sm">
+        <label class="c-form-labelBlock">Post code</label>
+        <input name="post-code" type="text" placeholder="Your post code" />
+      </p>
+    </div>
+
+    <div class="FlexGrid">
+      <p class="Text fs-block-sm">
+        <label class="c-form-labelBlock">Date (Required)</label>
+        <input name="date" type="date" placeholder="Date" required/>
+      </p>
+      <p class="Text fs-block-sm">
+        <label class="c-form-labelBlock">Guests</label>
+        <input name="guests" type="text" placeholder="How many?" />
+      </p>
+    </div>
+
+    <div class="FlexGrid ParagraphSpace">
+      <div class="Text fs-block-sm">
+        <label class="c-form-labelBlock" for="event">Event type</label>
+        <div class="select">
+          <select name="event-type" aria-label="Select menu example">
+            <option selected>What type of event is this?</option>
+            <option value="1">Wedding</option>
+            <option value="2">Corporate</option>
+            <option value="3">Community</option>
+          </select>
         </div>
-
-        <div class="Grid Grid--withGutter">
-            <div class="Grid-cell u-sm-size1of2">
-                <label class="c-form-labelBlock">
-                    Date (Required)
-                    <input name="date" type="date" placeholder="Date" required/>
-                </label>
-            </div>
-            <div class="Grid-cell u-sm-size1of2">
-                <label class="c-form-labelBlock">
-                    Guests
-                    <input name="guests" type="text" placeholder="How many?" />
-                </label>
-            </div>
+      </div>
+      <div class="Text fs-block-sm">
+        <label class="c-form-labelBlock" for="wherefrom">Where did you hear about us?</label>
+        <div class="select">
+          <select name="where-hear-from" aria-label="Select menu example">
+            <option selected>Please choose one</option>
+            <option value="1">Wedding blog</option>
+            <option value="2">Instagram</option>
+            <option value="3">Facebook</option>
+            <option value="4">Magazine</option>
+            <option value="5">Word of mouth</option>
+            <option value="6">Other</option>
+          </select>
         </div>
+      </div>
+    </div>
 
-        <div class="Grid Grid--withGutter">
-            <div class="Grid-cell u-sm-size1of2">
-                <label class="c-form-labelBlock" for="event">
-                    Event type
-                </label>
-                <div class="select">
-                    <select name="event-type" aria-label="Select menu example">
-                        <option selected>What type of event is this?</option>
-                        <option value="1">Wedding</option>
-                        <option value="2">Corporate</option>
-                        <option value="3">Community</option>
-                    </select>
-                </div>
-            </div>
-            <div class="Grid-cell u-sm-size1of2">
-                <label class="c-form-labelBlock" for="wherefrom">
-                    Where did you hear about us?
-                </label>
-                <div class="select">
-                    <select name="where-hear-from" aria-label="Select menu example">
-                        <option selected>Please choose one</option>
-                        <option value="1">Wedding blog</option>
-                        <option value="2">Instagram</option>
-                        <option value="3">Facebook</option>
-                        <option value="4">Magazine</option>
-                        <option value="5">Word of mouth</option>
-                        <option value="6">Other</option>
-                    </select>
-                </div>
-            </div>
-        </div>
-
-        <label class="c-form-labelBlock">Event details
-            <textarea type="message" name="message" rows="4" placeholder="Tell us about your event"></textarea>
-
-        </label>
+    <p class="fs-block-sm">
+      <label class="c-form-labelBlock">Event details</label>
+      <textarea type="message" name="message" rows="4" placeholder="Tell us about your event"></textarea>
+    </p>
 
 
-        <!-- CONFIG -->
-        <input class="u-hide" type="text" name="_gotcha">
-        <input type="hidden" name="_subject" value="Event inquiry">
-        <input type="hidden" name="_cc" value="{{ site.email }}">
-        <!-- /CONFIG -->
+    <!-- CONFIG -->
+    <input class="u-hidden" type="text" name="_gotcha">
+    <input type="hidden" name="_subject" value="Event inquiry">
+    <input type="hidden" name="_cc" value="{{ site.email }}">
+    <!-- CONFIG -->
 
-        <p class="u-textRight u-spaceT u-posRelative">
-            <input type="submit" value="Send" role="button" class="Button t-button t-button--lineHeight u-posRelative">
-        </p>
+    <p class="u-textRight m-b0">
+      <input type="submit" value="Send" role="button" class="Meta Button">
+    </p>
 
-    </form>
+  </form>
 </div>

@@ -64,7 +64,7 @@
 
 :root {
   --rfs-text-xs: 10px;
-  --rfs-text-sm: 12px;
+  --rfs-text-sm: 13px;
   --rfs-text: 14px;
   --rfs-text-md: 14px;
   --rfs-text-lg: 16px;
@@ -75,7 +75,7 @@
 @media (--sm) {
   :root {
     --rfs-text-xs: 11px;
-    --rfs-text-sm: 13px;
+    --rfs-text-sm: 14px;
     --rfs-text: 17px;
     --rfs-text-md: 17px;
     --rfs-text-lg: 19px;
