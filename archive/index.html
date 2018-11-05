@@ -10,9 +10,9 @@ layout: default
 We're not using the include here because we want the archive to show from most recent to oldest.
 {% endcomment %}
 
-<div class="FlexGrid FlexGrid--noGutter PostList">
-    {% assign sortedPosts = site.categories[categoryName] | sort: "date" | reverse %}
-    {% for post in sortedPosts%}
-    {% include post-list-item.html %}
-    {% endfor %}
+<div class="FlexGrid FlexGrid--noGutter PostList2">
+  {% assign sortedPosts = site.categories[categoryName] | orderByDateTime | reverse %}
+  {% for post in sortedPosts %}
+  {% include post-list-item.html %}
+  {% endfor %}
 </div>

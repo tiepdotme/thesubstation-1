@@ -40,7 +40,7 @@ layout: default
 
 <div class="FlexGrid FlexGrid--noGutter PostList2">
   {% assign categoryName = 'whats-on' %}
-  {% assign homePosts = site.categories[categoryName] | sort: "date" %}
+  {% assign homePosts = site.categories[categoryName] | orderByDateTime %}
   {% for post in homePosts %}
   {% if post.is-on-home-page %}
   {% include post-list-item.html %}
