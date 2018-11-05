@@ -1,5 +1,0 @@
-map: false
-plugins:
-  postcss-mixins: {}
-  postcss-easy-import: {}
-  postcss-preset-env: { stage: 0 }

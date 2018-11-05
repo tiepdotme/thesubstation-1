@@ -5,49 +5,49 @@
 </p>
 To hire this space please fill in this form: {% endcomment %}
 
-<div class="c-formWrapper-note b-mt1">
+<h2 class="Heading b-mt1">
   Hire this space
-</div>
+</h2>
 
-<div class="c-formWrapper">
+<div class="FormWrapper">
   <form class="Form" id="contact-form" accept-charset="UTF-8" action="https://formspree.io/{{ site.email-events }}" method="POST">
 
-    <p class="Text fs-block-sm">
-      <label class="c-form-labelBlock">Name (Required)</label>
+    <p class="Text">
+      <label class="fs-text-sm">Name (Required)</label>
       <input name="name" type="text" placeholder="Your Name" required/>
     </p>
-    <p class="Text fs-block-sm">
-      <label class="c-form-labelBlock">Email (Required)</label>
+    <p class="Text">
+      <label class="fs-text-sm">Email (Required)</label>
       <input name="_replyto" type="email" placeholder="Your Email" required/>
     </p>
 
     <div class="FlexGrid">
-      <p class="Text fs-block-sm">
-        <label class="c-form-labelBlock">Phone (Required)</label>
+      <p class="Text">
+        <label class="fs-text-sm">Phone (Required)</label>
         <input name="telephone" type="tel" placeholder="Your Phone Number" required/>
       </p>
-      <p class="Text fs-block-sm">
-        <label class="c-form-labelBlock">Post code</label>
+      <p class="Text">
+        <label class="fs-text-sm">Post code</label>
         <input name="post-code" type="text" placeholder="Your post code" />
       </p>
     </div>
 
     <div class="FlexGrid">
-      <p class="Text fs-block-sm">
-        <label class="c-form-labelBlock">Date (Required)</label>
+      <p class="Text">
+        <label class="fs-text-sm">Date (Required)</label>
         <input name="date" type="date" placeholder="Date" required/>
       </p>
-      <p class="Text fs-block-sm">
-        <label class="c-form-labelBlock">Guests</label>
+      <p class="Text">
+        <label class="fs-text-sm">Guests</label>
         <input name="guests" type="text" placeholder="How many?" />
       </p>
     </div>
 
-    <div class="FlexGrid ParagraphSpace">
-      <div class="Text fs-block-sm">
-        <label class="c-form-labelBlock" for="event">Event type</label>
+    <div class="FlexGrid">
+      <div class="Text">
+        <label class="fs-text-sm" for="event">Event type</label>
         <div class="select">
-          <select name="event-type" aria-label="Select menu example">
+          <select name="event-type" aria-label="Select menu">
             <option selected>What type of event is this?</option>
             <option value="1">Wedding</option>
             <option value="2">Corporate</option>
@@ -55,10 +55,10 @@ To hire this space please fill in this form: {% endcomment %}
           </select>
         </div>
       </div>
-      <div class="Text fs-block-sm">
-        <label class="c-form-labelBlock" for="wherefrom">Where did you hear about us?</label>
+      <div class="Text">
+        <label class="fs-text-sm" for="wherefrom">Where did you hear about us?</label>
         <div class="select">
-          <select name="where-hear-from" aria-label="Select menu example">
+          <select name="where-hear-from" aria-label="Select menu">
             <option selected>Please choose one</option>
             <option value="1">Wedding blog</option>
             <option value="2">Instagram</option>
@@ -71,11 +71,10 @@ To hire this space please fill in this form: {% endcomment %}
       </div>
     </div>
 
-    <p class="fs-block-sm">
-      <label class="c-form-labelBlock">Event details</label>
+    <p class="">
+      <label class="fs-text-sm">Event details</label>
       <textarea type="message" name="message" rows="4" placeholder="Tell us about your event"></textarea>
     </p>
-
 
     <!-- CONFIG -->
     <input class="u-hidden" type="text" name="_gotcha">

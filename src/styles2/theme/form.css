@@ -7,33 +7,24 @@
   border: 0;
 }
 
-/* venue form */
+/* 
 
-.Form p {
+  Venue hire form
+
+*/
+
+.Form {
+  margin-bottom: 0;
+}
+.Form .Text {
   margin-bottom: calc(2 * var(--s-paragraph));
 }
-
-.c-formWrapper-note {
-  line-height: 1;
-  background-color: rgba( palette(brand), 0.15 );
-  margin: $blockSpace 0 0;
-  padding: space(0.5) space(1);
-
-  @media (--lg) {
-    padding: space(1.333) space(2) space(1);
-  }
-
-  ~ .c-formWrapper {
-    margin-top: 0;
-    padding-top: space(0.75);
-
-    @media (--lg) {
-      padding-top: space(1.5);
-    }
-  }
+.Form label {
+  margin-bottom: calc(0.25 * var(--s-paragraph));
 }
 
-.c-formWrapper {
+
+.FormWrapper {
   background-color: rgba(5, 5, 5, 0.05 );
   margin-top: var(--s-2);
   padding: var(--s-2);
