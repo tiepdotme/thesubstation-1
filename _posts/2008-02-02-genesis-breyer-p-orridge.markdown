@@ -1,6 +1,8 @@
 ---
 title: GENESIS BREYER P-ORRIDGE with EDLEY ODOWD
-date: 2008-02-02 20:00:00 +11:00
+date: 2018-01-01 20:00:00 +11:00
+datetime: 
+- 2018-02-02 20:00:00 +11:00
 categories:
 - archive
 image: "/uploads/genesis.jpg"

@@ -10,8 +10,8 @@ presented-by: TAMARA SAULWICK, OPEN HOUSE MELBOURNE
 price:
 - Free, bookings essential
 datetime:
-- 2030-01-01 00:00:00 +11:00
-- 2030-01-01 00:00:00 +11:00
+- 2016-12-21 00:00:00 +11:00
+- 2017-04-21 00:00:00 +11:00
 is-single-date: true
 event-duration-txt: 40 mins
 notes:

@@ -1,6 +1,8 @@
 ---
 title: Alice Dixon, William McBride & Caroline Meaden
-date: 2007-05-08 14:04:00 +10:00
+date: 2017-01-01 14:04:00 +10:00
+datetime: 
+- 2017-05-08 14:04:00 +10:00
 categories:
 - archive
 image: "/uploads/dixon-mcbride-meaden.jpg"
