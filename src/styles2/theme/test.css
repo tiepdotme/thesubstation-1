@@ -1,0 +1,13 @@
+/* TEST */
+
+@define-mixin test {
+  background-color: cyan;
+
+  &:hover {
+    background-color: salmon;
+  }
+}
+
+.Test {
+  @mixin test;
+}
