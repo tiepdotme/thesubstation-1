@@ -1,10 +1,27 @@
 /* TEST */
 
-@define-mixin test {
-  background-color: cyan;
+@custom-selector :--not-writable &:disabled;
 
+@define-mixin test {
+  background-color: cyan !important;
+
+  /* 
+    postcss plugin order very important.
+    if mixins is after preset, this style won't render!
+  */
   &:hover {
-    background-color: salmon;
+    background-color: salmon !important;
+  }
+
+  /* 
+    custom selector within a mixin doesn't work
+    I bet it's a preset thing…
+  */
+  :--not-writable {
+    background-color: red !important;
+    &::placeholder {
+      color: var(--c-muted);
+    }
   }
 }
 
