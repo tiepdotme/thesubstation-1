@@ -20,7 +20,7 @@
   margin-bottom: calc(2 * var(--s-paragraph));
 }
 .Form label {
-  margin-bottom: calc(0.25 * var(--s-paragraph));
+  margin-bottom: calc(0.333 * var(--s-paragraph));
 }
 
 
