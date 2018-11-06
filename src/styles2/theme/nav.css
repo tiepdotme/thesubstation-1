@@ -1,5 +1,51 @@
-.Nav {
+/* 
+
+  navbar that expands & collapses on scroll
+  https://blog.christopherianmurphy.com/2017/05/expand-collapse-navbar/
+
+*/
+
+.FixedNavOnScroll {
+  background-color: var(--c-bg);
+  border-bottom: 1px solid var(--c-rule);
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: var(--rs-nav-height);
+  z-index: 99;
 }
+
+.collapse {
+  animation: collapse .5s ease forwards;
+}
+
+.open {
+  animation: open .5s ease forwards;
+}
+
+@keyframes collapse {
+  from {
+    opacity: 1;
+    top: 0;
+  }
+  to {
+    opacity: 0;
+    top: -100%;
+  }
+}
+
+@keyframes open {
+  from {
+    opacity: 0;
+    top: -100%;
+  }
+  to {
+    opacity: 1;
+    top: 0;
+  }
+}
+
+/* nav elements */
 
 .Nav-item a {
   border-bottom: 1px solid transparent;
@@ -19,6 +65,11 @@
   border-color: var(--c-text);
 }
 
+.Nav-logo {
+  display: flex;
+  align-items: center;
+}
+
 .Nav-logo > img {
   margin-bottom: 0;
   height: 27px;
@@ -32,20 +83,16 @@
 }
 
 .Nav-trigger {
-  border: 1px solid var(--c-text-light);
+  /* border: 1px solid var(--c-text-light);
   border-radius: 3px;
   padding: 9px 12px 6px;
   position: absolute;
   right: var(--space);
-  top: 0;
+  top: 0; */
 
   &:before {
     content: '\2630';
     margin-right: 3px;
-  }
-
-  @media (--mdl) {
-    display: none;
   }
 }
 
