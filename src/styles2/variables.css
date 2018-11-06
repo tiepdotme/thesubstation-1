@@ -194,6 +194,7 @@
   --button-font-weight: 500;
   --button-letter-spacing-case: var(--fls-regular);
   --button-text-alignment: 5px;
+  --button-text-alignment: 0.3125em;
 
   /* 
 
@@ -201,7 +202,7 @@
 
    */
 
-  --field-height: 3rem;
+  --field-height: 3.428571429em;
   --field-space: 1rem 1.25rem;
   --field-padding-x: 0.6em;
   --input-border-color: var(--c-brand-rule);

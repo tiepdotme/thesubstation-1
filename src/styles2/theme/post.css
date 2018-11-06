@@ -19,6 +19,7 @@
 }
 
 .Post-meta-container {
+  --post-meta-height: 80px;
   background-color: var(--c-rule);
   padding-left: var(--flex-grid-gutter);
   padding-right: var(--flex-grid-gutter);
@@ -28,7 +29,7 @@
   }
 
   @media (--lg) {
-    min-height: 90px;
+    min-height: var(--post-meta-height);
   }
 
   /* tests */
@@ -39,6 +40,10 @@
 .Post-tagline-container {
   padding-top: calc(0.625em + var(--s-3));
   padding-bottom: var(--s-3);
+}
+
+.Post-tagline {
+  transform: translateY(0.5em);
 }
 
 /* Post info type blocks */
@@ -56,8 +61,8 @@
 
   @media (--lg) {
     border: 0;
-    min-height: 100%;
-    min-height: 90px;
+    /* min-height: 100%; */
+    min-height: var(--post-meta-height);
     margin: 0;
     
     &:not(:first-child) { 
@@ -77,15 +82,6 @@
     font-weight: 500;
     margin-bottom: 0;
   }
-
-  p a {
-    @include underlineLink();
-    letter-spacing: 0.075em;
-  }
-
-  /* &--single {
-    text-align: center;
-  } */
 }
 
 

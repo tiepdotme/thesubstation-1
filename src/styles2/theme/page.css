@@ -121,6 +121,15 @@ textarea {
   /* padding-top: var(--button-text-alignment); */
 }
 
+.FlexGrid {
+  flex-direction: row;
+}
+.FlexGrid--footer {
+  @media (--mo) {
+    flex-direction: column;
+  }
+}
+
 /* 
 
   UTILS
@@ -195,6 +204,12 @@ textarea {
 
 .b-pbFooter {
   padding-bottom: calc(3.5 * var(--rs-block-space));
+}
+
+.sm-FlexGrid--noGrow > * {
+  @media (--sm) {
+    flex-grow: 0;
+  }
 }
 
 .sm-u-absolutePin {

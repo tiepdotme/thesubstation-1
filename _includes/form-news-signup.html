@@ -9,13 +9,14 @@
       <div class="mc-field-group">
 
         <div class="NewsletterSignup FlexGrid FlexGrid--noGutter">
-          <div class="w-sm-7x12">
+          <div class="">
             <input class="Meta c-text-mid" id="mce-EMAIL" type="email" value="" name="EMAIL" placeholder="add your email" required>
-            <div style="position: absolute; left: -5000px;"><input type="text" name="{{ mailchimp-name-code }}"
-                tabindex="-1" value="" /></div>
+            <div class="u-hiddenVisually">
+              <input type="text" name="{{ mailchimp-name-code }}" tabindex="-1" value="" />
+            </div>
           </div>
-          <div class="w-sm-5x12">
-            <input class="Button Button--transparent Meta fw-400 c-text-mid" id="mc-embedded-subscribe" type="submit" value="Subscribe" name="subscribe">
+          <div class="m-lA">
+            <input class="Button Button--transparent Meta fw-400 c-text-mid w-100" id="mc-embedded-subscribe" type="submit" value="Subscribe" name="subscribe" style="padding-left: 1em; padding-right: 1em">
           </div>
         </div>
 
