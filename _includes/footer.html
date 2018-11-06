@@ -41,7 +41,7 @@ FlexGrid FlexGrid--spaceBetween {% endcomment %}
   {% endif %}
 
   <div class="Container Container--lg">
-    <div class="FlexGrid">
+    <div class="FlexGrid FlexGrid--footer">
       <div class="Meta-block c-block-text-mid">
         <ul class="u-listUnstyled flh-footer m-mo-b4">
           <li>
@@ -78,7 +78,7 @@ FlexGrid FlexGrid--spaceBetween {% endcomment %}
     </div>
   </div>
 
-  <div class="u-md-hidden">
+  {%- comment -%} <div class="u-md-hidden">
     <hr class="b-my1 bg-rule">
     <div class="Container Container--lg">
       <div class="flh-footer-block" id="nav">
@@ -101,5 +101,5 @@ FlexGrid FlexGrid--spaceBetween {% endcomment %}
 
       </div>
     </div>
-  </div>
+  </div> {%- endcomment -%}
 </footer>

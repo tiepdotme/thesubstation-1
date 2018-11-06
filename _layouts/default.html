@@ -10,9 +10,7 @@ layout: compress
 
   {% include nav.html %}
 
-  <main
-    class="b-pb2"
-    aria-label="content">
+  <main class="Content b-pb2" aria-label="content">
     {{ content }}
   </main>
 
@@ -25,6 +23,9 @@ layout: compress
       {% include javascripts-form.html %}
     {% endif %}
   {% endif %}
+
+  {%- comment -%} <script src="{{ site.javascriptsurl }}component.navbar.js"></script> {%- endcomment -%}
+  <script src="/src/scripts/component.navbar.js"></script>
 
   {% include google-analytics.html %}
 

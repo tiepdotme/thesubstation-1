@@ -31,7 +31,7 @@
 :root {
   --rs-space: 0.666rem;
   --rs-block-space: 1.5rem;
-  --rs-nav-height: 5rem;
+  --rs-nav-height: 90px;
   --rs-hero: 24rem;
 }
 @media (--sm) {
@@ -43,15 +43,15 @@
   :root {
     --rs-space: 0.85rem;
     --rs-block-space: 2.25rem;
-    --rs-nav-height: 104px;
+    --rs-nav-height: 117px;
     --rs-hero: 38rem;
   }
 }
 @media (--lg) {
   :root {
     --rs-space: 1rem;
-    --rs-block-space: 3.25rem;
-    --rs-nav-height: 128px;
+    --rs-block-space: 3rem;
+    --rs-nav-height: 214px;
     --rs-hero: 47rem;
   }
 }
@@ -64,18 +64,18 @@
 
 :root {
   --rfs-text-xs: 10px;
-  --rfs-text-sm: 13px;
+  --rfs-text-sm: 12px;
   --rfs-text: 14px;
   --rfs-text-md: 14px;
   --rfs-text-lg: 16px;
   --rfs-heading: 16px;
-  --rfs-title: 27px;
+  --rfs-title: 25px;
   --rfs-supertitle: 40px;
 }
 @media (--sm) {
   :root {
     --rfs-text-xs: 11px;
-    --rfs-text-sm: 14px;
+    --rfs-text-sm: 13px;
     --rfs-text: 17px;
     --rfs-text-md: 17px;
     --rfs-text-lg: 19px;
@@ -86,6 +86,7 @@
 }
 @media (--mdl) {
   :root {
+    --rfs-text-sm: 14px;
     --rfs-title: 36px;
     --rfs-supertitle: 60px;
   }
@@ -93,7 +94,6 @@
 @media (--lg) {
   :root {
     --rfs-text-xs: 12px;
-    --rfs-text-sm: 14px;
     --rfs-text: 19px;
     --rfs-text-md: 19px;
     --rfs-text-lg: 22px;

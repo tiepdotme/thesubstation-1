@@ -3,21 +3,21 @@
 {% elsif page.categories contains item.categories %}is-active
 {% endcomment %}
 
-<nav class="b-py1">
-  <div class="Container Container--lg">
+<nav class="FixedNavOnScroll b-py1" id="js-navbar" role="navigation">
+  <div class="Container Container--lg h-auto">
     <div class="b-mdl-pb1 u-relative">
       <div class="f f-justifyBetween">
         <a href="/" class="Nav-logo">
           <img class="" src="{{ site.imageurl }}logo.png" alt="{{ site.title }}" />
         </a>
-        <a class="Nav-trigge Button Button--transparent Meta u-mdl-hidden" href="#nav">
+        <a class="Nav-trigger Button Button--transparent Meta u-mdl-hidden" href="#nav">
           menu
         </a>
       </div>
     </div>
   </div>
 
-  <div class="Container Container--lg">
+  <div class="Container Container--lg h-auto">
     {%- comment -%} <div class="Nav GutterInsetX f-sm f-justifyBetween u-mo-hidden"> {%- endcomment -%}
     <div class="Nav f-mdl f-justifyBetween u-hidden">
       
