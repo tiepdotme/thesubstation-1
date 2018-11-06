@@ -10,11 +10,45 @@ layout: default
 We're not using the include here because we want the archive to show from most recent to oldest.
 {% endcomment %}
 
+{%- comment -%} <p class="print">{{ sortedPosts.size }}</p> {%- endcomment -%}
+
+{%- comment -%} <div class="FlexGrid FlexGrid--noGutter PostList2">
+{% assign sortedPosts = site.categories[categoryName] | orderByDateTime | reverse %}
+{% for post in sortedPosts %}
+
+  {% assign currentdate = post.date | date: "%Y" %}
+  {% if currentdate != date %}
+    <div class="PostList-item w-sm-1x2 w-lg-1x3 w-xl-1x4">
+      <div class="AspectRatio">
+        <div class="AspectRatio-object">
+          <div class="f-childrenCenter">
+            <h2 class="Meta fw-500" id="y{{currentdate}}">{{ currentdate }}</h2>
+          </div>
+        </div>
+      </div>
+    </div>
+    {% assign date = currentdate %} 
+  {% endif %}
+  {% include post-list-item.html %}
+
+{% endfor %}
+</div> {%- endcomment -%}
+
 
 <div class="FlexGrid FlexGrid--noGutter PostList2">
-  {% assign sortedPosts = site.categories[categoryName] | orderByDateTime | reverse %}
-  {%- comment -%} <p class="print">{{ sortedPosts.size }}</p> {%- endcomment -%}
-  {% for post in sortedPosts %}
+{% assign sortedPosts = site.categories[categoryName] | orderByDateTime | reverse %}
+{% for post in sortedPosts %}
+
+  {% assign currentdate = post.date | date: "%Y" %}
+  {% if currentdate != date %}
+    <div class="PostList-year bg-rule b-py075">
+      <div class="Container Container--xl">
+        <h2 class="Heading fw-500 u-textCenter" id="y{{currentdate}}">{{ currentdate }}</h2>
+      </div>
+    </div>
+    {% assign date = currentdate %} 
+  {% endif %}
   {% include post-list-item.html %}
-  {% endfor %}
+
+{% endfor %}
 </div>

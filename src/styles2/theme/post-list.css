@@ -61,6 +61,17 @@
 
 /* PostList item */
 
+.PostList-year {
+  border-top: 1px solid var(--c-bg);
+  flex-basis: 100%;
+}
+.PostList-year h2 {
+  padding-top: calc(1.25 * var(--button-text-alignment));
+}
+
+
+/* PostList item */
+
 .PostList-item {
   /* border: 0; */
   border: 0.5px solid var(--c-bg);
@@ -134,4 +145,18 @@
 .PostList-item.has-video:hover .PostList-item-image {
   opacity: 0;
   transition: all 150ms ease-in-out;
+}
+
+/* test */
+.PostList-item-dev {
+  background-color: var(--c-bg);
+  border-radius: 999px;
+  position: absolute;
+  top: calc(2 * var(--rs-space));
+  right: calc(2 * var(--rs-space));
+  height: 44px;
+  line-height: 44px;
+  width: 44px;
+  text-align: center;
+  padding-top: 0.25em;
 }
