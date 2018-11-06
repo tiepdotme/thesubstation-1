@@ -1,0 +1,36 @@
+---
+title: The Cell
+date: 2017-05-26 11:30:00 +10:00
+categories:
+- archive
+image: "/uploads/the-cell.jpg"
+image-credit: 'Brook Andrew, The Cell. 2010. Photo: Roger D''Souza'
+button-url: "/uploads/Brook-Andrew-The-Cell.pdf"
+button-txt: THE CELL PUBLICATION
+presented-by: Brook Andrew
+price: FREE
+datetime:
+- 2017-05-26 11:00:00 +10:00
+- 2017-06-10 17:00:00 +10:00
+is-on-home-page: true
+is-within-gallery-open-time: true
+artists-talk:
+  date: 2017-06-03 14:00:00 +10:00
+supporters:
+- Creative Victoria
+- Hobsons Bay City Council
+---
+
+The SUBSTATION presents the Melbourne premiere of [BROOK ANDREW](http://www.brookandrew.com)’s major installation THE CELL. Decorated in Wiradjuri patterns and inviting audience participation, THE CELL is a jumping castle of sorts, that blurs the lines between sanctuary and detention. 
+
+ANDREW's work examines Western history, specifically relating to colonialism, and places Australia at the centre of a global inquisition, spanning across video, sculpture, photography and immersive installations.
+
+Presented by The SUBSTATION and BROOK ANDREW.
+
+**BROOK ANDREW WITH SUSAN VAN WYK** <BR>
+**ARTIST TALK SATURDAY 3 JUNE, 2PM | FREE** <BR>
+<BR>
+Join NGV Senior Curator, SUSAN VAN WYK for a conversation with one of Australia's premiere artists about his artistic practice and his recently installed inflatable work, THE CELL. 
+
+**Commissioned by Sherman Contemporary Art Foundation, Sydney, 2010.**<br>
+**Courtesy of the artist, Tolarno Galleries, Melbourne; Roslyn Oxley9 Gallery, Sydney; and Galerie Nathalie Obadia, Paris and Brussels.**
