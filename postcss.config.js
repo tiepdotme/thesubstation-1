@@ -4,7 +4,7 @@ module.exports = {
   plugins: {
     "postcss-easy-import": {},
     "postcss-mixins": {},
-    /* must be last? */
+    "postcss-discard-comments": {},
     "postcss-preset-env": { stage: 0 }
   }
 };

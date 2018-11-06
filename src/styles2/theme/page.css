@@ -111,11 +111,14 @@
   input[type="week"],
   input[type="datetime-local"],
   select,
-  textarea,
   .Button;
 
 :--button-text-alignment {
   padding-top: var(--button-text-alignment);
+}
+
+textarea {
+  /* padding-top: var(--button-text-alignment); */
 }
 
 /* 

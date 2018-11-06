@@ -15,12 +15,12 @@
 
   /* 
     custom selector within a mixin doesn't work
-    I bet it's a preset thing…
+    if using preset-env
   */
   :--not-writable {
     background-color: red !important;
     &::placeholder {
-      color: var(--c-muted);
+      color: cyan;
     }
   }
 }

@@ -1,10 +1,11 @@
 .NewsletterSignup {
-  background-color: var(--c-white);
   border: 1px solid var(--c-rule);
 }
 
 .NewsletterSignup input {
+  background-color: var(--c-white);
   border: 0;
+  font-size: var(--rfs-text-sm);
 }
 
 /* 
@@ -20,7 +21,7 @@
   margin-bottom: calc(2 * var(--s-paragraph));
 }
 .Form label {
-  margin-bottom: calc(0.333 * var(--s-paragraph));
+  margin-bottom: calc(0.334 * var(--s-paragraph));
 }
 
 

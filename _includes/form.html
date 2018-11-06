@@ -39,7 +39,8 @@ To hire this space please fill in this form: {% endcomment %}
       </p>
       <p class="Text">
         <label class="fs-text-sm">Guests</label>
-        <input name="guests" type="text" placeholder="How many?" class="Test" />
+        {%- comment -%} <input name="guests" type="text" placeholder="How many?" class="Test" disabled /> {%- endcomment -%}
+        <input name="guests" type="text" placeholder="How many?" />
       </p>
     </div>
 
