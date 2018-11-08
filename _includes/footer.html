@@ -68,7 +68,11 @@ FlexGrid FlexGrid--spaceBetween {% endcomment %}
         {% include socials.html %}
       </div>
 
-      {% unless page.layout contains 'protected' %} {% include form-news-signup.html %} {% endunless %}
+      {% unless page.layout contains 'protected' %} 
+        <div class="m-t4 m-mdl-t0">
+          {% include form-news-signup.html %}
+        </div>
+      {% endunless %}
 
     </div>
     <div class="b-pt075">
@@ -78,28 +82,49 @@ FlexGrid FlexGrid--spaceBetween {% endcomment %}
     </div>
   </div>
 
-  {%- comment -%} <div class="u-md-hidden">
+  <div class="u-mdl-hidden" id="nav">
     <hr class="b-my1 bg-rule">
     <div class="Container Container--lg">
-      <div class="flh-footer-block" id="nav">
+      <div class="flh-footer-block" >
         <div class="Nav-item {% if page.url == '/' %}is-active{% endif %}">
           <a class="Meta c-text-mid" href="/">Home</a>
         </div>
 
-        {% include nav.html %}
+        {% for item in site.data.navigation.header %}
+          <div class="Nav-item
+            {% if page.url != '/' and page.url contains item.url %}is-active
+            {% elsif page.url contains 'show' and page.categories contains item.categories %}is-active
+            {% endif %}">
+            <a class="Meta c-text-mid" href="{{ item.url }}">
+              {{ item.title }}
+            </a>
+          </div>
+          {% endfor %}
+          {% for item in site.data.navigation.secondary %}
+          <div class="Nav-item
+            {% if page.url != '/' and page.url contains item.url %}is-active
+            {% elsif page.url contains 'show' and page.categories contains item.categories %}is-active
+            {% endif %}">
+            <a class="Meta c-text-mid" href="{{ item.url }}">
+              {{ item.title }}
+            </a>
+          </div>
+        {% endfor %}
 
-        <a class="u-iconWrapper u-footerRowItem" href="#top">
-          <span class="u-icon c-text-mid">
-            <svg height="11" width="11">
-              <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#ic-up"></use>
-            </svg>
-          </span>
-          <span class="Meta c-text-mid">
-            Back to top
-          </span>
-        </a>
+        <div class="Nav-item">
+          <a class="" href="#top">
+            <span class="u-icon c-text-mid m-r1">
+              <svg height="10" width="10">
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#ic-up"></use>
+              </svg>
+            </span>
+            <span class="Meta c-text-mid">
+              Back to top
+            </span>
+          </a>
+        </div>
 
       </div>
     </div>
-  </div> {%- endcomment -%}
+  </div>
 </footer>

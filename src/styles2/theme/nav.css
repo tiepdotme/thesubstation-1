@@ -58,6 +58,8 @@
 
   @media (--sm) {
     padding-bottom: 6px;
+    padding-bottom: 5px;
+    padding-bottom: 0.384615385em;
   }
 }
 
@@ -138,4 +140,24 @@
   height: 100%;
   height: max-content;
   transition: all 250ms ease;
+}
+
+/* Footer nav */
+
+/* footer .Nav {
+  flex-direction: column;
+  
+  @media (min-width: 769px) {
+    flex-direction: row;
+  }
+} */
+
+footer .Nav-item {
+  @media (max-width: 769px) {
+    padding-bottom: calc(1.25 * var(--rs-space));
+  }
+
+  &:last-of-type {
+    /* padding-bottom: 0; */
+  }
 }
