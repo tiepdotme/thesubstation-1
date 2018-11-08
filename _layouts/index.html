@@ -38,7 +38,7 @@ layout: default
   </div>
 </header>
 
-<div class="FlexGrid FlexGrid--noGutter PostList2">
+<div class="FlexGrid FlexGrid--noGutter FlexGrid--noGrow PostList">
   {% assign categoryName = 'whats-on' %}
   {% assign homePosts = site.categories[categoryName] | orderByDateTime %}
   {% for post in homePosts %}

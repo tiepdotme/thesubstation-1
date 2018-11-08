@@ -12,7 +12,7 @@ We're not using the include here because we want the archive to show from most r
 
 {%- comment -%} <p class="print">{{ sortedPosts.size }}</p> {%- endcomment -%}
 
-{%- comment -%} <div class="FlexGrid FlexGrid--noGutter PostList2">
+{%- comment -%} <div class="FlexGrid FlexGrid--noGutter PostList">
 {% assign sortedPosts = site.categories[categoryName] | orderByDateTime | reverse %}
 {% for post in sortedPosts %}
 
@@ -35,7 +35,7 @@ We're not using the include here because we want the archive to show from most r
 </div> {%- endcomment -%}
 
 
-<div class="FlexGrid FlexGrid--noGutter PostList2">
+<div class="FlexGrid FlexGrid--noGutter FlexGrid--noGrow PostList">
 {% assign sortedPosts = site.categories[categoryName] | orderByDateTime | reverse %}
 {% for post in sortedPosts %}
 

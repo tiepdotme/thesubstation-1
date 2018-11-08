@@ -190,7 +190,7 @@ next / prev post list
           <span class="BlockLink-target">→</span>
         </a>
       </h3>
-      <div class="FlexGrid FlexGrid--noGutter PostList2">
+      <div class="FlexGrid FlexGrid--noGutter PostList">
 
         {% for post in site.categories[categoryName] limit: 4 %}
           {%- comment -%} 
@@ -217,7 +217,7 @@ next / prev post list
           <span class="BlockLink-target">→</span>
         </a>
       </h3>
-      <div class="FlexGrid FlexGrid--noGutter PostList2">
+      <div class="FlexGrid FlexGrid--noGutter PostList">
         {% for post in site[collectionName] limit: 4 %}
           {% if post.url == page.url %}
             {% continue %}
