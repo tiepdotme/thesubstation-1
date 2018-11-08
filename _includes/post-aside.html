@@ -7,6 +7,7 @@
     ----------------------------------------
   {% endcomment %}
 
+  {% unless page.categories contains "archive" %}
   {% if page.button-url %}
     <div class="u-textCenter b-pb1">
       <a class="Button Meta w-mo-100" href="{{ page.button-url }}">
@@ -18,7 +19,7 @@
       </a>
     </div>
   {% endif %}
-
+  {% endunless %}
 
   {% comment %}
     -------------------------

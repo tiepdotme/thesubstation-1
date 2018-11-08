@@ -41,9 +41,9 @@ We're not using the include here because we want the archive to show from most r
 
   {% assign currentdate = post.date | date: "%Y" %}
   {% if currentdate != date %}
-    <div class="PostList-year bg-rule b-py075">
+    <div class="PostList-year bg-text b-py1">
       <div class="Container Container--xl">
-        <h2 class="Heading fw-500 u-textCenter" id="y{{currentdate}}">{{ currentdate }}</h2>
+        <h2 class="Heading fw-500 c-bg u-textCenter" id="y{{currentdate}}">{{ currentdate }}</h2>
       </div>
     </div>
     {% assign date = currentdate %} 

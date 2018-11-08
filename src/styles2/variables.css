@@ -123,6 +123,7 @@
   --c-brand-neutral: hsl(131, 16%, 93%);
   --c-brand-neutral: hsl(131, 27%, 90%);
   --c-brand-alt: #8ea87b;
+  --c-brand-highlight: #e4c313;
   --c-brand-lowlight: #8ea87b;
   --c-link: var(--c-text);
 

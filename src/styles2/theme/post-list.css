@@ -1,5 +1,5 @@
-.PostList > * {
-  /* flex-basis: calc(100% / 2); */
+/* .PostList > * {
+  flex-basis: calc(100% / 2);
   
   @media (--sm) { 
     flex-basis: calc(100% / 3); 
@@ -8,15 +8,9 @@
   @media (--xl) { 
     flex-basis: calc(100% / 5); 
   }
+} */
 
-  /* @include when-inside(".c-post-info") {
-    margin: 0;
-    flex-basis: calc(100% / 4);
-    @media (--sm) { flex-basis: calc(100% / 7); }
-  } */
-}
-
-.three .PostList-item { 
+/* .three .PostList-item { 
   @media (--sm) { 
     flex-basis: calc(100% / 3); 
   }
@@ -45,24 +39,21 @@
 
 .NextPostList .PostList .AspectRatio {
   padding-bottom: 20vh;
-}
+} */
 
 
 /* PostList V2 */
 
-.PostList2 {
-  justify-content: center;
+.PostList {
+  background-color: var(--c-text);
+  /* border: 0.5px solid var(--c-bg); */
 }
-
-
-
-
-
 
 /* PostList item */
 
 .PostList-year {
   border-top: 1px solid var(--c-bg);
+  border-bottom: 1px solid var(--c-bg);
   flex-basis: 100%;
 }
 .PostList-year h2 {
@@ -70,11 +61,38 @@
 }
 
 
+/* 
+
+  PostList item perfect borders 
+  if class="PostList-item w-1x2 w-lg-1x3 w-xl-1x4"
+  Ref: https://css-tricks.com/almanac/selectors/n/nth-last-of-type/
+
+  Wait: can never know number of posts, so…
+  LEAVE IT UNPERFECT
+
+*/
+
+.PostList-item {
+  border-right: 1px solid var(--c-bg);
+  border-bottom: 1px solid var(--c-bg);
+
+  /* &:last-of-type > div:after { */
+  &:last-of-type {
+    border-right: 1px solid var(--c-bg);
+  }
+
+  &:nth-last-of-type(1),
+  &:nth-last-of-type(2),
+  &:nth-last-of-type(3),
+  &:nth-last-of-type(4) {
+    
+  }
+}
+
+
 /* PostList item */
 
 .PostList-item {
-  /* border: 0; */
-  border: 0.5px solid var(--c-bg);
   display: block;
   position: relative;
   overflow: hidden;
@@ -147,16 +165,11 @@
   transition: all 150ms ease-in-out;
 }
 
-/* test */
+/* if the archived post was "in-development" */
 .PostList-item-dev {
-  background-color: var(--c-bg);
-  border-radius: 999px;
-  position: absolute;
-  top: calc(2 * var(--rs-space));
-  right: calc(2 * var(--rs-space));
-  height: 44px;
-  line-height: 44px;
-  width: 44px;
   text-align: center;
-  padding-top: 0.25em;
+}
+.PostList-item-dev span {
+  padding: calc(0.15 * var(--rs-space)) calc(0.5 * var(--rs-space));
+  padding-top: calc(0.25em + (0.15 * var(--rs-space)));
 }
