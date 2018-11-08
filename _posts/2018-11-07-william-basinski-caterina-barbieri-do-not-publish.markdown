@@ -3,6 +3,8 @@ title: |-
   WILLIAM BASINSKI 
   CATERINA BARBIERI
 date: 2018-11-07 12:06:00 +11:00
+categories:
+- whats-on
 image: "/uploads/WB.jpg"
 button-url: https://basinski-barbieri.eventbrite.com.au
 button-txt: BOOK NOW
