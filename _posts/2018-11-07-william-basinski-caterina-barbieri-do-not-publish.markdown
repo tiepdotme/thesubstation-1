@@ -3,7 +3,7 @@ title: |-
   WILLIAM BASINSKI 
   CATERINA BARBIERI
 date: 2018-11-07 12:06:00 +11:00
-image: "/uploads/Barbieri.JPG"
+image: "/uploads/WB.jpg"
 button-url: https://www.eventbrite.com.au/e/william-basinski-with-caterina-barbieri-tickets-50889605179
 button-txt: BOOK NOW
 presented-by: THE SUBSTATION AND ROOM40 PRESENTS
