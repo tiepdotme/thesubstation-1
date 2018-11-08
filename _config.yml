@@ -66,9 +66,10 @@ defaults:
     path: ''
     type: posts
   values:
-    layout: post
+    layout: post2
     permalink: "/:categories/:title/"
     has-javascripts: true
+    was-in-development: false
     title: 
     categories: 
     image: 

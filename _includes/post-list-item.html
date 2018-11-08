@@ -16,9 +16,6 @@
       <img src="{{ post.image | remove: '.jpg' | append: '-thumb.jpg' }}" alt="">
     </div>
     <div class="AspectRatio-object">
-      {% if post.categories contains "in-development" %}
-        <div class="PostList-item-dev Meta fw-500">dev</div>
-      {% endif %}
       <div class="f-childrenCenter u-relative">
         <div class="PostList-item-text p-x5 u-relative">
           <h1 class="Meta fw-500 u-textCenter c-bg m-b1">{{ post.title }}</h1>
@@ -39,6 +36,12 @@
             <date class="Meta fw-500 u-textCenter u-block">{{ post.datetime | first | date: "%B %d" }} - {{
               post.datetime | last | date: "%B %d %Y" }}</date>
             {% endif %}
+          {% endif %}
+
+          {% if post.was-in-development %}
+            <div class="PostList-item-dev m-t2">
+              <span class="Meta fw-500 bg-bg">Past development</span>
+            </div>
           {% endif %}
 
         </div>
