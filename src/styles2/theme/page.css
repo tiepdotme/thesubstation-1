@@ -69,7 +69,8 @@
 */
 
 .flh-footer,
-.flh-footer-block > * {
+.flh-footer-block > *,
+.flh-footer-block a {
   line-height: 2.5;
 
   @media (--sm) {
@@ -166,9 +167,16 @@ textarea {
   flex-basis: auto !important;
 }
 
+/* responsive responsive blocks — add to iremono! */
+
 .b-mo-pb1 {
   @media (--mo) {
     padding-bottom: calc(1 * var(--rs-block-space));
+  }
+}
+.b-mo-pb2 {
+  @media (--mo) {
+    padding-bottom: calc(2 * var(--rs-block-space));
   }
 }
 .b-mo-py5 {
@@ -292,6 +300,9 @@ textarea {
   .b-mdl-py1 {
     padding-top: var(--rs-block-space);
     padding-bottom: var(--rs-block-space);
+  }
+  .m-mdl-t0 {
+    margin-top: 0 !important;
   }
   .m-mdl-rA {
     margin-right: auto !important;

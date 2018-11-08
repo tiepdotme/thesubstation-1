@@ -33,7 +33,7 @@ defaults:
     path: ''
     type: about
   values:
-    layout: post
+    layout: post2
     permalink: "/:collection/:path/"
     is-visible: true
     is-half-hero: false
@@ -41,14 +41,14 @@ defaults:
     path: ''
     type: residents
   values:
-    layout: post
+    layout: post2
     permalink: "/:collection/:path/"
     position: 
 - scope:
     path: ''
     type: venues
   values:
-    layout: post
+    layout: post2
     permalink: "/:collection/:path/"
     venue-cta: true
 - scope:
@@ -61,7 +61,7 @@ defaults:
     path: ''
     type: pages
   values:
-    layout: post
+    layout: post2
 - scope:
     path: ''
     type: posts

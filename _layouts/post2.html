@@ -68,7 +68,8 @@ u-smDown-blockR--3by4
 {% endcomment %}
 
 
-<div class="b-pt1 b-pb2">
+{%- comment -%} <div class="b-pt1 b-pb2"> {%- endcomment -%}
+<div class="b-pt1">
   <div class="Container Container--lg">
 
     {% if page.tagline %}
@@ -79,113 +80,116 @@ u-smDown-blockR--3by4
     </div>
     {% endif %}
 
-    <div class="FlexGrid FlexGrid--noGrow{% unless post.tagline %} b-pt1{% endunless %}">
-      <div class="w-sm-7x10">
-
-      {% comment %}
-      -------------------------
-      post article
-      -------------------------
-      {% endcomment %}
-
-      <article class="Post">
-        {{ page.content | markdownify }}
-
-        {% unless page.venue-cta != true %}
-        {% include venue-cta.html %}
-        {% endunless %}
+    <div class="FlexGrid sm-FlexGrid--noGrow {% unless post.tagline %} b-pt1{% endunless %}">
+      <div class="w-sm-7x10 b-mo-pb2">
 
         {% comment %}
         -------------------------
-        add an image at the bottom of the article
+        post article
         -------------------------
         {% endcomment %}
 
-        {% if page.image-bottom %}
-        <figure><img src="{{ page.image-bottom }}" alt="{{ page.image-bottom }}" /></figure>
-        {% endif %}
+        <article class="Post">
+          {{ page.content | markdownify }}
 
-      </article>
+          {% unless page.venue-cta != true %}
+          {% include venue-cta.html %}
+          {% endunless %}
 
-      {% comment %}
-      -------------------------
-      event supporters
-      see: https://www.siteleaf.com/blog/author-pages-in-jekyll-and-siteleaf/
-      see: https://www.siteleaf.com/blog/customizing-the-siteleaf-admin/#smart-fields
-      see: https://jekyllrb.com/docs/templates/ (where expression!)
-      {% for item in site.supporters %}
-      <p>{{ item.title }}</p>
-      {% endfor %}
-      -------------------------
-      {% endcomment %}
+          {% comment %}
+          -------------------------
+          add an image at the bottom of the article
+          -------------------------
+          {% endcomment %}
 
-      {% if page.supporters %}
-      <div class="Meta Link-block fs-text-xs c-text-mid">
-        <hr class="bg-rule m-t7 m-b2">
-        Supported by:
+          {% if page.image-bottom %}
+          <figure><img src="{{ page.image-bottom }}" alt="{{ page.image-bottom }}" /></figure>
+          {% endif %}
 
-        <div class="Post-supporters m-t3">
-          <div class="FlexGrid FlexGrid--sm FlexGrid--noGrow FlexGrid--retainGrid">
-            {% assign supporters = site.supporters | where_exp: "item", "page.supporters contains
-            item.title" %}
-            {% for supporter in supporters %}
-            <img class="{% if supporter.portrait == true %}portrait{% endif %}" src="{{ supporter.image }}" alt="{{ supporter.title }}" />
-            {% endfor %}
+        </article>
+
+        {% comment %}
+        -------------------------
+        event supporters
+        see: https://www.siteleaf.com/blog/author-pages-in-jekyll-and-siteleaf/
+        see: https://www.siteleaf.com/blog/customizing-the-siteleaf-admin/#smart-fields
+        see: https://jekyllrb.com/docs/templates/ (where expression!)
+        {% for item in site.supporters %}
+        <p>{{ item.title }}</p>
+        {% endfor %}
+        -------------------------
+        {% endcomment %}
+
+        {% if page.supporters %}
+        <div class="Meta Link-block fs-text-xs c-text-mid">
+          <hr class="bg-rule m-t7 m-b2">
+          Supported by:
+
+          <div class="Post-supporters m-t3">
+            <div class="FlexGrid FlexGrid--sm FlexGrid--noGrow FlexGrid--retainGrid">
+              {% assign supporters = site.supporters | where_exp: "item", "page.supporters contains
+              item.title" %}
+              {% for supporter in supporters %}
+              <img class="{% if supporter.portrait == true %}portrait{% endif %}" src="{{ supporter.image }}" alt="{{ supporter.title }}" />
+              {% endfor %}
+            </div>
           </div>
+
         </div>
+        {% endif %}
+
+
+        {% comment %}
+        -------------------------
+        image credit or archive
+        -------------------------
+        {% endcomment %}
+
+        {% if page.image-credit or page.categories contains 'archive' %}
+        <div class="Meta Link-block fs-text-xs c-text-mid">
+          <hr class="bg-rule m-t7 m-b2">
+          {% if page.image-credit %}
+          Image credit: {{ page.image-credit }}
+          {% endif %}
+          {% if page.categories contains 'archive' %}
+          <br>This show is <a href="/archive">archived</a>. It originally ran in {{ page.datetime | first |
+          date: "%Y" }}.
+          {% endif %}
+        </div>
+        {% endif %}
+
+
+        {% comment %}
+        -------------------------
+        forms
+        -------------------------
+        {% endcomment %}
+
+        {%- comment -%} {% unless page.categories %}
+        <div class="FormWrapper">
+          {% include enews-form.html %}
+        </div>
+        {% endunless %} {%- endcomment -%}
+
+        {% if page.has-form == true %}
+        {% include form.html %}
+        {% endif %}
 
       </div>
-      {% endif %}
-
 
       {% comment %}
       -------------------------
-      image credit or archive
+      buy button, socials
       -------------------------
       {% endcomment %}
 
-      {% if page.image-credit or page.categories contains 'archive' %}
-      <div class="Meta Link-block fs-text-xs c-text-mid">
-        <hr class="bg-rule m-t7 m-b2">
-        {% if page.image-credit %}
-        Image credit: {{ page.image-credit }}
-        {% endif %}
-        {% if page.categories contains 'archive' %}
-        <br>This show is <a href="/archive">archived</a>. It originally ran in {{ page.datetime | first |
-        date: "%Y" }}.
-        {% endif %}
-      </div>
+      {% unless page.categories contains "archive" %}
+      {% if page.button-url %}
+        <div class="w-sm-3x10 f-mo-orderFirst b-mo-pb1">
+          {% include post-aside.html %}
+        </div>
       {% endif %}
-
-
-      {% comment %}
-      -------------------------
-      forms
-      -------------------------
-      {% endcomment %}
-
-      {% unless page.categories %}
-      <div class="FormWrapper">
-        {% include enews-form.html %}
-      </div>
       {% endunless %}
-
-      {% if page.has-form == true %}
-      {% include form.html %}
-      {% endif %}
-
-    </div>
-
-    {% comment %}
-    -------------------------
-    buy button, socials
-    -------------------------
-    {% endcomment %}
-
-    <div class="w-sm-3x10 f-mo-orderFirst b-mo-pb1">
-      {% include post-aside.html %}
-    </div>
-    </div>
 
   </div>
 </div>
@@ -216,7 +220,7 @@ next / prev post list
     <p class="print">collectionName: {{ collectionName }}</p> {%- endcomment -%}
 
     {% if categoryName %}
-    <div class="NextPostList">
+    <div class="NextPostList b-pt2">
       <h3 class="Meta fw-500">
         <a class="BlockLink is-active p-b4" href="/{{ categoryName }}">
           More {{ categoryName | replace: '-', ' ' }}
@@ -242,7 +246,7 @@ next / prev post list
     </div>
 
     {% elsif collectionName %}
-    <div class="NextPostList">
+    <div class="NextPostList b-pt2">
       <h3 class="Meta fw-500">
         <a class="BlockLink is-active p-b4" href="/{{ collectionName }}">
           More {{ collectionName | replace: '-', ' '
