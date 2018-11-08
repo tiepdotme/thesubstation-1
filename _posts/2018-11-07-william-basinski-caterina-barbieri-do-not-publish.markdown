@@ -2,7 +2,7 @@
 title: |-
   WILLIAM BASINSKI 
   CATERINA BARBIERI
-date: 2018-01-18 12:06:00 +11:00
+date: 2018-11-07 12:06:00 +11:00
 image: "/uploads/Barbieri.JPG"
 button-url: https://www.eventbrite.com.au/e/william-basinski-with-caterina-barbieri-tickets-50889605179
 button-txt: BOOK NOW
