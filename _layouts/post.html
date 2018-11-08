@@ -131,11 +131,11 @@ u-smDown-blockR--3by4
       -------------------------
       {% endcomment %}
 
-      {% unless page.categories %}
+      {%- comment -%} {% unless page.categories %}
       <div class="FormWrapper">
         {% include enews-form.html %}
       </div>
-      {% endunless %}
+      {% endunless %} {%- endcomment -%}
 
       {% if page.has-form == true %}
       {% include form.html %}

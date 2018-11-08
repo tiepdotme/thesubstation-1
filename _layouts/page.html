@@ -90,11 +90,11 @@ u-smDown-blockR--3by4
 
         {% endif %}
 
-        {% if page.has-newsletter-signup %}
+        {%- comment -%} {% if page.has-newsletter-signup %}
         <div class="FormWrapper">
           {% include enews-form.html %}
         </div>
-        {% endif %}
+        {% endif %} {%- endcomment -%}
       </div>
 
       <div class="w-sm-3x10 f-mo-orderFirst">
