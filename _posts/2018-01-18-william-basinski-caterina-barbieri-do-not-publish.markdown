@@ -19,7 +19,9 @@ is-opening-hours-time: false
 
 ## **A SONIC JOURNEY INTO HAUNTING AND MESMERISING SOUNDSCAPES. **
 
+
 Join two renowned international composers on a haunting and mesmerising sonic journey. New York based, composer and musician William Basinski performs his only Australian solo performance in a double bill with Berlin-based Italian composer Caterina Barbieri in her first live performance in Australia following appearances at prestigious festivals Berlin Atonal and Unsound (Krakow). These two giants of experimental sound create hypnotic sonic experiences – minimal, mysterious and meditative – using synthesizers and obsolete analogue technologies that will expand your sense of time, space and self.
+
 
 > **[William Basinski](https://www.youtube.com/watch?v=uzcHdxTj00I)** is a classically trained musician and composer who has been working in experimental media for over 30 years in NYC and most recently, California. Employing obsolete technology and analogue tape loops, his haunting and melancholy soundscapes explore the temporal nature of life and resound with the reverberations of memory and the mystery of time.
 
