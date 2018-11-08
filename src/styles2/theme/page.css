@@ -6,7 +6,7 @@
 
 /* move everything below the nav */
 .Content {
-  padding-top: var(--rs-nav-height);
+  /* padding-top: var(--rs-nav-height); */
 }
 
 .image-multiply {

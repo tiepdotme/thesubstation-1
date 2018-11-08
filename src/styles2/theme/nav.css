@@ -7,7 +7,6 @@
 
 .FixedNavOnScroll {
   background-color: var(--c-bg);
-  border-bottom: 1px solid var(--c-rule);
   position: fixed;
   top: 0;
   width: 100%;
@@ -21,6 +20,7 @@
 
 .open {
   animation: open .5s ease forwards;
+  border-bottom: 1px solid var(--c-rule);
 }
 
 @keyframes collapse {
