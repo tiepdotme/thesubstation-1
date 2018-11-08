@@ -7,10 +7,10 @@ image: "/uploads/Barbieri.JPG"
 button-url: https://www.eventbrite.com.au/e/william-basinski-with-caterina-barbieri-tickets-50889605179
 button-txt: BOOK NOW
 presented-by: THE SUBSTATION AND ROOM40 PRESENTS
-price: "$30 / $27 + BF"
+price: "$30 / $25 + BF"
 datetime:
-- 2018-01-18 19:00:00 +11:00
-- 2018-01-19 19:00:00 +11:00
+- 2018-01-18 20:00:00 +11:00
+is-on-home-page: true
 has-start-time: true
 is-single-date: false
 is-list-of-dates: true
