@@ -12,7 +12,7 @@ price: "$20 + BF"
 datetime:
 - 2018-11-29 20:00:00 +11:00
 - 2018-11-30 20:00:00 +11:00
-is-on-home-page: true
+is-on-home-page: false
 has-start-time: true
 is-list-of-dates: true
 supporters:
