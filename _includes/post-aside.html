@@ -7,19 +7,15 @@
     ----------------------------------------
   {% endcomment %}
 
-  {% unless page.categories contains "archive" %}
-  {% if page.button-url %}
-    <div class="u-textCenter b-pb1">
-      <a class="Button Meta w-mo-100" href="{{ page.button-url }}">
-        {% if page.button-txt %}
-          {{ page.button-txt }}
-        {% else %}
-          Buy tickets
-        {% endif %}
-      </a>
-    </div>
-  {% endif %}
-  {% endunless %}
+  <div class="u-textCenter b-pb1">
+    <a class="Button Meta w-mo-100" href="{{ page.button-url }}">
+      {% if page.button-txt %}
+        {{ page.button-txt }}
+      {% else %}
+        Buy tickets
+      {% endif %}
+    </a>
+  </div>
 
   {% comment %}
     -------------------------

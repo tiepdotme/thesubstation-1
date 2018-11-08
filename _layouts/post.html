@@ -149,9 +149,14 @@ u-smDown-blockR--3by4
     -------------------------
     {% endcomment %}
 
-    <div class="w-sm-3x10 f-mo-orderFirst b-mo-pb1">
-      {% include post-aside.html %}
-    </div>
+    {% unless page.categories contains "archive" %}
+      {% if page.button-url %}
+        <p class="print">{{ page.button-url }}</p>
+        <div class="w-sm-3x10 f-mo-orderFirst">
+          {% include post-aside.html %}
+        </div>
+      {% endif %}
+    {% endunless %}
     </div>
 
   </div>
