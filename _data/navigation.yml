@@ -6,7 +6,7 @@ header:
   url: /venues/
   categories: 'venues'
 - title: Visit Us
-  url: /about/getting-here
+  url: /visit-us
   categories: 'about'
 - title: Donate
   url: /donate/

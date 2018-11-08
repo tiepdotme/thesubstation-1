@@ -1,9 +1,12 @@
 ---
 title: Getting here
-position: 5
-current: true
+permalink: "/visit-us/"
 image: "/uploads/the-substation-getting-here.jpg"
 image-bottom: "/uploads/the-substation-map-lr.jpg"
+layout: post
+has-newsletter-signup: false
+is-visible: true
+is-half-hero: false
 ---
 
 ## ADDRESS
