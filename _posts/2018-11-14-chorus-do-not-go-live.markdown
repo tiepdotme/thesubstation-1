@@ -12,6 +12,7 @@ datetime:
 - 2019-03-16 00:00:00 +11:00
 has-opening-event: true
 is-opening-hours-time: true
+supporters: Midsumma Festival
 ---
 
 ## A DARKLY HUMOROUS LOOK AT THE SOCIAL FUNCTION OF GOSSIP. <br>
