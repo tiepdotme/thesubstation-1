@@ -1,6 +1,6 @@
 ---
-title: CHORUS [do not go live]
-date: 2018-11-01 11:45:00 +11:00
+title: CHORUS
+date: 2018-11-14 11:45:00 +11:00
 categories:
 - whats-on
 image: "/uploads/Chorus.jpg"
