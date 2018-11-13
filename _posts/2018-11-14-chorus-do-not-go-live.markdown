@@ -8,7 +8,7 @@ image-credit: Melanie Jame Wolf / Ashton Green
 presented-by: MELANIE JAME WOLF
 price: FREE
 datetime:
-- 2019-01-20 11:00:00 +11:00
+- 2019-01-20 16:00:00 +11:00
 - 2019-03-16 00:00:00 +11:00
 has-opening-event: true
 is-opening-hours-time: true
