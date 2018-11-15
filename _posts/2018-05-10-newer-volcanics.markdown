@@ -19,6 +19,7 @@ supporters:
 - Mistletone
 - State Library of Victoria
 - Creative Victoria
+- Australia Council of Arts
 ---
 
 ## **Songs and poetry exploring the industrial history of Melbourne’s western waterways**
