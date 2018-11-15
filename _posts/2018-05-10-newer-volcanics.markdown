@@ -20,6 +20,7 @@ supporters:
 - State Library of Victoria
 - Creative Victoria
 - Australia Council of Arts
+- Creative Partnerships Australia
 ---
 
 ## **Songs and poetry exploring the industrial history of Melbourne’s western waterways**
