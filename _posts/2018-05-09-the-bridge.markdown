@@ -13,7 +13,7 @@ datetime:
 - 2018-11-22 20:00:00 +11:00
 - 2018-11-24 20:00:00 +11:00
 - 2018-11-24 14:00:00 +11:00
-is-on-home-page: true
+is-on-home-page: false
 has-start-time: true
 notes:
   note: 'MATINEE: SAT NOVEMBER 24, 2.00PM'
