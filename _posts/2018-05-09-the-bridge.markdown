@@ -29,4 +29,4 @@ This powerful installation and theatrical collaboration consider the historical 
 
 Presented by The SUBSTATION and The ART & INDUSTRY FESTIVAL.  
 
-Supported by Hobsons Bay City Council, Hubcap Productions and the Australian Government through the Australia Council, its arts funding advisory body. The Bridge is curated and directed by Donna Jackson as part of The Art & Industry Festival. The views of the artists do not reflect the views of The SUBSTATION. 
+Supported by Hobsons Bay City Council, Hubcap Productions and the Australian Government through the Australia Council, its arts funding advisory body. The Bridge is curated and directed by Donna Jackson as part of The Art & Industry Festival.
