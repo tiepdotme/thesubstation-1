@@ -18,6 +18,13 @@
     <div class="AspectRatio-object">
       <div class="f-childrenCenter u-relative">
         <div class="PostList-item-text p-x5 u-relative">
+
+          {% if post.was-in-development %}
+            <div class="PostList-item-dev m-b2">
+              <span class="Meta fw-500 bg-bg">Past development</span>
+            </div>
+          {% endif %}
+
           <h1 class="Meta fw-500 u-textCenter c-bg m-b1">{{ post.title }}</h1>
 
           {%- comment -%} <p class="print">{{ post.datetime }}</p> {%- endcomment -%}
@@ -36,12 +43,6 @@
             <date class="Meta fw-500 u-textCenter u-block">{{ post.datetime | first | date: "%B %d" }} - {{
               post.datetime | last | date: "%B %d %Y" }}</date>
             {% endif %}
-          {% endif %}
-
-          {% if post.was-in-development %}
-            <div class="PostList-item-dev m-t2">
-              <span class="Meta fw-500 bg-bg">Past development</span>
-            </div>
           {% endif %}
 
         </div>
