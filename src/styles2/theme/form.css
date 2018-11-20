@@ -28,9 +28,9 @@
 .FormWrapper {
   background-color: rgba(5, 5, 5, 0.05 );
   margin-top: var(--s-2);
-  padding: var(--s-2);
+  padding: var(--s-4);
 
   @media (--lg) {
-    padding: var(--s-4);
+    /* padding: var(--s-4); */
   }
 }

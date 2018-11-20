@@ -29,14 +29,14 @@
  */
 
 :root {
-  --rs-space: 0.8rem;
+  --rs-space: 0.75rem;
   --rs-block-space: 1.5rem;
   --rs-nav-height: 90px;
   --rs-hero: 24rem;
 }
 @media (--sm) {
   :root {
-    --rs-space: 0.8666rem;
+    --rs-space: 0.8375rem;
   }
 }
 @media (--md) {
