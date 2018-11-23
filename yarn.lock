@@ -823,7 +823,7 @@ invert-kv@^2.0.0:
 
 iremono@callumflack/iremono#experiments:
   version "0.0.1"
-  resolved "https://codeload.github.com/callumflack/iremono/tar.gz/0daf4ebba8b9709d1bbced84892e4ea5aadf6bc9"
+  resolved "https://codeload.github.com/callumflack/iremono/tar.gz/f6c5ffbe8375fc8b8bcb674295a02504a086065a"
   dependencies:
     autoprefixer "^9.3.1"
     normalize.css "^8.0.0"

@@ -165,6 +165,7 @@
   --html-c: var(--c-text);
   --html-bg: var(--c-bg);
   --inline-block-children-space: calc(1 * var(--s-3));
+  --modal-bg: var(--c-bg);
   --progress-height: 32px;
   --text-link-decoration: none;
 

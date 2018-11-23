@@ -6,12 +6,14 @@
 */
 
 .FixedNavOnScroll {
-  background-color: var(--c-bg);
-  position: fixed;
-  top: 0;
-  width: 100%;
-  height: var(--rs-nav-height);
-  z-index: 99;
+  @media (max-width: 768px) {
+    background-color: var(--c-bg);
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: var(--rs-nav-height);
+    z-index: 99;
+  }
 }
 
 .collapse {
@@ -20,7 +22,7 @@
 
 .open {
   animation: open .5s ease forwards;
-  border-bottom: 1px solid var(--c-rule);
+  border-bottom: 1px solid var(--c-text);
 }
 
 @keyframes collapse {

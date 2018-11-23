@@ -6,7 +6,15 @@
 
 /* move everything below the nav */
 .Content {
-  /* padding-top: var(--rs-nav-height); */
+  padding-top: var(--rs-nav-height);
+
+  @media (--mdl) {
+    padding-top: 0;
+  }
+}
+
+.Modal.is-active {
+  z-index: 98;
 }
 
 .image-multiply {
@@ -77,6 +85,44 @@
     line-height: 1.96;
   }
 }
+
+/* 
+
+  Modal
+
+*/
+
+.Modal .Nav-item {
+  line-height: 4;
+  transform: translateY(-20px);
+  transition: transform 750ms cubic-bezier(0.19, 1, 0.22, 1);
+}
+
+.Modal.is-active .Nav-item {
+  --delay: 150ms;
+  transform: translateY(0);
+  transition: transform 750ms cubic-bezier(0.19, 1, 0.22, 1);
+
+  /* &:nth-of-type(2) {
+    transition-delay: var(--delay);
+  }
+  &:nth-of-type(3) {
+    transition-delay: calc(2 * var(--delay));
+  }
+  &:nth-of-type(4) {
+    transition-delay: calc(3 * var(--delay));
+  }
+  &:nth-of-type(5) {
+    transition-delay: calc(4 * var(--delay));
+  }
+  &:nth-of-type(6) {
+    transition-delay: calc(5 * var(--delay));
+  }
+  &:nth-of-type(7) {
+    transition-delay: calc(6 * var(--delay));
+  } */
+}
+
 
 
 

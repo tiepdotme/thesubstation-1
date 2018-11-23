@@ -28,6 +28,8 @@ document.addEventListener("DOMContentLoaded", function (event) {
 
   function homeAction() {
     console.log("home");
+    navClasses.remove('open');
+    navClasses.remove('collapse');
   }
 
   function downAction() {
@@ -40,8 +42,11 @@ document.addEventListener("DOMContentLoaded", function (event) {
     navClasses.add('open');
   }
 
+  // run it attached to window
   window.addEventListener("scroll", function () {
-    scrollDetect(homeAction, downAction, upAction);
+    if (window.innerWidth <= 768) {
+      scrollDetect(homeAction, downAction, upAction);
+    }
   });
 
 });

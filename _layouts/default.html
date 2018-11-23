@@ -16,6 +16,7 @@ layout: compress
 
   {% include footer.html %}
   {% include icons.html %}
+  {% include nav-in-modal.html %}
 
   {% if page.has-javascripts == true %}
     {% include javascripts.html %}
@@ -25,7 +26,8 @@ layout: compress
   {% endif %}
 
   {%- comment -%} <script src="{{ site.javascriptsurl }}component.navbar.js"></script> {%- endcomment -%}
-  {%- comment -%} <script src="/src/scripts/component.navbar.js"></script> {%- endcomment -%}
+  <script src="/src/scripts/component.navbar.js"></script>
+  <script src="/src/scripts/component.modal.js"></script>
 
   {% include google-analytics.html %}
 

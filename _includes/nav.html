@@ -3,16 +3,16 @@
 {% elsif page.categories contains item.categories %}is-active
 {% endcomment %}
 
-{%- comment -%} <nav class="FixedNavOnScroll b-py1" id="js-navbar" role="navigation"> {%- endcomment -%}
+{%- comment -%} <nav class="b-py1" role="navigation"> {%- endcomment -%}
 
-<nav class="b-py1" role="navigation">
+<nav class="FixedNavOnScroll b-py1" id="js-navbar" role="navigation">
   <div class="Container Container--lg h-auto">
     <div class="b-mdl-pb1 u-relative">
       <div class="f f-justifyBetween">
         <a href="/" class="Nav-logo">
           <img class="" src="{{ site.imageurl }}logo.png" alt="{{ site.title }}" />
         </a>
-        <a class="Nav-trigger Button Button--transparent Meta u-mdl-hidden" href="#nav">
+        <a class="Nav-trigger Button Button--transparent Meta u-mdl-hidden js-modal-trigger" href="#">
           menu
         </a>
       </div>
