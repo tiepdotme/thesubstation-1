@@ -24,8 +24,6 @@ supporters:
 - Creative Partnerships Australia
 ---
 
-## **Songs and poetry exploring the industrial history of Melbourne’s western waterways**
-
 In collaboration with [The Letter String Quartet](https://www.theletterstringquartet.com/), and with visuals by Brian Cohen. 
 
 Musicians MARITA DYSON and STUART FLANAGAN, [The ORBWEAVERS](http://www.theorbweavers.com/), present the culmination of their research into the changes that occurred to the waterways of Melbourne’s West in the late 19th and 20th centuries. NEWER VOLCANICS explores the industrial history and environmental change and the lives of people who lived and worked the waterways of Melbourne's West through a concert of music, poetry and drawings.

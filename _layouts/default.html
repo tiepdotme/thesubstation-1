@@ -10,13 +10,12 @@ layout: compress
 
   {% include nav.html %}
 
-  <main class="Content b-pb2" aria-label="content">
+  <main class="FixedNavOnScroll-content b-pb2" aria-label="content">
     {{ content }}
   </main>
 
   {% include footer.html %}
   {% include icons.html %}
-  {% include nav-in-modal.html %}
 
   {% if page.has-javascripts == true %}
     {% include javascripts.html %}

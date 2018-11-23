@@ -4,19 +4,6 @@
 
 */
 
-/* move everything below the nav */
-.Content {
-  padding-top: var(--rs-nav-height);
-
-  @media (--mdl) {
-    padding-top: 0;
-  }
-}
-
-.Modal.is-active {
-  z-index: 98;
-}
-
 .image-multiply {
   mix-blend-mode: multiply;
 }
