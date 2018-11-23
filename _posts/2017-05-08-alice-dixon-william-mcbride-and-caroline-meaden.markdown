@@ -5,6 +5,7 @@ datetime:
 - 2017-05-08 14:04:00 +10:00
 categories:
 - archive
+- in-development-archive
 image: "/uploads/dixon-mcbride-meaden.jpg"
 image-credit: Jessica Devereux
 supporters:

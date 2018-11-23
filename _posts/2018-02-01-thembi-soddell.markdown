@@ -2,7 +2,8 @@
 title: Thembi Soddell
 date: 2018-02-01 09:32:00 +11:00
 categories:
-- in-development
+- in-development-archive
+- archive
 image: "/uploads/thembi-2018.jpg"
 presented-by: RESIDENCY
 datetime:

@@ -5,6 +5,7 @@ datetime:
 - 2017-03-23 11:22:00 +11:00
 categories:
 - archive
+- in-development-archive
 image: "/uploads/int-residency-gail-priest.jpg"
 image-credit: Dimitri Djuric, courtesy Kammer Klang
 presented-by: INTERNATIONAL RESIDENCY

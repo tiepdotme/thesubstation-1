@@ -3,6 +3,7 @@ title: Thembi Soddell
 date: 2016-11-28 10:00:00 +11:00
 categories:
 - archive
+- in-development-archive
 image: "/uploads/black.jpg"
 datetime:
 - 2016-11-28 00:00:00 +11:00
