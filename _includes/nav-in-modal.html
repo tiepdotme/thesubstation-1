@@ -1,0 +1,32 @@
+<div class="Modal Content js-modal">
+  {%- comment -%} <hr class="b-my1 bg-rule"> {%- endcomment -%}
+  <div class="Container Container--lg">
+    <div class="p-t5">
+      <div class="Nav-item u-textRight {% if page.url == '/' %}is-active{% endif %}">
+        <a class="Meta fs-text-l" href="/">Home</a>
+      </div>
+
+      {% for item in site.data.navigation.header %}
+        <div class="Nav-item u-textRight
+          {% if page.url != '/' and page.url contains item.url %}is-active
+          {% elsif page.url contains 'show' and page.categories contains item.categories %}is-active
+          {% endif %}">
+          <a class="Meta fs-text-l" href="{{ item.url }}">
+            {{ item.title }}
+          </a>
+        </div>
+        {% endfor %}
+        {% for item in site.data.navigation.secondary %}
+        <div class="Nav-item u-textRight
+          {% if page.url != '/' and page.url contains item.url %}is-active
+          {% elsif page.url contains 'show' and page.categories contains item.categories %}is-active
+          {% endif %}">
+          <a class="Meta fs-text-l" href="{{ item.url }}">
+            {{ item.title }}
+          </a>
+        </div>
+      {% endfor %}
+
+    </div>
+  </div>
+</div>

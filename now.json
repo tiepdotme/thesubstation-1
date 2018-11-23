@@ -1,0 +1,9 @@
+{
+  "name": "thesubstation",
+  "alias": [
+    "thesubstation.now.sh"
+  ],
+  "env": {
+    "NODE_ENV": "production"
+  }
+}

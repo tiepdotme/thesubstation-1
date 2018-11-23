@@ -4,99 +4,107 @@ layout: default
 image: "/uploads/the-substation-about-the-building.jpg"
 ---
 
-{% include post-hero.html %}
+<div class="Container Container--windowInset">
+  {% include post-hero.html %}
+</div>
 
 {% comment %}
 u-smDown-blockR--3by4
 {{ site.categories }} {{ page.categories }}
-<div>debug… url: {{ page.url }} categories: {{ page.categories }} slug: {{ page.slug }} permalink: {{ page.permalink }} title: {{ page.title }}</div>
+<div>debug… url: {{ page.url }} categories: {{ page.categories }} slug: {{ page.slug }} permalink: {{ page.permalink }}
+    title: {{ page.title }}</div>
 {% endcomment %}
 
-<div class="c-post-article">
-    <div class="o-container">
-        <div class="Grid Grid--withGutter">
-            <div class="Grid-cell u-sm-size7of10 u-xl-size8of10 u-smDown-blockT--3by4">
+<div class="b-pt2">
+  <div class="Container Container--lg">
+    <div class="FlexGrid sm-FlexGrid--noGrow">
+      <div class="w-sm-7x10">
 
-                <article class="s-post">
+        <article class="Post">
+          {% for section in page.sections %}
+          {% if section.image %}
+          <figure><img src="{{ section.image }}" alt="{{ section.image }}" /></figure>
+          {% endif %}
+          {% if section.title %}
+          <h2>{{ section.title }}</h2>
+          {% endif %}
+          {{ section.copy | markdownify }}
+          {% if section.list %}
+          <div class="Post-list">
+              {{ section.list | markdownify }}
+          </div>
+          {% endif %}
+          {% if section.image-bottom %}
+          <figure><img src="{{ section.image-bottom }}" alt="{{ section.image-bottom }}" /></figure>
+          {% endif %}
+          {% endfor %}
+        </article>
 
-                    {% for section in page.sections %}
-                        {% if section.image %}
-                            <figure><img src="{{ section.image }}" alt="{{ section.image }}" /></figure>
-                        {% endif %}
-                        {% if section.title %}
-                            <h2>{{ section.title }}</h2>
-                        {% endif %}
-                        {{ section.copy | markdownify }}
-                        {% if section.list %}
-                            <div class="s-post-list">
-                                {{ section.list | markdownify }}
-                            </div>
-                        {% endif %}
-                        {% if section.image-bottom %}
-                            <figure><img src="{{ section.image-bottom }}" alt="{{ section.image-bottom }}" /></figure>
-                        {% endif %}
-                    {% endfor %}
-                </article>
+        {% comment %}
+        -------------------------
+        list 'supporters'
+        -------------------------
+        {% endcomment %}
 
-                {% comment %}
-                    -------------------------
-                    list 'supporters'
-                    -------------------------
-                {% endcomment %}
+        {% if page.list-orgs == true %}
 
-                {% if page.list-orgs == true %}
-
-                    <div class="c-post-endBlock">
-                        Organisational
-                        <div class="c-post-supporters">
-                            {% for supporter in site.supporters %}
-                                {% if supporter.organisational %}
-                                    {% include supporter-image.html %}
-                                {% endif %}
-                            {% endfor %}
-                        </div>
-                    </div>
-                    <div class="c-post-endBlock">
-                        Program
-                        <div class="c-post-supporters">
-                            {% for supporter in site.supporters %}
-                                {% if supporter.program %}
-                                    {% include supporter-image.html %}
-                                {% endif %}
-                            {% endfor %}
-                        </div>
-                    </div>
-                    <div class="c-post-endBlock">
-                        Presenting
-                        <div class="c-post-supporters">
-                            {% for supporter in site.supporters %}
-                                {% if supporter.presenting %}
-                                    {% include supporter-image.html %}
-                                {% endif %}
-                            {% endfor %}
-                        </div>
-                    </div>
-
-                {% endif %}
-
-                {% if page.has-newsletter-signup %}
-                    <div class="c-formWrapper">
-                        {% include enews-form.html %}
-                    </div>
-                {% endif %}
-
-
-
-
+        <div class="Meta Link-block fs-text-xs c-text-mid">
+          <hr class="bg-rule m-t7 m-b2">
+          Organisational
+          <div class="Post-supporters m-t3">
+            <div class="FlexGrid FlexGrid--sm FlexGrid--noGrow FlexGrid--retainGrid">
+              {% for supporter in site.supporters %}
+              {% if supporter.organisational %}
+              {% include supporter-image.html %}
+              {% endif %}
+              {% endfor %}
             </div>
-
-            <div class="Grid-cell u-sm-size3of10 u-xl-size2of10 u-smDown-flexOrderFirst">
-                {% include post-aside.html %}
-            </div>
-
-
-
-
+          </div>
         </div>
+        <div class="Meta Link-block fs-text-xs c-text-mid">
+          <hr class="bg-rule m-t7 m-b2">
+          Program
+          <div class="Post-supporters m-t3">
+            <div class="FlexGrid FlexGrid--sm FlexGrid--noGrow FlexGrid--retainGrid">
+              {% for supporter in site.supporters %}
+              {% if supporter.program %}
+              {% include supporter-image.html %}
+              {% endif %}
+              {% endfor %}
+            </div>
+          </div>
+        </div>
+        <div class="Meta Link-block fs-text-xs c-text-mid">
+          <hr class="bg-rule m-t7 m-b2">
+          Presenting
+          <div class="Post-supporters m-t3">
+            <div class="FlexGrid FlexGrid--sm FlexGrid--noGrow FlexGrid--retainGrid">
+              {% for supporter in site.supporters %}
+              {% if supporter.presenting %}
+              {% include supporter-image.html %}
+              {% endif %}
+              {% endfor %}
+            </div>
+          </div>
+        </div>
+
+        {% endif %}
+
+        {%- comment -%} {% if page.has-newsletter-signup %}
+        <div class="FormWrapper">
+          {% include enews-form.html %}
+        </div>
+        {% endif %} {%- endcomment -%}
+      </div>
+
+      {% unless page.categories contains "archive" %}
+      {% if page.button-url %}
+        <div class="w-sm-3x10 f-mo-orderFirst">
+          {% include post-aside.html %}
+        </div>
+      {% endif %}
+      {% endunless %}
+
     </div>
+  </div>
 </div>

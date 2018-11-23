@@ -1,0 +1,175 @@
+/* .PostList > * {
+  flex-basis: calc(100% / 2);
+  
+  @media (--sm) { 
+    flex-basis: calc(100% / 3); 
+  }
+  
+  @media (--xl) { 
+    flex-basis: calc(100% / 5); 
+  }
+} */
+
+/* .three .PostList-item { 
+  @media (--sm) { 
+    flex-basis: calc(100% / 3); 
+  }
+}
+
+.four .PostList-item { 
+  @media (--sm) { 
+    flex-basis: calc(100% / 4); 
+  } 
+}
+
+.PostList .AspectRatio {
+  padding-bottom: 35vh;
+
+  @media (--sm) { 
+    padding-bottom: 25vh; 
+  }
+  @media (--md) { 
+    padding-bottom: 50vh; 
+  }
+}
+
+.NextPostList .PostList > * {
+  @media (--sm) { flex-basis: calc(100% / 5); }
+}
+
+.NextPostList .PostList .AspectRatio {
+  padding-bottom: 20vh;
+} */
+
+
+/* PostList V2 */
+
+.PostList {
+  /* background-color: var(--c-text); */
+  /* border: 0.5px solid var(--c-bg); */
+}
+
+/* PostList item */
+
+.PostList-year {
+  border-top: 1px solid var(--c-bg);
+  border-bottom: 1px solid var(--c-bg);
+  flex-basis: 100%;
+}
+.PostList-year h2 {
+  padding-top: calc(1.25 * var(--button-text-alignment));
+}
+
+
+/* 
+
+  PostList item perfect borders 
+  if class="PostList-item w-1x2 w-lg-1x3 w-xl-1x4"
+  Ref: https://css-tricks.com/almanac/selectors/n/nth-last-of-type/
+
+  Wait: can never know number of posts, so…
+  LEAVE IT UNPERFECT
+
+*/
+
+.PostList-item {
+  border-right: 1px solid var(--c-bg);
+  border-bottom: 1px solid var(--c-bg);
+
+  /* &:last-of-type > div:after { */
+  &:last-of-type {
+    border-right: 1px solid var(--c-bg);
+  }
+
+  &:nth-last-of-type(1),
+  &:nth-last-of-type(2),
+  &:nth-last-of-type(3),
+  &:nth-last-of-type(4) {
+    
+  }
+}
+
+
+/* PostList item */
+
+.PostList-item {
+  display: block;
+  position: relative;
+  overflow: hidden;
+
+  & > * {
+    /* margin: 1px 0.5px 0; */
+  }
+
+  & .PostList-item-image img,
+  & .PostList-item-text,
+  & date {
+    transition: all 500ms ease-in-out;
+  }
+
+  & date {
+    color: var(--c-text-light);
+  }
+
+  &:hover,
+  &:active {
+    & .PostList-item-image img,
+    & .PostList-item-text,
+    & date {
+      transition: all 150ms ease-in-out;
+    }
+
+    & .PostList-item-image img {
+      filter: grayscale(0);
+    }
+    & .PostList-item-image:after {
+      background-color: rgba(0,0,0,0.3);
+    }
+
+    & date {
+      color: var(--c-bg);
+    }
+
+    & .PostList-item-image img {
+      transform: scale(1.025);
+    }
+    & .PostList-item-text {
+      transform: scale(1.1);
+    }
+  }
+}
+
+.PostList-item-image:after {
+  background-blend-mode: multiply;
+  background-color: rgba(0,0,0,0.7);
+  content: "";
+  position: absolute;
+  top: 0; bottom: 0; left: 0; right: 0;
+  transition: all 500ms ease-in-out;
+}
+
+.PostList-item-image img {
+  background-blend-mode: multiply;
+  background-color: rgba(0,0,0,0.7);
+  filter: grayscale(100%);
+  transition: all 500ms ease-in-out;
+}
+
+.PostList-item.has-video .PostList-item-image {
+  opacity: 1;
+  transition: all 500ms ease-in-out;
+}
+
+.PostList-item.has-video:hover .PostList-item-image {
+  opacity: 0;
+  transition: all 150ms ease-in-out;
+}
+
+/* if the archived post was "in-development" */
+.PostList-item-dev {
+  text-align: center;
+}
+.PostList-item-dev span {
+  padding: calc(0.15 * var(--rs-space)) calc(0.5 * var(--rs-space));
+  padding-top: calc(0.25em + (0.15 * var(--rs-space)));
+}

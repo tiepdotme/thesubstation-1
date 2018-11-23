@@ -8,27 +8,28 @@ layout: compress
 
 <body id="top" class="{{ page.body_class }} {{ page.grid-max-number }}">
 
-    {% include header.html %}
+  {% include nav.html %}
 
-    <main
-        class="c-content
-        {% if page.layout == 'post' %} c-content--post{% endif %}
-        {% if page.layout == 'page' and page.url != '/404.html' %} c-content--page{% endif %}"
-        aria-label="Content">
-        {{ content }}
-    </main>
+  <main class="Content b-pb2" aria-label="content">
+    {{ content }}
+  </main>
 
-    {% include footer.html %}
-    {% include icons.html %}
+  {% include footer.html %}
+  {% include icons.html %}
+  {% include nav-in-modal.html %}
 
-    {% if page.has-javascripts == true %}
-        {% include javascripts.html %}
-        {% if page.has-form == true %}
-            {% include javascripts-form.html %}
-        {% endif %}
+  {% if page.has-javascripts == true %}
+    {% include javascripts.html %}
+    {% if page.has-form == true %}
+      {% include javascripts-form.html %}
     {% endif %}
+  {% endif %}
 
-    {% include google-analytics.html %}
+  {%- comment -%} <script src="{{ site.javascriptsurl }}component.navbar.js"></script> {%- endcomment -%}
+  <script src="/src/scripts/component.navbar.js"></script>
+  <script src="/src/scripts/component.modal.js"></script>
+
+  {% include google-analytics.html %}
 
 </body>
 

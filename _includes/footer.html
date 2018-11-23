@@ -4,87 +4,127 @@
     <br>
     <a href="mailto:{{ site.email }}">E: {{ site.email }}</a>
 </div>
-o-grid o-grid--spaceBetween {% endcomment %}
+FlexGrid FlexGrid--spaceBetween {% endcomment %}
 
-<footer class="c-footer {% if page.layout == 'post' or page.layout == 'page' or page.layout contains 'protected' and page.url != '/404.html' %} c-footer--rule{% endif %}">
+<footer class="m-t2 b-pb2">
 
-    {% if page.layout == 'post' or page.layout == 'page' or page.layout contains 'protected' or page.url == '/404.html' %}
-    <div class="c-footer-nav c-nav">
-        {% include nav.html %}
-    </div>
-    {% endif %}
-
-    <div class="c-footer-info">
-        <div class="o-container">
-            <div class="c-footer-infoBlock">
-
-                {% unless page.layout contains 'protected' %} {% include form-news-signup.html %} {% endunless %}
-
-                <div class="c-footer-infoDetails">
-                    <ul>
-                        <li>
-                            <a href="{{ site.address-link }}">
-                                {{ site.address }}
-                                <br> {{ site.address-second }}
-                            </a>
-                        </li>
-                        <li>
-                            <a href="tel:{{ site.phone }}">T: {{ site.phone }}</a>
-                        </li>
-                    </ul>
-                    <ul>
-                        <li>Gallery: {{ site.gallery-hours }}</li>
-                        <li>Office: {{ site.office-hours }}</li>
-                        <li>
-                            <a href="mailto:{{ site.email }}">E: {{ site.email }}</a>
-                        </li>
-                    </ul>
-                    {% include socials.html %}
-                </div>
-            </div>
-
-            {% comment %} {% if page.layout == 'post' or page.layout == 'page' %}
-            <!-- <a class="u-footerBackTop" href="#top">↑ Back to top</a> -->
-            <a class="o-iconWrapper u-footerBackTop" href="#top">
-                <svg class="o-icon o-icon--sm o-icon--left u-colorMedium">
-                    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#ic-up"></use>
-                </svg>
-                Back to top
+  {% if page.layout == 'post' or page.layout == 'post2' or page.layout == 'page' or page.layout contains 'protected' or page.url == '/404.html' %}
+    <hr class="b-mb2">
+    {%- comment -%} <div class="b-py1">
+      <div class="Container Container--lg">
+        <div class="Nav m-t2 f-mdl f-justifyBetween u-hidden">
+          
+          {% for item in site.data.navigation.header %}
+          <div class="Nav-item
+            {% if page.url != '/' and page.url contains item.url %}is-active
+            {% elsif page.url contains 'show' and page.categories contains item.categories %}is-active
+            {% endif %}">
+            <a class="Meta fw-500" href="{{ item.url }}">
+              {{ item.title }}
             </a>
-            {% endif %} {% endcomment %}
+          </div>
+          {% endfor %}
+          {% for item in site.data.navigation.secondary %}
+          <div class="Nav-item
+            {% if page.url != '/' and page.url contains item.url %}is-active
+            {% elsif page.url contains 'show' and page.categories contains item.categories %}is-active
+            {% endif %}">
+            <a class="Meta fw-500" href="{{ item.url }}">
+              {{ item.title }}
+            </a>
+          </div>
+          {% endfor %}
 
         </div>
-    </div>
+      </div>
+    </div> {%- endcomment -%}
+  {% endif %}
 
-    {% comment %} {% if page.layout == 'post' %}
-    <div class="u-smDown-blockB--3by4 u-sm-blockB--1by3
-            {% unless page.layout == 'post' %}c-footer-hideMobileLogo{% endunless %}">
-        <a href="/" class="c-footer-logo">
-            <img class="" src="{{ site.imageurl }}logo.png" alt="{{ site.title }}" />
-        </a>
-    </div>
-    {% endif %} {% endcomment %}
+  <div class="Container Container--lg">
+    <div class="FlexGrid FlexGrid--footer">
+      <div class="Meta-block c-block-text-mid">
+        <ul class="u-listUnstyled flh-footer m-mo-b4">
+          <li>
+            <a href="{{ site.address-link }}">
+              {{ site.address }}
+              <br> {{ site.address-second }}
+            </a>
+          </li>
+          <li>
+            <a href="tel:{{ site.phone }}">T: {{ site.phone }}</a>
+          </li>
+        </ul>
+      </div>
+      <div class="Meta-block c-block-text-mid">
+        <ul class="u-listUnstyled flh-footer m-mo-b4">
+          <li>Gallery: {{ site.gallery-hours }}</li>
+          <li>Office: {{ site.office-hours }}</li>
+          <li>
+            <a href="mailto:{{ site.email }}">E: {{ site.email }}</a>
+          </li>
+        </ul>
+      </div>
+      <div class="Meta-block c-block-text-mid">
+        {% include socials.html %}
+      </div>
 
-    <div class="c-footer-block u-md-hide">
-        <div class="o-container">
-            <div class="Grid-cell" id="nav">
-
-                <div class="c-nav-item {% if page.url == '/' %}is-active{% endif %}">
-                    <a class="" href="/">Home</a>
-                </div>
-
-                {% include nav.html %}
-
-                <a class="o-iconWrapper u-footerRowItem" href="#top">
-                    <svg class="o-icon o-icon--sm o-icon--left u-colorMedium">
-                        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#ic-up"></use>
-                    </svg>
-                    Back to top
-                </a>
-
-
-            </div>
+      {% unless page.layout contains 'protected' %} 
+        <div class="m-t4 m-mdl-t0">
+          {% include form-news-signup.html %}
         </div>
-    </div>
+      {% endunless %}
 
+    </div>
+    <div class="b-pt075">
+      <p class="fs-text-sm c-text-light w-sm-8x12">
+        The SUBSTATION acknowledges that we are located on the traditional lands of the Boon Wurrung people of the Kulin Nation. We extend our respects to their ancestors and elders past, present and emerging, and to all First Nations people.
+      </p>
+    </div>
+  </div>
+
+  {%- comment -%} <div class="u-mdl-hidden" id="nav">
+    <hr class="b-my1 bg-rule">
+    <div class="Container Container--lg">
+      <div class="flh-footer-block" >
+        <div class="Nav-item {% if page.url == '/' %}is-active{% endif %}">
+          <a class="Meta c-text-mid" href="/">Home</a>
+        </div>
+
+        {% for item in site.data.navigation.header %}
+          <div class="Nav-item
+            {% if page.url != '/' and page.url contains item.url %}is-active
+            {% elsif page.url contains 'show' and page.categories contains item.categories %}is-active
+            {% endif %}">
+            <a class="Meta c-text-mid" href="{{ item.url }}">
+              {{ item.title }}
+            </a>
+          </div>
+          {% endfor %}
+          {% for item in site.data.navigation.secondary %}
+          <div class="Nav-item
+            {% if page.url != '/' and page.url contains item.url %}is-active
+            {% elsif page.url contains 'show' and page.categories contains item.categories %}is-active
+            {% endif %}">
+            <a class="Meta c-text-mid" href="{{ item.url }}">
+              {{ item.title }}
+            </a>
+          </div>
+        {% endfor %}
+
+        <div class="Nav-item">
+          <a class="" href="#top">
+            <span class="u-icon c-text-mid m-r1">
+              <svg height="10" width="10">
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#ic-up"></use>
+              </svg>
+            </span>
+            <span class="Meta c-text-mid">
+              Back to top
+            </span>
+          </a>
+        </div>
+
+      </div>
+    </div>
+  </div> {%- endcomment -%}
 </footer>

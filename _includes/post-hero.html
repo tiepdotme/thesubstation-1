@@ -1,40 +1,25 @@
-<div class="c-post-hero">
-    {% if page.video %}
-        <div class="FlexEmbed">
-            <div class="FlexEmbed-ratio FlexEmbed-ratio--hero{% if page.is-half-hero %} FlexEmbed-ratio--heroHalf{% endif %}"></div>
-            <div class="FlexEmbed-content">
-                <iframe
-                    class="o-posAbsoluteCenterAlt"
-                    frameborder="0" allowtransparency="true" allowfullscreen="" width="100%" height="100%"
-                    {% if jekyll.environment == "development" %}
-                        src="https://www.youtube.com/embed/76MgBFVGjiE"
-                    {% else %}
-                        src="{{ page.video }}"
-                    {% endif %}
-                    ></iframe>
-            </div>
-        </div>
 
-    {% elsif page.image %}
-        <div class="FlexEmbed">
-            <div class="FlexEmbed-ratio FlexEmbed-ratio--hero{% if page.is-half-hero %} FlexEmbed-ratio--heroHalf{% endif %}"></div>
-            <div
-                class="FlexEmbed-content o-coverImage c-imageBlend--just"
-                style="background-image: url('{{ page.image }}')">
-
-                <div class="o-aligner">
-                    <div class="o-aligner-item">
-                        <div class="c-post-hgroup">
-                            <h1 class="c-post-headline">{{ page.title }}</h1>
-                            {% if page.presented-by %}
-                                <div class="c-post-subheadline">{{ page.presented-by }}</div>
-                            {% endif %}
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-
-    {% endif %}
+<div class="AspectRatio Hero{% if page.is-half-hero %} Hero--half{% endif %}">
+  {% if page.video %}
+    <iframe
+      class="AspectRatio-object"
+      frameborder="0" allowtransparency="true" allowfullscreen="" width="100%" height="100%"
+      src="https://player.vimeo.com/video/{{ page.video }}?background=1"
+    ></iframe>
+  {% elsif page.image %}
+  <div
+    class="AspectRatio-object CoverImage"
+    style="background-image: url('{{ page.image }}')">
+  </div>
+  {% endif %}
+  <div class="AspectRatio-object Hero-darken">
+    <div class="f-childrenCenter">
+      <div class="Hero-hgroup">
+        <h1 class="Supertitle">{{ page.title }}</h1>
+        {% if page.presented-by %}
+          <div class="Meta fs-text-lg fw-500 c-bg u-textCenter m-b4">{{ page.presented-by }}</div>
+        {% endif %}
+      </div>
+    </div>
+  </div>
 </div>

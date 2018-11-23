@@ -1,13 +1,13 @@
 ---
 title: NEWER VOLCANICS
+presented-by: THE ORBWEAVERS
+tagline: Songs and poetry exploring the Industrial history of Melbourne's western waterways
 date: 2018-05-10 14:40:00 +10:00
 categories:
 - whats-on
 image: "/uploads/Orbweavers.jpg"
 image-credit: Photo by Daniel Aulsebrook
 button-url: https://thesubstation.iwannaticket.com.au/event/newer-volcanics-MTUyNzc
-button-txt: BOOK  NOW
-presented-by: THE ORBWEAVERS
 price: "$20 + BF"
 datetime:
 - 2018-11-29 20:00:00 +11:00

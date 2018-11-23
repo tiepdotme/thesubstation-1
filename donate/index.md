@@ -19,7 +19,6 @@ sections:
     all work in the spaces between traditional art forms and have been invited to
     realise a significant new work of scale within the unique architectural spaces
     of The SUBSTATION.\n"
-  list: "\n"
 - title: YOUR DONATION NOW MEANS TWICE AS MUCH
   copy: "The SUBSTATION COMMISSIONING PROGRAM is proudly supported by Creative Partnerships
     Australia through their Plus1 fundraising program. \nFor each dollar donated before
@@ -31,11 +30,8 @@ sections:
     or [manager(@)thesusbtation.org.au](mailto:manager@thesubstation.org.au).\n"
 - title: Our donors
   copy: |-
-    The following people and organisations donated to The SUBSTATION Brick by Brick Supporters Wall. These donations were instrumental in helping to establish The SUBSTATION as an arts and culture centre.
-
-    **[BRICK BY BRICK SUPPORTERS](/uploads/Brick-by-brick-supporters.pdf)**
+    The following people and organisations donated to The SUBSTATION Brick by Brick Supporters Wall. These donations were instrumental in helping to establish The SUBSTATION as an arts and culture centre: [Our Brick By Brick Supporters.](/uploads/Brick-by-brick-supporters.pdf)
 - title: Our supporters
   copy: We wish to highlight and thank our supporter organisations.
 layout: page
 ---
-

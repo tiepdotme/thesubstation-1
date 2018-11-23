@@ -1,7 +1,7 @@
 {% assign alt = image.path | remove:'/designs-rg/' | remove:'.jpg' | replace: '-', ' ' %}
 
 <img
-    class="FlexEmbed-fitImage lazyload ls-blur{% if absolute == true %} u-posAbsoluteCenter{% endif %}"
+    class="ObjectFit lazyload ls-blur{% if absolute == true %} u-posAbsoluteCenter{% endif %}"
     alt="{{ alt }}"
     src="{{ image }}"
     />

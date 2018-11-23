@@ -1,6 +1,6 @@
 ---
 title: The Australian Art Orchestra
-date: 2008-02-19 11:14:00 +11:00
+date: 2018-02-19 11:14:00 +11:00
 image: "/uploads/AAO-Credit_MiaForrest2.jpg"
 current: true
 ---

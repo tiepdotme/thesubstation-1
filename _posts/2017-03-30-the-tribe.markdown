@@ -1,0 +1,39 @@
+---
+title: The Tribe
+date: 2017-03-30 09:54:00 +10:00
+categories:
+- archive
+image: "/uploads/the-tribe.jpg"
+image-credit: Catherine Cranston
+button-url: http://thesubstation.iwannaticket.com.au/event/the-tribe-MTIwNjM
+presented-by: Urban Theatre Projects
+price: "$35 / $25 + BOOKING FEE"
+datetime:
+- 2017-03-30 19:30:00 +11:00
+- 2017-03-31 19:30:00 +11:00
+- 2017-04-01 19:30:00 +11:00
+is-on-home-page: false
+supporters:
+- Australia Council of Arts
+- Hobsons Bay City Council
+is-list-of-datetime: true
+---
+
+## THE TRIBE LIVE FROM A BACKYARD IN NEWPORT
+
+After sell-out seasons at Sydney Festival and Belvoir St Theatre, [URBAN THEATRE PROJECTS](http://urbantheatre.com.au)’ THE TRIBE comes to The SUBSTATION.
+
+Performed by HAZEM SHAMMAS, THE TRIBE is a story of belonging and family, told by the small boy, Bani. At the heart of THE TRIBE is Bani’s love for his Tayta, his grandmother and core presence in his life, who carries all the truths of ‘The Tribe’ – a small Muslim sect who fled to Australia from Lebanon.
+
+Taking place in a Newport backyard, performed alongside cellist and composer OONAGH SHERRARD, SHAMMAS’s Bani is like a visionary child channeling a Bedouin storyteller. Based on MICHAEL MOHAMMED AHMAD’s award-winning novel, [THE TRIBE](http://giramondopublishing.com/product/the-tribe) is an open invitation to listen to an Arab-Australian story from our backyard, in our backyards.
+
+Adapted by Michael Mohammed Ahmad and Janice Muller.<br>
+Based on the novel by Michael Mohammed Ahmad.
+
+Director: Janice Muller<br>
+Performer: Hazem Shammas<br>
+Composer and Performer: Oonagh Sherrard<br>
+Production Manager: Frank Mainoo<br>
+Producer: Urban Theatre Projects
+
+Presented by The SUBSTATION and Urban Theatre Projects.

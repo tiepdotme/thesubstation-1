@@ -1,0 +1,53 @@
+{% comment %}
+{% if page.url contains page.slug %} u-hide{% endif%}
+{% endcomment %}
+
+<a class="PostList-item w-1x2 w-lg-1x3 w-xl-1x4{% if post.video-thumbnail %} has-video{% endif %}" href="{{ post.url }}">
+  <div class="AspectRatio">
+    {% if post.video-thumbnail %}
+      <iframe
+        class="AspectRatio-object"
+        frameborder="0" allowtransparency="true" allowfullscreen="" width="100%" height="100%"
+        src="https://player.vimeo.com/video/{{ post.video-thumbnail }}?background=1&autoplay=1&loop=1&byline=0&title=0"
+      ></iframe>
+    {% endif %}
+
+    <div class="AspectRatio-object PostList-item-image">
+      <img src="{{ post.image | remove: '.jpg' | append: '-thumb.jpg' }}" alt="">
+    </div>
+    <div class="AspectRatio-object">
+      <div class="f-childrenCenter u-relative">
+        <div class="PostList-item-text p-x5 u-relative">
+
+          {% if post.was-in-development %}
+            <div class="PostList-item-dev m-b2">
+              <span class="Meta fw-500 bg-bg">Past development</span>
+            </div>
+          {% endif %}
+
+          <h1 class="Meta fw-500 u-textCenter c-bg m-b1">{{ post.title }}</h1>
+
+          {%- comment -%} <p class="print">{{ post.datetime }}</p> {%- endcomment -%}
+
+          {% if post.datetime %}
+            {% if post.is-year-duration == true %}
+            <date class="Meta fw-500 u-textCenter u-block">{{ post.datetime | first | date: "%Y" }}</date>
+            {% elsif post.datetime.size == 1 or post.is-single-date %}
+            <date class="Meta fw-500 u-textCenter u-block">{{ post.datetime | first | date: "%B %d %Y" }}</date>
+            {% elsif post.is-single-month-duration == true %}
+            <date class="Meta fw-500 u-textCenter u-block">{{ post.datetime | last | date: "%B %Y" }}</date>
+            {% elsif post.is-many-months-duration == true %}
+            <date class="Meta fw-500 u-textCenter u-block">{{ post.datetime | first | date: "%B" }} - {{
+              post.datetime | last | date: "%B %Y" }}</date>
+            {% else %}
+            <date class="Meta fw-500 u-textCenter u-block">{{ post.datetime | first | date: "%B %d" }} - {{
+              post.datetime | last | date: "%B %d %Y" }}</date>
+            {% endif %}
+          {% endif %}
+
+        </div>
+      </div>
+    </div>
+
+  </div>
+</a>

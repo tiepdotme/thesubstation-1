@@ -2,7 +2,6 @@
 title: Home
 pages: 
 events: NEWER VOLCANICS
-youtube: 
 vimeo: 
 banner-image: "/uploads/Orbweavers.jpg"
 carousel-images:
@@ -11,4 +10,3 @@ carousel-images:
 - "/uploads/ono-2018-thumb.jpg"
 layout: index
 ---
-
