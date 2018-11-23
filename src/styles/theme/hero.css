@@ -1,0 +1,52 @@
+.Hero {
+  background-color: var(--c-text);
+  padding-bottom: 90%;
+
+  @media (--sm) { 
+    padding-bottom: 56.25%; 
+  }
+  @media (--xl) { 
+    padding-bottom: 50%; 
+  }
+  @media (--su) { 
+    padding-bottom: 40%; 
+  }
+}
+
+.Hero--half {
+  padding-bottom: 90%;
+
+  @media (--sm) { 
+    padding-bottom: 56.25%; 
+  }
+  @media (--xl) { 
+    padding-bottom: 25%; 
+  }
+  @media (--su) { 
+    padding-bottom: 20%; 
+  }
+}
+
+.Hero-image {
+  /* border: 1px solid var(--c-bg); */
+  border-bottom: 0;
+}
+
+.Hero-image img {
+  /* mix-blend-mode: multiply; */
+  margin: 0 auto;
+  object-fit: cover;
+}
+
+.Hero-darken {
+  background-color: rgba(26, 26, 26, 0.5);
+}
+
+.Hero-hgroup {
+  margin: 0 auto;
+  max-width: 80vw;
+
+  @media (--lg) {
+    
+  }
+}

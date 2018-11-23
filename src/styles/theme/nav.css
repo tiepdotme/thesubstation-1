@@ -1,0 +1,165 @@
+/* 
+
+  navbar that expands & collapses on scroll
+  https://blog.christopherianmurphy.com/2017/05/expand-collapse-navbar/
+
+*/
+
+.FixedNavOnScroll {
+  @media (max-width: 768px) {
+    background-color: var(--c-bg);
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: var(--rs-nav-height);
+    z-index: 99;
+  }
+}
+
+.collapse {
+  animation: collapse .5s ease forwards;
+}
+
+.open {
+  animation: open .5s ease forwards;
+  border-bottom: 1px solid var(--c-text);
+}
+
+@keyframes collapse {
+  from {
+    opacity: 1;
+    top: 0;
+  }
+  to {
+    opacity: 0;
+    top: -100%;
+  }
+}
+
+@keyframes open {
+  from {
+    opacity: 0;
+    top: -100%;
+  }
+  to {
+    opacity: 1;
+    top: 0;
+  }
+}
+
+/* nav elements */
+
+.Nav-item a {
+  border-bottom: 1px solid transparent;
+  padding-bottom: 1px;
+
+  &:hover,
+  &:active {
+    border-color: var(--c-text);
+  }
+
+  @media (--sm) {
+    padding-bottom: 6px;
+    padding-bottom: 5px;
+    padding-bottom: 0.384615385em;
+  }
+}
+
+.Nav-item.is-active a {
+  border-color: var(--c-text);
+}
+
+.Nav-logo {
+  display: flex;
+  align-items: center;
+}
+
+.Nav-logo > img {
+  margin-bottom: 0;
+  height: 27px;
+
+  @media (--sm) { 
+    height: 39px; 
+  }
+  @media (--xl) { 
+    height: 50px; 
+  }
+}
+
+.Nav-trigger {
+  /* border: 1px solid var(--c-text-light);
+  border-radius: 3px;
+  padding: 9px 12px 6px;
+  position: absolute;
+  right: var(--space);
+  top: 0; */
+
+  &:before {
+    content: '\2630';
+    margin-right: 3px;
+  }
+}
+
+/* Second nav */
+
+.SecondNavAlign {
+  transform: translateX(-500px);
+}
+.SecondNav {
+  cursor: pointer;
+  position: relative;
+  /* can't use transform as child won't have a bg-color */
+  /* transform: translateY(-0.4375em); */ 
+  margin-top: -0.4375em;
+}
+
+.SecondNav .u-icon {
+  transform: translateY(0.333em);
+}
+
+.SecondNav-container {
+  background-color: var(--c-bg);
+  height: 0;
+  opacity: 0;
+  padding: var(--s-3b);
+  padding-top: var(--s-4);
+  position: absolute;
+  top: var(--s-3b);
+  left: calc(-1 * var(--s-3b));
+  transition: all 250ms ease;
+  width: max-content;
+  z-index: 999;
+
+  & .Nav-item + .Nav-item {
+    padding-top: var(--s-3b);
+  }
+}
+
+.SecondNav:hover .SecondNav-container,
+.SecondNav.is-active .SecondNav-container {
+  opacity: 1;
+  height: auto;
+  height: 100%;
+  height: max-content;
+  transition: all 250ms ease;
+}
+
+/* Footer nav */
+
+/* footer .Nav {
+  flex-direction: column;
+  
+  @media (min-width: 769px) {
+    flex-direction: row;
+  }
+} */
+
+footer .Nav-item {
+  @media (max-width: 769px) {
+    padding-bottom: calc(1.25 * var(--rs-space));
+  }
+
+  &:last-of-type {
+    /* padding-bottom: 0; */
+  }
+}

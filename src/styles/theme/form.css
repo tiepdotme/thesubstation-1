@@ -1,0 +1,36 @@
+.NewsletterSignup {
+  border: 1px solid var(--c-rule);
+}
+
+.NewsletterSignup input {
+  background-color: var(--c-white);
+  border: 0;
+  font-size: var(--rfs-text-sm);
+}
+
+/* 
+
+  Venue hire form
+
+*/
+
+.Form {
+  margin-bottom: 0;
+}
+.Form .Text {
+  margin-bottom: calc(2 * var(--s-paragraph));
+}
+.Form label {
+  margin-bottom: calc(0.334 * var(--s-paragraph));
+}
+
+
+.FormWrapper {
+  background-color: rgba(5, 5, 5, 0.05 );
+  margin-top: var(--s-2);
+  padding: var(--s-4);
+
+  @media (--lg) {
+    /* padding: var(--s-4); */
+  }
+}

@@ -1,0 +1,85 @@
+.Post {
+  & strong {
+    font-weight: normal;
+    text-transform: uppercase;
+  }
+
+  & em {
+  font-style: italic;
+  }
+
+  & h2,
+  & h3 {
+    &:not(:first-child) {
+      margin-top: calc(3 * var(--s-paragraph));
+    }
+  }
+
+  & ul {
+    margin-bottom: var(--s-paragraph);
+  }
+
+  & hr {
+    border: 0;
+    border-top: 1px solid palette(light);
+    margin: $paragraphSpace * 2 0;
+  }
+
+  & blockquote p {
+    border-left: 1px solid var(--c-rule);
+    color: var(--c-text-mid);
+    padding-left: var(--s-3);
+  }
+
+  & figure {
+    &:not(:first-child) {
+      margin-top: calc(3 * var(--s-paragraph));
+    }
+    &:not(:last-child) {
+      margin-bottom: calc(3 * var(--s-paragraph));
+    }
+  }
+}
+
+.Post-list {
+  column-count: 2;
+}
+
+
+/* MARKDOWN TABLES */
+
+.Post table {
+  border-collapse: collapse;
+  letter-spacing: 0;
+  margin-bottom: var(--s-4);
+
+  & thead tr {
+    background-color: rgba(26, 26, 26, 0.2);
+  }
+
+  & th {
+    font-weight: 700;
+    padding: var(--space);
+  }
+
+  & tbody tr {
+    &:nth-of-type(odd) { background-color: rgba(26, 26, 26, 0.1); }
+    &:nth-of-type(even) { background-color: rgba(26, 26, 26, 0.05); }
+  }
+
+  & td {
+    padding: var(--s-2);
+    padding-top: calc(3px + var(--s-2));
+    vertical-align: baseline;
+
+    &:first-child {
+      border-right: 1px solid var(--c-muted);
+      line-height: 1.5;
+      text-align: right;
+
+      @media (--sm) {
+        width: calc(100% / 3);
+      }
+    }
+  }
+}
