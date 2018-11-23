@@ -1,10 +1,10 @@
 ---
 title: Margie Medlin
 date: 2017-01-01 11:41:00 +11:00
-datetime: 
-- 2017-03-22 11:41:00 +11:00
 categories:
 - archive
+datetime:
+- 2017-03-22 11:41:00 +11:00
 image: "/uploads/residency-margie-medlin.jpg"
 presented-by: RESIDENCY
 ---

@@ -1,6 +1,6 @@
 ---
 title: No New Noise
-date: 2017-10-06 06:59:00 +10:00
+date: 2017-10-06 07:59:00 +11:00
 categories:
 - archive
 image: "/uploads/no-new-noise.jpg"

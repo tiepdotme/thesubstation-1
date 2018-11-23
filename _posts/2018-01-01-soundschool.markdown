@@ -1,11 +1,11 @@
 ---
 title: 'SOUND SCHOOL: ANNE LANZILOTTI, GAHLORD DEWALD & FIA FIELL'
-presented-by: Anne Lanzilotti, Gahlord Dewald & Fia Fiell
 date: 2018-01-01 17:45:00 +11:00
-datetime: 
-- 2018-03-14 18:00:00 +11:00
 categories:
 - archive
+presented-by: Anne Lanzilotti, Gahlord Dewald & Fia Fiell
+datetime:
+- 2018-03-14 18:00:00 +11:00
 image: "/uploads/sound-school.jpg"
 image-credit: Anne Lanzilotti
 button-url: https://www.eventbrite.com/e/experimental-classical-anne-lanzilotti-gahlord-dewald-fia-fiell-tickets-42938186271

@@ -1,6 +1,6 @@
 ---
 title: XFRMR / Mess — Live
-date: 2016-10-13 09:00:00 +10:00
+date: 2016-10-13 10:00:00 +11:00
 categories:
 - archive
 image: "/uploads/robbie-thomson-live-xfrmr-photo-by-tommy-ga-ken-wan.jpg"

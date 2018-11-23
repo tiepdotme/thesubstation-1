@@ -29,9 +29,11 @@ sections:
     or to discuss your donation please contact Kali Michailidis on (03) 9391 1110
     or [manager(@)thesusbtation.org.au](mailto:manager@thesubstation.org.au).\n"
 - title: Our donors
-  copy: |-
-    The following people and organisations donated to The SUBSTATION Brick by Brick Supporters Wall. These donations were instrumental in helping to establish The SUBSTATION as an arts and culture centre: [Our Brick By Brick Supporters.](/uploads/Brick-by-brick-supporters.pdf)
+  copy: 'The following people and organisations donated to The SUBSTATION Brick by
+    Brick Supporters Wall. These donations were instrumental in helping to establish
+    The SUBSTATION as an arts and culture centre: [Our Brick By Brick Supporters.](/uploads/Brick-by-brick-supporters.pdf)'
 - title: Our supporters
   copy: We wish to highlight and thank our supporter organisations.
 layout: page
 ---
+

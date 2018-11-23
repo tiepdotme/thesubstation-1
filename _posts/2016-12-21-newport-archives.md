@@ -11,7 +11,7 @@ price:
 - Free, bookings essential
 datetime:
 - 2016-12-21 00:00:00 +11:00
-- 2017-04-21 00:00:00 +11:00
+- 2017-04-20 23:00:00 +10:00
 is-single-date: true
 event-duration-txt: 40 mins
 notes:

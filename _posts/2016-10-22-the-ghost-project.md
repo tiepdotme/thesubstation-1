@@ -1,6 +1,6 @@
 ---
 title: The Ghost Project
-date: 2016-10-22 09:00:00 +10:00
+date: 2016-10-22 10:00:00 +11:00
 categories:
 - archive
 image: "/uploads/anna-tregloan-the-ghost-project.jpg"

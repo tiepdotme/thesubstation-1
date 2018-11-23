@@ -4,7 +4,8 @@ date: 2018-06-12 14:40:00 +10:00
 categories:
 - whats-on
 image: "/uploads/Bin-Dixon-Ward.jpg"
-image-credit: 'Christopher Sanders, Bluestone Pavement, 2018, Nylon, Ink 250mm x 250mm x 20mm'
+image-credit: Christopher Sanders, Bluestone Pavement, 2018, Nylon, Ink 250mm x 250mm
+  x 20mm
 presented-by: THIS IS WHAT'S LEFT OF THE WESTGATE
 price: FREE
 datetime:

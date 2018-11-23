@@ -9,7 +9,7 @@ button-url: http://premier.ticketek.com.au/shows/show.aspx?sh=REMUSEDE18
 button-txt: BUY TICKETS
 presented-by: 'R E M U S E '
 price: "$25 (online) $30 (door)"
-datetime: 
+datetime:
 - 2018-03-18 17:00:00 +11:00
 is-on-home-page: false
 has-start-time: 5:00pm
