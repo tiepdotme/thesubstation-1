@@ -35,7 +35,7 @@ u-smDown-blockR--3by4
 {% endcomment %}
 
 
-<div class="b-pt1 b-pb2">
+<div class="b-pt1{% unless page.url contains 'visit-us'%} b-pb2{% endunless %}">
   <div class="Container Container--lg">
 
     {% if page.tagline %}
@@ -167,9 +167,9 @@ next / prev post list
 ------------------------------
 {% endcomment %}
 
+{% unless page.url contains 'visit-us' %}
 <div class="">
   <div class="Container Container--lg">
-
 
     {% if page.url contains 'whats-on' %}
     {% assign categoryName = 'whats-on' %}
@@ -234,3 +234,4 @@ next / prev post list
     {% endif %}
   </div>
 </div>
+{% endunless %}
