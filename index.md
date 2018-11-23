@@ -1,10 +1,9 @@
 ---
 title: Home
-pages: What's On
-events: 
-youtube: 
-vimeo: 76979871
-banner-image: 
+pages: 
+events: NEWER VOLCANICS
+vimeo: 
+banner-image: "/uploads/Orbweavers.jpg"
 carousel-images:
 - "/uploads/loyalty.jpg"
 - "/uploads/lawrence-english-thumb.jpg"
