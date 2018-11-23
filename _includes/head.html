@@ -5,8 +5,9 @@
 
   <title>{% if page.url != '/' %}{{ page.title | escape }} ~ {% endif %}{{ site.title | escape }}</title>
 
-  <!-- <link rel="stylesheet" href="{{ " /dist/styles/application.css " | prepend: site.baseurl }}"> -->
-  <link rel="stylesheet" href="../../../src/styles2/application-181025A.css">
+  {%- comment -%} <link rel="stylesheet" href="{{ " /dist/styles/application.css " | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="../../../src/styles/application.css"> {%- endcomment -%}
+  <link rel="stylesheet" href="/src/styles/application.css">
   {% comment %}{%
   feed_meta
   %}{% endcomment %}

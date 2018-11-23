@@ -4,7 +4,7 @@
   "description": "The Substation marketing & events website",
   "main": "gulpfile.js",
   "scripts": {
-    "css": "postcss ./src/styles2/application-181025.css --output ./src/styles2/application-181025A.css --watch",
+    "css": "postcss ./src/styles/index.css --output ./src/styles/application.css --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Callum Flack",
