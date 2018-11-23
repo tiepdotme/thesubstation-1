@@ -161,6 +161,7 @@
   --figcaption-font-weight: 400;
   --figcaption-text-color: var(--c-text-light);
   --horizontal-rule-color: var(--c-text);
+  --horizontal-rule-height: 1px;
   --horizontal-rule-space: 0;
   --html-c: var(--c-text);
   --html-bg: var(--c-bg);
