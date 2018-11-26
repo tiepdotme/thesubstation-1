@@ -3,6 +3,7 @@ title: The Rabble
 date: 2017-12-01 10:47:00 +11:00
 categories:
 - archive
+was-in-development: true
 image: "/uploads/ulyssis.jpg"
 image-credit: 'Dana Miltins and Mary Helen Sassman, Image: David Paterson'
 price: false
