@@ -3,12 +3,12 @@ title: Gail Priest
 date: 2017-01-01 11:22:00 +11:00
 categories:
 - archive
-- in-development-archive
-datetime:
-- 2017-03-23 11:22:00 +11:00
+was-in-development: true
 image: "/uploads/int-residency-gail-priest.jpg"
 image-credit: Dimitri Djuric, courtesy Kammer Klang
 presented-by: INTERNATIONAL RESIDENCY
+datetime:
+- 2017-03-23 11:22:00 +11:00
 supporters: Sonica
 ---
 
