@@ -2,7 +2,7 @@
 title: BIN DIXON-WARD
 date: 2018-06-12 14:40:00 +10:00
 categories:
-- whats-on
+- archive
 image: "/uploads/Bin-Dixon-Ward.jpg"
 image-credit: Christopher Sanders, Bluestone Pavement, 2018, Nylon, Ink 250mm x 250mm
   x 20mm
