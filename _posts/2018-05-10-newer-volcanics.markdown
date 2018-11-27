@@ -15,7 +15,9 @@ datetime:
 - 2018-11-30 20:00:00 +11:00
 is-on-home-page: true
 has-start-time: true
+has-mins: false
 is-list-of-dates: true
+event-duration-txt: 70 minutes
 supporters:
 - Mistletone
 - State Library of Victoria
