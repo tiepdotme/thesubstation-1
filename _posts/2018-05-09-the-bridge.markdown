@@ -2,14 +2,14 @@
 title: The Bridge
 date: 2018-05-09 15:00:00 +10:00
 categories:
-- whats-on
-tagline: Songs and poetry exploring the Industrial history of Melbourne's western
-  waterways
+- archive
 image: "/uploads/The-Bridge.jpg"
 image-credit: Bindi Cole Chocka
 button-url: https://thesubstation.iwannaticket.com.au/event/the-bridge-MTUyNzY
 button-txt: BOOK NOW
 presented-by: by Vicki Reynolds
+tagline: Songs and poetry exploring the Industrial history of Melbourne's western
+  waterways
 price: STANDARD $28/ $23 CONCESSION + BF
 datetime:
 - 2018-11-22 20:00:00 +11:00
