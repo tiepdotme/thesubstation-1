@@ -2,6 +2,8 @@
 title: Recital
 date: 2018-12-03 14:49:00 +11:00
 image: "/uploads/Recital.jpg"
+button-url: https://recital-edwardes-cilli.eventbrite.com.au
+button-txt: BOOK NOW
 presented-by: CLAIRE EDWARDES & RICHARD CILLI
 tagline: A DARKLY COMEDIC DOUBLE-ACT OF DANCE AND PERCUSSION.
 datetime:
