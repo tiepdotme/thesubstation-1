@@ -12,6 +12,7 @@ datetime:
 - 2019-03-22 19:00:00 +11:00
 has-start-time: true
 is-list-of-dates: true
+is-single-time-duration: true
 event-duration-txt: 50 minutes
 supporters: Australia Council of Arts
 ---
