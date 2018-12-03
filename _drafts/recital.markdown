@@ -24,11 +24,11 @@ What first appears as a formal recital combining dance and music, their partners
 
 Join Claire and Richard in their ritual of performance, as they connect in a darkly comedic display where music and dance merge as one.
 
-Director: Gideon Obarzanek
-Performers: Richard Cilli, Claire Edwardes
-Lighting Design: Bosco Shaw
-Composition & Sound Design: Paul Mac, Claire Edwardes
-Producer: Erin Milne (Bureau Of Works)
+Director: Gideon Obarzanek <br>
+Performers: Richard Cilli, Claire Edwardes <br>
+Lighting Design: Bosco Shaw <br>
+Composition & Sound Design: Paul Mac, Claire Edwardes <br>
+Producer: Erin Milne (Bureau Of Works) <br>
 
 
 Presented by The SUBSTATION and Dance Massive. 
