@@ -9,6 +9,7 @@ tagline: A DARKLY COMEDIC DOUBLE-ACT OF DANCE AND PERCUSSION.
 price: "$25 / 20 + BF"
 datetime:
 - 2019-03-20 19:00:00 +11:00
+- 2019-03-21 19:00:00 +11:00
 - 2019-03-22 19:00:00 +11:00
 has-start-time: true
 is-list-of-dates: true
