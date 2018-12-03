@@ -6,9 +6,12 @@ button-url: https://recital-edwardes-cilli.eventbrite.com.au
 button-txt: BOOK NOW
 presented-by: CLAIRE EDWARDES & RICHARD CILLI
 tagline: A DARKLY COMEDIC DOUBLE-ACT OF DANCE AND PERCUSSION.
+price: "$25 / 20 + BF"
 datetime:
 - 2019-03-20 19:00:00 +11:00
 - 2019-03-22 19:00:00 +11:00
+has-start-time: true
+is-list-of-dates: true
 event-duration-txt: 50 minutes
 ---
 
