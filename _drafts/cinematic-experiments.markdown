@@ -13,7 +13,9 @@ notes:
   note: |-
     Location:
     The Altona Gate Shopping Mall
-supporters: Australia Council of Arts
+supporters:
+- Dance Massive
+- Australia Council of Arts
 ---
 
 Cinematic Experiments is a playful interactive multi-media installation in which early cinema techniques and digital dance by Vicki Van Hout and Lucky Lartey are further animated by audience engagement. Set in an Altona Gate Shopping Centre shopfront, the project invites audiences to bring a sense of curiosity and explore their own movement in relation to this dynamic and frequently changing installation.
