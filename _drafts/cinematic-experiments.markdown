@@ -8,6 +8,7 @@ price: FREE
 datetime:
 - 2019-03-14 00:00:00 +11:00
 - 2019-03-17 00:00:00 +11:00
+is-single-time-duration: true
 notes:
   note: "Location:\nThe Altona Gate Shopping Mall, \n124-134 Millers Rd, Altona North
     VIC 3025, Australia"
