@@ -12,6 +12,18 @@ datetime:
 event-duration-txt: 50 minutes
 ---
 
-Join Claire Edwardes and Richard Cilli in their ritual of performance, as they connect in a darkly comedic display where music and dance merge as one.
+Three-time APRA Art Music Award-winning percussionist Claire Edwardes and Helpmann Award-winning contemporary dancer Richard Cilli unite their distinct virtuosic talents to create a unique double-act, directed by acclaimed director and choreographer Gideon Obarzanek.
 
 What first appears as a formal recital combining dance and music, their partnership soon reveals a more complex and disturbing shadow of difference and rivalry. Consigned to perform in parallel isolation, Claire and Richard’s solos come together to create a larger mesmeric experience.
+
+Join Claire and Richard in their ritual of performance, as they connect in a darkly comedic display where music and dance merge as one.
+
+Director: Gideon Obarzanek
+Performers: Richard Cilli, Claire Edwardes
+Lighting Design: Bosco Shaw
+Composition & Sound Design: Paul Mac, Claire Edwardes
+Producer: Erin Milne (Bureau Of Works)
+
+
+Presented by The SUBSTATION and Dance Massive. 
+Recital has been assisted by the Australian Government through the Australia Council, its arts funding and advisory body.
