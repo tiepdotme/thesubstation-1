@@ -5,6 +5,9 @@ image: "/uploads/MM.jpg"
 presented-by: Margie Medlin
 tagline: 'A multi-media installation in which cinema interacts with contemporary dance. '
 price: FREE
+datetime:
+- 2019-03-14 00:00:00 +11:00
+- 2019-03-17 00:00:00 +11:00
 notes:
   note: "Location:\nThe Altona Gate Shopping Mall, \n124-134 Millers Rd, Altona North
     VIC 3025, Australia"
