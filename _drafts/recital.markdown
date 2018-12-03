@@ -15,7 +15,9 @@ has-start-time: true
 is-list-of-dates: true
 is-single-time-duration: true
 event-duration-txt: 50 minutes
-supporters: Australia Council of Arts
+supporters:
+- Dance Massive
+- Australia Council of Arts
 ---
 
 Three-time APRA Art Music Award-winning percussionist Claire Edwardes and Helpmann Award-winning contemporary dancer Richard Cilli unite their distinct virtuosic talents to create a unique double-act, directed by acclaimed director and choreographer Gideon Obarzanek.
