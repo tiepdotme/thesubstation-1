@@ -1,13 +1,15 @@
 ---
 title: Home
 pages: 
-events: NEWER VOLCANICS
+events: |-
+  WILLIAM BASINSKI 
+  CATERINA BARBIERI
 vimeo: 
-banner-image: "/uploads/Orbweavers.jpg"
+banner-image: 
 carousel-images:
-- "/uploads/loyalty.jpg"
-- "/uploads/lawrence-english-thumb.jpg"
-- "/uploads/ono-2018-thumb.jpg"
+- "/uploads/WB.jpg"
+- "/uploads/Caterina.jpg"
+- 
 layout: index
 ---
 
