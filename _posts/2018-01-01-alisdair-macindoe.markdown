@@ -2,7 +2,8 @@
 title: Alisdair Macindoe
 date: 2018-01-01 09:17:00 +11:00
 categories:
-- in-development
+- archive
+was-in-development: true
 image: "/uploads/alisdair.jpg"
 presented-by: THE SUBSTATION COMMISSIONING PROGRAM
 datetime:
