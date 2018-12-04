@@ -5,7 +5,7 @@ events: |-
   WILLIAM BASINSKI 
   CATERINA BARBIERI
 vimeo: 
-banner-image: 
+banner-image: "/uploads/Basinksi-Barbieri.gif"
 carousel-images:
 - "/uploads/WB.jpg"
 - "/uploads/Caterina.jpg"
