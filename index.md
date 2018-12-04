@@ -1,9 +1,7 @@
 ---
 title: Home
-pages: 
-events: |-
-  WILLIAM BASINSKI 
-  CATERINA BARBIERI
+pages: What's On
+events: 
 vimeo: 
 banner-image: "/uploads/Basinksi-Barbieri.gif"
 carousel-images:
