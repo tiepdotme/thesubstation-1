@@ -2,7 +2,8 @@
 title: Steven Rhall
 date: 2018-01-01 18:17:00 +11:00
 categories:
-- in-development
+- archive
+was-in-development: true
 image: "/uploads/steven-rhall.jpg"
 presented-by: THE SUBSTATION COMMISSIONING PROGRAM
 datetime:
