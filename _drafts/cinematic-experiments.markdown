@@ -1,7 +1,7 @@
 ---
 title: Cinematic Experiments
 date: 2018-12-03 15:27:00 +11:00
-image: "/uploads/MM.jpg"
+image: "/uploads/Cinematic-Experiments.jpg"
 presented-by: Margie Medlin
 tagline: 'A multi-media installation in which cinema interacts with contemporary dance. '
 price: FREE
