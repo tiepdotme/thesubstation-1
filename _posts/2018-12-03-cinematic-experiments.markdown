@@ -29,3 +29,5 @@ Dance makers: Vicki Van Hout and Patrick Lucky Lartey <br>
 Cinematographer: Jane Castle <br>
 Lighting designer: Fausto Brusamolino <br>
 Additional cinematography: Martin Fox and Margie Medlin <br>
+
+Presented by The SUBSTATION as part of Dance Massive 2019
