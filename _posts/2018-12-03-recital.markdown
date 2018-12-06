@@ -1,6 +1,8 @@
 ---
 title: Recital
 date: 2018-12-03 14:49:00 +11:00
+categories:
+- whats-on
 image: "/uploads/Recital.jpg"
 button-url: https://recital-edwardes-cilli.eventbrite.com.au
 button-txt: BOOK NOW
@@ -33,5 +35,5 @@ Composition & Sound Design: Paul Mac, Claire Edwardes <br>
 Producer: Erin Milne (Bureau Of Works) <br>
 
 
-Presented by The SUBSTATION and Dance Massive. 
+Presented by The SUBSTATION as part of Dance Massive 2019.
 Recital has been assisted by the Australian Government through the Australia Council, its arts funding and advisory body.
