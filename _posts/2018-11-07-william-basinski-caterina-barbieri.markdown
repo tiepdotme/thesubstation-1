@@ -9,8 +9,12 @@ image: "/uploads/WB.jpg"
 button-url: https://basinski-barbieri-second-show.eventbrite.com.au
 button-txt: BOOK NOW
 presented-by: THE SUBSTATION AND ROOM40 PRESENTS
+tagline: 'A SONIC JOURNEY INTO HAUNTING AND MESMERISING SOUNDSCAPES.
+
+'
 price: "$30 / $25 + BF"
 datetime:
+- 2019-01-17 00:00:00 +11:00
 - 2019-01-18 20:00:00 +11:00
 is-on-home-page: true
 has-start-time: true
@@ -18,9 +22,6 @@ is-single-date: false
 is-list-of-dates: true
 is-opening-hours-time: false
 ---
-
-A SONIC JOURNEY INTO HAUNTING AND MESMERISING SOUNDSCAPES.
-
 
 Join two renowned international composers on a haunting and mesmerising sonic journey. New York based, composer and musician William Basinski performs his only Australian solo performance in a double bill with Berlin-based Italian composer Caterina Barbieri in her first live performance in Australia following appearances at prestigious festivals Berlin Atonal and Unsound (Krakow). These two giants of experimental sound create hypnotic sonic experiences – minimal, mysterious and meditative – using synthesizers and obsolete analogue technologies that will expand your sense of time, space and self.
 
