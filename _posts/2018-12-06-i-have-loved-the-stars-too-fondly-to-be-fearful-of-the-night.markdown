@@ -15,11 +15,9 @@ datetime:
 - 2019-03-15 19:00:00 +11:00
 - 2019-03-17 19:00:00 +11:00
 has-start-time: true
-has-mins: 30 minutes
 is-opening-hours-time: false
 is-single-time-duration: true
-notes:
-  note: "*Double bill with Memoir for Rivers and The Dictator"
+event-duration-txt: 30 minutes
 supporters:
 - Dance Massive
 - Australia Council of Arts
