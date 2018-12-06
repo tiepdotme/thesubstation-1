@@ -10,12 +10,13 @@ button-txt: BOOK NOW
 presented-by: Rachel Arianne Ogle
 tagline: An immersive, meditative performance on time, perspective and the moment
   of death
-price: "$25/20 + BF"
+price: "$25 / $20 + BF"
 datetime:
 - 2019-03-15 19:00:00 +11:00
 - 2019-03-17 19:00:00 +11:00
 has-start-time: true
-has-mins: 30
+is-opening-hours-time: false
+is-single-time-duration: true
 notes:
   note: "*Double bill with Memoir for Rivers and The Dictator"
 supporters:
