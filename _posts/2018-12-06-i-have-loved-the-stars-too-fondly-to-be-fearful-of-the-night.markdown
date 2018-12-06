@@ -25,3 +25,7 @@ supporters:
 ---
 
 In this immersive installation of improvised light and sound, a single human body becomes an abstracted focal point — a disembodied drishti – within an unfolding science fiction odyssey. The work explores states of transition and the synergy between light, sound and the body, offering audiences a meditation on time, perspective and the moment of death.
+
+* i have loved the stars too fondly to be fearful of the night is part of a double bill with Memoir for Rivers and The Dictator. Tickets for this show enable entrance to both.
+
+Presented by The SUBSTATION as part of Dance Massive 2019
