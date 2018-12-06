@@ -18,6 +18,10 @@ has-start-time: true
 has-mins: 30
 notes:
   note: "*Double bill with Memoir for Rivers and The Dictator"
+supporters:
+- Dance Massive
+- Australia Council of Arts
+- 
 ---
 
 In this immersive installation of improvised light and sound, a single human body becomes an abstracted focal point — a disembodied drishti – within an unfolding science fiction odyssey. The work explores states of transition and the synergy between light, sound and the body, offering audiences a meditation on time, perspective and the moment of death.
