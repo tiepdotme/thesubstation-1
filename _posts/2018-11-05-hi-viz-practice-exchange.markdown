@@ -2,7 +2,7 @@
 title: Hi-Viz Practice Exchange
 date: 2018-11-05 11:28:00 +11:00
 categories:
-- whats-on
+- archive
 image: "/uploads/Hivis.jpg"
 image-credit: 'Chamber Made Little Operations with THE RABBLE (2014) Photo credit:
   Daisy Noyes'
