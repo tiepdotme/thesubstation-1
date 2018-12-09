@@ -14,6 +14,7 @@ price: "$25 / $20 + BF"
 datetime:
 - 2019-03-15 19:00:00 +11:00
 - 2019-03-17 19:00:00 +11:00
+is-on-home-page: true
 has-start-time: true
 is-opening-hours-time: false
 is-single-time-duration: false
