@@ -1,7 +1,9 @@
 ---
 title: Home
 pages: What's On
-events: 
+events: |-
+  WILLIAM BASINSKI 
+  CATERINA BARBIERI
 vimeo: 305383077
 banner-image: "/uploads/Basinksi-Barbieri.gif"
 carousel-images:
