@@ -13,6 +13,7 @@ price: "$25 / $20 + BF"
 datetime:
 - 2019-03-15 19:00:00 +11:00
 - 2019-03-17 19:00:00 +11:00
+is-on-home-page: true
 has-start-time: true
 event-duration-txt: "- 50 minutes"
 notes:
