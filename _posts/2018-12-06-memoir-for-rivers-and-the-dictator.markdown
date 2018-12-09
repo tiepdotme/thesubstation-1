@@ -15,6 +15,8 @@ datetime:
 - 2019-03-17 19:00:00 +11:00
 has-start-time: true
 event-duration-txt: "- 50 minutes"
+notes:
+  note: Double Bill with Rachel Arianne Ogle
 supporters:
 - Dance Massive
 ---
