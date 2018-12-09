@@ -14,7 +14,7 @@ is-single-time-duration: true
 notes:
   note: |-
     Location:
-    The Altona Gate Shopping Mall
+    The Altona Gate Shopping Centre
 supporters:
 - Dance Massive
 - Australia Council of Arts
