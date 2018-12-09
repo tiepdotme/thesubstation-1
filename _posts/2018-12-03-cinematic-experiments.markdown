@@ -3,7 +3,9 @@ title: Cinematic Experiments
 date: 2018-12-03 15:27:00 +11:00
 categories:
 - whats-on
-image: "/uploads/Cinematic-Experiments.jpg"
+image: "/uploads/Cinematic.jpg"
+button-url: https://dancemassive.com.au/program/cinematic-experiments-multi-media-installation/
+button-txt: MORE INFO
 presented-by: Margie Medlin
 tagline: 'A multi-media installation in which cinema interacts with contemporary dance. '
 price: FREE
