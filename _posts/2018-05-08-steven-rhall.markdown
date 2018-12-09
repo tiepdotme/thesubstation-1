@@ -2,14 +2,14 @@
 title: Defunctionalised Autonomous Objects
 date: 2018-05-08 15:00:00 +10:00
 categories:
-- whats-on
+- archive
 image: "/uploads/GazeOMA.jpg"
 presented-by: Steven Rhall
 price: FREE
 datetime:
 - 2018-10-13 17:00:00 +11:00
 - 2018-12-07 00:00:00 +11:00
-is-on-home-page: true
+is-on-home-page: false
 has-opening-event: true
 is-within-gallery-open-time: true
 supporters:
