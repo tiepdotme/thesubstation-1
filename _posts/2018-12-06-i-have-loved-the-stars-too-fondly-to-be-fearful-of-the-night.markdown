@@ -18,6 +18,8 @@ has-start-time: true
 is-opening-hours-time: false
 is-single-time-duration: false
 event-duration-txt: "– 30 minutes"
+notes:
+  note: 'Double Bill with Lilian Steiner '
 supporters:
 - Dance Massive
 - Australia Council of Arts
