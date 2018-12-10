@@ -2,7 +2,7 @@
 title: NEWER VOLCANICS
 date: 2018-05-10 14:40:00 +10:00
 categories:
-- whats-on
+- archive
 image: "/uploads/Orbweavers.jpg"
 image-credit: Photo by Daniel Aulsebrook
 button-url: https://thesubstation.iwannaticket.com.au/event/newer-volcanics-MTUyNzc
