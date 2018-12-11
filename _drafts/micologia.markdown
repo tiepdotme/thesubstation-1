@@ -19,6 +19,8 @@ is-single-time-duration: true
 event-duration-txt: "- 8:30pm"
 ---
 
-**Micologia** is a multisensorial, immersive experience wherein participants will be entertained and educated via a journey through the realm of fungi and an exploration of its potentially cosmic origins, featuring the biannual Equinox collection of Naarm based fashion label REMUSE. 
+**Micologia** is a multisensorial, immersive experience wherein participants will be entertained and educated via a journey through the realm of fungi and exploration of its potentially cosmic origins. The storyline connects in prequel to last year’s event, Equinox V Venus, which took place at the theoretical end of humankind’s tenure of planet earth. This time, we rewind the clock 1 billion years to a time before the modern day. 
 
-Presented as part of Virgin Australia Melbourne Fashion Festival Arts Program 
+Once again taking place on the new moon preceding the Autumnal equinox, **Micologia** continues to explore the themes of synchronicity with nature, sustainability through theatrical dialogue and visual display while introducing themes of symbiosis and biomimicry. 
+
+The show will feature the biannual Equinox collection of Naarm based fashion label REMUSE, presented as part of the Virgin Australia Melbourne Fashion Festival Arts Program.
