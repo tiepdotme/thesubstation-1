@@ -8,10 +8,11 @@ image-credit: 'B2B Creative '
 button-url: https://micologia.eventbrite.com.au
 button-txt: BOOK NOW
 presented-by: REMUSE
+tagline: 'Multisensorial and immersive runway experience of cosmic origins showcasing
+  sustainable fashion. '
 price: "$15 + BF"
 datetime:
 - 2019-03-06 18:30:00 +11:00
-- 
 has-start-time: true
 has-mins: true
 is-single-time-duration: true
