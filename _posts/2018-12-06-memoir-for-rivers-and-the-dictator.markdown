@@ -22,10 +22,17 @@ supporters:
 - Dance Massive
 ---
 
-In **Memoir for Rivers and the Dictator** award-winning choreographer and performer **Lilian Steiner** explores the impact of human experience and the personal histories that store themselves within the body. Through masterful movement and evocative sonic landscapes Steiner leads us through memories of war and destruction, personal agency, passion and human empathy.
+In **Memoir for Rivers and the Dictator** award-winning choreographer and performer **Lilian Steiner** explores the impact of human experience and the personal histories that store themselves within the body. 
+
+Through masterful movement and evocative sonic landscapes performed by dancer **Lilian Steiner** with **Reuben Lewis** on trumpet, Steiner utilises sound, language, colour and bodies in motion to lead audiences through memories of war and destruction, personal power, passion and human empathy.
+
+Powerful and intense, **Memoir for Rivers and the Dictator** captures the dramatic scope of historical events and shifting subject positions – from the individual to the collective – with a compelling dynamism. The piece engages the body as archival document: absorbing wisdom, values and events, as well as being the key resource for connecting with and responding to the activities of the past. 
+
+Originally commissioned as part of the Keir Choreographic Award 2018, this is the world premiere of the full-length iteration of the work. 
+
 
 Choreographer: Lilian Steiner <br>
-Performers: Lilian Steiner, Amber McCartney, Reuben Lewis <br>
+Performers: Lilian Steiner, Reuben Lewis <br>
 Sound Design: Marco Cher-Gibard, Reuben Lewis <br>
 Lighting Design: Jennifer Hector <br>
 Producer: Freya Waterson <br>
