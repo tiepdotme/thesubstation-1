@@ -15,6 +15,7 @@ is-on-home-page: true
 has-opening-event: true
 is-opening-hours-time: true
 is-within-gallery-open-time: true
+event-duration-txt: "- 5:00pm"
 supporters: Midsumma Festival
 ---
 
