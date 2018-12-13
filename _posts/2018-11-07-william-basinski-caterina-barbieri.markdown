@@ -14,7 +14,7 @@ tagline: 'A SONIC JOURNEY INTO HAUNTING AND MESMERISING SOUNDSCAPES.
 '
 price: "$30 / $25 + BF"
 datetime:
-- 2019-01-17 00:00:00 +11:00
+- 2019-01-17 20:00:00 +11:00
 - 2019-01-18 20:00:00 +11:00
 is-on-home-page: true
 has-start-time: true
