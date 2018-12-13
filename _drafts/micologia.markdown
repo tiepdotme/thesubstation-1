@@ -16,7 +16,7 @@ datetime:
 has-start-time: true
 has-mins: true
 is-single-time-duration: true
-event-duration-txt: "- 8:30pm"
+event-duration-txt: "- 9:00pm"
 ---
 
 **Micologia** is a multisensorial, immersive experience wherein participants will be entertained and educated via a journey through the realm of fungi and exploration of its potentially cosmic origins. The storyline connects in prequel to last year’s event, Equinox V Venus, which took place at the theoretical end of humankind’s tenure of planet earth. This time, we rewind the clock 1 billion years to a time before the modern day. 
