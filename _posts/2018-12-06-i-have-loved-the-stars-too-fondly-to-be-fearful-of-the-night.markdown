@@ -5,6 +5,7 @@ categories:
 - whats-on
 image: "/uploads/Rachel-Ogle.jpg"
 image-credit: Mick Bello
+video-thumbnail: 306728338
 button-url: https://lilian-steiner-rachel-arianne-ogle.eventbrite.com.au
 button-txt: BOOK NOW
 presented-by: Rachel Arianne Ogle
