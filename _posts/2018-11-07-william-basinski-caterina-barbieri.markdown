@@ -6,7 +6,7 @@ date: 2018-11-07 12:06:00 +11:00
 categories:
 - whats-on
 image: "/uploads/WB.jpg"
-video-thumbnail: 306725480
+video-thumbnail: 306726174
 button-url: https://basinski-barbieri-second-show.eventbrite.com.au
 button-txt: BOOK NOW
 presented-by: THE SUBSTATION AND ROOM40 PRESENTS
