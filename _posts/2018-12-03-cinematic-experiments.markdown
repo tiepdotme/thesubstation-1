@@ -14,16 +14,15 @@ datetime:
 - 2019-03-14 00:00:00 +11:00
 - 2019-03-17 00:00:00 +11:00
 is-single-time-duration: true
-notes:
-  note: |-
-    Location:
-    The Altona Gate Shopping Centre
 supporters:
 - Dance Massive
 - Australia Council of Arts
 ---
 
-Cinematic Experiments is a playful interactive multi-media installation in which early cinema techniques and digital dance by Vicki Van Hout and Lucky Lartey are further animated by audience engagement. Set in an Altona Gate Shopping Centre shopfront, the project invites audiences to bring a sense of curiosity and explore their own movement in relation to this dynamic and frequently changing installation.
+**Cinematic Experiments** is a playful interactive multi-media installation in which early cinema techniques and digital dance are are layered and animated.
+
+Starting with a library of analogue and digital source material, media artists **Margie Medlin**, **Rhian Hinkley**, **Olaf Meyer** and **James Wilkinson** will devise a series of experiments that combine motion graphics with digital dance choreography by V**icki Van Hout** and **Patrick Lucky Lartey**. The project invites audiences to bring a sense of curiosity and explore their own movement in relation to this dynamic and frequently changing installation. 
+
 
 Director: Margie Medlin <br>
 Interaction designer: Olaf Meyer <br>
