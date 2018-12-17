@@ -4,6 +4,7 @@ date: 2018-12-03 15:27:00 +11:00
 categories:
 - whats-on
 image: "/uploads/Cinematic.jpg"
+video-thumbnail: 306729818
 button-url: https://dancemassive.com.au/program/cinematic-experiments-multi-media-installation/
 button-txt: MORE INFO
 presented-by: Margie Medlin
