@@ -30,6 +30,10 @@ supporters:
 
 In this immersive installation of improvised light and sound, a single human body becomes an abstracted focal point — a disembodied drishti – within an unfolding science fiction odyssey. The work explores states of transition and the synergy between light, sound and the body, offering audiences a meditation on time, perspective and the moment of death.
 
+Developed through in-depth collaboration and a residency at the Curtis R. Priem Experimental Media and Performing Arts Centre (EMPAC) in New York, Rachel Arianne Ogle, Luke Smiles and Benjamin Cisterne have created a transcendental experiment in design. In the performance an external feed of radio communications and cosmic chatter manipulates both light and sound in real time.
+
+i have loved the stars too fondly to be fearful of the night is a choreography of perception. The audience witness a body in liminal space distorted by the media that surrounds it, becoming mesmerised by the hypnotic sensory experience of contemplation and transformation.
+
 * i have loved the stars too fondly to be fearful of the night is part of a double bill with Memoir for Rivers and The Dictator. Tickets for this show enable entrance to both.
 
 Presented by The SUBSTATION as part of Dance Massive 2019
