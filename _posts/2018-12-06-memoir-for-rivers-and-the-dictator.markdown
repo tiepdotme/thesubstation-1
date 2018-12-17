@@ -3,8 +3,9 @@ title: Memoir for Rivers and The Dictator
 date: 2018-12-06 16:13:00 +11:00
 categories:
 - whats-on
-image: "/uploads/Memoir.jpg"
+image: "/uploads/Lilian%20Steiner.jpg"
 image-credit: Gregory Lorenzutti
+video-thumbnail: 306727563
 button-url: https://lilian-steiner-rachel-arianne-ogle.eventbrite.com.au
 button-txt: BOOK NOW
 presented-by: Lilian Steiner
