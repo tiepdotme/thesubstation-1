@@ -5,6 +5,7 @@ categories:
 - whats-on
 image: "/uploads/Chorus.jpg"
 image-credit: Melanie Jame Wolf / Ashton Green
+video-thumbnail: 306726621
 presented-by: MELANIE JAME WOLF
 tagline: "A darkly humorous look at the social function of gossip. \n"
 price: FREE
