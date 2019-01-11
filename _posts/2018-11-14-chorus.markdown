@@ -10,7 +10,7 @@ presented-by: MELANIE JAME WOLF
 tagline: "A darkly humorous look at the social function of gossip. \n"
 price: FREE
 datetime:
-- 2019-01-20 14:00:00 +11:00
+- 2019-01-20 16:00:00 +11:00
 - 2019-03-16 00:00:00 +11:00
 is-on-home-page: true
 has-opening-event: true
