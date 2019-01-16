@@ -14,6 +14,10 @@ datetime:
 - 2019-03-14 00:00:00 +11:00
 - 2019-03-17 00:00:00 +11:00
 is-single-time-duration: true
+notes:
+  note: |-
+    Altona Gate Shopping Centre, Level Two
+    124-134 Millers Road, Altona North
 supporters:
 - Dance Massive
 - Australia Council of Arts
