@@ -17,6 +17,7 @@ is-single-time-duration: true
 notes:
   note: |-
     Altona Gate Shopping Centre, Level Two
+
     124-134 Millers Road, Altona North
 supporters:
 - Dance Massive
