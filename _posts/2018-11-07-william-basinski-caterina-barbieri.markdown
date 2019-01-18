@@ -4,7 +4,7 @@ title: |-
   CATERINA BARBIERI
 date: 2018-11-07 12:06:00 +11:00
 categories:
-- whats-on
+- archive
 image: "/uploads/WB.jpg"
 video-thumbnail: 306726174
 button-url: https://basinski-barbieri.eventbrite.com.au
@@ -17,7 +17,7 @@ price: "$30 / $25 + BF"
 datetime:
 - 2019-01-17 20:00:00 +11:00
 - 2019-01-18 20:00:00 +11:00
-is-on-home-page: true
+is-on-home-page: false
 has-start-time: true
 is-single-date: false
 is-list-of-dates: true
