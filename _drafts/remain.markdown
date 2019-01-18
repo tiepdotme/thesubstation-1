@@ -10,6 +10,8 @@ tagline: 'In response to the federal election, 6 portraits of men who Remain on 
 price: FREE
 datetime: 2019-05-01 00:00:00 +10:00
 is-single-month-duration: true
+notes:
+  note: Located on The SUBSTATION Billboards
 ---
 
 REMAIN was made in collaboration with several of the men who still remain on Manus Island, PNG, five or more years after they left their homelands to seek asylum in Australia, but instead were sent to languish in the remote offshore detention centre. 
