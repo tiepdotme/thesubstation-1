@@ -4,7 +4,7 @@ date: 2019-01-18 17:39:00 +11:00
 categories:
 - whats-on
 image: "/uploads/JonRose.jpg"
-presented-by: Jon Rose
+presented-by: 'Curated by Jon Rose and Kali Michailidis '
 price: "$10"
 datetime:
 - 2019-04-04 00:00:00 +11:00
