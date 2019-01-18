@@ -4,13 +4,14 @@ date: 2019-01-18 18:38:00 +11:00
 categories:
 - whats-on
 image: "/uploads/Unwoman.jpg"
-presented-by: 'Maeve Stone and THE RABBLE feat. Olwen Fouéré, Dana Miltins and Mary
-  Helen Sassman '
+presented-by: 'Maeve Stone and THE RABBLE '
 tagline: 'Perverse, real, harrowing and deeply affecting, this is a universal, unforgettable
   masterpiece of performance art.  – The Times UK
 
 '
 ---
+
+Maeve Stone and THE RABBLE feat. Olwen Fouéré, Dana Miltins and Mary Helen Sassman 
 
 Unwoman is a woman.
 Unwoman is not a woman.
