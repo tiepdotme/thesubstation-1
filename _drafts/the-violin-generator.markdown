@@ -14,3 +14,6 @@ notes:
   note: 'Performance dates: 5, 6, 12, 13 April'
 ---
 
+This Dada-esque cabinet of curiosities includes over 700 violin artefacts, iconography, and improbable instruments; performances that are musically perverse, historically twisted, and culturally critical. Sourced from Australia’s most unusual collection, The Rosenberg Museum is the brainchild of violinist, composer, and artist Jon Rose. 
+
+Presented by The SUBSTATION, in conjunction with Tura New Music. Supported by Australia Council.
