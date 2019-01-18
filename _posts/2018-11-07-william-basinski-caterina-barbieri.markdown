@@ -7,8 +7,6 @@ categories:
 - archive
 image: "/uploads/WB.jpg"
 video-thumbnail: 306726174
-button-url: https://basinski-barbieri.eventbrite.com.au
-button-txt: BOOK NOW
 presented-by: THE SUBSTATION AND ROOM40 PRESENTS
 tagline: 'A SONIC JOURNEY INTO HAUNTING AND MESMERISING SOUNDSCAPES.
 
