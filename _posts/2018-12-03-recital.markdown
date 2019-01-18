@@ -13,6 +13,7 @@ datetime:
 - 2019-03-20 19:00:00 +11:00
 - 2019-03-21 19:00:00 +11:00
 - 2019-03-22 19:00:00 +11:00
+is-on-home-page: true
 has-start-time: true
 is-list-of-dates: true
 is-single-time-duration: true
