@@ -6,6 +6,7 @@ categories:
 image: "/uploads/Cool.jpg"
 presented-by: Cool Room Presents
 price: "$35 + BF"
+datetime: 2019-04-27 00:00:00 +10:00
 ---
 
 Cool Room is a collective and event series focused on changing conversations around representation and safety in electronic music, while creating a safer space for marginalised peoples to dance. Past guests have included Steffi, Terre Thaemlitz (AKA DJ Sprinkles), Laurel Halo, and K-HAND. 
