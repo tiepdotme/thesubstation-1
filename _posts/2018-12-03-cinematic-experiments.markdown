@@ -24,7 +24,7 @@ supporters:
 - Australia Council of Arts
 ---
 
-**Cinematic Experiments** is a playful interactive multi-media installation in which early cinema techniques and digital dance are are layered and animated.
+**Cinematic Experiments** is a playful interactive multi-media installation in which early cinema techniques and digital dance are layered and animated.
 
 Starting with a library of analogue and digital source material, media artists **Margie Medlin**, **Rhian Hinkley**, **Olaf Meyer** and **James Wilkinson** will devise a series of experiments that combine motion graphics with digital dance choreography by V**icki Van Hout** and **Patrick Lucky Lartey**. The project invites audiences to bring a sense of curiosity and explore their own movement in relation to this dynamic and frequently changing installation. 
 
