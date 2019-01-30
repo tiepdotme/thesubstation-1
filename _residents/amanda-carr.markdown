@@ -1,6 +1,7 @@
 ---
 title: Amanda Carr
 date: 2018-07-28 09:07:00 +10:00
+published: false
 image: "/uploads/amanda_bio_pic.jpg"
 current: true
 ---
