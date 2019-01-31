@@ -1,5 +1,5 @@
 ---
-title: "Discwoman: \nUmfang\nSHYBOI"
+title: COOL ROOM
 date: 2019-01-18 17:51:00 +11:00
 categories:
 - whats-on
