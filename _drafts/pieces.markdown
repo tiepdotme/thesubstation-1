@@ -8,6 +8,9 @@ image-credit: |-
   Photographer: David Paterson.
   Performer: Olwen Fouéré.
 presented-by: LUCY GUERIN INC
+datetime: 2019-12-01 00:00:00 +11:00
+is-single-month-duration: true
+event-duration-txt: 'Tickets on sale 2019 '
 ---
 
 PIECES is Lucy Guerin Inc’s new annual performance program to support the work of emerging and independent Victorian choreographers. A re-invention of LGI’s much-loved series Pieces for Small Spaces, PIECES introduces an exciting collaboration with The SUBSTATION.
