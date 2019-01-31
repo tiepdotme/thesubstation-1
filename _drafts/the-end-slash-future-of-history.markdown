@@ -3,6 +3,7 @@ title: The End/Future of History
 date: 2019-01-31 16:01:00 +11:00
 categories:
 - whats-on
+image: "/uploads/katayounjavan.jpg"
 presented-by: Curated by PHUONG NGO
 tagline: Contemporary artists examining this flaws within systems of Government.
 ---
