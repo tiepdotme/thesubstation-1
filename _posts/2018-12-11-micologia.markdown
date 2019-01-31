@@ -1,5 +1,5 @@
 ---
-title: MICOLOGIA
+title: MICOLOGÍA
 date: 2018-12-11 11:10:00 +11:00
 categories:
 - whats-on
@@ -8,8 +8,8 @@ image-credit: 'B2B Creative '
 button-url: https://micologia.eventbrite.com.au
 button-txt: BOOK NOW
 presented-by: REMUSE
-tagline: 'A cosmic multisensorial and immersive runway experience showcasing sustainable
-  fashion. '
+tagline: A multisensory and immersive runway experience showcasing cosmic sustainable
+  fashion label REMUSE.
 price: "$15 + BF"
 datetime:
 - 2019-03-06 18:30:00 +11:00
@@ -19,8 +19,4 @@ is-single-time-duration: true
 event-duration-txt: "- 9:00pm"
 ---
 
-**Micologia** is a multisensorial, immersive experience wherein participants will be entertained and educated via a journey through the realm of fungi and exploration of its potentially cosmic origins. The storyline connects in prequel to last year’s event, Equinox V Venus, which took place at the theoretical end of humankind’s tenure of planet earth. This time, we rewind the clock 1 billion years to a time before the modern day. 
-
-Once again taking place on the new moon preceding the Autumnal equinox, **Micologia** continues to explore the themes of synchronicity with nature, sustainability through theatrical dialogue and visual display while introducing themes of symbiosis and biomimicry. 
-
-The show will feature the biannual Equinox collection of Naarm based fashion label REMUSE, presented as part of the Virgin Australia Melbourne Fashion Festival Arts Program.
+Naarm-based sustainable fashion label REMUSE launches its biannual Equinox clothing collection and second mycology inspired release, ‘Micología II’ in a multisensory and immersive runway experience. MICOLOGÍA elaborates on the cosmic origins of the kingdom of funghi, exploring themes of synchronicity with nature, symbiosis and biomimicry and sustainability through theatrical dialogue and visual display. This is a singularly imaginative fashion runway performance. 
