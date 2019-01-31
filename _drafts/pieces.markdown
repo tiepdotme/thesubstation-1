@@ -7,7 +7,7 @@ image: "/uploads/Pieces.jpg"
 image-credit: |-
   Photographer: David Paterson.
   Performer: Olwen Fouéré.
-presented-by: LUCY GUERIN INC
+presented-by: Presented with LUCY GUERIN INC.
 datetime: 2019-12-01 00:00:00 +11:00
 is-single-month-duration: true
 event-duration-txt: 'Tickets on sale 2019 '
