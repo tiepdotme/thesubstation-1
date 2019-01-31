@@ -3,7 +3,7 @@ title: Pieces
 date: 2019-01-18 18:54:00 +11:00
 categories:
 - whats-on
-image: "/uploads/Pieces-thumb.jpg"
+image: "/uploads/Pieces.jpg"
 image-credit: |-
   Photographer: David Paterson.
   Performer: Olwen Fouéré.
