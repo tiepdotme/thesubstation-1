@@ -12,7 +12,7 @@ datetime:
 - 2019-12-01 00:00:00 +11:00
 - 2019-12-01 00:00:00 +11:00
 is-single-month-duration: true
-artists-talk:
+notes:
   note: 'Tickets on sale 2019 '
 ---
 
