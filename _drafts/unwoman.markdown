@@ -9,6 +9,8 @@ tagline: 'Perverse, real, harrowing and deeply affecting, this is a universal, u
   masterpiece of performance art.  – The Times UK
 
 '
+notes:
+  note: Tickets on sale 2019
 ---
 
 THE RABBLE and Maeve Stone featuring Olwen Fouéré, Dana Miltins and Mary Helen Sassman.
