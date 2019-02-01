@@ -13,6 +13,7 @@ price: FREE
 datetime:
 - 2019-03-14 00:00:00 +11:00
 - 2019-03-17 00:00:00 +11:00
+is-on-home-page: true
 is-single-time-duration: true
 notes:
   note: |-
