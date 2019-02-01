@@ -12,7 +12,7 @@ price: FREE
 datetime:
 - 2019-01-20 16:00:00 +11:00
 - 2019-03-16 00:00:00 +11:00
-is-on-home-page: true
+is-on-home-page: false
 has-opening-event: true
 is-opening-hours-time: true
 is-within-gallery-open-time: true
