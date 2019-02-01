@@ -12,7 +12,7 @@ datetime:
 - 2019-07-06 00:00:00 +10:00
 is-many-months-duration: true
 notes:
-  note: The SUBSTATION Billboards
+  note: Located on The SUBSTATION Billboards
 ---
 
 HAYLEY MILLAR-BAKER  is a Gunditjmara woman from Victoria, Australia. Through contemporary approaches to photography, she draws strength from her Gunditjmara bloodlines, history, and the landscape – confronting and crafting past, present, and future stories of South-East Aboriginal existence, and honouring the connectedness of intergenerational experiences of Aboriginality. 
