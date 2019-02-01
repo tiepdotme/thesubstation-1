@@ -8,8 +8,11 @@ presented-by: 'Hoda Afsha '
 tagline: 'In response to the federal election, 6 portraits of men who Remain on Manus
   Island will be presented on the Substation billboards. '
 price: FREE
-datetime: 2019-05-01 00:00:00 +10:00
-is-single-month-duration: true
+datetime:
+- 2019-02-01 00:00:00 +11:00
+- 2019-05-06 00:00:00 +10:00
+is-single-month-duration: false
+is-many-months-duration: true
 notes:
   note: Located on The SUBSTATION Billboards
 ---
