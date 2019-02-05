@@ -6,7 +6,8 @@ categories:
 image: "/uploads/Bunker6.jpg"
 tagline: 'World class techno acts celebrate Melbourne’s leading techno outfit Bunker’s
   sixth birthday '
-datetime: 2019-05-24 00:00:00 +10:00
+datetime:
+- 2019-05-24 21:00:00 +10:00
 notes:
   note: '18+ entry '
 ---
