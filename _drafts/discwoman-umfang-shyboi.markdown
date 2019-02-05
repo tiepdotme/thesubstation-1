@@ -5,7 +5,12 @@ categories:
 - whats-on
 image: "/uploads/Cool.jpg"
 price: "$35 + BF"
-datetime: 2019-04-27 00:00:00 +10:00
+datetime:
+- 2019-04-27 00:00:00 +10:00
+- 2019-04-27 00:00:00 +10:00
+is-single-month-duration: true
+notes:
+  note: 'Tickets on sale 2019 '
 ---
 
 COOL ROOM is a collective and event series focused on changing conversations around representation and safety in electronic music, while creating a safer space for marginalised peoples to dance. Across varied sonic terrain, over four years and through parties, panels, and showcases, Cool Room has sought to highlight women, gender diverse folk, queers, and people of colour pushing boundaries in their work. Past Cool Room guests have included Steffi, Terre Thaemlitz (AKA DJ Sprinkles), Laurel Halo, and K-HAND.
