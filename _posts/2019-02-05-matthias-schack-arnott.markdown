@@ -7,6 +7,7 @@ image: "/uploads/Annica.jpg"
 image-credit: '"Anicca" 2016.  Photo by Bryony Jackson. '
 datetime:
 - 2019-02-11 00:00:00 +11:00
+- 2019-02-16 00:00:00 +11:00
 is-single-month-duration: true
 ---
 
