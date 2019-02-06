@@ -5,6 +5,9 @@ categories:
 - in-development
 image: "/uploads/Annica.jpg"
 image-credit: '"Anicca" 2016.  Photo by Bryony Jackson. '
+datetime:
+- 2019-02-11 00:00:00 +11:00
+is-single-month-duration: true
 ---
 
 **Everywhen** by Matthias Schack-Arnott is a major new work exploring large-scale cyclic patterns. Up to 100 suspended percussive objects hover and rotate along a six-meter moving axis. The work investigates a perpetually shifting sonic environment through the intersection of sound, time and space. 
