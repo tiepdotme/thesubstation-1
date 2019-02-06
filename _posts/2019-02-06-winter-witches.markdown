@@ -4,6 +4,11 @@ date: 2019-02-06 11:27:00 +11:00
 categories:
 - in-development
 image: "/uploads/Masc.jpg"
+datetime:
+- 2019-10-01 00:00:00 +10:00
+- 2019-11-01 00:00:00 +11:00
+is-single-month-duration: true
+is-many-months-duration: true
 ---
 
 MASC will be developed as a new live sound and song-based performance work by Winter Witches that ampliﬁes queer sonics and bent gestures into a world gone normal.  This work asks: How do we forge a sonic template for queerness? How might non-masc bodies move in that space?
