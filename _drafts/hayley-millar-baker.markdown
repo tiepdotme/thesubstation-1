@@ -17,4 +17,4 @@ notes:
 
 HAYLEY MILLAR-BAKER  is a Gunditjmara woman from Victoria, Australia. Through contemporary approaches to photography, she draws strength from her Gunditjmara bloodlines, history, and the landscape – confronting and crafting past, present, and future stories of South-East Aboriginal existence, and honouring the connectedness of intergenerational experiences of Aboriginality. 
 
-Presented by The SUBSTATION and [Yirramboi Festival](https://yirramboi.net.au/). 
+Presented by The SUBSTATION and [YIRRAMBOI Festival](https://yirramboi.net.au/). 
