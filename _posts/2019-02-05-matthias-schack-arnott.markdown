@@ -15,6 +15,4 @@ is-single-month-duration: true
 > Matthias Schack-Arnott is a Melbourne based percussive artist working in contemporary classical and experimental music as a performer, composer and
 improviser.
 
-> Described by The Guardian as ‘sonically and visually exquisite’, Matthias’ solo work explores unique approaches to percussive performance, often involving the
-development of new instrumental set-ups built in collaboration with architects,
-engineers and technicians. His work has been presented by Melbourne Festival, La Comete (France), The Unconformity (Tasmania), Arts House, Supersense – Festival of the Ecstatic (Arts Centre Melbourne), MPavilion, Spor Festival (Denmark), Spot Festival (Denmark) & Next Wave (2012 & 2014).
+> Described by The Guardian as ‘sonically and visually exquisite’, Matthias’ solo work explores unique approaches to percussive performance, often involving the development of new instrumental set-ups built in collaboration with architects, engineers and technicians. His work has been presented by Melbourne Festival, La Comete (France), The Unconformity (Tasmania), Arts House, Supersense – Festival of the Ecstatic (Arts Centre Melbourne), MPavilion, Spor Festival (Denmark), Spot Festival (Denmark) & Next Wave (2012 & 2014).
