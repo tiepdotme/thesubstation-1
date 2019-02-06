@@ -3,6 +3,7 @@ title: Channels Festival
 date: 2019-02-07 09:58:00 +11:00
 categories:
 - whats-on
+image: "/uploads/ChannelsFestival.jpg"
 tagline: Video art that explores forces of fluidity and resistance.
 ---
 
