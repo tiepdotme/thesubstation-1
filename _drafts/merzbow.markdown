@@ -4,12 +4,11 @@ date: 2019-02-05 16:31:00 +11:00
 categories:
 - whats-on
 image: "/uploads/merzbow.jpg"
+button-txt: BOOK NOW
 tagline: A universe of noise
 price: "$45 / $35 + BF"
 datetime:
 - 2019-07-04 00:00:00 +10:00
-notes:
-  note: 'Tickets on sale 2019 '
 supporters: Room40
 ---
 
