@@ -1,6 +1,6 @@
 ---
 title: Shifting Surrounds
-date: 2019-02-07 13:05:00 +11:00
+date: 2019-02-07 13:30:00 +11:00
 categories:
 - whats-on
 image: "/uploads/YandellWalton.jpg"
@@ -12,7 +12,7 @@ tagline: 'A site specific immersive visual art installation interrogating the sh
 price: FREE
 datetime:
 - 2019-05-04 14:00:00 +10:00
-- 2019-06-15 00:00:00 +10:00
+- 2019-07-20 00:00:00 +10:00
 has-opening-event: true
 is-within-gallery-open-time: true
 ---
