@@ -1,9 +1,9 @@
 ---
 title: Hayley Millar-Baker
-date: 2019-02-01 14:35:00 +11:00
+date: 2019-02-07 13:05:00 +11:00
 categories:
 - whats-on
-image: "/uploads/Hayley-a51888.jpg"
+image: "/uploads/HayleyMillar.jpg"
 image-credit: '"Australians all let us rejoice for we are young and free" by HAYLEY
   MILLAR-BAKER '
 price: FREE
