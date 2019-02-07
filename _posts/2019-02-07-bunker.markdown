@@ -4,6 +4,7 @@ date: 2019-02-07 13:30:00 +11:00
 categories:
 - whats-on
 image: "/uploads/Bunker6.jpg"
+video-thumbnail: 315796158
 tagline: 'World class techno acts celebrate Melbourne’s leading techno outfit Bunker’s
   sixth birthday '
 datetime:
