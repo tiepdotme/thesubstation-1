@@ -5,7 +5,7 @@ categories:
 - whats-on
 image: "/uploads/katayounjavan.jpg"
 presented-by: Curated by PHUONG NGO
-tagline: Contemporary artists examining this flaws within systems of Government.
+tagline: Contemporary artists examining flaws within systems of Government.
 datetime: 2019-11-01 00:00:00 +11:00
 is-single-month-duration: true
 ---
