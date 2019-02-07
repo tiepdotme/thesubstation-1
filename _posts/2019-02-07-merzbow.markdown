@@ -1,5 +1,5 @@
 ---
-title: Merzbow with Cat Hope
+title: Merzbow
 date: 2019-02-07 13:30:00 +11:00
 categories:
 - whats-on
@@ -8,6 +8,7 @@ image-credit: Image Courtesy Dark Mofo
 video-thumbnail: 315788004
 button-url: https://merzbow.eventbrite.com.au
 button-txt: BOOK NOW
+presented-by: with Cat Hope
 tagline: A universe of noise
 price: "$45 / $35 + BF"
 datetime:
