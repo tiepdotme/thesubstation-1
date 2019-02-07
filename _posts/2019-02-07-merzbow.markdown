@@ -1,9 +1,10 @@
 ---
 title: Merzbow
-date: 2019-02-05 16:31:00 +11:00
+date: 2019-02-07 13:05:00 +11:00
 categories:
 - whats-on
 image: "/uploads/merzbow.jpg"
+video: 315788004
 button-txt: BOOK NOW
 tagline: A universe of noise
 price: "$45 / $35 + BF"
