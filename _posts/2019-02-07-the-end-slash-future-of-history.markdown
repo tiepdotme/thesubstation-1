@@ -1,6 +1,6 @@
 ---
 title: The End/Future of History
-date: 2019-02-07 13:05:00 +11:00
+date: 2019-02-07 13:30:00 +11:00
 categories:
 - whats-on
 image: "/uploads/katayounjavan.jpg"
