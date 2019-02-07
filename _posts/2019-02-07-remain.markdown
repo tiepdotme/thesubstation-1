@@ -3,7 +3,7 @@ title: Remain
 date: 2019-02-07 13:30:00 +11:00
 categories:
 - whats-on
-image: "/uploads/BehrouzBoochani.JPG"
+image: "/uploads/Remain.jpg"
 image-credit: Hoda Afsha
 presented-by: 'Hoda Afsha '
 tagline: 'In response to the federal election, 6 portraits of men who Remain on Manus
