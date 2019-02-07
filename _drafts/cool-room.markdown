@@ -4,6 +4,8 @@ date: 2019-01-18 17:51:00 +11:00
 categories:
 - whats-on
 image: "/uploads/Cool.jpg"
+tagline: 'An unfiltered, raw, and politically-charged night of techno in an inclusive,
+  safe environment. '
 price: "$35 + BF"
 datetime:
 - 2019-04-27 00:00:00 +10:00
