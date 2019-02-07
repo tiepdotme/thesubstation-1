@@ -5,6 +5,7 @@ categories:
 - whats-on
 image: "/uploads/merzbow.jpg"
 video-thumbnail: 315788004
+button-url: https://merzbow.eventbrite.com.au
 button-txt: BOOK NOW
 tagline: A universe of noise
 price: "$45 / $35 + BF"
