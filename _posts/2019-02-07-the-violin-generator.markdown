@@ -1,6 +1,6 @@
 ---
 title: The Violin Generator
-date: 2019-01-18 17:39:00 +11:00
+date: 2019-02-07 13:30:00 +11:00
 categories:
 - whats-on
 image: "/uploads/JonRose.jpg"
