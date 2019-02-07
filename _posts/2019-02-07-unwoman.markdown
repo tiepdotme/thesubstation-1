@@ -1,6 +1,6 @@
 ---
 title: Unwoman
-date: 2019-01-18 18:38:00 +11:00
+date: 2019-02-07 13:05:00 +11:00
 categories:
 - whats-on
 image: "/uploads/Unwoman.jpg"
@@ -9,6 +9,9 @@ tagline: 'Perverse, real, harrowing and deeply affecting, this is a universal, u
   masterpiece of performance art.  – The Times UK
 
 '
+datetime:
+- 2019-11-11 00:00:00 +11:00
+is-single-month-duration: true
 notes:
   note: Tickets on sale 2019
 ---
