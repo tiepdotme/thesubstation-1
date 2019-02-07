@@ -4,7 +4,7 @@ date: 2019-02-07 13:30:00 +11:00
 categories:
 - whats-on
 image: "/uploads/JonRose.jpg"
-video: 315786792
+video-thumbnail: 315786792
 presented-by: 'Curated by Jon Rose and Kali Michailidis '
 tagline: "A twisted Dada-esque exhibition and performance of violin artefacts and
   improbable instruments.  \n"
