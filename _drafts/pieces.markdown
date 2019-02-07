@@ -8,6 +8,10 @@ image-credit: |-
   Photographer: David Paterson.
   Performer: Olwen Fouéré.
 presented-by: Presented with LUCY GUERIN INC.
+tagline: 'Three emerging choreographers present pieces that shift our existing notions
+  of dance.
+
+'
 datetime:
 - 2019-12-01 00:00:00 +11:00
 - 2019-12-01 00:00:00 +11:00
