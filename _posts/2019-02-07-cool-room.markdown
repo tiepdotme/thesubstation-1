@@ -4,6 +4,7 @@ date: 2019-02-07 13:30:00 +11:00
 categories:
 - whats-on
 image: "/uploads/Cool.jpg"
+video-thumbnail: 315797003
 tagline: 'An unfiltered, raw, and politically-charged night of techno in an inclusive,
   safe environment. '
 price: "$35 + BF"
