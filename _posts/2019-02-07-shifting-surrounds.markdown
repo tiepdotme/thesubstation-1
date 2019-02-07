@@ -5,7 +5,7 @@ categories:
 - whats-on
 image: "/uploads/YandellWalton.jpg"
 image-credit: Yandell Walton
-video: 315787459
+video-thumbnail: 315787459
 presented-by: Yandell Walton
 tagline: 'A site specific immersive visual art installation interrogating the shifting
   environments caused by climate change. '
