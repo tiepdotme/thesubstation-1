@@ -12,9 +12,9 @@ datetime:
 supporters: Room40
 ---
 
-For the past four decades, Japan’s noise sound artist Merzbow has reigned supreme as the undisputed king of noise. Merzbow, the brainchild of avant garde musican and writer Masami Akita, is influenced by early 20th century art movements Dada and Surrealism and in particular Swiss Dada artist and poet Kurt Schwitters. A prolific creator – he has released hundreds of recordings in a range of musical styles – he has collaborated with musicians from around the globe in a rich and varied career characterised by inventiveness. 
+For the past four decades, Japan’s noise sound artist Merzbow has reigned supreme as the undisputed king of noise. **Merzbow**, the brainchild of avant garde musican and writer Masami Akita, is influenced by early 20th century art movements Dada and Surrealism and in particular Swiss Dada artist and poet Kurt Schwitters. A prolific creator – he has released hundreds of recordings in a range of musical styles – he has collaborated with musicians from around the globe in a rich and varied career characterised by inventiveness. 
 
-Musically Merzbow employs distortion, feedback, synthesizers and industrial sounds. Live his sonic works are all consuming; he creates a uniquely immersive sound world, a universe of noise, that is deep, complex and intense. 
+Live, **Merzbow’s** sonic works are all consuming; he creates a uniquely physical sound world within which the bodies of his audience are entirely consumed. To describe it as a wall of noise is to understate the experience, **Merzbow’s** performances generate a universe of noise, infinitely deep, infinitely complex and one that produces profound overstimulation across all spectra of experience, resulting in a euphoria unlike anything else you might hope to experience.
 
 
 Presented by The SUBSTATION and ROOM40.
