@@ -1,10 +1,11 @@
 ---
 title: Shifting Surrounds
-date: 2019-01-18 17:59:00 +11:00
+date: 2019-02-07 13:05:00 +11:00
 categories:
 - whats-on
 image: "/uploads/YandellWalton.jpg"
 image-credit: Yandell Walton
+video: 315787459
 presented-by: Yandell Walton
 tagline: 'A site specific immersive visual art installation interrogating the shifting
   environments caused by climate change. '
