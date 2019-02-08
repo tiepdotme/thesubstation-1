@@ -5,6 +5,7 @@ categories:
 - whats-on
 image: "/uploads/JonRose.jpg"
 video-thumbnail: 315786792
+button-url: https://the-violin-genertor.eventbrite.com.au
 button-txt: BOOK NOW
 presented-by: 'Curated by Jon Rose and Kali Michailidis '
 tagline: "A twisted Dada-esque exhibition and performance of violin artefacts and
