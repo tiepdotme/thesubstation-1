@@ -15,7 +15,7 @@ datetime:
 is-within-gallery-open-time: true
 notes:
   note: |-
-    Performances from 7pm -10pm
+    Performances from 7pm -10pm:
     5, 6, 12, 13 April
 ---
 
