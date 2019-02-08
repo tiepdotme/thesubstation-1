@@ -11,6 +11,7 @@ price: "$35 + BF"
 datetime:
 - 2019-04-27 00:00:00 +10:00
 - 2019-04-27 00:00:00 +10:00
+is-single-date: true
 is-single-month-duration: true
 notes:
   note: 'Tickets on sale 2019 '
