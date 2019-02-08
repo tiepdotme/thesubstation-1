@@ -21,4 +21,6 @@ notes:
 
 This Dada-esque cabinet of curiosities includes over 700 violin artefacts, iconography, and improbable instruments; performances that are musically perverse, historically twisted, and culturally critical. Sourced from Australia’s most unusual collection, The Rosenberg Museum is the brainchild of violinist, composer, and artist Jon Rose. 
 
+Experience these improbable instruments in action with performances on the 5th, 6th, 12th & 13th April with musicians Ernie Althof, Robbie Avenaim, Biddy Connor, Jozef Cseres, Judith Hamann, Rainer Linz, Michael McNab, Maria Moles, Chloe Smith, Hollis Taylor, Erkki Veltheim & Lizzy Welsh. 
+
 Presented by The SUBSTATION, in conjunction with Tura New Music. Supported by Australia Council.
