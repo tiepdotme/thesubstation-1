@@ -5,7 +5,7 @@ categories:
 - whats-on
 image: "/uploads/Remain.jpg"
 image-credit: Hoda Afsha
-presented-by: 'Hoda Afsha '
+presented-by: Hoda Afshar
 tagline: 'In response to the federal election, 6 portraits of men who Remain on Manus
   Island will be presented on the Substation billboards. '
 price: FREE
@@ -20,4 +20,4 @@ notes:
 
 REMAIN was made in collaboration with several of the men who still remain on Manus Island, PNG, five or more years after they left their homelands to seek asylum in Australia, but instead were sent to languish in the remote offshore detention centre. 
 
-Presented by The SUBSTATION and Hyphenated Projects.
+Presented by The SUBSTATION and [Hyphenated Projects.](https://www.hyphenatedprojects.com/)
