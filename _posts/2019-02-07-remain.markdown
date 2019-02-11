@@ -6,8 +6,8 @@ categories:
 image: "/uploads/Remain.jpg"
 image-credit: Hoda Afsha
 presented-by: Hoda Afshar
-tagline: 'In response to the federal election, 6 portraits of men who Remain on Manus
-  Island will be presented on the Substation billboards. '
+tagline: "\nIn response to the federal election, six portraits of men who Remain on
+  Manus Island will be presented on the Substation billboards. "
 price: FREE
 datetime:
 - 2019-02-01 00:00:00 +11:00
@@ -18,6 +18,7 @@ notes:
   note: Located on The SUBSTATION Billboards
 ---
 
-REMAIN was made in collaboration with several of the men who still remain on Manus Island, PNG, five or more years after they left their homelands to seek asylum in Australia, but instead were sent to languish in the remote offshore detention centre. 
+Melbourne-based artist **Hoda Afsha’s** award-winning portraiture series titled REMA was made in collaboration with indefinitely detained asylum seekers on Manus Island in Papua New Guinea more than five years after they left their homelands to seek asylum in Australia. The series bears witness to their incarcerated lives on Manus through individual and shared stories, staged images, and through words. 
+
 
 Presented by The SUBSTATION and [Hyphenated Projects.](https://www.hyphenatedprojects.com/)
