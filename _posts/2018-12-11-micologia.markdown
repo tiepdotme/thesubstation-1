@@ -10,7 +10,7 @@ button-txt: BOOK NOW
 presented-by: REMUSE
 tagline: A multisensory and immersive runway experience showcasing cosmic sustainable
   fashion label REMUSE.
-price: "$15 + BF"
+price: "$20/$15 + BF"
 datetime:
 - 2019-03-06 18:30:00 +11:00
 has-start-time: true
