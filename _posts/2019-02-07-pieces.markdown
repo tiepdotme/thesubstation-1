@@ -4,9 +4,7 @@ date: 2019-02-07 13:30:00 +11:00
 categories:
 - whats-on
 image: "/uploads/Pieces.jpg"
-image-credit: |-
-  Photographer: David Paterson.
-  Performer: Olwen Fouéré.
+image-credit: 'Image: Byron Perry,  Dancer: Benjamin Hancock'
 presented-by: Presented with LUCY GUERIN INC.
 tagline: 'Three emerging choreographers present pieces that shift our existing notions
   of dance.
