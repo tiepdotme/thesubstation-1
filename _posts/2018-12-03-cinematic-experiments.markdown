@@ -12,18 +12,22 @@ tagline: 'A multi-media installation in which cinema interacts with contemporary
 price: FREE
 datetime:
 - 2019-03-14 14:00:00 +11:00
-- 2019-03-15 19:00:00 +11:00
-- 2019-03-16 11:30:00 +11:00
 - 2019-03-17 16:30:00 +11:00
 is-on-home-page: true
-has-start-time: true
+has-start-time: false
 is-list-of-dates: true
 is-single-time-duration: true
-event-duration-txt: |-
-  Thu 14 – Fri 15 March
-  2:00pm – 7:00pm
-  Sat 16 – Sun 17 March
-  11:00am – 4:30pm
+event-duration-txt:
+- 'Thu 14 – Fri 15 March
+
+'
+- '2:00pm – 7:00pm
+
+'
+- 'Sat 16 – Sun 17 March
+
+'
+- 11:00am – 4:30pm
 notes:
 - Altona Gate Shopping Centre, Level Two
 - 124-134 Millers Road, Altona North
