@@ -9,19 +9,27 @@ button-url: https://dancemassive.com.au/program/cinematic-experiments-multi-medi
 button-txt: MORE INFO
 presented-by: Margie Medlin
 tagline: 'A multi-media installation in which cinema interacts with contemporary dance. '
-price: FREE
+price:
+- FREE
+- '14 -15 March, 11.30am-4.30pm
+
+'
+- '16 -17 March, 2-7pm
+
+'
 datetime:
 - 2019-03-14 14:00:00 +11:00
 - 2019-03-17 16:30:00 +11:00
 is-on-home-page: true
 has-start-time: false
+has-mins: false
 is-list-of-dates: false
 is-single-time-duration: false
 notes:
   dates: 
   note: |-
     Altona Gate Shopping Centre, Level Two
-    124-134 Millers Road, Altona North
+    124-134 Millers Road
 supporters:
 - Dance Massive
 - Australia Council of Arts
