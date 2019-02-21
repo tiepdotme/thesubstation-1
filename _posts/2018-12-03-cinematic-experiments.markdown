@@ -29,8 +29,11 @@ event-duration-txt:
 '
 - 11:00am – 4:30pm
 notes:
-- Altona Gate Shopping Centre, Level Two
-- 124-134 Millers Road, Altona North
+  Notes:
+  - 'Altona Gate Shopping Centre, Level Two
+
+'
+  - 124-134 Millers Road, Altona North
 supporters:
 - Dance Massive
 - Australia Council of Arts
