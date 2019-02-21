@@ -15,8 +15,8 @@ datetime:
 - 2019-03-17 16:30:00 +11:00
 is-on-home-page: true
 has-start-time: false
-is-list-of-dates: true
-is-single-time-duration: true
+is-list-of-dates: false
+is-single-time-duration: false
 event-duration-txt:
 - 'Thu 14 – Fri 15 March
 
