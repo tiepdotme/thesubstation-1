@@ -17,17 +17,6 @@ is-on-home-page: true
 has-start-time: false
 is-list-of-dates: false
 is-single-time-duration: false
-event-duration-txt:
-- 'Thu 14 – Fri 15 March
-
-'
-- '2:00pm – 7:00pm
-
-'
-- 'Sat 16 – Sun 17 March
-
-'
-- 11:00am – 4:30pm
 notes:
   dates: 
   note: |-
