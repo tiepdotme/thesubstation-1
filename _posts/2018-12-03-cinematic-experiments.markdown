@@ -29,14 +29,14 @@ event-duration-txt:
 '
 - 11:00am – 4:30pm
 notes:
-  Notes:
-  - 'Altona Gate Shopping Centre, Level Two
-
-'
-  - 124-134 Millers Road, Altona North
+  dates: 
+  note: |-
+    Altona Gate Shopping Centre, Level Two
+    124-134 Millers Road, Altona North
 supporters:
 - Dance Massive
 - Australia Council of Arts
+- 
 ---
 
 **Cinematic Experiments** is a playful interactive multi-media installation in which early cinema techniques and digital dance are layered and animated.
