@@ -15,6 +15,11 @@ datetime:
 - 2019-03-17 00:00:00 +11:00
 is-on-home-page: true
 is-single-time-duration: true
+event-duration-txt: |-
+  Thu 14 – Fri 15 March
+  2:00pm – 7:00pm
+  Sat 16 – Sun 17 March
+  11:00am – 4:30pm
 notes:
   note: |-
     Altona Gate Shopping Centre, Level Two
