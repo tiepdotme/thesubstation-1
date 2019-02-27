@@ -14,6 +14,9 @@ datetime:
 is-many-months-duration: true
 notes:
   note: Located on The SUBSTATION Billboards
+supporters:
+- YIRRAMBOI Festival
+- Hobsons Bay + Creative City
 ---
 
 **Ngathoongan Pawa (We Eat)** is a suit of selected works from the series **Cook Book**. **Ngathoongan Pawa (We Eat) ** explores the merging of traditional Aboriginal cultural practices of hunting and cooking with Westernised 21st century knowledges and tools. As Aboriginal people, we have passed down stories to the next generation for hundreds of centuries in order to preserve timeless knowledges and our way of life – even through the onslaught of change that invasion and forced assimilation brought with it. 
