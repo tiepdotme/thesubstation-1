@@ -3,7 +3,7 @@ title: Recital
 date: 2018-12-03 14:49:00 +11:00
 categories:
 - whats-on
-image: "/uploads/Recital.jpg"
+image: "/uploads/Recital-2019.jpg"
 video-thumbnail: 312046562
 button-url: https://recital-edwardes-cilli.eventbrite.com.au
 button-txt: BOOK NOW
