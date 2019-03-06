@@ -1,6 +1,6 @@
 ---
 title: MICOLOGÍA
-date: 2018-12-11 11:10:00 +11:00
+date: 2019-03-06 11:10:00 +11:00
 categories:
 - archive
 image: "/uploads/VAMFF.jpg"
