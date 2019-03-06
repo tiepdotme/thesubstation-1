@@ -15,6 +15,10 @@ datetime:
 - 2019-07-20 00:00:00 +10:00
 has-opening-event: true
 is-within-gallery-open-time: true
+supporters:
+- Besen Foundation
+- Creative Partnerships Australia
+- 
 ---
 
 ART+CLIMATE=CHANGE 2019 festival artist Yandell Walton invites visitors to The SUBSTATION to experience her immersive, digital installation Shifting Surrounds. This major exhibition of site-specific installations was developed by the artist through a series of on-site residencies in 2017/18 and the resulting work responds to the unique architecture of the building to interrogate the shifting environments caused by climate change. 
