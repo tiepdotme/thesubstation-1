@@ -2,7 +2,7 @@
 title: MICOLOGÍA
 date: 2018-12-11 11:10:00 +11:00
 categories:
-- whats-on
+- archive
 image: "/uploads/VAMFF.jpg"
 image-credit: 'B2B Creative '
 button-url: https://micologia.eventbrite.com.au
