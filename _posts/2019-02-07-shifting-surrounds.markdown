@@ -18,6 +18,9 @@ is-within-gallery-open-time: true
 supporters:
 - Besen Foundation
 - Creative Partnerships Australia
+- Gordon Darling Foundation
+- Climarte
+- Australia Council of Arts
 - 
 ---
 
