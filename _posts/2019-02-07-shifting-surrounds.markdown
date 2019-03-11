@@ -31,3 +31,6 @@ ART+CLIMATE=CHANGE 2019 festival artist Yandell Walton invites visitors to The S
 ART+CLIMATE=CHANGE 2019 is a socially-engaged festival of climate change related arts and ideas featuring curated exhibitions and theatre works alongside a series of keynote lectures, events and public forums featuring local and international guests. 
 
 Click [here](www.artclimatechange.org) more information.
+
+
+Presented by The SUBSTATION, [CLIMARTE](www.artclimatechange.org) and [Centre for Projection Art](https://www.centreforprojectionart.com.au/). This project has been assisted by the Australian Government through the Australia Council for the Arts, its arts funding and advisory body.
