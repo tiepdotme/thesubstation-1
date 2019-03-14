@@ -11,10 +11,10 @@ presented-by: Margie Medlin
 tagline: 'A multi-media installation in which cinema interacts with contemporary dance. '
 price:
 - FREE
-- '14 -15 March, 11.30am-4.30pm
+- '14 -15 March, 2-7pm
 
 '
-- '16 -17 March, 2-7pm
+- '16 -17 March, 11.30am-4.30pm
 
 '
 datetime:
@@ -26,10 +26,10 @@ has-mins: false
 is-list-of-dates: false
 is-single-time-duration: false
 notes:
-  dates: 
   note: |-
     Altona Gate Shopping Centre, Level Two
     124-134 Millers Road
+  dates: 
 supporters:
 - Dance Massive
 - Australia Council of Arts
