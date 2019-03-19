@@ -13,6 +13,7 @@ tagline: A universe of noise
 price: "$45 / $35 + BF"
 datetime:
 - 2019-07-04 00:00:00 +10:00
+is-on-home-page: true
 supporters: Room40
 ---
 
