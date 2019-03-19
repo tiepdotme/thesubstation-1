@@ -2,7 +2,7 @@
 title: |-
   WILLIAM BASINSKI 
   CATERINA BARBIERI
-date: 2018-11-07 12:06:00 +11:00
+date: 2019-01-01 12:06:00 +11:00
 categories:
 - archive
 image: "/uploads/WB.jpg"
