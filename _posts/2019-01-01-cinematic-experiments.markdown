@@ -1,6 +1,6 @@
 ---
 title: Cinematic Experiments
-date: 2018-12-03 15:27:00 +11:00
+date: 2019-01-01 15:27:00 +11:00
 categories:
 - archive
 image: "/uploads/Cinematic.jpg"
