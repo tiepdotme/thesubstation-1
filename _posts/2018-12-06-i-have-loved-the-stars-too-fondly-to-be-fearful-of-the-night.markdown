@@ -2,7 +2,7 @@
 title: i have loved the stars too fondly to be fearful of the night
 date: 2018-12-06 14:55:00 +11:00
 categories:
-- whats-on
+- archive
 image: "/uploads/Rachel-Ogle.jpg"
 image-credit: Mick Bello
 video-thumbnail: 306728338
@@ -15,7 +15,7 @@ price: "$25 / $20 + BF"
 datetime:
 - 2019-03-15 19:00:00 +11:00
 - 2019-03-17 19:00:00 +11:00
-is-on-home-page: true
+is-on-home-page: false
 has-start-time: true
 is-opening-hours-time: false
 is-single-time-duration: false
