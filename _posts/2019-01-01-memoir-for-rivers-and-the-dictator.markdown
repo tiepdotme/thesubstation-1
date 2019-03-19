@@ -1,6 +1,6 @@
 ---
 title: Memoir for Rivers and The Dictator
-date: 2018-12-06 16:13:00 +11:00
+date: 2019-01-01 16:13:00 +11:00
 categories:
 - archive
 image: "/uploads/Lilian%20Steiner.jpg"
