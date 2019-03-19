@@ -14,6 +14,7 @@ price: 'FREE / $10 '
 datetime:
 - 2019-04-04 00:00:00 +11:00
 - 2019-04-13 00:00:00 +10:00
+is-on-home-page: true
 is-within-gallery-open-time: true
 notes:
   note: |-
