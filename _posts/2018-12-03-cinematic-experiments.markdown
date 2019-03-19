@@ -2,7 +2,7 @@
 title: Cinematic Experiments
 date: 2018-12-03 15:27:00 +11:00
 categories:
-- whats-on
+- archive
 image: "/uploads/Cinematic.jpg"
 video-thumbnail: 306729818
 button-url: https://dancemassive.com.au/program/cinematic-experiments-multi-media-installation/
@@ -20,7 +20,7 @@ price:
 datetime:
 - 2019-03-14 14:00:00 +11:00
 - 2019-03-17 16:30:00 +11:00
-is-on-home-page: true
+is-on-home-page: false
 has-start-time: false
 has-mins: false
 is-list-of-dates: false
