@@ -2,7 +2,7 @@
 title: Memoir for Rivers and The Dictator
 date: 2018-12-06 16:13:00 +11:00
 categories:
-- whats-on
+- archive
 image: "/uploads/Lilian%20Steiner.jpg"
 image-credit: Gregory Lorenzutti
 video-thumbnail: 306727563
@@ -14,7 +14,7 @@ price: "$25 / $20 + BF"
 datetime:
 - 2019-03-15 19:00:00 +11:00
 - 2019-03-17 19:00:00 +11:00
-is-on-home-page: true
+is-on-home-page: false
 has-start-time: true
 event-duration-txt: "- 50 minutes"
 notes:
