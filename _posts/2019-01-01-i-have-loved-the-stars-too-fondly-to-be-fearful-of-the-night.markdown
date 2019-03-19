@@ -1,6 +1,6 @@
 ---
 title: i have loved the stars too fondly to be fearful of the night
-date: 2018-12-06 14:55:00 +11:00
+date: 2019-01-01 14:55:00 +11:00
 categories:
 - archive
 image: "/uploads/Rachel-Ogle.jpg"
