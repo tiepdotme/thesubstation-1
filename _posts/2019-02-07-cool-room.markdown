@@ -14,6 +14,7 @@ price: "$35 + BF"
 datetime:
 - 2019-04-27 22:00:00 +10:00
 - 2019-04-28 05:00:00 +10:00
+is-on-home-page: true
 has-start-time: true
 is-single-date: true
 is-single-time-duration: true
