@@ -2,6 +2,8 @@
 title: BUREAU OF WORKS
 date: 2019-03-20 11:49:00 +11:00
 image: "/uploads/BW.jpg"
+current: true
+image-credit: 'Lady Example, Alice Will & Caroline. Photo by Mischa Baka '
 ---
 
 [Bureau of Works](https://bureauofworks.com.au/) produces contemporary and experimental art for the here and now. Led by independent producer Erin Milne, the company focuses on creating strategic opportunities for artists, supporting the creation of new work and exploratory form, and developing contexts that foster risk-taking and ambition. 
