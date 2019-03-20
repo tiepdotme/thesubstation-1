@@ -26,9 +26,14 @@ supporters:
 - Art+Climate=Change 2019
 ---
 
-ART+CLIMATE=CHANGE 2019 festival artist Yandell Walton invites visitors to The SUBSTATION to experience her immersive, digital installation Shifting Surrounds. This major exhibition of site-specific installations was developed by the artist through a series of on-site residencies in 2017/18 and the resulting work responds to the unique architecture of the building to interrogate the shifting environments caused by climate change. 
+ART+CLIMATE=CHANGE 2019 festival artist YANDELL WALTON invites visitors to The SUBSTATION to experience her immersive, digital installation SHIFTING SURROUNDS. The exhibition explores human relationships with ecological and physical systems on the planet, by interrogating the shifting environments caused by climate change. 
 
-ART+CLIMATE=CHANGE 2019 is a socially-engaged festival of climate change related arts and ideas featuring curated exhibitions and theatre works alongside a series of keynote lectures, events and public forums featuring local and international guests. 
+Incorporating digital technology in the production and presentation of the works Walton highlights the current technological climate and raises questions around its effect on our rapidly changing world.
+
+The exhibition explores the idea of earth entering a new geological age, the Anthrocene, a term developed atmospheric chemist Paul Crutzen characterised by accelerating technological advancements, population growth and excessive consumption. Crutzen writes: “the environmental impact of population growth and economic development would suggest that humanity has left behind the Holocene [the time since the end of the last major glacial epoch, or "ice age] and is now entering a new geological age.” 
+
+This major exhibition was developed by the artist through a series of on-site residencies in 2017/18 and the resulting work responds to the unique architecture of the building to interrogate the shifting environments caused by climate change. 
+
 
 Click [here](www.artclimatechange.org) more information.
 
