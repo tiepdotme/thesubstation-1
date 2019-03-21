@@ -1,6 +1,6 @@
 ---
 title: CHORUS
-date: 2019-01-01 11:45:00 +11:00
+date: 2019-01-02 11:45:00 +11:00
 categories:
 - archive
 image: "/uploads/Chorus.jpg"
