@@ -3,13 +3,15 @@ title: Exchange Lab
 date: 2017-09-29 05:58:00 +10:00
 categories:
 - archive
+was-in-development: true
 image: "/uploads/exchange-lab.jpg"
 image-credit: Reformation9, Forest Fringe UK. Photo, David Monteith-Hodge
 presented-by: Forest Fringe X Melbourne Fringe
 datetime:
 - 2017-09-29 00:00:00 +10:00
 is-on-home-page: false
-is-single-date: true
+is-single-date: false
+is-single-month-duration: true
 supporters:
 - Forest Fringe
 - Melbourne Fringe
