@@ -1,0 +1,16 @@
+---
+title: GIRL
+date: 2019-02-06 11:27:00 +11:00
+categories:
+- in-development
+image: "/uploads/Masc.jpg"
+datetime:
+- 2019-10-01 00:00:00 +10:00
+- 2019-11-01 00:00:00 +11:00
+is-single-month-duration: true
+is-many-months-duration: true
+---
+
+MASC will be developed as a new live sound and song-based performance work by GIRL. This work asks: How do we forge a sonic template for queerness? How might non-masc bodies exist in that space?
+
+> GIRL is a collaborative performance project led by Jason Sweeney and Em König. Our collaborators include Jennifer Greer-Holmes, Kerrin Rowlands and Alexander Ramsay. We hail from Adelaide (Kaurna Yerta). Beginning life in 2015 as a performance art DJ duo called Winter Witches, GIRL has evolved into a cross-artform music and performance project, focusing on the creation of evocative and immersive sound and song-based live works. We are currently working on a trio of works (Sentients, MASC & Nature) that respond to the links between climate change, ideas of queer masculinities and visions of a queer ecological future.
