@@ -4,10 +4,13 @@ date: 2016-11-28 10:00:00 +11:00
 categories:
 - archive
 - in-development-archive
+was-in-development: true
 image: "/uploads/black.jpg"
 datetime:
 - 2016-11-28 00:00:00 +11:00
-is-single-time-duration: true
+is-single-time-duration: false
+is-single-month-duration: true
+is-many-months-duration: false
 supporters: false
 ---
 
