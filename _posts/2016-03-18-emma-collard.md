@@ -1,14 +1,15 @@
 ---
 title: Emma Collard
-date: 2016-01-01 01:00:00 +11:00
+date: 2016-03-18 01:00:00 +11:00
 categories:
 - archive
 - in-development-archive
-datetime:
-- 2016-03-18 01:00:00 +11:00
 image: "/uploads/emma-collard.jpg"
 image-credit: EMMA COLLARD in collaboration with HARRY HAYES, 2016
 price: false
+datetime:
+- 2016-03-18 01:00:00 +11:00
+is-single-month-duration: true
 supporters: false
 ---
 
