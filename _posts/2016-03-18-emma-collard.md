@@ -4,6 +4,7 @@ date: 2016-03-18 01:00:00 +11:00
 categories:
 - archive
 - in-development-archive
+was-in-development: true
 image: "/uploads/emma-collard.jpg"
 image-credit: EMMA COLLARD in collaboration with HARRY HAYES, 2016
 price: false
