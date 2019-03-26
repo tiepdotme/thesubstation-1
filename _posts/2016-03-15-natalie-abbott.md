@@ -3,6 +3,7 @@ title: Natalie Abbott
 date: 2016-03-15 01:00:00 +11:00
 categories:
 - archive
+was-in-development: true
 image: "/uploads/natalie-abbott.jpg"
 price: false
 datetime:
