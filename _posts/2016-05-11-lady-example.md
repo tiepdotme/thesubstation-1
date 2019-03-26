@@ -3,10 +3,12 @@ title: Lady Example
 date: 2016-05-11 09:00:00 +10:00
 categories:
 - archive
+was-in-development: true
 image: "/uploads/lady-example.jpg"
 presented-by: Caroline Meaden, Alice Dixon & William Mcbride
 datetime:
 - 2016-05-10 23:00:00 +10:00
+is-single-month-duration: true
 is-year-duration: true
 supporters: false
 ---
