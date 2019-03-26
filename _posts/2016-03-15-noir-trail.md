@@ -3,6 +3,7 @@ title: Noir Trail 2016
 date: 2016-03-15 11:00:00 +11:00
 categories:
 - archive
+was-in-development: true
 image: "/uploads/one-step-taken-by-julian.jpg"
 image-credit: Julian Rickert
 presented-by: One Step at a Time Like This
