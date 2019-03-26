@@ -1,6 +1,6 @@
 ---
 title: Noir Trail 2016
-date: 2016-01-01 11:00:00 +11:00
+date: 2016-03-15 11:00:00 +11:00
 categories:
 - archive
 image: "/uploads/one-step-taken-by-julian.jpg"
@@ -10,6 +10,7 @@ price: false
 datetime:
 - 2016-03-01 00:00:00 +11:00
 - 2016-04-30 00:00:00 +10:00
+is-single-month-duration: true
 is-many-months-duration: true
 supporters:
 - Australia Council of Arts
