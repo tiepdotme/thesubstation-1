@@ -1,5 +1,5 @@
 ---
-title: Marginal Consort
+title: Marginal Consort (JPN)
 date: 2019-03-27 13:14:00 +11:00
 categories:
 - whats-on
