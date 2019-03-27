@@ -1,5 +1,5 @@
 ---
-title: Marginal Consort (JPN)
+title: Marginal Consort
 date: 2019-03-27 13:14:00 +11:00
 categories:
 - whats-on
@@ -7,6 +7,7 @@ image: "/uploads/Marginal%20Consort.jpg"
 image-credit: Photo by BryonyMcIntyre
 button-url: https://marginal-consort.eventbrite.com.au
 button-txt: BOOK NOW
+presented-by: JAPAN
 tagline: A DEEPLY SPATIAL AND UTTERLY UNIQUE IMPROVISATIONAL PERFORMANCE
 price: "$45 Full / $35 Concession + BF"
 datetime: 2019-07-04 19:00:00 +10:00
