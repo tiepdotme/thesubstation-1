@@ -2,7 +2,7 @@
 title: Recital
 date: 2018-12-03 14:49:00 +11:00
 categories:
-- whats-on
+- archive
 image: "/uploads/Recital-2019.jpg"
 image-credit: " Heidrun Lohr"
 video-thumbnail: 312046562
@@ -15,7 +15,7 @@ datetime:
 - 2019-03-20 19:00:00 +11:00
 - 2019-03-21 19:00:00 +11:00
 - 2019-03-22 19:00:00 +11:00
-is-on-home-page: true
+is-on-home-page: false
 has-start-time: true
 is-list-of-dates: true
 is-single-time-duration: true
