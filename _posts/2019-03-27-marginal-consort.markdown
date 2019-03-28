@@ -10,9 +10,12 @@ button-txt: BOOK NOW
 presented-by: JAPAN
 tagline: A DEEPLY SPATIAL AND UTTERLY UNIQUE IMPROVISATIONAL PERFORMANCE
 price: "$45 Full / $35 Concession + BF"
-datetime: 2019-07-07 19:00:00 +10:00
+datetime:
+- 2019-06-07 19:00:00 +10:00
+- 2019-06-07 22:00:00 +10:00
 is-on-home-page: true
 has-start-time: true
+has-mins: false
 is-single-date: true
 supporters:
 - Melbourne International Jazz Festival
