@@ -21,3 +21,4 @@ Blurring the lines between the actual and the virtual, WALTON explores the relat
 YANDELL WALTON's work is part of The SUBSTATION COMMISSIONING PROGRAM. <br>
 For more information or to donate, [click here.](https://thesubstation.org.au/donate/)
 
+Image [here](/uploads/YandellWalton.jpg)
