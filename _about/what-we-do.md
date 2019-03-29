@@ -15,6 +15,7 @@ Here's our most recent Annual Reports:
 
 * [ANNUAL REPORT 2016 ](/uploads/Annual%20Report%202017.pdf)
 * [ANNUAL REPORT 2017 ](/uploads/Annual%20Report%202016.pdf)
+* [ANNUAL REPORT 2018 ](/uploads/Annual-Report-2018.pdf) 
 * [THE SUBSTATION 2016-2019](/uploads/The-SUBSTATION-2016-2019.pdf)
 
 Find out [What's On.](https://thesubstation.org.au/whats-on/)
