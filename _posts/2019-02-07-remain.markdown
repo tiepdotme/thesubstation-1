@@ -5,6 +5,8 @@ categories:
 - whats-on
 image: "/uploads/Remain.jpg"
 image-credit: Hoda Afsha
+button-url: "/uploads/Remain-Hoda-Afshar.pdf"
+button-txt: PROGRAM
 presented-by: Hoda Afshar
 tagline: "\nIn response to the federal election, six portraits of men who Remain on
   Manus Island will be presented on the Substation billboards. "
