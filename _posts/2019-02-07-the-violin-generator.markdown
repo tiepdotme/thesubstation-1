@@ -28,16 +28,16 @@ Experience these improbable instruments in action with performances on the 5th, 
 
 The Violin Generator is a free exhibition and performances are $10. 
 
-7:00 PM | Introduction by Jozef Cseres, Director of the Rosenberg Museum. 
+7:00 PM | Introduction | Jozef Cseres, Director of the Rosenberg Museum. 
 7:15 PM | Gallery 6 | Rainer Linz, Alternative Violin Pedagogy. 
 7:30 PM | Gallery 5 |Ernie Althoff, The Leichhardt Violin - 2 String Drone Instrument with DC Motors - Cigar Box Monochord Played by 16 RPM Turntable MK 2. 
 7:45 PM | Gallery 4 | Robbie Avenaim, SARPS String Quartet. 
 8:00 PM | Gallery 3 | Robbie Avenaim & Ernie Althoff, I Can Shake a Chicken in the Middle of the Room | Maria Moles & Ernie Althoff, The Musical Coffin - Single-String Corrugated Violano. 
 8:15 PM | Gallery 2 Mezzanine |Organ on Timer 
-8:30 PM | Dance Studio Level 2 | Brigid Burke & Maria Moles, The Angst of the String at Tilde.
-8:45 PM | Intermission
-9:00 PM | Main Space Level 1 | Erkki Veltheim, Rachael Kim, Lizzy Welsh, Judith Hamann, Biddy Connor, Chloë Smith, Maria Moles, Robbie Avenaim, Michael McNab, Music in a Time of Dysfunction.
-9:30 PM | Performances End, Gallery Open. 
+8:30 PM | Dance Studio Level 2 | Brigid Burke & Maria Moles, The Angst of the String at Tilde. 
+8:45 PM | Intermission 
+9:00 PM | Main Space Level 1 | Erkki Veltheim, Rachael Kim, Lizzy Welsh, Judith Hamann, Biddy Connor, Chloë Smith, Maria Moles, Robbie Avenaim, Michael McNab, Music in a Time of Dysfunction. 
+9:30 PM | Performances End, Gallery Open.
 
 
 Presented by The SUBSTATION, in conjunction with Tura New Music. Supported by Australia Council.
