@@ -32,7 +32,7 @@ The Violin Generator is a free exhibition and performances are $10.
 7:15 PM | Gallery 6 | Rainer Linz, Alternative Violin Pedagogy. 
 7:30 PM | Gallery 5 |Ernie Althoff, The Leichhardt Violin - 2 String Drone Instrument with DC Motors - Cigar Box Monochord Played by 16 RPM Turntable MK 2. 
 7:45 PM | Gallery 4 | Robbie Avenaim, SARPS String Quartet. 
-8:00 PM | Gallery 3 | Robbie Avenaim & Ernie Althoff, I Can Shake a Chicken in the Middle of the Room | Maria Moles & Ernie Althoff, The Musical Coffin - Single-String Corrugated Violano. 
+8:00 PM | Gallery 3 | Robbie Avenaim & Ernie Althoff, I Can Shake a Chicken in the Middle of the Room <br> Maria Moles & Ernie Althoff, The Musical Coffin - Single-String Corrugated Violano. 
 8:15 PM | Gallery 2 Mezzanine |Organ on Timer 
 8:30 PM | Dance Studio Level 2 | Brigid Burke & Maria Moles, The Angst of the String at Tilde. 
 8:45 PM | Intermission 
