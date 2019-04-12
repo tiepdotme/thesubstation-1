@@ -7,6 +7,8 @@ image: "/uploads/HayleyMillar.jpg"
 image-credit: '"Australians all let us rejoice for we are young and free" by HAYLEY
   MILLAR-BAKER '
 presented-by: Hayley Millar-Baker
+tagline: A photographic exploration of the survival, preservation and adaptation of
+  traditional Aboriginal cultural hunting and culinary practices.
 price: FREE
 datetime:
 - 2019-05-06 00:00:00 +10:00
@@ -19,7 +21,7 @@ supporters:
 - Hobsons Bay + Creative City
 ---
 
-**Ngathoongan Pawa (We Eat)** is a suit of selected works from the series **Cook Book**. **Ngathoongan Pawa (We Eat) ** explores the merging of traditional Aboriginal cultural practices of hunting and cooking with Westernised 21st century knowledges and tools. As Aboriginal people, we have passed down stories to the next generation for hundreds of centuries in order to preserve timeless knowledges and our way of life – even through the onslaught of change that invasion and forced assimilation brought with it. 
+In NGATHOONGAN PAWA (WE EAT) – a suite of selected works from the photographic series Cook Book –visual artist HAYLEY MILLAR-BAKER explores the survival, preservation and adaptation of traditional Aboriginal cultural hunting and culinary practices through a range of visual and narrative techniques to examine both the personal and collective realities of Aboriginality and contemporary culture.
 
 > HAYLEY MILLAR-BAKER  is a Gunditjmara woman from Victoria, Australia. Through contemporary approaches to photography, she draws strength from her Gunditjmara bloodlines, history, and the landscape – confronting and crafting past, present, and future stories of South-East Aboriginal existence, and honouring the connectedness of intergenerational experiences of Aboriginality. 
 
