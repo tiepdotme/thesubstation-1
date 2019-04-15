@@ -15,6 +15,8 @@ datetime:
 - 2019-07-20 00:00:00 +10:00
 has-opening-event: true
 is-within-gallery-open-time: true
+artists-talk:
+  date: 2019-06-15 00:00:00 +10:00
 supporters:
 - Climarte
 - Australia Council of Arts
