@@ -30,7 +30,7 @@ ART+CLIMATE=CHANGE 2019 festival artist YANDELL WALTON invites visitors to The S
 
 Incorporating digital technology in the production and presentation of the works Walton highlights the current technological climate and raises questions around its effect on our rapidly changing world.
 
-The exhibition explores the idea of earth entering a new geological age, the Anthrocene, a term developed atmospheric chemist Paul Crutzen characterised by accelerating technological advancements, population growth and excessive consumption. Crutzen writes: “the environmental impact of population growth and economic development would suggest that humanity has left behind the Holocene [the time since the end of the last major glacial epoch, or "ice age] and is now entering a new geological age.” 
+The exhibition explores the idea of earth entering a new geological age, the Anthropocene, a term developed atmospheric chemist Paul Crutzen characterised by accelerating technological advancements, population growth and excessive consumption. Crutzen writes: “the environmental impact of population growth and economic development would suggest that humanity has left behind the Holocene [the time since the end of the last major glacial epoch, or "ice age] and is now entering a new geological age.” 
 
 This major exhibition was developed by the artist through a series of on-site residencies in 2017/18 and the resulting work responds to the unique architecture of the building to interrogate the shifting environments caused by climate change. 
 
