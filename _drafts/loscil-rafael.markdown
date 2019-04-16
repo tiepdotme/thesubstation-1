@@ -11,6 +11,8 @@ datetime:
 - 2019-06-21 23:00:00 +10:00
 has-start-time: true
 has-mins: true
+is-single-date: true
+is-single-time-duration: true
 is-single-month-duration: false
 event-duration-txt: "- Doors open 6:30pm"
 notes:
