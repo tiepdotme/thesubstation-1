@@ -1,8 +1,8 @@
 ---
 title: The Violin Generator
-date: 2019-02-07 13:30:00 +11:00
-categories:
-- whats-on
+date: 2019-04-01 13:30:00 +11:00
+tags:
+- archive
 image: "/uploads/JonRose.jpg"
 video-thumbnail: 315786792
 button-url: https://the-violin-genertor.eventbrite.com.au
@@ -14,7 +14,7 @@ price: 'FREE / $10 '
 datetime:
 - 2019-04-04 00:00:00 +11:00
 - 2019-04-13 00:00:00 +10:00
-is-on-home-page: true
+is-on-home-page: false
 is-within-gallery-open-time: true
 notes:
   note: |-
