@@ -14,6 +14,8 @@ datetime:
 - 2019-05-06 00:00:00 +10:00
 - 2019-07-06 00:00:00 +10:00
 is-many-months-duration: true
+artists-talk:
+  date: 2019-05-11 12:00:00 +10:00
 notes:
   note: Located on The SUBSTATION Billboards
 supporters:
@@ -26,3 +28,4 @@ In NGATHOONGAN PAWA (WE EAT) – a suite of selected works from the photographic
 > HAYLEY MILLAR-BAKER  is a Gunditjmara woman from Victoria, Australia. Through contemporary approaches to photography, she draws strength from her Gunditjmara bloodlines, history, and the landscape – confronting and crafting past, present, and future stories of South-East Aboriginal existence, and honouring the connectedness of intergenerational experiences of Aboriginality. 
 
 Presented by The SUBSTATION and [YIRRAMBOI Festival](https://yirramboi.net.au/). 
+Supported by Creative City Hobsons Bay
