@@ -19,7 +19,7 @@ notes:
   note: 'General standing and relaxed seating '
 ---
 
-The SUBSTATION and Room40 presents a night of beautiful electronic exploration through an impressive cast of ambient masters – Loscil (CA), Rafael Anton Irisarri (USA), Joe Talia and Eiko Ishibashi (JPN) and Lost Few.
+The SUBSTATION and Room40 present a night of beautiful electronic exploration through an impressive cast of ambient masters – Loscil (CA), Rafael Anton Irisarri (USA), Joe Talia and Eiko Ishibashi (JPN) and Lost Few.
 
 Loscil aka Scott Morgan from Vancouver derived his name from the “looping oscillator” function of Csound audio programming language. Yet since 2001 Loscil has been making more than just loops – bringing slow ambient textures exploring subjects like water and morning plain – leaving you wrapped in a sonic blanket of euphoria and aural bliss. 
  
