@@ -16,7 +16,8 @@ datetime:
 has-opening-event: true
 is-within-gallery-open-time: true
 artists-talk:
-  date: 2019-06-15 00:00:00 +10:00
+  date: 2019-06-05 18:00:00 +10:00
+  note: 'World Environment Day Forum '
 supporters:
 - Climarte
 - Australia Council of Arts
