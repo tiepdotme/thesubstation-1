@@ -12,7 +12,7 @@ tagline: A photographic exploration of the survival, preservation and adaptation
 price: FREE
 datetime:
 - 2019-05-06 00:00:00 +10:00
-- 2019-07-06 00:00:00 +10:00
+- 2019-08-04 00:00:00 +10:00
 is-many-months-duration: true
 artists-talk:
   date: 2019-05-11 12:00:00 +10:00
