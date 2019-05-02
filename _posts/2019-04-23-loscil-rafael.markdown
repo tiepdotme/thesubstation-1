@@ -12,6 +12,7 @@ price: "$40/30 + BF | Doors Sales  $45/35"
 datetime:
 - 2019-06-21 19:30:00 +10:00
 - 2019-06-21 23:00:00 +10:00
+is-on-home-page: true
 has-start-time: true
 has-mins: true
 is-single-date: true
