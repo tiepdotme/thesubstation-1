@@ -2,7 +2,7 @@
 title: Discwoman feat. Umfang and Shyboi
 date: 2019-02-07 13:30:00 +11:00
 categories:
-- whats-on
+- archive
 image: "/uploads/Cool.jpg"
 video-thumbnail: 315797003
 button-url: https://www.eventbrite.com.au/e/cool-room-presents-discwoman-featuring-umfang-and-shyboi-tickets-58765488157
