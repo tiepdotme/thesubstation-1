@@ -13,6 +13,7 @@ price: FREE
 datetime:
 - 2019-05-04 14:00:00 +10:00
 - 2019-07-20 00:00:00 +10:00
+is-on-home-page: true
 has-opening-event: true
 is-within-gallery-open-time: true
 artists-talk:
