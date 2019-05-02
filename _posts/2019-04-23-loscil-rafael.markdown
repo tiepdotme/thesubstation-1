@@ -29,7 +29,7 @@ Joining Loscil is one of New Yorks most celebrated ambient music makers, Rafael 
 
 Tokyo-based electro-acoustic duo Eiko Ishibashi & Joe Talia, performing with flute, piano, analog tape, synthesizers and percussion. Together their work creates a dense harmonic sound world that exists somewhere between avant-garde improvisation and electronic exploration. 
 
-Joining this spectacular line up is Lost Few, an audio-visual project by Melbourne-based experimental artist David Thompson. Lost Few will be debuting Between the Silence – a two person performance installation with visuals by Keith Deverell – showcasing ambient techno, disturbed electronics, processed instrumentation and sub-bass experiments. 
+Joining this spectacular line up is Lost Few, an audio-visual project by Melbourne-based experimental artist David Thomson. Lost Few will be debuting Between the Silence – a two person performance installation with visuals by Keith Deverell – showcasing ambient techno, disturbed electronics, processed instrumentation and sub-bass experiments. 
 
 This event is general standing and relaxed seating.
  
