@@ -13,7 +13,7 @@ Tickets to performances can be purchased online or over the phone on (03) 9391 1
 In an effort to reduce waste, The SUBSTATION asks that patrons do not print their tickets at home. We ask that you have your ticket ready on your mobile device when you arrive at the venue or just bring some photo ID to verify your identity.
 
 
-Please note a transaction fee may apply.
+Please note a transaction fee may apply. 
 
 ## CONCESSIONS
 
@@ -53,3 +53,7 @@ By purchasing a ticket, you agree to our Terms and Conditions:
 The SUBSTATION reserves the right to refuse entry if:
 * you are unable to produce a valid ticket or verify your name against a venue’s door list.
 * you cannot provide proof of concession where a concession ticket has been purchased.
+
+## Privacy Policy 
+
+The SUBSTATION Privacy Policy can be found [here](/uploads/Privacy%20Policy.pdf).
