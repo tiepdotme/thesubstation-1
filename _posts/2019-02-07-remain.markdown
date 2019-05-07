@@ -2,7 +2,7 @@
 title: Remain
 date: 2019-02-07 13:30:00 +11:00
 categories:
-- whats-on
+- archive
 image: "/uploads/Remain.jpg"
 image-credit: Hoda Afsha
 button-url: "/uploads/Remain-Hoda-Afshar.pdf"
