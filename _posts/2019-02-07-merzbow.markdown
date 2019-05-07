@@ -6,7 +6,7 @@ categories:
 image: "/uploads/merzbow.jpg"
 image-credit: Image Courtesy Dark Mofo
 video-thumbnail: 315788004
-button-url: https://merzbow.eventbrite.com.au
+button-url: https://www.eventbrite.com.au/o/the-substation-17216940820
 button-txt: BOOK NOW
 presented-by: with Cat Hope
 tagline: A universe of noise
