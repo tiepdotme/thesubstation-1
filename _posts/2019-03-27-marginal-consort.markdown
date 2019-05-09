@@ -20,6 +20,7 @@ is-single-date: true
 supporters:
 - Melbourne International Jazz Festival
 - Room40
+- Hobsons Bay City Council
 ---
 
 Legendary Japanese collective, MARGINAL CONSORT will perform a rare three-hour concert for one night only in a Melbourne exclusive. Founded by members of East Bionic Symphonia – Kazuo Imai, Kei Shii, Masami Tada, and Tomonao Koshikawa will create deeply spatial works that sit at the nexus of performance, site specific installation and durational concert. 
