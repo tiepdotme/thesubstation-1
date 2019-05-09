@@ -3,7 +3,7 @@ title: 'Tidal: Creating a vision for a New Future'
 date: 2019-05-09 14:44:00 +10:00
 categories:
 - whats-on
-image: "/uploads/_W8A2400%20copy%202.jpg"
+image: "/uploads/Tidal.jpg"
 button-url: https://tidal.eventbrite.com.au
 button-txt: RSVP Essential
 presented-by: Climate Change Symposium for World Environment Day
