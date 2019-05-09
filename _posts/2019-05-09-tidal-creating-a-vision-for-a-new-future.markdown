@@ -24,7 +24,7 @@ supporters: Hobsons Bay + Creative City
 A World Environment Day symposium exploring themes of climate change and the intersection between art and science. Join us for a multi-layered conversation that unpacks the issues and challenges of our shifting environments as we seek innovative solutions for our future.
 
 ## Symposium Presenters
-JENNY MARTIN / Chair:senior lecturer in Science Communication at University of Melbourne
+JENNY MARTIN / Chair: senior lecturer in Science Communication at University of Melbourne
 
 YANDELL WALTON: Melbourne-based artist whose work encompasses projection, installation and interactive digital media.
 
