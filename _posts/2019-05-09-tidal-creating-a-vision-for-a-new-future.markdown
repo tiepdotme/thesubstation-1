@@ -17,7 +17,7 @@ has-mins: true
 is-single-date: true
 is-single-time-duration: true
 notes:
-  note: Light refreshments provided | Drinks at bar prices
+  note: Light refreshments provided
 supporters: Hobsons Bay + Creative City
 ---
 
