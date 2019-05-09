@@ -14,7 +14,8 @@ datetime:
 has-opening-event: false
 has-start-time: true
 has-mins: true
-is-single-time-duration: false
+is-single-date: true
+is-single-time-duration: true
 event-duration-txt: "- 8:30PM"
 notes:
   note: Light refreshments provided | Drinks at bar prices
@@ -23,15 +24,14 @@ supporters: Hobsons Bay + Creative City
 
 A World Environment Day symposium exploring themes of climate change and the intersection between art and science. Join us for a multi-layered conversation that unpacks the issues and challenges of our shifting environments as we seek innovative solutions for our future.
 
-Symposium Presenters
+## Symposium Presenters
+JENNY MARTIN / Chair:senior lecturer in Science Communication at University of Melbourne
 
-JENNY MARTIN / Chair – senior lecturer in Science Communication at University of Melbourne
+YANDELL WALTON: Melbourne-based artist whose work encompasses projection, installation and interactive digital media.
 
-YANDELL WALTON – Melbourne-based artist whose work encompasses projection, installation and interactive digital media.
+WAIN FIMERI: award-winning local filmmaker and creator of recent documentary Tidal, which investigates the local impacts of climate change
 
-WAIN FIMERI – award-winning local filmmaker and creator of recent documentary Tidal, which investigates the local impacts of climate change
-
-BLANCHE VERLIE – an Associate Lecturer at RMIT University with over eight years’ experience engaging communities and students with climate change. Her research explores how scientific approaches to climate communication can make climate change feel distant and abstract, rather than personal and relevant, and her practice pays particular attention to people's emotional experiences of climate change.
+BLANCHE VERLIE: an Associate Lecturer at RMIT University with over eight years’ experience engaging communities and students with climate change. Her research explores how scientific approaches to climate communication can make climate change feel distant and abstract, rather than personal and relevant, and her practice pays particular attention to people's emotional experiences of climate change.
 
 
 Presented by Hobsons Bay City Council in partnership with The SUBSTATION. 
