@@ -12,11 +12,10 @@ datetime:
 - 2019-06-05 18:00:00 +10:00
 - 2019-06-05 20:30:00 +10:00
 has-opening-event: false
-has-start-time: true
+has-start-time: false
 has-mins: true
 is-single-date: true
 is-single-time-duration: true
-event-duration-txt: "- 8:30PM"
 notes:
   note: Light refreshments provided | Drinks at bar prices
 supporters: Hobsons Bay + Creative City
