@@ -19,7 +19,7 @@ is-on-home-page: true
 has-opening-event: false
 has-closing-event: false
 has-start-time: true
-has-mins: false
+has-mins: true
 is-list-of-dates: true
 is-opening-hours-time: true
 event-duration-txt: 60 minutes
