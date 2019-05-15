@@ -16,10 +16,10 @@ datetime:
 - 2019-10-05 20:00:00 +10:00
 - 2019-10-06 14:00:00 +11:00
 is-on-home-page: true
-has-opening-event: true
-has-closing-event: true
-has-start-time: true
-has-mins: true
+has-opening-event: false
+has-closing-event: false
+has-start-time: false
+has-mins: false
 is-list-of-dates: true
 is-opening-hours-time: true
 event-duration-txt: 60 minutes
