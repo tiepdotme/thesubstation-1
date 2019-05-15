@@ -23,5 +23,5 @@ Inspired by the concepts found in the first chapter of Australian author Greg Eg
 
 The creative team is led by composer and audio-visual artist [Robin Fox](https://robinfox.com.au/) working in close collaboration with [CHAMBER MADE](http://www.chambermade.org) Artistic Director dramaturg and co-director Tamara Saulwick, co-composer and violinist  Erkki Veltheim, video artist and system designer Nick Roux, and musician / performers Madeleine Flynn (ondes musicales and Moog synth) and Georgina Darvidis (vocals and theremin), with lighting design by Amelia Lever-Davidson.
 
-Presented by The SUBSTATION, [Melbourne International Arts Festival](https://www.festival.melbourne/) and [Chamber Made](http://www.chambermade.org).
+Presented by The SUBSTATION, [Melbourne International Arts Festival](https://www.festival.melbourne/) and [CHAMBER MADE](http://www.chambermade.org).
 
