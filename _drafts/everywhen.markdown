@@ -24,15 +24,10 @@ Dense, intricate and mesmerising. The audience is enveloped in a whirlpool of so
 
 
 Director, Composer, Performer – [Matthias Schack-Arnott](http://matthiasschackarnott.com) 
-
 Robotics – Nick Roux
-
 Lighting Designer - Keith Tucker
-
 Sound Engineer – Tilman Robinson
-
 Production Management - Megafun
-
 Producer – Michaela Coventry-Sage Arts
 
 Presented by The SUBSTATION and [Melbourne International Arts Festival](https://www.festival.melbourne/).
