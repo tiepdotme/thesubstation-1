@@ -15,6 +15,8 @@ datetime:
 - 2019-10-05 14:00:00 +10:00
 - 2019-10-05 20:00:00 +10:00
 - 2019-10-06 14:00:00 +11:00
+has-start-time: true
+is-list-of-dates: true
 event-duration-txt: 60 minutes
 supporters: Melbourne Festival
 ---
