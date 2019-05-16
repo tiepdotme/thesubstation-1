@@ -7,7 +7,7 @@ button-txt: donate
 has-newsletter-signup: false
 list-orgs: true
 sections:
-- title: HELP THE SUBSTATION SUPPORT INDEPENDANT ARTISTS
+- title: HELP THE SUBSTATION SUPPORT INDEPENDENT ARTISTS
   copy: |
     With the help of your donations, we were able to commission four mid-career artists in 2018 to create ambitious works of scale. In July 2018, we presented NONCOMPETE by Alisdair Macindoe, an exhibition of self-organising robotic instruments. Our second commission was part of Melbourne International Arts Festival, DEFUNCTIONALISED AUTONOMOUS OBJECTS by Steven Rhall, attracting over 12,000 visitors. AIR DANCER AS BLACK BODY from the exhibition will tour to this year’s Dark Mofo festival in Hobart. NEWER VOLCANICS by The Orbweavers closed out our 2018 program with 2 sold-out live concerts and an album due to be launched later in 2019.
 
