@@ -3,10 +3,11 @@ title: KUKANGENDAI (JPN)
 date: 2019-05-22 11:33:00 +10:00
 categories:
 - whats-on
+image: "/uploads/KUKANGENDAI.jpg"
 image-credit: Katayama Tatsuki
 tagline: This music consists entirely of shocks, it is impossible to grasp
 price: "$29/$39 + BF"
-supporters: The Japan Foundation
+supporters: Melbourne Festival
 ---
 
 In collaboration with Melbourne International Arts Festival and the Japan Foundation, Japan’s avant-garde rock trio [KUKANGENDAI](http://kukangendai.com/) will perform an hour-long musical piece ORGAN as their debut in Australia. The band creates experimental music in live performances by dissecting and reconstructing rhythms and phrases. Their intense and captivating sound will thrill audiences throughout Australia. 
