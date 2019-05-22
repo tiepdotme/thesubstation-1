@@ -9,7 +9,9 @@ presented-by: Swing Bridge launch and listening party
 tagline: Celebrate this AAO-commissioned work, recorded on the Town Hall Grand Organ
 price: Free
 datetime: 2019-08-02 19:00:00 +10:00
-has-mins: 2 Hours
+has-start-time: true
+is-single-date: true
+event-duration-txt: 2 Hours
 supporters: Australia Council of Arts
 ---
 
