@@ -2,7 +2,7 @@
 title: ALVIN LUCIER
 date: 2019-05-22 12:38:00 +10:00
 categories:
-- WHATS ON
+- whats-on
 image: "/uploads/AAO-59c1b4.jpg"
 image-credit: Mia Forrest
 presented-by: Swing Bridge launch and listening party
@@ -10,10 +10,14 @@ tagline: Celebrate this AAO-commissioned work, recorded on the Town Hall Grand O
 price: Free
 datetime: 2019-08-02 19:00:00 +10:00
 has-mins: 2 Hours
-supporters: Australia Council of Arts
+supporters:
+- Australia Council of Arts
+- Creative Victoria
+- City of Melbourne
+- Australian Art Orchestra
 ---
 
-To celebrate the release of the [AUSTRALIAN ART ORCHESTRA](http://aao.com.au) commissioned work, Swing Bridge by ALVIN LUCIER, we’re hosting a listening party and special performance at The SUBSTATION.
+To celebrate the release of SWING BRIDGE by ALVIN LUCIER, the [AUSTRALIAN ART ORCHESTRA](http://aao.com.au) is hosting a special performance and listening party.
 
 In 2015, the AUSTRALIAN ART ORCHESTRA commissioned legendary American composer ALVIN LUCIER to write a new work for the AAO using the Melbourne Town Hall Organ. The resulting work, Swing Bridge will be released on New York-based label, [MODE RECORDS](https://moderecords.bandcamp.com/).
 
@@ -24,3 +28,5 @@ We’ll also have a special gin-based cocktail made for the launch: I Am Drinkin
 Swing Bridge will be released on limited edition vinyl and will also feature another as yet unreleased ALVIN LUCIER work, Sizzles. Sizzles was composed in 1997 for organ and resonating percussion and recorded in the Melbourne Town Hall in the middle of the night, so that the ambient sounds of the city were at their quietest.
 
 This project has been assisted by the Australian Government through the [Australia Council for the Arts](https://www.australiacouncil.gov.au/), its funding and advisory body. This event is also supported by [Creative Victoria](https://creative.vic.gov.au/), the City of Melbourne Arts Grants Program, and [Ensemble Offspring](http://ensembleoffspring.com/).   
+
+Presented by THE SUBSTATION and the AUSTRALIAN ART ORCHESTRA.
