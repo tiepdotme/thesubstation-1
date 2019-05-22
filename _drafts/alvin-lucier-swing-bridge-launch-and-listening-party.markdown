@@ -1,10 +1,11 @@
 ---
-title: ALVIN LUCIER, Swing Bridge launch and listening party
+title: ALVIN LUCIER
 date: 2019-05-22 12:38:00 +10:00
 categories:
 - WHATS ON
 image: "/uploads/AAO-59c1b4.jpg"
 image-credit: Mia Forrest
+presented-by: Swing Bridge launch and listening party
 tagline: Celebrate this AAO-commissioned work, recorded on the Town Hall Grand Organ
 price: Free
 datetime: 2019-08-02 19:00:00 +10:00
