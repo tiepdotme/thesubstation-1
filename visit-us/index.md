@@ -1,12 +1,14 @@
 ---
-title: Getting here
+title: Visit Us
 permalink: "/visit-us/"
 image: "/uploads/the-substation-getting-here.jpg"
 image-bottom: "/uploads/the-substation-map-lr.jpg"
-layout: post
 has-newsletter-signup: false
 is-visible: true
 is-half-hero: false
+button-url: http://eepurl.com/mu-AH
+button-txt: Subscribe to our newsletter
+layout: post
 ---
 
 ## ADDRESS
