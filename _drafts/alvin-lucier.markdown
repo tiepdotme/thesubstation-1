@@ -1,5 +1,5 @@
 ---
-title: ALVIN LUCIER
+title: Alvin Lucier
 date: 2019-05-22 12:38:00 +10:00
 categories:
 - whats-on
