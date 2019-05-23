@@ -25,7 +25,7 @@ Senior Curator of Photography, National Gallery of Victoria <br>
 **Jude Gun**<br>
 Executive Producer, Dark MOFO<br>
 
-**Cr Angela Altair** | Hobsons Bay City Council-Appointed Observer <br>
+**Cr Angela Altair** | Hobsons Bay City Council Appointed Observer <br>
 
 
 
