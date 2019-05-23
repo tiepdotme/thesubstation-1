@@ -3,6 +3,8 @@ title: What we do
 position: 0
 current: true
 image: "/uploads/the-substation-what-we-do.jpg"
+button-txt: Join the mailing list
+button-url: http://eepurl.com/mu-AH
 ---
 
 The SUBSTATION is a not-for-profit multi arts centre located in a 100-year-old repurposed, industrial building. 
