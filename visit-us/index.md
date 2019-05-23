@@ -7,7 +7,7 @@ has-newsletter-signup: false
 is-visible: true
 is-half-hero: false
 button-url: http://eepurl.com/mu-AH
-button-txt: Subscribe to our newsletter
+button-txt: Join the mailing list
 layout: post
 ---
 
