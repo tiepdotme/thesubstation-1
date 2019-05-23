@@ -1,6 +1,6 @@
 ---
 title: Volunteer With Us
-position: 4
+position: 3
 current: true
 image: "/uploads/Vols.jpg"
 button-url: https://goo.gl/forms/ptfJtRDDYn0fP1T73

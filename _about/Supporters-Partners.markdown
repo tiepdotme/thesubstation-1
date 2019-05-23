@@ -2,6 +2,7 @@
 title: Supporters + Partners
 date: 2019-05-23 09:43:00 +10:00
 published: false
+position: 5
 image: "/uploads/Opening_Shifting%20Surrounds_8.jpg"
 list-orgs: true
 ---

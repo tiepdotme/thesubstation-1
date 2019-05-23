@@ -1,6 +1,6 @@
 ---
 title: Staff and board
-position: 3
+position: 2
 current: true
 image: "/uploads/the-substation-staff-and-board.jpg"
 ---

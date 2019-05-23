@@ -1,6 +1,6 @@
 ---
 title: History
-position: 2
+position: 1
 current: true
 image: "/uploads/the-substation-history.jpg"
 ---

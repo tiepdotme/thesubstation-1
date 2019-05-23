@@ -1,6 +1,6 @@
 ---
 title: How to book
-position: 5
+position: 4
 is-visible: true
 current: true
 image: "/uploads/the-substation-work-with-us.jpg"
