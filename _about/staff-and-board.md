@@ -54,9 +54,10 @@ Hobsons Bay City Council Appointed Observer<br>
 ## Leela Schauble, *Marketing Manager*<br>
 [marketing (@) thesubstation.org.au](mailto:marketing@thesubstation.org.au)
 
+<br>
+<br>
 
-
-# General Enquiries<br>
+# **General Enquiries**<br>
 
 [info (@) thesubstation.org.au](mailto:info@thesubstation.org.au)<br>
 T: [(03) 9391 1110](tel:9391 1110)
