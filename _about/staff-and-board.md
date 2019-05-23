@@ -5,64 +5,65 @@ current: true
 image: "/uploads/the-substation-staff-and-board.jpg"
 ---
 
-# The SUBSTATION Board<br>
+# THE SUBSTATION BOARD<br>
 
-## **Amber Stuart** <br>
+## **Amber Stuart**
 Chair<br>
 Festivals Program Producer, Moreland City Council<br>
 
-## **James Lockyer** <br>
+## **James Lockyer**
 Treasurer<br>
 Director, Finance, Arts Centre Melbourne<br>
 
-## **Hilary Sadek** <br>
+## **Hilary Sadek**
 Secretary<br>
 Head of Marketing & Communications, Australian Centre for the Moving Image <br>
 
-## **Dominic Arcaro** <br>
+## **Dominic Arcaro**
 Director, NAVIRE <br>
 
-## **Susan Van Wyk**<br>
+## **Susan Van Wyk**
 Senior Curator of Photography, National Gallery of Victoria <br>
 
-## **Jude Gun**<br>
+## **Jude Gun**
 Executive Producer, Dark MOFO<br>
 
-## **Cr Angela Altair**<br>
+## **Cr Angela Altair**
 Hobsons Bay City Council Appointed Observer<br>
 
+<br>
+<br>
 
-
-
-# The SUBSTATION team<br>
+# THE SUBSTATION TEAM<br>
 
 ## **Brad Spolding**<br>
 Director<br>
 [director (@) thesubstation.org.au](mailto:director@thesubstation.org.au)
 
-**Kali Michailidis**<br>
+## **Kali Michailidis**<br>
 General Manager<br>
 [manager (@) thesubstation.org.au](mailto:manager@thesubstation.org.au)
 
-**Marisa Fiume** <br>
+## **Marisa Fiume** <br>
 Events Manager<br>
 [events (@) thesubstation.org.au](mailto:events@thesubstation.org.au)
 
-**Jon Hawkes** <br>
+## **Jon Hawkes** <br>
 Finance Manager<br>
 [accounts (@) thesubstation.org.au](mailto:accounts@thesubstation.org.au)
 
-**Robert Sowinski** <br>
+## **Robert Sowinski** <br>
 Production Manager<br>
 [production (@) thesubstation.org.au](mailto:production@thesubstation.org.au)
 
-**Leela Schauble** <br>
+## **Leela Schauble** <br>
 Marketing Manager<br>
 [marketing (@) thesubstation.org.au](mailto:marketing@thesubstation.org.au)
 
 
 
 # General Enquiries<br>
+
 [info (@) thesubstation.org.au](mailto:info@thesubstation.org.au)<br>
 T: [(03) 9391 1110](tel:9391 1110)
 
