@@ -7,8 +7,7 @@ image: "/uploads/the-substation-staff-and-board.jpg"
 
 # THE SUBSTATION BOARD<br>
 
-## **Amber Stuart**
-Chair<br>
+## **Amber Stuart**, Chair<br>
 Festivals Program Producer, Moreland City Council<br>
 
 ## **James Lockyer**
