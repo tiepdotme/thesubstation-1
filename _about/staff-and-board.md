@@ -51,7 +51,7 @@ Hobsons Bay City Council Appointed Observer<br>
 ## Robert Sowinski, *Production Manager*<br>
 [production (@) thesubstation.org.au](mailto:production@thesubstation.org.au)
 
-## Leela Schauble, *Marketing Manager*<br>
+## [Leela Schauble](mailto:marketing@thesubstation.org.au), *Marketing Manager*<br>
 [marketing (@) thesubstation.org.au](mailto:marketing@thesubstation.org.au)
 
 <br>
