@@ -36,17 +36,17 @@ Hobsons Bay City Council Appointed Observer<br>
 
 # OUR TEAM<br>
 
-### [Brad Spolding](mailto:director@thesubstation.org.au), *Director*<br>
+**[Brad Spolding](mailto:director@thesubstation.org.au), *Director***<br>
 
-### [Kali Michailidis](mailto:manager@thesubstation.org.au), *General Manager*<br>
+**[Kali Michailidis](mailto:manager@thesubstation.org.au), *General Manager***<br>
 
-### [Marisa Fiume](mailto:events@thesubstation.org.au), *Events Manager*<br>
+**[Marisa Fiume](mailto:events@thesubstation.org.au), *Events Manager***<br>
 
-## [Jon Hawkes](mailto:accounts@thesubstation.org.au), *Finance Manager*<br>
+**[Jon Hawkes](mailto:accounts@thesubstation.org.au), *Finance Manager***<br>
 
-## [Robert Sowinski](mailto:production@thesubstation.org.au), *Production Manager*<br>
+**[Robert Sowinski](mailto:production@thesubstation.org.au), *Production Manager***<br>
 
-## [Leela Schauble](mailto:marketing@thesubstation.org.au), *Marketing Manager*<br>
+**[Leela Schauble](mailto:marketing@thesubstation.org.au), *Marketing Manager***<br>
 
 <br>
 <br>
