@@ -48,7 +48,7 @@ _Production Manager_<br>
 [production (@) thesubstation.org.au](mailto:production@thesubstation.org.au)
 
 **Leela Schauble**<br>
-_Marketing Coordinator_<br>
+_Marketing Manager_<br>
 [marketing (@) thesubstation.org.au](mailto:marketing@thesubstation.org.au)
 
 **General Enquiries**<br>
