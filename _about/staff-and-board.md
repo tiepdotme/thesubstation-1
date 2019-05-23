@@ -32,25 +32,27 @@ Executive Producer, Dark MOFO<br>
 
 ## The SUBSTATION team<br>
 
-**Brad Spolding** | Director**<br>
+**Brad Spolding** | Director<br>
 [director (@) thesubstation.org.au](mailto:director@thesubstation.org.au)
 
-**Kali Michailidis** | General Manager**<br>
+**Kali Michailidis** | General Manager<br>
 [manager (@) thesubstation.org.au](mailto:manager@thesubstation.org.au)
 
-**Marisa Fiume** | Events Manager**<br>
+**Marisa Fiume** | Events Manager<br>
 [events (@) thesubstation.org.au](mailto:events@thesubstation.org.au)
 
-**Jon Hawkes** | Finance Manager**<br>
+**Jon Hawkes** | Finance Manager<br>
 [accounts (@) thesubstation.org.au](mailto:accounts@thesubstation.org.au)
 
-**Robert Sowinski** | Production Manager**<br>
+**Robert Sowinski** | Production Manager<br>
 [production (@) thesubstation.org.au](mailto:production@thesubstation.org.au)
 
 **Leela Schauble** | Marketing Manager<br>
 [marketing (@) thesubstation.org.au](mailto:marketing@thesubstation.org.au)
 
-**General Enquiries**<br>
+
+
+## General Enquiries<br>
 [info (@) thesubstation.org.au](mailto:info@thesubstation.org.au)<br>
 T: [(03) 9391 1110](tel:9391 1110)
 
