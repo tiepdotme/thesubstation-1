@@ -7,8 +7,7 @@ image: "/uploads/the-substation-staff-and-board.jpg"
 
 ## The SUBSTATION Board<br>
 
-### Amber Stuart<br>
-Chair<br>
+**Amber Stuart** | Chair<br>
 Festivals Program Producer, Moreland City Council<br>
 
 **James Lockyer** | Treasurer<br>
@@ -26,7 +25,7 @@ Senior Curator of Photography, National Gallery of Victoria <br>
 **Jude Gun**<br>
 Executive Producer, Dark MOFO<br>
 
-**Cr Angela Altair**  Hobsons Bay City Council Appointed Observer<br>
+**Cr Angela Altair** |  Hobsons Bay City Council Appointed Observer<br>
 
 
 
