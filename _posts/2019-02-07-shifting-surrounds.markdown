@@ -6,8 +6,8 @@ categories:
 image: "/uploads/YandellWalton.jpg"
 image-credit: Yandell Walton
 video-thumbnail: 315787459
-button-url: https://tidal.eventbrite.com.au
-button-txt: 'RSVP TO SYMPOSIUM '
+button-url: "/uploads/Shifting%20Surrounds%20Booklet_RGB.pdf"
+button-txt: 'Catalogue '
 presented-by: Yandell Walton
 tagline: 'A site specific immersive visual art installation interrogating the shifting
   environments caused by climate change. '
