@@ -8,7 +8,7 @@ image-credit: Pier Carthew
 presented-by: A Chamber Made work by Robin Fox and collaborators
 tagline: 'A science fiction revelation for machines, violin, voice, ondes musicales,
   theremin and laser '
-price: "$20/18 + BF"
+price: "$39/29 + BF"
 datetime:
 - 2019-10-03 20:00:00 +10:00
 - 2019-10-04 20:00:00 +10:00
