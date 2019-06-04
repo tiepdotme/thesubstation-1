@@ -10,7 +10,7 @@ $ JEKYLL_ENV=production bundle exec jekyll serve
 {% endcomment %}
 
 
-<div class="Container Container--windowInset">
+<div class="Container Container--windowInset HEY">
   {% include post-hero.html %}
 </div>
 
@@ -76,7 +76,7 @@ u-smDown-blockR--3by4
 
       {% comment %}
       -------------------------
-      event supporters
+      event supporters V1
       see: https://www.siteleaf.com/blog/author-pages-in-jekyll-and-siteleaf/
       see: https://www.siteleaf.com/blog/customizing-the-siteleaf-admin/#smart-fields
       see: https://jekyllrb.com/docs/templates/ (where expression!)
@@ -84,7 +84,6 @@ u-smDown-blockR--3by4
       <p>{{ item.title }}</p>
       {% endfor %}
       -------------------------
-      {% endcomment %}
 
       {% if page.supporters %}
       <div class="Meta Link-block fs-text-xs c-text-mid">
@@ -93,8 +92,7 @@ u-smDown-blockR--3by4
 
         <div class="Post-supporters m-t3">
           <div class="FlexGrid FlexGrid--sm FlexGrid--noGrow FlexGrid--retainGrid">
-            {% assign supporters = site.supporters | where_exp: "item", "page.supporters contains
-            item.title" %}
+            {% assign supporters = site.supporters | where_exp: "item", "page.supporters contains item.title" %}
             {% for supporter in supporters %}
             <img class="{% if supporter.portrait == true %}portrait{% endif %}" src="{{ supporter.image }}" alt="{{ supporter.title }}" />
             {% endfor %}
@@ -103,7 +101,60 @@ u-smDown-blockR--3by4
 
       </div>
       {% endif %}
+      {% endcomment %}
 
+      {% comment %}
+      -------------------------
+      list 'supporters'
+      aka event supporters V2
+      duplicate of same section
+      in the page template.
+      -------------------------
+      {% endcomment %}
+
+      {% if page.list-orgs == true %}
+
+      <div class="Meta Link-block fs-text-xs c-text-mid">
+        <hr class="bg-rule m-t7 m-b2">
+        Organisational
+        <div class="Post-supporters m-t3">
+          <div class="FlexGrid FlexGrid--sm FlexGrid--noGrow FlexGrid--retainGrid">
+            {% for supporter in site.supporters %}
+            {% if supporter.organisational %}
+            {% include supporter-image.html %}
+            {% endif %}
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+      <div class="Meta Link-block fs-text-xs c-text-mid">
+        <hr class="bg-rule m-t7 m-b2">
+        Program
+        <div class="Post-supporters m-t3">
+          <div class="FlexGrid FlexGrid--sm FlexGrid--noGrow FlexGrid--retainGrid">
+            {% for supporter in site.supporters %}
+            {% if supporter.program %}
+            {% include supporter-image.html %}
+            {% endif %}
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+      <div class="Meta Link-block fs-text-xs c-text-mid">
+        <hr class="bg-rule m-t7 m-b2">
+        Presenting
+        <div class="Post-supporters m-t3">
+          <div class="FlexGrid FlexGrid--sm FlexGrid--noGrow FlexGrid--retainGrid">
+            {% for supporter in site.supporters %}
+            {% if supporter.presenting %}
+            {% include supporter-image.html %}
+            {% endif %}
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+
+      {% endif %}
 
       {% comment %}
       -------------------------
@@ -197,15 +248,15 @@ next / prev post list
       <div class="FlexGrid FlexGrid--noGutter PostList">
 
         {% for post in site.categories[categoryName] limit: 4 %}
-          {%- comment -%} 
-            https://stackoverflow.com/questions/40443429/exclude-current-post-from-recent-posts-query-in-jekyll 
+          {%- comment -%}
+            https://stackoverflow.com/questions/40443429/exclude-current-post-from-recent-posts-query-in-jekyll
           {%- endcomment -%}
-          {% if post.url != page.url %} 
+          {% if post.url != page.url %}
             {% if forloop.index < 4 or found %}
               {% include post-list-item.html %}
             {% endif %}
           {% else %}
-            {% assign found = true %} 
+            {% assign found = true %}
           {% endif %}
         {% endfor %}
 
