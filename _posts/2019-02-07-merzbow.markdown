@@ -6,7 +6,7 @@ categories:
 image: "/uploads/merzbow.jpg"
 image-credit: Image Courtesy Dark Mofo
 video-thumbnail: 315788004
-button-url: https://www.eventbrite.com.au/o/the-substation-17216940820
+button-url: https://merzbow-friday.eventbrite.com.au
 button-txt: BOOK NOW
 presented-by: with Cat Hope
 tagline: A universe of noise
@@ -17,6 +17,8 @@ datetime:
 is-on-home-page: true
 has-start-time: true
 is-list-of-dates: true
+notes:
+  note: Thurs 4 July SOLD OUT // Fri 5 July SELLING FAST
 supporters: Room40
 ---
 
