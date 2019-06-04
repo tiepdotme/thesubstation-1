@@ -4,8 +4,7 @@ date: 2019-05-09 14:44:00 +10:00
 categories:
 - whats-on
 image: "/uploads/Tidal.jpg"
-button-url: https://tidal.eventbrite.com.au
-button-txt: RSVP Essential
+button-txt: SOLD OUT
 presented-by: Climate Change Symposium for World Environment Day
 price: 'FREE / RSVP Esstential '
 datetime:
