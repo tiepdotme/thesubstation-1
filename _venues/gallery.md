@@ -1,6 +1,6 @@
 ---
 title: Gallery
-position: 7
+position: 6
 venue-cta: false
 current: true
 image: "/uploads/the-substation-gallery.jpg"

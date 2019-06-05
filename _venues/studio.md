@@ -1,6 +1,6 @@
 ---
 title: Studio
-position: 6
+position: 5
 current: true
 image: "/uploads/the-substation-studio.jpg"
 ---
