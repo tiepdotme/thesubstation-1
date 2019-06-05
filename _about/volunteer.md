@@ -2,7 +2,7 @@
 title: Volunteer With Us
 position: 3
 current: true
-image: "/uploads/Vols.JPG"
+image: "/uploads/Vols.jpg"
 button-url: https://goo.gl/forms/ptfJtRDDYn0fP1T73
 button-txt: REGISTER
 ---
