@@ -4,7 +4,7 @@ date: 2019-03-27 13:14:00 +11:00
 categories:
 - whats-on
 image: "/uploads/Marginal%20Consort.jpg"
-image-credit: Photo by BryonyMcIntyre
+image-credit: Photo by Bryony McIntyre
 button-url: https://marginal-consort.eventbrite.com.au
 button-txt: BOOK NOW
 presented-by: JAPAN
