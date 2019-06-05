@@ -76,7 +76,7 @@ u-smDown-blockR--3by4
 
       {% comment %}
       -------------------------
-      event supporters V1
+      event supporters
       see: https://www.siteleaf.com/blog/author-pages-in-jekyll-and-siteleaf/
       see: https://www.siteleaf.com/blog/customizing-the-siteleaf-admin/#smart-fields
       see: https://jekyllrb.com/docs/templates/ (where expression!)
@@ -84,6 +84,7 @@ u-smDown-blockR--3by4
       <p>{{ item.title }}</p>
       {% endfor %}
       -------------------------
+      {% endcomment %}
 
       {% if page.supporters %}
       <div class="Meta Link-block fs-text-xs c-text-mid">
@@ -101,14 +102,12 @@ u-smDown-blockR--3by4
 
       </div>
       {% endif %}
-      {% endcomment %}
 
       {% comment %}
       -------------------------
-      list 'supporters'
-      aka event supporters V2
-      duplicate of same section
-      in the page template.
+      all supporters
+      (duplicate of same section
+      in the page template)
       -------------------------
       {% endcomment %}
 
