@@ -1,6 +1,6 @@
 ---
 title: Community bookings
-position: 0
+position: 3
 current: true
 image: "/uploads/the-substation-community-bookings.jpg"
 has-javascripts: true

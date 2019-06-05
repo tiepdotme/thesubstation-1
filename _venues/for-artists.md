@@ -1,7 +1,7 @@
 ---
 title: For artists
 published: false
-position: 3
+position: 2
 venue-cta: false
 current: true
 image: "/uploads/the-substation-for-artists.jpg"
