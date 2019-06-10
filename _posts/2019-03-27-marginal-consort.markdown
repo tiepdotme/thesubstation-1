@@ -2,7 +2,7 @@
 title: Marginal Consort
 date: 2019-03-27 13:14:00 +11:00
 categories:
-- whats-on
+- archive
 image: "/uploads/Marginal%20Consort.jpg"
 image-credit: Photo by Bryony McIntyre
 button-url: https://marginal-consort.eventbrite.com.au
@@ -13,7 +13,7 @@ price: "$45 Full / $35 Concession + BF"
 datetime:
 - 2019-06-08 19:00:00 +10:00
 - 2019-06-08 22:00:00 +10:00
-is-on-home-page: true
+is-on-home-page: false
 has-start-time: true
 has-mins: false
 is-single-date: true
