@@ -56,4 +56,4 @@ The SUBSTATION reserves the right to refuse entry if:
 
 ## Privacy Policy 
 
-The SUBSTATION Privacy Policy can be found [here](/uploads/Privacy%20Policy.pdf).
+The SUBSTATION Privacy Policy can be found [here](/uploads/The%20SUBSTATION%20Privacy%20Policy.pdf).
