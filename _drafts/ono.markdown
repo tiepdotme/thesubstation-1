@@ -3,7 +3,7 @@ title: ONO
 date: 2019-06-18 12:36:00 +10:00
 image: "/uploads/Ono2019.jpg"
 button-txt: On sale soon
-price: Tickets starting from $30 + booking fee
+price: Tickets starting from $30 + bf
 datetime:
 - 2019-09-06 20:00:00 +10:00
 ---
