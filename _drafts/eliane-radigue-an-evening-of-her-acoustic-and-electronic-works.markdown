@@ -3,6 +3,7 @@ title: 'Éliane Radigue: An evening of her acoustic and electronic works'
 date: 2019-06-18 15:11:00 +10:00
 categories:
 - whats-on
+image: "/uploads/Eliane-Radigue-thumb.jpg"
 presented-by: Performed by Decibel, Lionel Marchetti and Lawrence English
 ---
 
