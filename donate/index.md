@@ -5,7 +5,7 @@ image: "/uploads/the-substation-donate.jpg"
 button-url: https://www.givenow.com.au/hobsonsbaycommunityartscentre
 button-txt: donate
 has-newsletter-signup: true
-list-orgs: true
+list-orgs: false
 sections:
 - title: HELP THE SUBSTATION SUPPORT INDEPENDENT ARTISTS
   copy: |
