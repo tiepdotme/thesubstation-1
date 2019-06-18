@@ -5,9 +5,6 @@ collections:
   about:
     title: About us
     output: true
-  community:
-    title: Community
-    output: true
   posts:
     title: Events
     output: true
