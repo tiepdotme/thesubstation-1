@@ -2,6 +2,10 @@
 title: ONO
 date: 2019-06-18 12:36:00 +10:00
 image: "/uploads/Ono2019.jpg"
+button-txt: On sale soon
+price: Tickets starting from $30 + booking fee
+datetime:
+- 2019-09-06 20:00:00 +10:00
 ---
 
 ONO is Melbourne’s central space for experimental and ambient music, opening dialogue between imagination, comfort and deep listening.
