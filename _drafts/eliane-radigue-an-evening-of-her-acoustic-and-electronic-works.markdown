@@ -3,7 +3,7 @@ title: Éliane Radigue
 date: 2019-06-18 15:11:00 +10:00
 categories:
 - whats-on
-image: "/uploads/Eliane-Radigue-thumb.jpg"
+image: "/uploads/Eliane-Radigue.jpg"
 image-credit: Yves Arman Foundation
 button-txt: Book Now
 presented-by: An evening of her acoustic and electronic works performed by Decibel,
