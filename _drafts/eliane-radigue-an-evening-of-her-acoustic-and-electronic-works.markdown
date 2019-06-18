@@ -1,12 +1,13 @@
 ---
-title: 'Éliane Radigue: An evening of her acoustic and electronic works'
+title: Éliane Radigue
 date: 2019-06-18 15:11:00 +10:00
 categories:
 - whats-on
 image: "/uploads/Eliane-Radigue-thumb.jpg"
 image-credit: Yves Arman Foundation
 button-txt: Book Now
-presented-by: Performed by Decibel, Lionel Marchetti and Lawrence English
+presented-by: An evening of her acoustic and electronic works performed by Decibel,
+  Lionel Marchetti and Lawrence English
 datetime:
 - 2019-08-29 20:00:00 +10:00
 ---
