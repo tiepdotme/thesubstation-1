@@ -5,6 +5,7 @@ categories:
 - whats-on
 image: "/uploads/Eliane-Radigue.jpg"
 image-credit: Yves Arman Foundation
+button-url: thesubstation.org.au/whats-on/eliane-radigue/
 button-txt: Book Now
 presented-by: An evening of her acoustic and electronic works performed by Decibel,
   Lionel Marchetti and Lawrence English
