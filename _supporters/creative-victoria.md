@@ -1,7 +1,7 @@
 ---
 title: Creative Victoria
 image: "/uploads/supporter-creative-victoria.png"
-organisational: false
+organisational: true
 program: false
 ---
 
