@@ -12,6 +12,7 @@ presented-by: An evening of her acoustic and electronic works performed by Decib
 price: "$25 / $15 + BF"
 datetime:
 - 2019-08-29 20:00:00 +10:00
+supporters: Room40
 ---
 
 French composer **Éliane Radigue** holds a unique place in electronic music history. Her works, created for Arp 2500 synthesiser, are renowned for their hypnotic pulsing, reductive beauty and deep timbral palettes. Over the course of nearly five decades, **Radigue** set a benchmark for minimalist electronic music and struck the tone for generations to come. More recently she has turned her ears to acoustic sources, working closely with a select group of musicians to create works that share the intense focus and beauty of her earlier pieces. 
