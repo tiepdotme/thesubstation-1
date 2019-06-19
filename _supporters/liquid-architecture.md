@@ -1,6 +1,6 @@
 ---
 title: Liquid Architecture
 image: "/uploads/supporter-liquid-architecture.png"
-presenting: true
+presenting: false
 ---
 
