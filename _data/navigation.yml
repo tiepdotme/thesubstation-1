@@ -18,6 +18,9 @@ secondary:
 - title: Residents
   url: /residents/
   categories: 'residents'
+- title: Community
+  url: /community/
+  categories: 'community'
 - title: Archive
   url: /archive/
   categories: 'archive'
