@@ -129,8 +129,8 @@
     <p>{{ page.datetime | first | date: "%B" }} - {{ page.datetime | last | date: "%B" }} {{ page.datetime | first
       | date: "%Y" }}</p>
     {% else %}
-    <p>{{ page.datetime | first | date: "%a %B %d" }} - <em class="u-lg-lineBreak">{{ page.datetime | last | date:
-        "%a %B %d" }}</em></p>
+    <p>{{ page.datetime | first | date: "%a %B %d" }} - {{ page.datetime | last | date:
+        "%a %B %d" }}</p>
     {% endif %}
   </div>
   {% endif %}
