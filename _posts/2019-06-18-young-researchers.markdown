@@ -11,4 +11,4 @@ presented-by: Williamstown High School
 
 The three days of art making will use a range of media particularly drawing, collage, painting and writing. 
 
-Students will work with a practising artist **Hayley Millar-Baker** to create their own work and/or collaborative piece. This immersive three day program will assist students to extend their artistic skills and experiences.
+Students will work with a practising artist **Hayley Millar-Baker** to create their own work and/or collaborative piece. This immersive program will assist students to extend their artistic skills and experiences.
