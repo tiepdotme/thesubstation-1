@@ -1,7 +1,5 @@
 ---
 title: Community bookings
-tags:
-- community
 position: 3
 current: true
 image: "/uploads/the-substation-community-bookings.jpg"
