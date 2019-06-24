@@ -3,7 +3,7 @@ title: Loscil (CA), Rafael Anton Irisarri (USA), Joe Talia & Eiko Ishibashi (JPN
   and Lost Few
 date: 2019-06-21 12:00:00 +10:00
 categories:
-- whats-on
+- archive
 image: "/uploads/loscil.jpg"
 button-url: https://loscil-rafael-anton-irisarri.eventbrite.com.au
 button-txt: BOOK NOW
