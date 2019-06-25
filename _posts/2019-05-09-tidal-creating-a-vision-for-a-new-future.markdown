@@ -3,6 +3,7 @@ title: 'Tidal: Creating a vision for a New Future'
 date: 2019-05-09 14:44:00 +10:00
 categories:
 - archive
+- community
 image: "/uploads/Tidal.jpg"
 button-txt: SOLD OUT
 presented-by: Climate Change Symposium for World Environment Day
