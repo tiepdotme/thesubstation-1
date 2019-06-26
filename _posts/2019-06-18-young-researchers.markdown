@@ -5,7 +5,9 @@ categories:
 - community
 image: "/uploads/Young_Researchers.jpg"
 presented-by: Williamstown High School
-datetime: 2019-08-13 00:00:00 +10:00
+datetime:
+- 2019-08-01 00:00:00 +10:00
+- 2019-08-31 00:00:00 +10:00
 is-single-month-duration: true
 ---
 
