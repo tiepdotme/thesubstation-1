@@ -5,6 +5,8 @@ categories:
 - community
 image: "/uploads/Young_Researchers.jpg"
 presented-by: Williamstown High School
+datetime: 2019-08-13 00:00:00 +10:00
+is-single-month-duration: true
 ---
 
 **Young Researchers** is a three day Visual Art program for students of Williamstown High school from Years 8, 9 and 10 to be held in August at The SUBSTATION.
