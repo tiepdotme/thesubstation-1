@@ -13,6 +13,8 @@ datetime:
 - 2019-08-16 20:00:00 +10:00
 - 2019-08-17 00:00:00 +10:00
 is-single-date: true
+notes:
+  note: Tickets on sale 2019
 ---
 
 The past few years Tokyo based DJ **Haruka** has established himself as one of Japan's top DJs and a crucial figure in the dance music scene. Through his impeccable taste and personalised style of house and techno, **Haruka** has landed himself sets at top tier events around Europe and Japan, including the renowned Labyrinth Festival. 
