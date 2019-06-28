@@ -12,10 +12,10 @@ price: "$39/$29 + BF"
 datetime:
 - 2019-10-10 20:00:00 +11:00
 - 2019-10-12 20:00:00 +11:00
-- 2019-10-12 16:00:00 +11:00
-has-start-time: true
+- 2019-10-13 16:00:00 +11:00
+has-start-time: false
 is-single-date: true
-is-list-of-dates: true
+is-list-of-dates: false
 event-duration-txt: 50 minutes
 supporters: Melbourne Festival
 ---
