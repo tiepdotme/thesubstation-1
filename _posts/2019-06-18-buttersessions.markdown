@@ -12,6 +12,7 @@ presented-by: Butter Sessions
 datetime:
 - 2019-08-16 20:00:00 +10:00
 - 2019-08-17 00:00:00 +10:00
+has-start-time: true
 is-single-date: true
 notes:
   note: Tickets on sale 2019
@@ -23,4 +24,4 @@ The past few years Tokyo based DJ **Haruka** has established himself as one of J
 
 The "Senko" EP encapsulates everything we loved about his DJ sets - hypnotic, bold and acidic synth sequences paired with masterful live percussion and drumming from Izpon (of Japanese salsa band Banderas) and Shigekazu Otake (of cult group Cro-Magnon) to create a unique sonic space. The recordings snarling nature rejects the pure force of DJ Nobu's Future Terror crew, of which Haruka is a key member.
 
-Supported by a live set by **Tarquin Manek** & **Y-L Hooi **and DJ sets from **Sleep D** and **Jess Sneddon**.
+Supported by a live set by **Tarquin Manek** & **Y-L Hooi** and DJ sets from **Sleep D** and **Jess Sneddon**.
