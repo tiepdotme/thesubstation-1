@@ -11,7 +11,7 @@ button-txt: Tickets on sale soon
 presented-by: Butter Sessions
 datetime:
 - 2019-08-16 20:00:00 +10:00
-- 2019-08-17 01:00:00 +10:00
+- 2019-08-16 23:00:00 +10:00
 has-start-time: false
 is-single-date: false
 notes:
