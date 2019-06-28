@@ -18,11 +18,12 @@ datetime:
 - 2019-10-06 14:00:00 +11:00
 is-on-home-page: true
 has-opening-event: false
+has-preview-event: true
 has-closing-event: false
 has-start-time: false
 has-mins: true
 is-single-date: true
-is-list-of-dates: true
+is-list-of-dates: false
 is-opening-hours-time: false
 is-single-time-duration: false
 event-duration-txt: 60 minutes
