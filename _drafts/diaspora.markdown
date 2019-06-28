@@ -21,7 +21,8 @@ has-closing-event: false
 has-start-time: false
 has-mins: false
 is-list-of-dates: true
-is-opening-hours-time: true
+is-opening-hours-time: false
+is-single-time-duration: true
 event-duration-txt: 60 minutes
 supporters: Melbourne Festival
 ---
