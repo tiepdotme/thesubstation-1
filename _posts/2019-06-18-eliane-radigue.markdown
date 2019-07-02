@@ -15,6 +15,7 @@ is-on-home-page: true
 has-start-time: true
 has-mins: false
 is-single-date: true
+is-single-time-duration: true
 supporters: Room40
 ---
 
