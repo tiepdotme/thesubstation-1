@@ -5,8 +5,8 @@ categories:
 - whats-on
 image: "/uploads/Eliane-Radigue.jpg"
 image-credit: Yves Arman Foundation
-button-url: thesubstation.org.au/whats-on/eliane-radigue/
-button-txt: Tickets on sale soon
+button-url: https://eliane-radigue.eventbrite.com.au
+button-txt: BOOK NOW
 price: "$25 / $15 + BF"
 datetime:
 - 2019-08-29 19:00:00 +10:00
