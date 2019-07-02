@@ -13,7 +13,8 @@ datetime:
 - 2019-08-29 21:30:00 +10:00
 is-on-home-page: true
 has-start-time: true
-has-mins: true
+has-mins: false
+is-single-date: true
 supporters: Room40
 ---
 
