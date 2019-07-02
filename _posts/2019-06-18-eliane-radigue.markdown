@@ -7,11 +7,13 @@ image: "/uploads/Eliane-Radigue.jpg"
 image-credit: Yves Arman Foundation
 button-url: thesubstation.org.au/whats-on/eliane-radigue/
 button-txt: Tickets on sale soon
-presented-by: An evening of her acoustic and electronic works performed by Decibel,
-  Lionel Marchetti and Lawrence English
 price: "$25 / $15 + BF"
 datetime:
-- 2019-08-29 20:00:00 +10:00
+- 2019-08-29 19:00:00 +10:00
+- 2019-08-29 21:30:00 +10:00
+is-on-home-page: true
+has-start-time: true
+has-mins: true
 supporters: Room40
 ---
 
