@@ -6,9 +6,11 @@ date: 2019-06-18 11:14:00 +10:00
 categories:
 - whats-on
 image: "/uploads/Haruka.jpg"
-button-url: thesubstation.org.au/whats-on/buttersessions/
-button-txt: Tickets on sale soon
+button-url: https://www.eventbrite.com/e/butter-sessions-wit-haruka-sleep-d-tarquin-manek-y-l-hooi-jess-sneddon-tickets-64588792818?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing
+button-txt: Book Now
 presented-by: Butter Sessions
+tagline: Sink into an evening of brain tingling textures and sonic experiments, peaking
+  on hypnotizing dance floor focused rhythms.
 datetime:
 - 2019-08-16 20:00:00 +10:00
 - 2019-08-16 23:00:00 +10:00
