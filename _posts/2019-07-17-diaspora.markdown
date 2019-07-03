@@ -19,10 +19,10 @@ datetime:
 - 2019-10-06 14:00:00 +11:00
 is-on-home-page: true
 has-opening-event: false
-has-preview-event: true
+has-preview-event: false
 has-closing-event: false
-has-start-time: false
-has-mins: true
+has-start-time: true
+has-mins: false
 is-single-date: true
 is-list-of-dates: false
 is-opening-hours-time: false
