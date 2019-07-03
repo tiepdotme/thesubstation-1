@@ -1,10 +1,13 @@
 ---
-title: KUKANGENDAI (JPN)
-date: 2019-05-22 11:33:00 +10:00
+title: ORGAN
+date: 2019-07-17 14:30:00 +10:00
 categories:
 - whats-on
 image: "/uploads/KUKANGENDAI.jpg"
 image-credit: Katayama Tatsuki
+button-url: https://kukangendai.eventbrite.com.au
+button-txt: Book Now
+presented-by: KUKANGENDAI (JPN)
 tagline: This music consists entirely of shocks, it is impossible to grasp
 price: "$29/$39 + BF"
 supporters: Melbourne Festival
