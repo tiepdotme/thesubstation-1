@@ -1,8 +1,11 @@
 ---
-title: ONO
+title: Grand River (ITA), Fia Fiell, Soft-High  (aka. Sleep D)
 date: 2019-06-18 12:36:00 +10:00
 image: "/uploads/Ono2019.jpg"
+button-url: https://thesubstation.org.au/whats-on/
 button-txt: On sale soon
+presented-by: ONO
+tagline: A journey into outer sound
 price: Tickets starting from $30 + bf
 datetime:
 - 2019-09-06 20:00:00 +10:00
