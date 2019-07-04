@@ -13,9 +13,10 @@ price: 'Day 1: $30/$85 | Day 2: from $15 '
 datetime:
 - 2019-09-02 11:00:00 +10:00
 - 2019-09-03 16:00:00 +10:00
-has-start-time: true
+has-start-time: false
 is-single-date: false
 is-list-of-dates: true
+is-within-gallery-open-time: true
 notes:
   note: Day 1 Presentations | Day 2 Workshops
 supporters:
