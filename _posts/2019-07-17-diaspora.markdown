@@ -24,7 +24,7 @@ has-closing-event: false
 has-start-time: true
 has-mins: false
 is-single-date: false
-is-list-of-dates: true
+is-list-of-dates: false
 is-opening-hours-time: false
 is-single-time-duration: true
 event-duration-txt: "- 9PM"
