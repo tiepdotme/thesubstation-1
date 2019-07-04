@@ -21,12 +21,12 @@ is-on-home-page: true
 has-opening-event: false
 has-preview-event: false
 has-closing-event: false
-has-start-time: true
+has-start-time: false
 has-mins: false
 is-single-date: false
 is-list-of-dates: true
 is-opening-hours-time: false
-is-single-time-duration: false
+is-single-time-duration: true
 event-duration-txt: 60 minutes
 notes:
   note: Matinee Sat 5 - Sun 6 October, 2pm
