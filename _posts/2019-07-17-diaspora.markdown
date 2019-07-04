@@ -29,7 +29,7 @@ has-closing-event: false
 has-start-time: true
 has-mins: false
 is-single-date: false
-is-list-of-dates: false
+is-list-of-dates: true
 is-opening-hours-time: false
 is-single-time-duration: true
 event-duration-txt: 60 minutes
