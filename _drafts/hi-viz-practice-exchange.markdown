@@ -28,9 +28,6 @@ Whilst there are many artists working in these crossover spaces, there are few o
 
 **Hi-Viz Practice Exchange** aims to begin conversations to unpack these differences in the hope of developing a richer understanding of the possibilities of cross-artform practice. Importantly, it is also a day for practitioners from the often quite discrete scenes of contemporary performance/theatre, sound art, and new/art music to meet one another.
 
-![HiVisDays.jpg](/uploads/HiVisDays.jpg)
-
 Day one is a day of presentations, practice interrogation, networking and art dates. Day two is a day of hands-on, interactive workshops.
-
 
 Presented by The SUBSTATION and [Chamber Made.](www.chambermade.org) This event has been supported by the Helen Macpherson Smith Trust.
