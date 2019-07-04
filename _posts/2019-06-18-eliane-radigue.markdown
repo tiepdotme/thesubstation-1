@@ -7,10 +7,12 @@ image: "/uploads/Eliane-Radigue.jpg"
 image-credit: Yves Arman Foundation
 button-url: https://eliane-radigue.eventbrite.com.au
 button-txt: BOOK NOW
+presented-by: works performed by Decibel, Lionel Marchetti and Lawrence English
+tagline: 'An evening of acoustic and electronic compositions by '
 price: "$25 / $15 + BF"
 datetime:
-- 2019-08-30 19:00:00 +10:00
-- 2019-08-30 21:30:00 +10:00
+- 2019-08-29 19:00:00 +10:00
+- 2019-08-29 21:30:00 +10:00
 is-on-home-page: true
 has-start-time: true
 has-mins: false
