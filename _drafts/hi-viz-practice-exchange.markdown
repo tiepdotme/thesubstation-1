@@ -6,12 +6,15 @@ categories:
 image: "/uploads/HiVisHeroImage.jpg"
 presented-by: Chamber Made
 tagline: A day of rich discussion, engagement and networking.
+price: 'Day 1: $30/$85 | Day 2: from $15 '
 datetime:
 - 2019-09-02 00:00:00 +10:00
 - 2019-09-03 00:00:00 +10:00
 is-single-date: false
 is-list-of-dates: false
 event-duration-txt: 2 Days
+notes:
+  note: Day 1 Presentations | Day 2 Workshops
 ---
 
 Artists involved include **Liza Lim, Cat Hope, Roslyn Oades, Madeleine Flynn, Carolyn Connors, Gian Slater, Kate Sulan** and more to come. 
