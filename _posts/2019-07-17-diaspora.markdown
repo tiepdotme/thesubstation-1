@@ -26,7 +26,7 @@ is-on-home-page: true
 has-opening-event: false
 has-preview-event: false
 has-closing-event: false
-has-start-time: false
+has-start-time: true
 has-mins: false
 is-single-date: false
 is-list-of-dates: true
