@@ -14,9 +14,11 @@ datetime:
 - 2019-10-12 20:00:00 +11:00
 - 2019-10-13 16:00:00 +11:00
 has-start-time: false
-is-single-date: true
-is-list-of-dates: false
+is-single-date: false
+is-list-of-dates: true
 event-duration-txt: 50 minutes
+notes:
+  note: MATINEE SUN 13 OCTOBER, 4PM
 supporters: Melbourne Festival
 ---
 
