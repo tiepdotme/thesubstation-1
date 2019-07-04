@@ -1,6 +1,8 @@
 ---
 title: Hi-Viz Practice Exchange
 date: 2019-07-04 11:02:00 +10:00
+categories:
+- whats-on
 image: "/uploads/HiVisHeroImage.jpg"
 presented-by: Chamber Made
 tagline: A day of rich discussion, engagement and networking.
