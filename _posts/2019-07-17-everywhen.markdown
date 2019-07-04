@@ -15,7 +15,7 @@ datetime:
 - 2019-10-13 16:00:00 +11:00
 has-opening-event: true
 has-preview-event: true
-has-start-time: false
+has-start-time: true
 is-single-date: true
 is-list-of-dates: false
 event-duration-txt: "– 9PM"
