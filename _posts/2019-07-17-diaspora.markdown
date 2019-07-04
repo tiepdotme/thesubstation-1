@@ -12,16 +12,16 @@ tagline: 'A science fiction revelation for machines, violin, voice, ondes musica
   theremin and laser '
 price: "$39/29 + BF"
 datetime:
-- 2019-10-03 20:00:00 +10:00
-- 2019-10-03 21:00:00 +10:00
-- 2019-10-04 20:00:00 +10:00
-- 2019-10-04 21:00:00 +10:00
-- 2019-10-05 14:00:00 +10:00
-- 2019-10-05 15:00:00 +10:00
-- 2019-10-05 20:00:00 +10:00
-- 2019-10-05 21:00:00 +10:00
-- 2019-10-06 14:00:00 +11:00
-- 2019-10-06 15:00:00 +11:00
+- Key 1: October 3, 2019 at 8:00pm
+  Key: October 3, 2019 at 9:00pm
+- Key 1: October 4, 2019 at 8:00pm
+  Key: October 4, 2019 at 8:00pm
+- Key 1: October 5, 2019 at 2:00pm
+  Key: October 5, 2019 at 3:00pm
+- Key 1: October 5, 2019 at 8:00pm
+  Key: October 5, 2019 at 9:00pm
+- Key 1: October 6, 2019 at 2:00pm
+  Key: October 6, 2019 at 3:00pm
 is-on-home-page: true
 has-opening-event: false
 has-preview-event: false
