@@ -20,7 +20,7 @@ is-single-date: false
 is-list-of-dates: true
 event-duration-txt: "– 9PM"
 notes:
-  note: MATINEE SUN 13 OCTOBER, 4PM
+  note: 'MATINEE: SUN 13 OCTOBER, 4PM'
 supporters: Melbourne Festival
 ---
 
