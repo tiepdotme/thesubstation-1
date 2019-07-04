@@ -13,11 +13,12 @@ datetime:
 - 2019-10-10 20:00:00 +11:00
 - 2019-10-12 20:00:00 +11:00
 - 2019-10-13 16:00:00 +11:00
-has-opening-event: true
-has-preview-event: true
+has-opening-event: false
+has-preview-event: false
 has-start-time: true
 is-single-date: true
 is-list-of-dates: false
+is-opening-hours-time: true
 event-duration-txt: "– 9PM"
 notes:
   note: 'MATINEE: SUN 13 OCTOBER, 4PM'
