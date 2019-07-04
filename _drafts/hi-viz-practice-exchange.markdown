@@ -9,19 +9,19 @@ tagline: A day of rich discussion, engagement and networking.
 datetime:
 - 2019-09-02 00:00:00 +10:00
 - 2019-09-03 00:00:00 +10:00
-is-single-date: true
+is-single-date: false
+is-list-of-dates: false
 event-duration-txt: 2 Days
 ---
 
 Artists involved include **Liza Lim, Cat Hope, Roslyn Oades, Madeleine Flynn, Carolyn Connors, Gian Slater, Kate Sulan** and more to come. 
-
 
 **Hi-Viz** is for women and non-binary artists working across performance, sound and music. It is for everyone in this space, from emerging to established artists. **Hi-Viz** is designed to bring performance-makers, directors, composers, and sound artists into conversation with one another.
 
 Whilst there are many artists working in these crossover spaces, there are few opportunities outside of the framework of producing work, to gather and interrogate this area of practice. Each artform discipline brings with it quite distinct languages, skills, processes, conventions and expectations.
 
 **Hi-Viz Practice Exchange** aims to begin conversations to unpack these differences in the hope of developing a richer understanding of the possibilities of cross-artform practice. Importantly, it is also a day for practitioners from the often quite discrete scenes of contemporary performance/theatre, sound art, and new/art music to meet one another.
-
+![HiVisDays.jpg](/uploads/HiVisDays.jpg)
 Day one is a day of presentations, practice interrogation, networking and art dates. Day two is a day of hands-on, interactive workshops.
 
 This event has been supported by the Helen Macpherson Smith Trust.
