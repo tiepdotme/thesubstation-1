@@ -27,6 +27,5 @@ Whilst there are many artists working in these crossover spaces, there are few o
 ![HiVisDays.jpg](/uploads/HiVisDays.jpg)
 Day one is a day of presentations, practice interrogation, networking and art dates. Day two is a day of hands-on, interactive workshops.
 
-This event has been supported by the Helen Macpherson Smith Trust.
 
-Presented by The SUBSTATION and [Chamber Made.](www.chambermade.org)
+Presented by The SUBSTATION and [Chamber Made.](www.chambermade.org) This event has been supported by the Helen Macpherson Smith Trust.
