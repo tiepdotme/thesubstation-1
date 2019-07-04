@@ -11,11 +11,11 @@ presented-by: Chamber Made
 tagline: A day of rich discussion, engagement and networking.
 price: 'Day 1: $30/$85 | Day 2: from $15 '
 datetime:
-- 2019-09-02 00:00:00 +10:00
-- 2019-09-03 00:00:00 +10:00
+- 2019-09-02 11:00:00 +10:00
+- 2019-09-03 16:00:00 +10:00
+has-start-time: true
 is-single-date: false
-is-list-of-dates: false
-event-duration-txt: 2 Days
+is-list-of-dates: true
 notes:
   note: Day 1 Presentations | Day 2 Workshops
 ---
