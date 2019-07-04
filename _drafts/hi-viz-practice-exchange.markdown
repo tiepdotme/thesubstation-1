@@ -4,6 +4,9 @@ date: 2019-07-04 11:02:00 +10:00
 categories:
 - whats-on
 image: "/uploads/HiVisHeroImage.jpg"
+image-credit: Photo by Pia Johnson
+button-url: thesubstation.org.au/whats-on/hi-viz-practice-exchange/
+button-txt: Tickets on sale soon
 presented-by: Chamber Made
 tagline: A day of rich discussion, engagement and networking.
 price: 'Day 1: $30/$85 | Day 2: from $15 '
@@ -24,7 +27,9 @@ Artists involved include **Liza Lim, Cat Hope, Roslyn Oades, Madeleine Flynn, Ca
 Whilst there are many artists working in these crossover spaces, there are few opportunities outside of the framework of producing work, to gather and interrogate this area of practice. Each artform discipline brings with it quite distinct languages, skills, processes, conventions and expectations.
 
 **Hi-Viz Practice Exchange** aims to begin conversations to unpack these differences in the hope of developing a richer understanding of the possibilities of cross-artform practice. Importantly, it is also a day for practitioners from the often quite discrete scenes of contemporary performance/theatre, sound art, and new/art music to meet one another.
+
 ![HiVisDays.jpg](/uploads/HiVisDays.jpg)
+
 Day one is a day of presentations, practice interrogation, networking and art dates. Day two is a day of hands-on, interactive workshops.
 
 
