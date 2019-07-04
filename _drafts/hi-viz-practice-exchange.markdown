@@ -18,6 +18,8 @@ is-single-date: false
 is-list-of-dates: true
 notes:
   note: Day 1 Presentations | Day 2 Workshops
+supporters:
+- Chamber Made
 ---
 
 Artists involved include **Liza Lim, Cat Hope, Roslyn Oades, Madeleine Flynn, Carolyn Connors, Gian Slater, Kate Sulan** and more to come. 
