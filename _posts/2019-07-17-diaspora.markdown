@@ -29,7 +29,7 @@ is-opening-hours-time: false
 is-single-time-duration: true
 event-duration-txt: "- 9PM"
 notes:
-  note: Matinee Sat 5 - Sun 6 October, 2pm
+  note: 'Matinee: Sat 5 & Sun 6 October, 2pm'
 supporters:
 - Melbourne Festival
 - Chamber Made
