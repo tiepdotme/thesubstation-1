@@ -23,7 +23,7 @@ has-preview-event: false
 has-closing-event: false
 has-start-time: true
 has-mins: false
-is-single-date: false
+is-single-date: true
 is-list-of-dates: false
 is-opening-hours-time: false
 is-single-time-duration: true
