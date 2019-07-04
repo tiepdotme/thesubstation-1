@@ -16,8 +16,8 @@ datetime:
 has-opening-event: true
 has-preview-event: true
 has-start-time: false
-is-single-date: false
-is-list-of-dates: true
+is-single-date: true
+is-list-of-dates: false
 event-duration-txt: "– 9PM"
 notes:
   note: 'MATINEE: SUN 13 OCTOBER, 4PM'
