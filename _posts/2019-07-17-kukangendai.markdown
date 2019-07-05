@@ -15,8 +15,9 @@ datetime:
 - 2019-10-18 21:10:00 +11:00
 is-on-home-page: false
 has-opening-event: false
-has-start-time: false
+has-start-time: true
 is-single-date: false
+is-list-of-dates: false
 supporters:
 - Melbourne Festival
 - 
