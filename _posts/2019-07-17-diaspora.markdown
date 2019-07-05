@@ -5,8 +5,8 @@ categories:
 - whats-on
 image: "/uploads/Diaspora.jpg"
 image-credit: Pier Carthew
-button-url: https://diasporachambermade.eventbrite.com.au
-button-txt: Book Now
+button-url: thesubstation.org.au/whats-on/diaspora/
+button-txt: Tickets on sale 22nd July
 presented-by: A Chamber Made work by Robin Fox and collaborators
 tagline: 'A science fiction revelation for machines, violin, voice, ondes musicales,
   theremin and laser '
