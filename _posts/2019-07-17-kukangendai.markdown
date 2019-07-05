@@ -5,8 +5,8 @@ categories:
 - whats-on
 image: "/uploads/KUKANGENDAI.jpg"
 image-credit: Katayama Tatsuki
-button-url: https://kukangendai.eventbrite.com.au
-button-txt: Book Now
+button-url: thesubstation.org.au/whats-on/kukangendai/
+button-txt: Tickets on sale 22nd July
 presented-by: Organ
 tagline: This music consists entirely of shocks, it is impossible to grasp
 price: "$29/$39 + BF"
