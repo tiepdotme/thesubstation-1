@@ -11,8 +11,12 @@ presented-by: Organ
 tagline: This music consists entirely of shocks and is impossible to grasp
 price: "$29/$39 + BF"
 datetime:
-- 
-- 
+- 2019-10-16 20:00:00 +11:00
+- 2019-10-18 21:10:00 +11:00
+is-on-home-page: false
+has-opening-event: false
+has-start-time: true
+is-single-date: true
 supporters:
 - Melbourne Festival
 - 
