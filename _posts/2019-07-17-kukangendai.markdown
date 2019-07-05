@@ -16,7 +16,7 @@ datetime:
 is-on-home-page: false
 has-opening-event: false
 has-start-time: false
-is-single-date: true
+is-single-date: false
 supporters:
 - Melbourne Festival
 - 
