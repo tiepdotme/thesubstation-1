@@ -5,7 +5,8 @@ categories:
 - whats-on
 image: "/uploads/Everywhen.jpg"
 image-credit: Bryony Jackson
-button-url: https://everywhen.eventbrite.com.au
+button-url: thesubstation.org.au/whats-on/everywhen/
+button-txt: Tickets on sale 22nd July
 presented-by: Matthias Schack-Arnott
 tagline: "‘sonically and visually exquisite’ – The Guardian "
 price: "$39/$29 + BF"
