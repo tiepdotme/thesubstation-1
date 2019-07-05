@@ -14,7 +14,6 @@ price: "$39/29 + BF"
 datetime:
 - 2019-10-03 20:00:00 +10:00
 - 2019-10-04 20:00:00 +10:00
-- 2019-10-05 14:00:00 +10:00
 - 2019-10-05 20:00:00 +10:00
 - 2019-10-06 14:00:00 +11:00
 is-on-home-page: true
@@ -23,10 +22,10 @@ has-preview-event: false
 has-closing-event: false
 has-start-time: true
 has-mins: false
-is-single-date: true
+is-single-date: false
 is-list-of-dates: false
 is-opening-hours-time: false
-is-single-time-duration: true
+is-single-time-duration: false
 event-duration-txt: "- 9PM"
 notes:
   note: 'Matinee: Sat 5 & Sun 6 October, 2pm'
