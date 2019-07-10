@@ -1,5 +1,5 @@
 ---
-title: Éliane Radigue
+title: Music of Éliane Radigue
 date: 2019-06-18 15:11:00 +10:00
 categories:
 - whats-on
@@ -7,7 +7,7 @@ image: "/uploads/Eliane-Radigue.jpg"
 image-credit: Yves Arman Foundation
 button-url: https://eliane-radigue.eventbrite.com.au
 button-txt: BOOK NOW
-presented-by: works performed by Decibel, Lionel Marchetti and Lawrence English
+presented-by: works performed by Decibel, Lionel Marchetti (FR) and Lawrence English
 tagline: An evening of acoustic and electronic compositions
 price: "$25 / $15 + BF"
 datetime:
