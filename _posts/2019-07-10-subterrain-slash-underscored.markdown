@@ -1,8 +1,10 @@
 ---
 title: SubTerrain/Underscored
 date: 2019-07-10 12:23:00 +10:00
+categories:
+- what's on
 tags:
-- whats on
+- what's on
 image: "/uploads/openhouse.jpg"
 tagline: Open House Melbourne
 price: Free
