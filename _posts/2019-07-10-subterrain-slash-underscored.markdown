@@ -9,7 +9,9 @@ image: "/uploads/openhouse.jpg"
 presented-by: LINDA SASTRADIPRADJA and STUART SHUGG
 tagline: Open House Melbourne
 price: Free
-datetime: 2019-07-27 11:00:00 +10:00
+datetime:
+- 2019-07-27 11:00:00 +10:00
+- 2019-07-28 17:00:00 +10:00
 has-closing-event: true
 has-start-time: true
 is-single-date: false
@@ -24,3 +26,5 @@ Performances of SUBTERRAIN are UNDERSCORED by dancing that has influenced the li
 Together SUBTERRAIN/UNDERSCORED occupies The SUBSTATION'S many spaces, occurring at various times and locations within the building throughout the day. The audience is invited to experience SUBTERRAIN/UNDERSCORED through these ever-changing perspectives, to freely wander through and around the building as the dancing unfolds, shifting through and interacting with the cycles of natural daylight.
 
 Through SUBTERRAIN/UNDERSCORED, SASTRADIPRADJA and  SHUGG will curate spaces within The SUBSTATION'S architecture to provoke a reconsideration of how, when and where it is possible to experience performed work.
+
+Performances will occur at 12pm and 3pm daily.
