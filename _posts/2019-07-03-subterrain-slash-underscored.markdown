@@ -7,7 +7,7 @@ tags:
 - what's on
 image: "/uploads/SubTerrainUnderscoredHeroImage.jpeg"
 presented-by: LINDA SASTRADIPRADJA and STUART SHUGG
-tagline: Open House Melbourne
+tagline: Part of Open House Melbourne 2019
 price: Free
 datetime:
 - 2019-07-27 11:00:00 +10:00
