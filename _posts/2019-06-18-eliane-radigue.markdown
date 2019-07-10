@@ -1,5 +1,5 @@
 ---
-title: Éliane Radigue
+title: 'Music of: Éliane Radigue'
 date: 2019-06-18 15:11:00 +10:00
 categories:
 - whats-on
