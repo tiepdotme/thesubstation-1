@@ -6,7 +6,7 @@ button-url: https://thesubstation.org.au/whats-on/
 button-txt: On sale soon
 presented-by: ONO
 tagline: A journey into outer sound
-price: Tickets starting from $30 + bf
+price: Earlybird tickets $30 + bf  Final release $40 + bf
 datetime:
 - 2019-09-06 20:00:00 +10:00
 ---
