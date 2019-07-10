@@ -5,7 +5,7 @@ categories:
 - what's on
 tags:
 - what's on
-image: "/uploads/openhouse.jpg"
+image: "/uploads/SubTerrainUnderscoredHeroImage.jpeg"
 presented-by: LINDA SASTRADIPRADJA and STUART SHUGG
 tagline: Open House Melbourne
 price: Free
