@@ -29,3 +29,4 @@ Together SUBTERRAIN/UNDERSCORED occupies The SUBSTATION's many spaces, occurring
 Through SUBTERRAIN/UNDERSCORED, SASTRADIPRADJA and  SHUGG will curate spaces within The SUBSTATION's architecture to provoke a reconsideration of how, when and where it is possible to experience performed work.
 
 Performances will occur at 12pm and 3pm daily.
+The SUBSTATION will be open for public access from 11am - 5pm daily. 
