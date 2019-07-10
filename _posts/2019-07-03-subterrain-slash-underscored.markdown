@@ -18,7 +18,7 @@ is-single-date: false
 is-list-of-dates: true
 is-opening-hours-time: true
 is-single-time-duration: true
-is-within-gallery-open-time: true
+is-within-gallery-open-time: false
 supporters: Openhouse Melbourne
 ---
 
