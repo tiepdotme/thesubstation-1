@@ -20,7 +20,7 @@ is-within-gallery-open-time: false
 supporters: Openhouse Melbourne
 ---
 
-During the weekend of [Open House Melbourne](https://www.openhousemelbourne.org/melbourne/the-weekend-july-2019/) July 27 - 28, The SUBSTATION presents SUBTERRAIN/UNDERSCORED, a free durational dance event created and choreographed by LINDA SASTRADIPRADJA and STUART SHUGG. 
+During the weekend of [Open House Melbourne](https://www.openhousemelbourne.org/melbourne/the-weekend-july-2019/), The SUBSTATION presents SUBTERRAIN/UNDERSCORED, a free durational dance event created and choreographed by LINDA SASTRADIPRADJA and STUART SHUGG. 
 
 Performances of SUBTERRAIN are UNDERSCORED by dancing that has influenced the lineage of the performers: American Modern and Postmodern dance, traditional Javanese Court dance, and Wayang Kulit performances.
 
