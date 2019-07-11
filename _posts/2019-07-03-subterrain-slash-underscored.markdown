@@ -3,8 +3,6 @@ title: SubTerrain/Underscored
 date: 2019-07-03 12:23:00 +10:00
 categories:
 - what's on
-tags:
-- what's on
 image: "/uploads/SubTerrainUnderscoredHeroImage.jpeg"
 presented-by: LINDA SASTRADIPRADJA and STUART SHUGG
 tagline: Part of Open House Melbourne 2019
