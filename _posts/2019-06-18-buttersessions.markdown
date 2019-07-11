@@ -1,6 +1,6 @@
 ---
 title: |-
-  Haruka, Tarquin Manek & Y-L Hooi,
+  Haruka(JP), Tarquin Manek & Y-L Hooi,
   Sleep D, Jess Sneddon
 date: 2019-06-18 11:14:00 +10:00
 categories:
