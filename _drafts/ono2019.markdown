@@ -10,6 +10,7 @@ tagline: Visceral and intimate, ONO has built a cult following as Melbourne’s 
 price: Earlybird tickets $30 + bf  Final release $40 + bf
 datetime:
 - 2019-09-06 20:00:00 +10:00
+supporters: ONO
 ---
 
 Journeying towards a collective understanding of rhythm and sound, [ONO](https://www.o-n-o.com.au/) returns for their third instalment at The SUBSTATION. 
