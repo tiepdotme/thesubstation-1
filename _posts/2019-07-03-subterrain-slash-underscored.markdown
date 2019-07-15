@@ -13,6 +13,7 @@ price: Free
 datetime:
 - 2019-07-27 11:00:00 +10:00
 - 2019-07-28 17:00:00 +10:00
+is-on-home-page: true
 has-closing-event: false
 has-start-time: true
 is-single-date: false
