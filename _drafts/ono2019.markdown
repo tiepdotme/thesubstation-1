@@ -2,8 +2,8 @@
 title: Grand River, CHRIS SSG, Fia Fiell, Soft-High (aka. Sleep D)
 date: 2019-06-18 12:36:00 +10:00
 image: "/uploads/Ono2019.jpg"
-button-url: https://thesubstation.org.au/whats-on/
-button-txt: On sale soon
+button-url: 'https://www.eventbrite.com.au/o/ono-25080564547 '
+button-txt: Buy Tickets
 presented-by: Presented by ONO
 tagline: Visceral and intimate, ONO has built a cult following as Melbourne’s preeminent
   deep listening experience.
