@@ -1,7 +1,7 @@
 ---
 title: |-
-  SubTerrain/
-  Underscored
+  SUBTERRAIN/
+  UNDERSCORED
 date: 2019-07-03 12:23:00 +10:00
 categories:
 - what's on
