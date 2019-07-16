@@ -14,6 +14,7 @@ tagline: Sink into an evening of brain tingling textures and sonic experiments, 
 datetime:
 - 2019-08-16 20:00:00 +10:00
 - 2019-08-16 23:00:00 +10:00
+is-on-home-page: true
 has-start-time: false
 is-single-date: false
 notes:
