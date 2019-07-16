@@ -5,8 +5,8 @@ categories:
 - whats-on
 image: "/uploads/HiVisHeroImage.jpg"
 image-credit: Photo by Pia Johnson
-button-url: thesubstation.org.au/whats-on/hi-viz-practice-exchange/
-button-txt: Tickets on sale soon
+button-url: http://chambermade.org/events/hi-viz-2019/
+button-txt: Book Tickets
 presented-by: Chamber Made
 tagline: A day of rich discussion, engagement and networking.
 price: 'Day 1: $30/$85 | Day 2: from $15 '
