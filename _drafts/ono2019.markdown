@@ -7,8 +7,7 @@ image: "/uploads/Ono2019.jpg"
 button-url: 'https://www.eventbrite.com.au/o/ono-25080564547 '
 button-txt: Buy Tickets
 presented-by: Presented by ONO
-tagline: Visceral and intimate, ONO has built a cult following as Melbourne’s preeminent
-  deep listening experience.
+tagline: Visceral and intimate; ONO is Melbourne’s pre-eminent deep listening experience
 price: Earlybird tickets $30 + bf  Final release $40 + bf
 datetime:
 - 2019-09-06 20:00:00 +10:00
@@ -16,15 +15,17 @@ is-on-home-page: true
 supporters: ONO
 ---
 
-Journeying towards a collective understanding of rhythm and sound, [ONO](https://www.o-n-o.com.au/) returns for their third instalment at The SUBSTATION. 
+Continuing the journey towards a collective understanding of rhythm and sound, ONO returns for their third instalment at The SUBSTATION. 
 
-Part performance, part installation, ONO creates a platform for the music we usually reserve for private consumption. By making the conditions of warmth and intimacy communal, ambient and experimental sounds flow freely.
+Pack a cushion, or grab one provided and snuggle down for a night of high fidelity storytelling.
 
-Often intense but always rewarding, room, artist and audience all form part of the instrument.
+Part performance, part installation, ONO creates a platform for music most often reserved for private enjoyment. Ambient and experimental sounds flow freely via communal conditions of warmth, comfort and intimacy between listener and performer.
 
-In 2019 ONO brings together [GRAND RIVER](https://www.residentadvisor.net/dj/grandriver-de) live, Spazio Disponibile/One Instrument (ITA/NL), 
+[GRAND RIVER](https://www.residentadvisor.net/dj/grandriver-de) live, Spazio Disponibile/One Instrument (ITA/NL), 
 [CHRIS SSG](https://www.residentadvisor.net/dj/chrismnmlssgs/biography), MNML SSGS (JPN), 
 [FÍA FIELL](https://bodypromise.bandcamp.com/track/fia-fiell-ladder), Nice Music/Body Promise
 [SOFT HIGH aka. Sleep D](https://sleep-d.bandcamp.com/) (Butter Sessions)
+
+Often intense but always rewarding, room, artist and audience all form part of the instrument. 
 
 [ONO](https://www.o-n-o.com.au/) lays a platform for artists less heard in Australia, growing the space where these undercurrents in music are appreciated. 
