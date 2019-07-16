@@ -6,7 +6,6 @@ categories:
 image: "/uploads/Ono2019.jpg"
 button-url: 'https://www.eventbrite.com.au/o/ono-25080564547 '
 button-txt: Buy Tickets
-presented-by: Presented by ONO
 tagline: Visceral and intimate; ONO is Melbourne’s pre-eminent deep listening experience
 price: Earlybird tickets $30 + bf  Final release $40 + bf
 datetime:
