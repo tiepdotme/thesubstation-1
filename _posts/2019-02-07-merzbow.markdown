@@ -2,7 +2,7 @@
 title: Merzbow
 date: 2019-02-07 13:30:00 +11:00
 categories:
-- whats-on
+- archive
 image: "/uploads/merzbow.jpg"
 image-credit: Image Courtesy Dark Mofo
 video-thumbnail: 315788004
