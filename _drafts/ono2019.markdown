@@ -8,7 +8,7 @@ button-url: 'https://www.eventbrite.com.au/o/ono-25080564547 '
 button-txt: Buy Tickets
 presented-by: GRAND RIVER (ITA/NL), CHRIS SSG (JPN), FIA FIELL, SOFT-HIGH (AKA SLEEP
   D)
-tagline: Visceral and intimate; ONO is Melbourne’s pre-eminent deep listening experience
+tagline: 'Visceral and intimate: ONO is Melbourne’s pre-eminent deep listening experience'
 price: Earlybird tickets $30 + bf  Final release $40 + bf
 datetime:
 - 2019-09-06 20:00:00 +10:00
