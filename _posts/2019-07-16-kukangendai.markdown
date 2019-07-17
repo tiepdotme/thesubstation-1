@@ -1,6 +1,6 @@
 ---
 title: KUKANGENDAI (JPN)
-date: 2019-07-17 14:30:00 +10:00
+date: 2019-07-16 14:30:00 +10:00
 categories:
 - whats-on
 image: "/uploads/KUKANGENDAI.jpg"
