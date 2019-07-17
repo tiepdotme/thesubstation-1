@@ -1,12 +1,12 @@
 ---
 title: EVERYWHEN
-date: 2019-07-17 14:30:00 +10:00
+date: 2019-07-16 14:30:00 +10:00
 categories:
 - whats-on
 image: "/uploads/Everywhen.jpg"
 image-credit: Bryony Jackson
-button-url: thesubstation.org.au/whats-on/everywhen/
-button-txt: Tickets on sale 22nd July
+button-url: https://www.festival.melbourne/2019/info/packages-discounts/
+button-txt: 3+ Package Tickets Available Now
 presented-by: Matthias Schack-Arnott
 tagline: "‘sonically and visually exquisite’ – The Guardian "
 price: "$39/$29 + BF"
@@ -20,7 +20,6 @@ has-start-time: true
 is-single-date: false
 is-list-of-dates: false
 is-opening-hours-time: false
-event-duration-txt: "– 9PM"
 notes:
   note: 'MATINEE: SUN 13 OCTOBER, 4PM'
 supporters: Melbourne Festival
