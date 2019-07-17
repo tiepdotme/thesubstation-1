@@ -6,7 +6,7 @@ categories:
 image: "/uploads/Diaspora.jpg"
 image-credit: Pier Carthew
 button-url: https://www.festival.melbourne/2019/info/packages-discounts/
-button-txt: 3+ Package Tickets Available Now
+button-txt: 3+ Package Tix Available Now
 presented-by: A Chamber Made work by Robin Fox and collaborators
 tagline: 'A science fiction revelation for machines, violin, voice, ondes musicales,
   theremin and laser '
