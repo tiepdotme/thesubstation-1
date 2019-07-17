@@ -8,7 +8,7 @@ image-credit: Photo by Pia Johnson
 button-url: http://chambermade.org/events/hi-viz-2019/
 button-txt: Book Tickets
 presented-by: Chamber Made
-tagline: A day of rich discussion, engagement and networking.
+tagline: Two days of rich discussion, engagement and networking.
 price: 'Day 1: $30/$85 | Day 2: from $15 '
 datetime:
 - 2019-09-02 11:00:00 +10:00
@@ -21,6 +21,7 @@ notes:
   note: Day 1 Presentations | Day 2 Workshops
 supporters:
 - Chamber Made
+- 
 ---
 
 Artists involved include **Liza Lim, Cat Hope, Roslyn Oades, Madeleine Flynn, Carolyn Connors, Gian Slater, Kate Sulan** and more to come. 
