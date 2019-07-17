@@ -8,8 +8,8 @@ presented-by: International Biennial of Video Art
 tagline: Video art that explores forces of fluidity and resistance.
 price: Free
 datetime:
-- 2019-08-31 00:00:00 +10:00
-- 2019-09-28 00:00:00 +10:00
+- 2019-08-24 00:00:00 +10:00
+- 2019-09-21 00:00:00 +10:00
 ---
 
 The 2019 Channels Festival, curated by Artistic Director Kelli Alred, will investigate how social, cultural and technological constructs impact individual and collective visibility and agency. 
