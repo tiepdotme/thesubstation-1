@@ -21,7 +21,7 @@ notes:
   note: Day 1 Presentations | Day 2 Workshops
 supporters:
 - Chamber Made
-- 
+- Helen Macpherson Smith Trust
 ---
 
 Artists involved include **Liza Lim, Cat Hope, Roslyn Oades, Madeleine Flynn, Carolyn Connors, Gian Slater, Kate Sulan** and more to come. 
