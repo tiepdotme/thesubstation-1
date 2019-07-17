@@ -27,16 +27,15 @@ Volunteers at The SUBSTATION are involved in a broad range of experiences. The b
 - Meeting new people with shared interests
 - Building industry contacts and networks
 - Volunteer program events, activities and training
-- Regular curatorial briefings for exhibitions and performances
 - Volunteers will be offered free admission to shows
 
 ## WHAT DO VOLUNTEERS DO?
 
-The SUBSTATION volunteers operate primarily in front of house roles, invigilating exhibitions, ushering for performances and assisting with private and corporate events.
+The SUBSTATION volunteers operate primarily in front of house roles, invigilating exhibitions, ushering for performances and assisting with marketing and general administration tasks.
 
-The SUBSTATION is also open to Expressions of Interest for internships from tertiary or post-graduate students in areas of marketing, production and general administration (subject to availability).
+The SUBSTATION is also open to Expressions of Interest for internships from tertiary or post-graduate students in areas of event management, marketing, production and general administration (subject to availability).
 
 
 **The SUBSTATION Volunteers:**
 
-John Simmons, Pippa Griffiths, Stephanie Morrison, Emma Woodhams-Bertozzi, Chris Fletcher, Agathe Paradis, Kimberly Budd, Ruby Mae Scanlan, Braden Howard, Laura Hernandez, Annabelle Gautier, Kirby Casilli, Katie Page, Ivy Yan, Cassie Ross, Daniel Longo, Evie Clark, Melissa O'Donovan, Emily Boyd, Hannah Potter, Akasha Amjad, Eleanor Orchard, Sharmane Rabusa, Rainer, Gus Mileson, Bonnie Lee, Rachel Pullman, Linh Nguyen, Marion Brazier, Skye Williams, Sam Cairney, Louise Tate, Claire Sims, Shannan Holland, Milica Lazovic, Samuel Rowe.
+Brianna Wall, Carmen Lai, Cassie Ross, Emma Darvas, Emma Caskey, Heather Pilkington, Ivy Yan, Jacob Abela, Megan Barry, Pooja Bose, Simpson Myers, Siobhan Sweeney, Tess Mehonoshen, Wendy Clarke.  
