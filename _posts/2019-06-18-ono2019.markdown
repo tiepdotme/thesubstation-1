@@ -4,7 +4,7 @@ date: 2019-06-18 12:36:00 +10:00
 categories:
 - whats-on
 image: "/uploads/Ono2019.jpg"
-button-url: 'https://www.eventbrite.com.au/o/ono-25080564547 '
+button-url: https://www.eventbrite.com.au/e/ono-presents-grand-river-ita-chris-ssg-fia-fiell-soft-high-aka-sleep-d-tickets-64581071724
 button-txt: Buy Tickets
 presented-by: GRAND RIVER (ITA/NL), CHRIS SSG (JPN), FIA FIELL, SOFT-HIGH (AKA SLEEP
   D)
