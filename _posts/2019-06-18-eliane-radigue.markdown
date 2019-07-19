@@ -12,8 +12,8 @@ presented-by: The music of Eliane Radigue performed by Decibel, Lionel Marchetti
 tagline: An evening of acoustic and electronic compositions
 price: "$25 / $15 + BF"
 datetime:
-- 2019-08-29 19:00:00 +10:00
-- 2019-08-29 21:30:00 +10:00
+- 2019-08-30 19:00:00 +10:00
+- 2019-08-30 21:30:00 +10:00
 is-on-home-page: true
 has-start-time: true
 has-mins: false
