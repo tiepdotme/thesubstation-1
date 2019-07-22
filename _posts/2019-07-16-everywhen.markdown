@@ -39,3 +39,6 @@ Sound Engineer – Tilman Robinson, Production Management - Megafun <br>
 Producer – Michaela Coventry - Sage Arts
 
 Presented by The SUBSTATION and [Melbourne International Arts Festival](https://www.festival.melbourne/).
+
+
+[Book three SUBSTATION x MIAF Events and save 15%](https://www.festival.melbourne/2019/info/packages-discounts/3plus-packages/)
