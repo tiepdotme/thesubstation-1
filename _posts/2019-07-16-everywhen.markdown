@@ -5,8 +5,8 @@ categories:
 - whats-on
 image: "/uploads/Everywhen.jpg"
 image-credit: Bryony Jackson
-button-url: https://www.festival.melbourne/2019/info/packages-discounts/
-button-txt: 3+ Package Tix Available Now
+button-url: https://everywhen.eventbrite.com.au
+button-txt: Get Tickets
 presented-by: Matthias Schack-Arnott
 tagline: "‘sonically and visually exquisite’ – The Guardian "
 price: "$39/$29 + BF"
