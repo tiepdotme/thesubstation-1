@@ -5,7 +5,7 @@ categories:
 - whats-on
 image: "/uploads/Diaspora.jpg"
 image-credit: Pier Carthew
-button-url: https://www.festival.melbourne/2019/info/packages-discounts/
+button-url: https://diasporachambermade.eventbrite.com.au
 button-txt: Get Tickets
 presented-by: A Chamber Made work by Robin Fox and collaborators
 tagline: 'A science fiction revelation for machines, violin, voice, ondes musicales,
