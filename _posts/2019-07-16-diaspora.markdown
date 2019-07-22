@@ -6,7 +6,7 @@ categories:
 image: "/uploads/Diaspora.jpg"
 image-credit: Pier Carthew
 button-url: https://diasporachambermade.eventbrite.com.au
-button-txt: Get Tickets
+button-txt: Book Now
 presented-by: A Chamber Made work by Robin Fox and collaborators
 tagline: 'A science fiction revelation for machines, violin, voice, ondes musicales,
   theremin and laser '
