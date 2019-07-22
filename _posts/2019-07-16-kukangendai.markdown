@@ -28,3 +28,5 @@ In collaboration with [Melbourne International Arts Festival](https://www.festiv
 [KUKANGENDAI](http://http://kukangendai.com/) formed in 2006 with JUNYA NOGUCHI on guitar and vocals, KEISUKE KOYANO on bass guitar, and HIDEAKI YAMADA on drums. Their tracks are made through a process of editing, replicating, and deliberate error.  This creates a sense of distortion and places a burden on the performers, leading to their characteristically stoic and humorous live shows. In recent years, the band has attempted to construct and implement a form of live concert in which they go back and forth between playing multiple simultaneous songs in parallel, allowing the flow of time as a whole to manifest as a single unified rhythm.
 
 Presented by The SUBSTATION, [Melbourne International Arts Festival](https://www.festival.melbourne/) and [Japan Foundation.](https://www.jpf.go.jp/e/index.html)
+
+[Book three SUBSTATION x MIAF Events and save 15%](https://www.festival.melbourne/2019/info/packages-discounts/3plus-packages/)
