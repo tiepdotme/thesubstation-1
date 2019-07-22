@@ -6,7 +6,7 @@ categories:
 image: "/uploads/Everywhen.jpg"
 image-credit: Bryony Jackson
 button-url: https://everywhen.eventbrite.com.au
-button-txt: Get Tickets
+button-txt: Book Now
 presented-by: Matthias Schack-Arnott
 tagline: "‘sonically and visually exquisite’ – The Guardian "
 price: "$39/$29 + BF"
