@@ -2,7 +2,7 @@
 title: Shifting Surrounds
 date: 2019-02-07 13:30:00 +11:00
 categories:
-- whats-on
+- archive
 image: "/uploads/YandellWalton.jpg"
 image-credit: Yandell Walton
 video-thumbnail: 315787459
@@ -15,7 +15,7 @@ price: FREE
 datetime:
 - 2019-05-04 14:00:00 +10:00
 - 2019-07-20 00:00:00 +10:00
-is-on-home-page: true
+is-on-home-page: false
 has-opening-event: true
 is-within-gallery-open-time: true
 artists-talk:
