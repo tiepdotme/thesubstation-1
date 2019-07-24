@@ -2,7 +2,8 @@
 title: Yandell Walton
 date: 2018-01-01 00:00:00 +11:00
 categories:
-- in-development
+- archive
+was-in-development: true
 image: "/uploads/yandell.jpg"
 image-credit: <a href="http://www.artdocumentation.com.au/">artdocumentation.com.au</a>
 presented-by: THE SUBSTATION COMMISSIONING PROGRAM
