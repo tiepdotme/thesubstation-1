@@ -7,6 +7,7 @@ image: "/uploads/Relational.jpg"
 presented-by: Tim Darbyshire
 datetime:
 - 2019-07-24 00:00:00 +10:00
+is-single-date: true
 is-year-duration: true
 ---
 
