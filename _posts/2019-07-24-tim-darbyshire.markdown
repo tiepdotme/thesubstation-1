@@ -3,11 +3,10 @@ title: SIGNIFICANT ENCOUNTERS
 date: 2019-07-24 12:16:00 +10:00
 categories:
 - in-development
-image: "/uploads/Relational.png"
+image: "/uploads/Relational.jpg"
 presented-by: Tim Darbyshire
 datetime:
 - 2019-07-24 00:00:00 +10:00
-- 2020-01-01 00:00:00 +11:00
 is-year-duration: true
 ---
 
