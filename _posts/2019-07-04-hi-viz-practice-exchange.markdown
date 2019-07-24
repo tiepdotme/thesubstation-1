@@ -16,6 +16,7 @@ datetime:
 has-start-time: false
 is-single-date: false
 is-list-of-dates: true
+is-opening-hours-time: false
 is-within-gallery-open-time: false
 notes:
   note: Day 1 Presentations | Day 2 Workshops
