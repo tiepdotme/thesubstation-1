@@ -1,9 +1,14 @@
 ---
-title: Tim Darbyshire
+title: SIGNIFICANT ENCOUNTERS
 date: 2019-07-24 12:16:00 +10:00
 categories:
 - in-development
 image: "/uploads/Relational.png"
+presented-by: Tim Darbyshire
+datetime:
+- 2019-07-24 00:00:00 +10:00
+- 2020-01-01 00:00:00 +11:00
+is-year-duration: true
 ---
 
 [**Tim Darbyshire**](www.timdarbyshirestudio.com) creates nuanced, dynamic and expansive choreography and performance – 
