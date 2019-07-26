@@ -11,6 +11,7 @@ button-txt: Book Now
 presented-by: Butter Sessions
 tagline: Sink into an evening of brain tingling textures and sonic experiments, peaking
   on hypnotizing dance floor focused rhythms.
+price: From $30 + BF
 datetime:
 - 2019-08-16 19:00:00 +10:00
 - 2019-08-17 01:00:00 +10:00
