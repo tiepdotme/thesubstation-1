@@ -12,16 +12,14 @@ presented-by: Butter Sessions
 tagline: Sink into an evening of brain tingling textures and sonic experiments, peaking
   on hypnotizing dance floor focused rhythms.
 datetime:
-- 2019-08-16 20:00:00 +10:00
-- 2019-08-16 23:00:00 +10:00
+- 2019-08-16 19:00:00 +10:00
+- 2019-08-17 01:00:00 +10:00
 is-on-home-page: true
-has-start-time: false
-is-single-date: false
-notes:
-  note: Tickets on sale 2019
+has-start-time: true
+is-single-date: true
 ---
 
-The past few years Tokyo based DJ **Haruka** has established himself as one of Japan's top DJs and a crucial figure in the dance music scene. Through his impeccable taste and personalised style of house and techno, **Haruka** has landed himself sets at top tier events around Europe and Japan, including the renowned Labyrinth Festival. 
+Over the past few years, Tokyo based DJ **Haruka** has established himself as one of Japan's top DJs and a crucial figure in the dance music scene. Through his impeccable taste and personalised style of house and techno, **Haruka** has landed himself sets at top tier events around Europe and Japan, including the renowned Labyrinth Festival. 
 
 **Haruka** is returning to Australia in a Melbourne exclusive to play at The SUBSTATION ahead of the release of his debut EP on Butter Sessions.
 
