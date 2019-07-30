@@ -14,6 +14,7 @@ datetime:
 - 2019-10-10 20:00:00 +11:00
 - 2019-10-12 20:00:00 +11:00
 - 2019-10-13 16:00:00 +11:00
+is-on-home-page: true
 has-opening-event: false
 has-preview-event: false
 has-start-time: true
