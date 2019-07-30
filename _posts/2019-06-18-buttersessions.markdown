@@ -15,7 +15,7 @@ price: From $30 + BF
 datetime:
 - 2019-08-16 19:00:00 +10:00
 - 2019-08-17 01:00:00 +10:00
-is-on-home-page: true
+is-on-home-page: false
 has-start-time: true
 is-single-date: true
 ---
