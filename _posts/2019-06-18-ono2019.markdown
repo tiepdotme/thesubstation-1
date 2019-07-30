@@ -12,7 +12,7 @@ tagline: 'Visceral and intimate: ONO is Melbourne’s pre-eminent deep listening
 price: Earlybird tickets $30 + bf  Final release $40 + bf
 datetime:
 - 2019-09-06 20:00:00 +10:00
-is-on-home-page: false
+is-on-home-page: true
 supporters: ONO
 ---
 
