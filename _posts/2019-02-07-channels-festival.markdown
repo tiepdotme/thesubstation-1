@@ -18,6 +18,7 @@ has-preview-event: false
 has-start-time: false
 is-opening-hours-time: false
 is-within-gallery-open-time: true
+supporters: Channels
 ---
 
 UNTIMELY GEOGRAPHIES, curated by Artistic Director KELLI ALRED, investigates relationships between individuals, communities and power structures.
