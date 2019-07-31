@@ -16,4 +16,4 @@ has-start-time: true
 is-single-date: true
 ---
 
-**Warchild Benefit Concert** will showcase bands from all year levels at **Williamstown High** for a full evening of music. All proceeds will go towards [War Child](https://www.warchild.org/), a charity protecting and supporting children affected by armed conflict. War Child empowers families to claim their rights, develop to their full potential and contribute to a peaceful future for themselves and their communities. 
+**Warchild Benefit Concert** will showcase bands from all year levels at **Williamstown High** for a full evening of music. All proceeds will go towards the [War Child](https://www.warchild.org/) charity supporting families affected by war. War Child empowers families to claim their rights, develop to their full potential and contribute to a peaceful future for themselves and their communities. 
