@@ -11,15 +11,13 @@ presented-by: Almagul Menlibayeva, Noor Afshan Mirza and Brad Butler, Reko Renni
 price: Free
 datetime:
 - 2019-08-24 15:00:00 +10:00
+- 2019-08-24 17:00:00 +10:00
 - 2019-09-21 00:00:00 +10:00
+has-opening-event: true
+has-preview-event: false
 has-start-time: false
 is-opening-hours-time: false
 is-within-gallery-open-time: true
-notes:
-  date:
-  - 2019-08-24 15:00:00 +10:00
-  - 2019-08-24 17:00:00 +10:00
-  note: 'Exhibition Opening '
 ---
 
 UNTIMELY GEOGRAPHIES, curated by Artistic Director KELLI ALRED, investigates relationships between individuals, communities and power structures.
