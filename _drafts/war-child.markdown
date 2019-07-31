@@ -7,9 +7,10 @@ categories:
 image: "/uploads/warchild.jpg"
 presented-by: Williamstown High School
 price: "$15"
-datetime: 2019-07-31 19:00:00 +10:00
-is-on-home-page: true
-has-opening-event: true
+datetime:
+- 2019-07-31 19:00:00 +10:00
+is-on-home-page: false
+has-opening-event: false
 has-start-time: true
 is-single-date: true
 ---
