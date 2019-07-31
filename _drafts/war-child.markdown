@@ -8,6 +8,8 @@ image: "/uploads/warchild.jpg"
 presented-by: Williamstown High School
 price: "$15"
 datetime: 2019-07-31 19:00:00 +10:00
+is-on-home-page: true
+has-start-time: true
 ---
 
 A concert performed and run by the students from Williamstown High School to raise funds for charity.
