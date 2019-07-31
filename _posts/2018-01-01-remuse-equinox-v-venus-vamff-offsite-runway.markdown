@@ -1,8 +1,9 @@
 ---
-title: REMUSE Equinox V Vênus | VAMFF Offsite Runway
+title: Equinox V Vênus
 date: 2018-01-01 17:47:00 +11:00
 categories:
 - archive
+- community
 image: "/uploads/VAMFF-Equinox.jpg"
 image-credit: Anthony Tosello
 button-url: http://premier.ticketek.com.au/shows/show.aspx?sh=REMUSEDE18
