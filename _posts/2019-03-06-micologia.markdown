@@ -3,6 +3,7 @@ title: MICOLOGÍA
 date: 2019-03-06 11:10:00 +11:00
 categories:
 - archive
+- community
 image: "/uploads/VAMFF.jpg"
 image-credit: 'B2B Creative '
 button-url: https://micologia.eventbrite.com.au
@@ -24,8 +25,6 @@ Naarm (Melbourne) based sustainable fashion label REMUSE launches its biannual E
 
 Conceptualised as a prequel to last year’s event, ‘Equinox V Venus’, which took place at the theoretical end of humankind’s tenure of planet earth, with this collection REMUSE winds the clock back one billion years to before modern time.
  
-
 The runway production MICOLOGÍA elaborates on the cosmic origins of the kingdom of funghi, exploring themes of synchronicity with nature, symbiosis and biomimicry and sustainability through theatrical dialogue and visual display. REMUSE is committed to sustainable and ethical production practices sourcing where possible organic materials.
  
-
 This is a singularly imaginative fashion runway performance timed once again to take place on the new moon preceding the Autumnal equinox. Presented as part of the Virgin Australia Melbourne Fashion Festival Arts Program. 
