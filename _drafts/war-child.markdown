@@ -9,8 +9,12 @@ presented-by: Williamstown High School
 price: "$15"
 datetime: 2019-07-31 19:00:00 +10:00
 is-on-home-page: true
+has-opening-event: true
 has-start-time: true
+is-single-date: true
 ---
 
 A concert performed and run by the students from Williamstown High School to raise funds for charity.
 Students will be supervised by school staff and parents at the concert. 
+
+[Purchase Tickets](http://https://www.trybooking.com/book/event?eid=518460&)
