@@ -3,6 +3,7 @@ title: Act To Prevent Men’s Violence Against Women
 date: 2019-07-31 15:49:00 +10:00
 categories:
 - community
+image: "/uploads/Womensforum.jpg"
 presented-by: Women’s Health West
 price: Free
 datetime: 2018-06-14 00:00:00 +10:00
