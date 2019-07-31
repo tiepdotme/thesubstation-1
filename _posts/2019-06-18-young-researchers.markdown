@@ -3,6 +3,7 @@ title: Young Researchers
 date: 2019-06-18 16:13:00 +10:00
 categories:
 - community
+- whats-on
 image: "/uploads/Young_Researchers.jpg"
 presented-by: Williamstown High School
 datetime:
