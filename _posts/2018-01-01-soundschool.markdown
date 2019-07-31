@@ -21,9 +21,12 @@ has-start-time: true
 Sound School are a not for profit organisation who train and empower women in electronic music
 
 > LANZILOTTI, Assistant Professor of Viola at University of Northern Colorado School of Music, has performed with ensembles such as Alarm Will Sound, collaborated with artists including Björk, and is co-founder of Kalikolehua — El Sistema Hawai‘i; a free orchestra program for disadvantaged young people in her home Hawai’i. 
-
+<br>
+<br>
 > GAHLORD DEWALD is an experimental double bass and modular synthesiser artist specializing in acoustic, electric, and synthetic low frequencies. Together they form The Yes &; a viola and modular synth duo. A presentation on the inner workings of their practice of combined classical string instruments and experimental electronics and the philosophy of Deep Listening will be followed by a live performance on viola and modular synthesiser. 
-
+<br>
+<br>
 > ANNE and GAHLORD are joined by Melbourne experimental dance music artist FIA FIELL who brings her classical training as a pianist to modern synthesis. 
-
+<br>
+<br>
 Presented by Sound School
