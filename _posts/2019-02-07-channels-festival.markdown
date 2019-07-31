@@ -8,11 +8,12 @@ image: "/uploads/RekoRennie.jpg"
 image-credit: 'Reko Rennie, OA_RR (video still), 2017. Photo: Justin McManus. Courtesy
   the artist and STATION.'
 presented-by: Almagul Menlibayeva, Noor Afshan Mirza and Brad Butler, Reko Rennie
-tagline: Video art that explores forces of fluidity and resistance.
 price: Free
 datetime:
-- 2019-08-24 00:00:00 +10:00
+- 2019-08-24 15:00:00 +10:00
 - 2019-09-21 00:00:00 +10:00
+has-start-time: true
+is-opening-hours-time: true
 ---
 
 UNTIMELY GEOGRAPHIES, curated by Artistic Director KELLI ALRED, investigates relationships between individuals, communities and power structures.
