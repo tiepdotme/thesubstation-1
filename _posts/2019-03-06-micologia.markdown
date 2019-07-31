@@ -4,7 +4,7 @@ date: 2019-03-06 11:10:00 +11:00
 categories:
 - archive
 - community
-image: "/uploads/VAMFF.jpg"
+image: "/uploads/micologia.jpg"
 image-credit: 'B2B Creative '
 button-url: https://micologia.eventbrite.com.au
 button-txt: BOOK NOW
