@@ -17,4 +17,4 @@ is-single-date: true
 A concert performed and run by the students from Williamstown High School to raise funds for charity.
 Students will be supervised by school staff and parents at the concert. 
 
-[Purchase Tickets](http://https://www.trybooking.com/book/event?eid=518460&)
+[Buy Tickets](https://www.trybooking.com/book/event?eid=518460&)
