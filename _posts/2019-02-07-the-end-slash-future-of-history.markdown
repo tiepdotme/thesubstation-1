@@ -5,7 +5,7 @@ categories:
 - whats-on
 image: "/uploads/katayounjavan.jpg"
 image-credit: Katayoun Javan
-presented-by: Curated by Phuong Ngo and featuring works by Hoda Afsha, Lara Chamas,
+presented-by: Curated by Phuong Ngo and featuring works by Hoda Afshar, Lara Chamas,
   Yu Fung Chi, Katayoun Javan, James Nguyen, Sha Sawari, Cyrus Tang, and Truc Truong.
 tagline: Contemporary artists examining flaws within systems of Government.
 datetime:
