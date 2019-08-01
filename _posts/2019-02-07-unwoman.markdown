@@ -22,6 +22,7 @@ datetime:
 - 2019-11-28 19:00:00 +11:00
 has-opening-event: true
 has-preview-event: true
+is-list-of-dates: true
 is-single-month-duration: true
 notes:
   note: Tickets on sale 2019
