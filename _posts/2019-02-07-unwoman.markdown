@@ -10,7 +10,18 @@ tagline: 'Perverse, real, harrowing and deeply affecting, this is a universal, u
 
 '
 datetime:
-- 2019-11-11 00:00:00 +11:00
+- 2019-11-15 19:00:00 +11:00
+- 2019-11-16 19:00:00 +11:00
+- 2019-11-17 18:00:00 +11:00
+- 2019-11-20 19:00:00 +11:00
+- 2019-11-21 19:00:00 +11:00
+- 2019-11-22 19:00:00 +11:00
+- 2019-11-23 19:00:00 +11:00
+- 2019-11-26 19:00:00 +11:00
+- 2019-11-27 19:00:00 +11:00
+- 2019-11-28 19:00:00 +11:00
+has-opening-event: true
+has-preview-event: true
 is-single-month-duration: true
 notes:
   note: Tickets on sale 2019
