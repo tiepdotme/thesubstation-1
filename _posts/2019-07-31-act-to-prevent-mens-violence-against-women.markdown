@@ -23,3 +23,7 @@ Supported by HealthWest, Hobsons Bay City Council, Moonee Valley City Council, c
 
 
 Video by Teagan Glenane.
+
+## Testimonial:
+
+The SUBSTATION was the perfect venue for our community forum and resource launch. Marisa and her events team were able to offer us a range of seating, stage and audio-visual set up options, so that we could ensure our guest speaker presentations were as engaging as possible for our audience. On the day numerous guests shared with me how much they loved the Main Hall and the catering provided. The SUBSTATION took care of everything in the lead-up to and on the day of the event, and this ensured we were able to welcome and network with our guests. We look forward to continue hosting our main events at The SUBSTATION.
