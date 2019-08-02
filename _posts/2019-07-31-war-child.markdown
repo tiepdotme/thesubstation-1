@@ -2,8 +2,8 @@
 title: Warchild Benefit Concert
 date: 2019-07-31 13:14:00 +10:00
 categories:
-- whats-on
 - community
+- archive
 image: "/uploads/warchild.jpg"
 button-url: https://www.trybooking.com/book/event?eid=518460&
 presented-by: Williamstown High School
