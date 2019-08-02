@@ -9,11 +9,13 @@ button-url: https://www.trybooking.com/book/event?eid=518460&
 presented-by: Williamstown High School
 price: "$15"
 datetime:
-- 2019-07-31 19:00:00 +10:00
+- 
 is-on-home-page: false
 has-opening-event: false
 has-start-time: true
 is-single-date: true
+notes:
+  note: An annual event since 2016
 ---
 
 **Warchild Benefit Concert** will showcase bands from all year levels at **Williamstown High** for a full evening of music. All proceeds will go towards the [War Child](https://www.warchild.org/) charity supporting families affected by war. War Child empowers families to claim their rights, develop to their full potential and contribute to a peaceful future for themselves and their communities. 
