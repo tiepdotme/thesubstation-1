@@ -9,7 +9,7 @@ image-credit: 'Reko Rennie, OA_RR (video still), 2017. Photo: Justin McManus. Co
 presented-by: Almagul Menlibayeva, Noor Afshan Mirza and Brad Butler, Reko Rennie
 price: Free
 datetime:
-- 2019-08-24 15:00:00 +10:00
+- 2019-08-24 14:00:00 +10:00
 - 2019-08-24 17:00:00 +10:00
 - 2019-09-21 00:00:00 +10:00
 has-opening-event: true
