@@ -8,6 +8,8 @@ presented-by: Women’s Health West
 price: Free
 datetime: 2018-06-14 00:00:00 +10:00
 is-single-date: true
+is-single-month-duration: true
+is-year-duration: true
 ---
 
 **Women’s Health West** launched a resource about the prevention of violence against women at The SUBSTATION.
