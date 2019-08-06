@@ -1,6 +1,8 @@
 ---
 title: Arts and Industry Festival
 date: 2019-08-06 10:52:00 +10:00
+categories:
+- community
 image: "/uploads/artindustry.jpg"
 is-list-of-dates: true
 is-single-time-duration: false
