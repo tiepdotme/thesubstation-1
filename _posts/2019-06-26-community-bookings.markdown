@@ -1,8 +1,6 @@
 ---
 title: Community bookings
 date: 2019-06-26 13:11:00 +10:00
-categories:
-- community
 image: "/uploads/the-substation-community-bookings.jpg"
 ---
 
