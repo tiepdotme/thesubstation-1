@@ -5,8 +5,8 @@ categories:
 - community
 image: "/uploads/Community%20Event.jpg"
 datetime:
-- 2016-04-01 00:00:00 +11:00
-- 2017-04-07 00:00:00 +10:00
+- 2019-03-01 00:00:00 +11:00
+- 2019-03-07 00:00:00 +11:00
 - 
 is-single-month-duration: true
 is-year-duration: true
