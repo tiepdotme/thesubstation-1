@@ -4,6 +4,9 @@ date: 2019-08-06 12:35:00 +10:00
 categories:
 - community
 image: "/uploads/Community%20Event.jpg"
+datetime: 2018-11-01 00:00:00 +11:00
+is-single-month-duration: true
+is-year-duration: true
 notes:
   note: Annual event since 2016
 supporters: Hobsons Bay City Council
