@@ -7,8 +7,8 @@ image: "/uploads/Eliane-Radigue.jpg"
 image-credit: Yves Arman Foundation
 button-url: https://eliane-radigue.eventbrite.com.au
 button-txt: BOOK NOW
-presented-by: The music of Eliane Radigue performed by Decibel, Lionel Marchetti (FR)
-  and Lawrence English
+presented-by: The music of Eliane Radigue performed by Decibel and Cat Hope. Diffusion
+  by Lionel Marchetti (FR) and Lawrence English
 tagline: An evening of acoustic and electronic compositions
 price: "$25 / $15 + BF"
 datetime:
