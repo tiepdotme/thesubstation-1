@@ -26,4 +26,11 @@ French composer **[Éliane Radigue](http://www.lovely.com/bios/radigue.html)** h
 
 To celebrate her work, **Lionel Marchetti (FR), Cat Hope, Decibel,** and **Lawrence English** come together to present an evening of electronic music diffusions and delicate acoustics.
 
+
+> Éliane Radigue, b. 1932, is arguably France’s most important female electronic music composer. Historically, one of only a few female composers working in the 20th century, and a dedicated Tibetan Buddhist, over the last decade Radigue has begun creating works for specific performers called Occam after the theory of philosopher William of Ockhamthat–the simplest option is always the best. Where Radigue will only verbally instruct the artist. OCCAM XXIV was commissioned for Cat Hope by Carriageworks/Room 40 in 2017. It is the first of the OCCAM series to be written for flute, and the first for an Australian artist. 
+
+**Cat Hope** is a musician, composer and collaborator whose flute playing most often features as part of her new music ensemble Decibel and in the performance of new Australian works. Her flute performances have featured  across Germany, France, Italy and Japan and feature on albums by Hugo Race, Decibel and Lindsay Vickery on labels such as Hat Hut, Tonelist and Glitterhaus. In 2016, Decibel commissioned the first Australian work from Radigue, in collaboration with French clarinettist Carol Robinson.
+
+<br>
+
 Presented by The SUBSTATION and Room40. 
