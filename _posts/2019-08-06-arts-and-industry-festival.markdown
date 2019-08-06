@@ -5,10 +5,10 @@ datetime:
 - 2016-02-12 00:00:00 +11:00
 - 2017-08-06 00:00:00 +10:00
 - 2018-11-21 00:00:00 +11:00
-is-list-of-dates: false
+is-list-of-dates: true
 is-single-time-duration: false
-is-single-month-duration: false
-is-many-months-duration: true
+is-single-month-duration: true
+is-many-months-duration: false
 is-year-duration: false
 notes:
   note: Annual event since 2016
