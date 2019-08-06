@@ -6,7 +6,9 @@ datetime:
 - 2017-08-06 00:00:00 +10:00
 - 2018-08-06 00:00:00 +10:00
 is-list-of-dates: false
-is-many-months-duration: true
+is-single-time-duration: false
+is-single-month-duration: true
+is-many-months-duration: false
 is-year-duration: false
 notes:
   note: Annual event since 2016
