@@ -4,7 +4,10 @@ date: 2019-08-06 12:35:00 +10:00
 categories:
 - community
 image: "/uploads/Community%20Event.jpg"
-datetime: 2018-11-01 00:00:00 +11:00
+datetime:
+- 2016-04-01 00:00:00 +11:00
+- 2017-04-07 00:00:00 +10:00
+- 
 is-single-month-duration: true
 is-year-duration: true
 notes:
