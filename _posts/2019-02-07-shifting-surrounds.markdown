@@ -32,7 +32,7 @@ supporters:
 - Art+Climate=Change 2019
 ---
 
-[# EXHIBITION CATALOGUE](/uploads/Shifting%20Surrounds%20Booklet_RGB.pdf)
+#[EXHIBITION CATALOGUE](/uploads/Shifting%20Surrounds%20Booklet_RGB.pdf)
 
 ART+CLIMATE=CHANGE 2019 festival artist YANDELL WALTON invites visitors to The SUBSTATION to experience her immersive, digital installation SHIFTING SURROUNDS. The exhibition explores human relationships with ecological and physical systems on the planet, by interrogating the shifting environments caused by climate change. 
 
