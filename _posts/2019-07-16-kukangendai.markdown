@@ -13,7 +13,7 @@ price: "$29/$39 + BF"
 datetime:
 - 2019-10-16 20:00:00 +11:00
 - 2019-10-18 21:10:00 +11:00
-is-on-home-page: false
+is-on-home-page: true
 has-opening-event: false
 has-start-time: true
 is-single-date: false
