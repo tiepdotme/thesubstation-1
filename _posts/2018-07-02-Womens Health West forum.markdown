@@ -7,8 +7,10 @@ categories:
 image: "/uploads/womenshealthforum.jpg"
 presented-by: Women’s Health West
 price: Free
-datetime: 2018-06-14 00:00:00 +10:00
-is-single-date: true
+datetime:
+- 2018-06-06 00:00:00 +10:00
+- 2018-06-07 00:00:00 +10:00
+is-single-date: false
 is-single-month-duration: true
 is-year-duration: true
 ---

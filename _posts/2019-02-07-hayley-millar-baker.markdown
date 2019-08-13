@@ -2,7 +2,7 @@
 title: Ngathoongan Pawa (We Eat)
 date: 2019-02-07 13:30:00 +11:00
 categories:
-- whats-on
+- archive
 image: "/uploads/HayleyMillar.jpg"
 image-credit: '"Australians all let us rejoice for we are young and free" by HAYLEY
   MILLAR-BAKER '
