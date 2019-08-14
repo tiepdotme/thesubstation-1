@@ -3,7 +3,7 @@ title: Western Business Network - West is Best
 date: 2019-08-14 13:07:00 +10:00
 categories:
 - community
-image: "/uploads/WESTBEST-thumb.jpg"
+image: "/uploads/WESTBEST.jpg"
 datetime:
 - 2016-08-01 00:00:00 +10:00
 - 2016-08-08 00:00:00 +10:00
