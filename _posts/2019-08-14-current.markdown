@@ -8,10 +8,10 @@ presented-by: Pierra Van Sparkes
 tagline: We come and go. We stay forever.
 price: FREE
 datetime:
-- 2019-09-12 00:00:00 +10:00
-- 2019-09-28 00:00:00 +10:00
+- 2019-09-12 19:00:00 +10:00
+- 2019-09-28 01:00:00 +10:00
 has-start-time: true
-event-duration-txt: 360 mins
+is-single-time-duration: true
 notes:
   note: The SUBSTATION's Arched Window
 supporters:
@@ -29,6 +29,6 @@ Presented by The SUBSTATION and [Melbourne Fringe Festival.](https://melbournefr
  
 > Pierra Van Sparkes is a Kulin country-based Pibbulman artist. Her work is inspired by the shared history, feelings and encounters that shape lived experiences of Aboriginality amidst a diverse range of Indigenous identities. Working with photography, video and digital media, she interrogates the mythscapes that inform notions of Indigenous authenticity, settler-colonial supremacy and the modes in which they manifest.
 <br>
-> Her work has featured in shows including dis rupt, Hamer Hall (2019); Taking it Blak, Center For Contemporary Photography (2019); Blak to the Future, Footscray Community Arts Centre (2018); BBQ: Blak, Beautiful and Queer, (In)Visible (2018); Hitched, Wyndham Art Gallery (2019); and The Koorie Art Show, Koorie Heritage Trust (2016/17), taking home the 2016 RMIT University Award and the 2017 Moogji Club People’s Choice Award.
+> Her work has featured in shows including disrupt, Hamer Hall (2019); Taking it Blak, Center For Contemporary Photography (2019); Blak to the Future, Footscray Community Arts Centre (2018); BBQ: Blak, Beautiful and Queer, (In)Visible (2018); Hitched, Wyndham Art Gallery (2019); and The Koorie Art Show, Koorie Heritage Trust (2016/17), taking home the 2016 RMIT University Award and the 2017 Moogji Club People’s Choice Award.
 
  
