@@ -11,4 +11,4 @@ is-single-month-duration: true
 is-year-duration: true
 ---
 
-**[Newport Folk Festival]**(http://www.newportfolkfestival.org.au) is an annual community event held in late June/early July across various venues in Newport. Organised by the Newport Fiddle and Folk Club, the festival aims to bring a range of music styles and performers to interact with the local community of Newport. The SUBSTATION has participated in hosting musicians for the festival since 2016.
+**[Newport Folk Festival](http://www.newportfolkfestival.org.au)** is an annual community event held in late June/early July across various venues in Newport. Organised by the Newport Fiddle and Folk Club, the festival aims to bring a range of music styles and performers to interact with the local community of Newport. The SUBSTATION has participated in hosting musicians for the festival since 2016.
