@@ -13,4 +13,5 @@ supporters: Hobsons Bay City Council
 ---
 
 Hobson’s Bay City Council partnered with Orygen to present a day highlighting youth suicide prevention.
-The forum was hosted at The SUBSTATION and included the CEO of [Orygen Youth Health](https://www.orygen.org.au/About/News-And-Events/2017/Community-leader-forum) Pat McGorry, where a conversation was held about youth suicide and how local communities can help reduce  suicide rates.
+
+The forum was hosted at The SUBSTATION and included the CEO of [Orygen Youth Health](https://www.orygen.org.au/About/News-And-Events/2017/Community-leader-forum) Pat McGorry, where a conversation was held about youth suicide and how local communities can help reduce suicide rates.
