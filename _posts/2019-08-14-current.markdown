@@ -8,8 +8,8 @@ presented-by: Pierra Van Sparkes
 tagline: We come and go. We stay forever.
 price: FREE
 datetime:
-- 2019-09-12 19:00:00 +10:00
-- 2019-09-28 01:00:00 +10:00
+- 2019-09-10 19:00:00 +10:00
+- 2019-09-29 01:00:00 +10:00
 has-start-time: true
 has-mins: false
 is-single-time-duration: true
