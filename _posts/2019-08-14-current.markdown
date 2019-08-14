@@ -4,6 +4,7 @@ date: 2019-08-14 14:26:00 +10:00
 categories:
 - whats-on
 image: "/uploads/Current-2019.jpg"
+presented-by: Pierra Van Sparkes
 tagline: We come and go. We stay forever.
 price: FREE
 datetime:
@@ -22,7 +23,7 @@ Cast over two of The SUBSTATION's arched windows, **Current** is a video project
 
 Presented by The SUBSTATION and [Melbourne Fringe Festival.](https://melbournefringe.com.au/event/current/)
 
-## About Pierra 
+## About Pierra Van Sparkes 
 
  
 > Pierra Van Sparkes is a Kulin country-based Pibbulman artist. Her work is inspired by the shared history, feelings and encounters that shape lived experiences of Aboriginality amidst a diverse range of Indigenous identities. Working with photography, video and digital media, she interrogates the mythscapes that inform notions of Indigenous authenticity, settler-colonial supremacy and the modes in which they manifest.
