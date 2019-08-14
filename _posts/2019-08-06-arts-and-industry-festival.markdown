@@ -7,7 +7,7 @@ image: "/uploads/artindustry.jpg"
 datetime:
 - 2016-11-01 00:00:00 +11:00
 - 2016-11-07 00:00:00 +11:00
-is-list-of-dates: true
+is-list-of-dates: false
 is-single-time-duration: false
 is-single-month-duration: true
 is-many-months-duration: false
