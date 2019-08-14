@@ -10,6 +10,7 @@ price: FREE
 datetime:
 - 2019-09-12 00:00:00 +10:00
 - 2019-09-28 00:00:00 +10:00
+has-start-time: true
 event-duration-txt: 360 mins
 notes:
   note: The SUBSTATION's Arched Window
