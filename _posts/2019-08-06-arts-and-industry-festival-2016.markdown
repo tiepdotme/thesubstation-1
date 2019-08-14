@@ -4,6 +4,7 @@ date: 2019-08-06 10:52:00 +10:00
 categories:
 - community
 image: "/uploads/artindustry.jpg"
+presented-by: 2016
 datetime:
 - 2016-11-01 00:00:00 +11:00
 - 2016-11-07 00:00:00 +11:00
