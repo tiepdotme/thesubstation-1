@@ -3,7 +3,7 @@ title: Hobsons Bay City Council Business Breakfast
 date: 2019-08-14 11:54:00 +10:00
 categories:
 - community
-image: "/uploads/Community%20Event-thumb.jpg"
+image: "/uploads/Community%20Event.jpg"
 datetime:
 - 2016-04-01 00:00:00 +11:00
 - 2016-04-07 00:00:00 +10:00
