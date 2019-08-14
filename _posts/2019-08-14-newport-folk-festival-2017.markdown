@@ -4,6 +4,7 @@ date: 2019-08-14 12:21:00 +10:00
 categories:
 - community
 image: "/uploads/Newport%20Folk%20Fest-2017.JPG"
+presented-by: 2017
 datetime:
 - 2017-06-01 00:00:00 +10:00
 - 2017-06-07 00:00:00 +10:00
