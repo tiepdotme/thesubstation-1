@@ -3,7 +3,7 @@ title: Art & Industry Festival
 date: 2019-08-14 11:47:00 +10:00
 categories:
 - community
-image: "/uploads/artindustry-thumb.jpg"
+image: "/uploads/artindustry.jpg"
 datetime:
 - 2018-11-01 00:00:00 +11:00
 - 2018-11-07 00:00:00 +11:00
