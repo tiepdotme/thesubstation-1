@@ -9,9 +9,6 @@ datetime:
 - 2016-08-19 00:00:00 +10:00
 is-single-month-duration: true
 is-year-duration: true
-notes:
-  note:
-  - 
 supporters: Hobsons Bay City Council
 ---
 
