@@ -11,6 +11,8 @@ datetime:
 - 2019-09-28 00:00:00 +10:00
 notes:
   note: W
+supporters:
+- Melbourne Fringe
 ---
 
 My mother and I make tea in my nan’s old crockery, items passing between hands and in and out of frame as they move between us. Up and down the hills and valleys we go, grateful guests on beautiful Taungurung country we’ve called home for all these years. Unmoved and shaken up, you hold us all the same. The brush grows back, old paths are walked again.
