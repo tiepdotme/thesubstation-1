@@ -1,6 +1,8 @@
 ---
 title: Current
 date: 2019-08-14 14:26:00 +10:00
+categories:
+- whats-on
 image: "/uploads/Current-2019.jpg"
 tagline: We come and go. We stay forever.
 price: FREE
