@@ -5,8 +5,8 @@ categories:
 - community
 image: "/uploads/Folk.jpg"
 datetime:
-- 2019-06-01 00:00:00 +10:00
-- 2019-06-07 00:00:00 +10:00
+- 2018-06-01 00:00:00 +10:00
+- 2018-06-07 00:00:00 +10:00
 is-single-month-duration: true
 is-year-duration: true
 ---
