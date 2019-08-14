@@ -7,8 +7,9 @@ image: "/uploads/artindustry-thumb.jpg"
 datetime:
 - 2017-11-01 00:00:00 +11:00
 - 2017-11-07 00:00:00 +11:00
-is-list-of-dates: true
+is-list-of-dates: false
 is-single-month-duration: true
+is-year-duration: true
 supporters: Art & Industry Festival
 ---
 
