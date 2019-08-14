@@ -4,13 +4,14 @@ date: 2019-08-06 10:52:00 +10:00
 categories:
 - community
 image: "/uploads/artindustry.jpg"
+datetime:
+- 2016-01-01 00:00:00 +11:00
+- 2016-01-07 00:00:00 +11:00
 is-list-of-dates: true
 is-single-time-duration: false
 is-single-month-duration: true
 is-many-months-duration: false
 is-year-duration: false
-notes:
-  note: Annual event since 2016
 supporters: Art & Industry Festival
 ---
 
