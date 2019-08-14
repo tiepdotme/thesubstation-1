@@ -7,6 +7,7 @@ image: "/uploads/HBCC%20library-school%20holiday%20program-2016.jpg"
 datetime:
 - 2016-07-12 00:00:00 +10:00
 - 2016-07-13 00:00:00 +10:00
+is-opening-hours-time: true
 is-single-month-duration: true
 is-year-duration: true
 supporters: Hobsons Bay City Council
