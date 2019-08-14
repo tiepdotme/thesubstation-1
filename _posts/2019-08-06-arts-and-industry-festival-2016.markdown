@@ -1,5 +1,5 @@
 ---
-title: Arts and Industry Festival
+title: Arts & Industry Festival
 date: 2019-08-06 10:52:00 +10:00
 categories:
 - community
