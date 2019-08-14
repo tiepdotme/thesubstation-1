@@ -14,7 +14,7 @@ is-many-months-duration: false
 is-year-duration: false
 supporters:
 - Hobsons Bay City Council
-- Art & Industry Festival
+- 
 ---
 
 Over ten days, the [**Art & Industry Festival**](http://artandindustryfestival.com.au) celebrates and investigates the ever-changing industrial and manufacturing heartland of Australia based in Melbourne’s western suburbs. "Industry" as a theme creates a lens through which we can view and acknowledge the past and generate ideas on how we can build and design the future.
