@@ -4,6 +4,7 @@ date: 2019-08-15 11:25:00 +10:00
 categories:
 - community
 image: "/uploads/Folk%20Carols1.jpg"
+presented-by: 2016
 datetime:
 - 2016-12-01 00:00:00 +11:00
 - 2016-12-08 00:00:00 +11:00
