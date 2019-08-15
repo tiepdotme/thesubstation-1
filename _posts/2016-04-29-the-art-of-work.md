@@ -3,6 +3,7 @@ title: The Art of Work
 date: 2016-04-29 00:00:00 +10:00
 categories:
 - archive
+- community
 image: "/uploads/projector-bike-back-story.jpg"
 button-url: https://www.eventbrite.com/e/the-art-of-work-tickets-24226159094
 button-txt: RSVP
