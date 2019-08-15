@@ -1,5 +1,5 @@
 ---
-title: "#StartWest"
+title: StartWest
 date: 2019-08-15 11:54:00 +10:00
 categories:
 - community
