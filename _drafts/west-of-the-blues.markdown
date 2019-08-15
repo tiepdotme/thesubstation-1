@@ -3,7 +3,7 @@ title: West of the Blues
 date: 2019-08-15 13:08:00 +10:00
 categories:
 - community
-image: "/uploads/WestBlues.JPG"
+image: "/uploads/Womenshousing-thumb.jpg"
 datetime:
 - 2019-08-01 00:00:00 +10:00
 - 2019-08-08 00:00:00 +10:00
