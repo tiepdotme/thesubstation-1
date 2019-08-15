@@ -3,6 +3,7 @@ title: Compelling Stories – Intervening in Public Places
 date: 2017-09-14 12:02:00 +10:00
 categories:
 - archive
+- community
 image: "/uploads/compelling-telling-02.jpg"
 button-url: https://www.melbournefringe.com.au/event/mammalian-diving-reflex-masterclass-compelling-telling-intervening-in-public-spaces/
 button-txt: BUY TICKETS
