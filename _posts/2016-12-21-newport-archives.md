@@ -3,6 +3,7 @@ title: Newport Archives 2016
 date: 2016-12-21 10:00:00 +11:00
 categories:
 - archive
+- community
 image: "/uploads/newport-archives.jpg"
 image-credit: Suzie Blake
 button-url: http://thesubstation.iwannaticket.com.au/event/newport-archives-open-house-melbourne-MTEwODI
