@@ -3,6 +3,7 @@ title: Portable Container – Art Voyages in Public Places
 date: 2017-09-13 05:56:00 +10:00
 categories:
 - archive
+- community
 image: "/uploads/container.jpg"
 presented-by: Plastic Loaves and Mesh Mash
 price: FREE
