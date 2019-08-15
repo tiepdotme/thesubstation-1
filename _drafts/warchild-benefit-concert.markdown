@@ -1,0 +1,8 @@
+---
+title: Warchild Benefit Concert
+date: 2019-08-15 12:57:00 +10:00
+categories:
+- community
+---
+
+The SUBSTATION hosted the annual WARCHILD BENEFIT CONCERT showcasing bands from all year levels at [WILLIAMSTOWN HIGH](http://www.willihigh.vic.edu.au/) for a full evening of music. All proceeds go towards the War Child charity supporting families affected by war. War Child empowers families to claim their rights, develop to their full potential and contribute to a peaceful future for themselves and their communities.
