@@ -4,7 +4,6 @@ date: 2019-07-31 13:14:00 +10:00
 categories:
 - community
 image: "/uploads/Warchild-WH.jpg"
-presented-by: Williamstown High School
 datetime:
 - 2019-06-01 00:00:00 +10:00
 - 2019-06-07 00:00:00 +10:00
