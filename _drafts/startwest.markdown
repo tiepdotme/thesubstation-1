@@ -1,0 +1,14 @@
+---
+title: StartWest
+date: 2019-08-15 11:58:00 +10:00
+categories:
+- community
+image: "/uploads/startwest.png"
+datetime:
+- 2019-07-01 00:00:00 +10:00
+- 2019-07-08 00:00:00 +10:00
+is-single-month-duration: true
+is-year-duration: true
+---
+
+The [#StartWest](https://www.startwest.org/) initiative supports strong community building in Melbourne’s West through startup support and monthly networking opportunities across four council districts: Wyndham, Hobsons Bay, Moonee Valley and Maribrynong. The SUBSTATION hosted a one day event in July of 2019 dedicated to connecting and inspiring entrepreneurs in Melbourne's West as apart of the #StartWest campaign.
