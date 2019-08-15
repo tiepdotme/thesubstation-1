@@ -2,7 +2,7 @@
 title: Banjos, Boots & Beyonce
 date: 2017-07-06 08:50:00 +10:00
 categories:
-- archive
+- community
 image: "/uploads/st-martins.jpg"
 image-credit: Sarah Walker and Richard Chambers
 button-url: http://thesubstation.iwannaticket.com.au/event/banjos-boots-beyonce-MTI5NTA
