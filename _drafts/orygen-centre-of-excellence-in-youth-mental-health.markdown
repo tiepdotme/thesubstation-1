@@ -10,4 +10,4 @@ is-single-month-duration: true
 is-year-duration: true
 ---
 
-The SUBSTATION hosted a community forum on Youth Suicide Prevention in Educational Settings with [Orygen Centre of Excellence in Youth Mental Help](https://www.orygen.org.au/). This forum sought to bring together community leaders from across the North-West region, particularly those working within educational institutions. Attendees learnt more about Orygen’s work in this area, and had an opportunity to discuss approaches to youth suicide prevention. 
+The SUBSTATION hosted a community forum on Youth Suicide Prevention in Educational Settings with [Orygen Centre of Excellence in Youth Mental Health](https://www.orygen.org.au/). This forum sought to bring together community leaders from across the North-West region, particularly those working within educational institutions. Attendees learnt more about Orygen’s work in this area, and had an opportunity to discuss approaches to youth suicide prevention. 
