@@ -12,4 +12,4 @@ is-many-months-duration: false
 is-year-duration: true
 ---
 
-[Arts West](https://www.artswest.com.au) is an alliance of arts organisations delivering the bulk of arts and culture throughout Melbourne’s West and beyond. Arts West invited candidates for the Victorian state election of November 2018 to share their vision for arts and culture in the West. This event provided residents an opportunity to meet local candidates, hear details on policies and ask questions about the ways they intend to support and foster arts and cultural participation in Melbourne’s West.
+**[Arts West]**(https://www.artswest.com.au) is an alliance of arts organisations delivering the bulk of arts and culture throughout Melbourne’s West and beyond. **Arts West** invited candidates for the Victorian state election of November 2018 to share their vision for arts and culture in the West. This event provided residents an opportunity to meet local candidates, hear details on policies and ask questions about the ways they intend to support and foster arts and cultural participation in Melbourne’s West.
