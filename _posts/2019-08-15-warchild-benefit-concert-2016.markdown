@@ -4,6 +4,7 @@ date: 2019-08-15 12:57:00 +10:00
 categories:
 - community
 image: "/uploads/Warchild-WH.jpg"
+presented-by: WILLIAMSTOWN HIGH SCHOOL
 datetime:
 - 2016-09-01 00:00:00 +10:00
 - 2016-09-08 00:00:00 +10:00
