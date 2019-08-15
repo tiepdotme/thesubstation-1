@@ -3,6 +3,7 @@ title: Hi-Viz Practice Exchange
 date: 2019-07-04 11:02:00 +10:00
 categories:
 - whats-on
+- community
 image: "/uploads/HiVisHeroImage.jpg"
 image-credit: Photo by Pia Johnson
 button-url: http://chambermade.org/events/hi-viz-2019/
