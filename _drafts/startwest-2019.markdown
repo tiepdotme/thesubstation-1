@@ -4,6 +4,7 @@ date: 2019-08-15 11:58:00 +10:00
 categories:
 - community
 image: "/uploads/startwest.png"
+presented-by: 2019
 datetime:
 - 2019-07-01 00:00:00 +10:00
 - 2019-07-08 00:00:00 +10:00
