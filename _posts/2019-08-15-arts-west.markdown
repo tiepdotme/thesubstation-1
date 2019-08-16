@@ -3,7 +3,7 @@ title: Arts West
 date: 2019-08-15 12:08:00 +10:00
 categories:
 - community
-image: "/uploads/arts%20west.png"
+image: "/uploads/artswest.jpg"
 datetime:
 - 2018-10-01 00:00:00 +10:00
 - 2018-10-08 00:00:00 +11:00
