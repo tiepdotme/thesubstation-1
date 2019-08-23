@@ -4,7 +4,7 @@ title: |-
   Sleep D, Jess Sneddon
 date: 2019-06-18 11:14:00 +10:00
 categories:
-- whats-on
+- archive
 image: "/uploads/Haruka.jpg"
 button-url: https://www.eventbrite.com/e/butter-sessions-wit-haruka-sleep-d-tarquin-manek-y-l-hooi-jess-sneddon-tickets-64588792818?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing
 button-txt: Book Now
