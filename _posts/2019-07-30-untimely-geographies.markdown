@@ -12,6 +12,7 @@ datetime:
 - 2019-08-24 14:00:00 +10:00
 - 2019-08-24 17:00:00 +10:00
 - 2019-09-21 00:00:00 +10:00
+is-on-home-page: true
 has-opening-event: true
 has-preview-event: false
 has-start-time: false
