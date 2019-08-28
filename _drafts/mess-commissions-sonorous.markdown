@@ -5,7 +5,7 @@ categories:
 - whats-on
 image: "/uploads/MESS.jpg"
 presented-by: Rosiland Hall and Steve Law (Zen Paradox)
-price: "$15/$25"
+price: "$25/$15 + BF"
 datetime:
 - 2019-11-02 19:00:00 +11:00
 has-start-time: true
