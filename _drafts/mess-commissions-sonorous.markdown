@@ -8,7 +8,9 @@ price: "$15/$25"
 datetime: 2019-11-02 19:00:00 +11:00
 is-single-month-duration: true
 is-year-duration: true
-supporters: Creative Victoria
+supporters:
+- Creative Victoria
+- MESS Foundation
 ---
 
 The [MESS](https://mess.foundation/) Commissions will allow audiences to experience the expansive range of electronic sound that is created in Australia in an environment conducive to deep immersive listening. From engaging emerging artists to create new work to presenting pieces by established practitioners, through to bringing light to the vast and mostly unheard work created in this country since the late 1960s’, the MESS Commissions aims to support and expose the significant culture of electronic sound that exists in Australia.
