@@ -3,6 +3,7 @@ title: 'MESS Commissions: Sonorous'
 date: 2019-08-28 13:53:00 +10:00
 categories:
 - whats-on
+image: "/uploads/MESS-thumb.jpg"
 presented-by: Rosiland Hall and Steve Law (Zen Paradox)
 price: "$15/$25"
 datetime: 2019-11-02 19:00:00 +11:00
