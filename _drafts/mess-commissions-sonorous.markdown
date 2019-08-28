@@ -6,9 +6,12 @@ categories:
 image: "/uploads/MESS.jpg"
 presented-by: Rosiland Hall and Steve Law (Zen Paradox)
 price: "$15/$25"
-datetime: 2019-11-02 19:00:00 +11:00
+datetime:
+- 2019-11-02 19:00:00 +11:00
+has-start-time: true
+is-single-date: true
 is-single-month-duration: true
-is-year-duration: true
+is-year-duration: false
 supporters:
 - Creative Victoria
 - MESS Foundation
