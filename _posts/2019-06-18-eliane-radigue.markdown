@@ -10,7 +10,7 @@ button-txt: BOOK NOW
 presented-by: The music of Eliane Radigue performed by Decibel and Cat Hope. Diffusion
   by Lionel Marchetti (FR) and Lawrence English
 tagline: An evening of acoustic and electronic compositions
-price: "$25 / $15 + BF"
+price: 'Online: $25 / $15 + BF | Door: $35/$25'
 datetime:
 - 2019-08-30 19:00:00 +10:00
 - 2019-08-30 21:30:00 +10:00
