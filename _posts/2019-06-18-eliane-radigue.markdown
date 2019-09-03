@@ -2,7 +2,7 @@
 title: Éliane Radigue
 date: 2019-06-18 15:11:00 +10:00
 categories:
-- whats-on
+- archive
 image: "/uploads/Eliane-Radigue.jpg"
 image-credit: Yves Arman Foundation
 button-url: https://eliane-radigue.eventbrite.com.au
@@ -14,7 +14,7 @@ price: 'Online: $25 / $15 + BF | Door: $35/$25'
 datetime:
 - 2019-08-30 19:00:00 +10:00
 - 2019-08-30 21:30:00 +10:00
-is-on-home-page: true
+is-on-home-page: false
 has-start-time: true
 has-mins: false
 is-single-date: true
