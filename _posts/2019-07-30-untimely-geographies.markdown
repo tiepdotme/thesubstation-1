@@ -34,3 +34,5 @@ Utilising verbal and non-verbal language systems, the participating artists blen
 Presented by The SUBSTATION and [Channels Festival](http://www.channelsfestival.net.au).
 
 International artists Almagul Menlibayeva (Kazakhstan/Germany) and Noor Afshan Mirza (Turkey/United Kingdom) are undertaking four-week residencies in Melbourne with support from Channels Festival and RMIT University School of Art through SITUATE.
+
+![Access Icons_Wheelchair.png](/uploads/Access%20Icons_Wheelchair.png)
