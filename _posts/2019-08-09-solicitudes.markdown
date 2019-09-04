@@ -19,3 +19,5 @@ notes:
 **Solicitudes**' images resonate with latent sound; sounds and acoustic spaces that permeate our subconscious, exploding beyond confines of the visual realm. Within each frame sonic spectres manifest, haunting us. 
 
 Presented by The SUBSTATION.
+
+![Access Icons_Billboards.png](/uploads/Access%20Icons_Billboards.png)
