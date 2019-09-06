@@ -16,9 +16,12 @@ datetime:
 - 2019-12-06 19:00:00 +11:00
 - 2019-12-07 19:00:00 +11:00
 - 2019-12-10 19:00:00 +11:00
+- 2019-12-11 19:00:00 +11:00
+- 2019-12-12 19:00:00 +11:00
 - 2019-12-13 19:00:00 +11:00
 has-opening-event: true
 has-preview-event: true
+is-list-of-dates: true
 is-single-month-duration: false
 notes:
   note: 'Tickets on sale 2019 '
