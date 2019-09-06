@@ -5,21 +5,29 @@ categories:
 - whats-on
 image: "/uploads/Pieces.jpg"
 image-credit: 'Image: Byron Perry,  Dancer: Benjamin Hancock'
-presented-by: Presented with LUCY GUERIN INC.
+presented-by: 'SARAH AIKEN, SIOBHAN MCKENNA, GEOFFREY WATSON
+
+'
 tagline: 'Three emerging choreographers present pieces that shift our existing notions
   of dance.
 
 '
 datetime:
-- 2019-12-01 00:00:00 +11:00
-- 2019-12-01 00:00:00 +11:00
-is-single-month-duration: true
+- 2019-12-06 19:00:00 +11:00
+- 2019-12-07 19:00:00 +11:00
+- 2019-12-10 19:00:00 +11:00
+- 2019-12-13 19:00:00 +11:00
+has-opening-event: true
+has-preview-event: true
+is-single-month-duration: false
 notes:
   note: 'Tickets on sale 2019 '
 ---
 
-PIECES is Lucy Guerin Inc’s new annual performance program to support the work of emerging and independent Victorian choreographers. A re-invention of LGI’s much-loved series Pieces for Small Spaces, PIECES introduces an exciting collaboration with The SUBSTATION.
+PIECES will showcase bold new contemporary dance works by the next generation of Melbourne's independent choreographers.
  
-This new project coincides with the company’s ambitious move to WXYZ Studios which opens up possibilities for more in-depth, sustained working periods for artists. Three choreographers will have the opportunity to create works of 20-30 minutes during a four-week development period at the LGI studios, with a final presentation season to take place at The SUBSTATION.
- 
-PIECES will provide space for artists to challenge their regular practice and execute their most daring ideas; and with the collaborative support of two bold arts organisations, shift our existing notions of dance. 
+This December, artists Sarah Aiken, Siobhan McKenna and Geoffrey Watson will present unique and exciting new works in a six-show season at The SUBSTATION. This triple bill will shift our existing notions of dance in unexpected ways by providing resources for artists to challenge their regular practice and execute their most daring ideas.   
+
+PIECES is an evolution of LGI's annual Pieces for Small Spaces, a co-production of LGI and The SUBSTATION supported by the Angior Family Foundation. LGI has also been supported by Creative Victoria, the City of Melbourne and the Australian Government through the Australia Council, its arts funding and advisory body.
+
+Presented by The SUBSTATION and LUCY GUERIN INC.
