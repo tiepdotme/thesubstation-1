@@ -4,11 +4,14 @@ date: 2019-02-07 13:30:00 +11:00
 categories:
 - whats-on
 image: "/uploads/Unwoman2019.jpg"
+button-url: https://unwoman.eventbrite.com.au
+button-txt: BOOK NOW
 presented-by: THE RABBLE and Maeve Stone
 tagline: 'Perverse, real, harrowing and deeply affecting, this is a universal, unforgettable
   masterpiece of performance art.  – The Times UK
 
 '
+price: 'Online: $35/$25 + BF'
 datetime:
 - 2019-11-15 19:00:00 +11:00
 - 2019-11-16 19:00:00 +11:00
