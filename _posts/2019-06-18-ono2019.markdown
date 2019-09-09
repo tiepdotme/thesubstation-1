@@ -2,7 +2,7 @@
 title: ONO PRESENTS
 date: 2019-06-18 12:36:00 +10:00
 categories:
-- whats-on
+- archive
 image: "/uploads/Ono2019.jpg"
 button-url: https://www.eventbrite.com.au/e/ono-presents-grand-river-ita-chris-ssg-fia-fiell-soft-high-aka-sleep-d-tickets-64581071724
 button-txt: Buy Tickets
@@ -12,7 +12,7 @@ tagline: 'Visceral and intimate: ONO is Melbourne’s pre-eminent deep listening
 price: Earlybird tickets $30 + bf  Final release $40 + bf
 datetime:
 - 2019-09-06 20:00:00 +10:00
-is-on-home-page: true
+is-on-home-page: false
 supporters: ONO
 ---
 
