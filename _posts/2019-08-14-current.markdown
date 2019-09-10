@@ -8,7 +8,7 @@ presented-by: Pierra Van Sparkes
 tagline: We come and go. We stay forever.
 price: FREE
 datetime:
-- 2019-09-10 19:00:00 +10:00
+- 2019-09-11 19:00:00 +10:00
 - 2019-09-29 01:00:00 +10:00
 has-start-time: true
 has-mins: false
@@ -37,4 +37,6 @@ Presented by The SUBSTATION and [Melbourne Fringe Festival.](https://melbournefr
 
 ![Access Icons_Wheelchair.png](/uploads/Access%20Icons_Wheelchair.png)
 
+
+Due to technical difficulties, Current has been postponed 1 night and will commence Wednesday 11th September
  
