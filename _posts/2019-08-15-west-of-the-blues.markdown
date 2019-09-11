@@ -10,11 +10,11 @@ price: "$10-$20"
 datetime:
 - 2019-09-15 00:00:00 +10:00
 - 2019-09-15 22:15:00 +10:00
-is-single-month-duration: true
-is-year-duration: true
+is-single-month-duration: false
+is-year-duration: false
 ---
 
-Local musicians part of the [Newport Folk & Fiddle Club](http://nffc.org.au/blues.html) raising awareness of mental health through a full day of concerts and workshops held at The SUBSTATION.
+Local musicians part of the [Newport Folk & Fiddle Club](http://nffc.org.au/blues.html) raising awareness of mental health through a full day of art, concerts and workshops held at The SUBSTATION.
 
 Newport Folk Club's cruisy Tues Blues group are excited to be bringing you a day of blues, featuring Phil Manning (ex-Chain) and 8 established and emerging musicians and bands from the West, including, Tues Blues. 
 
