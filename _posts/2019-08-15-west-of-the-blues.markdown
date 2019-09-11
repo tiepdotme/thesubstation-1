@@ -8,7 +8,7 @@ button-url: https://www.trybooking.com/book/event?eid=525096&
 button-txt: BOOK NOW
 price: "$10-$20"
 datetime:
-- 2019-09-15 00:00:00 +10:00
+- 2019-09-15 12:00:00 +10:00
 - 2019-09-15 22:15:00 +10:00
 is-single-date: true
 is-single-month-duration: false
