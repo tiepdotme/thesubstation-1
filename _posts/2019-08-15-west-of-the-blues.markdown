@@ -17,7 +17,7 @@ is-year-duration: false
 
 Local musicians part of the [Newport Folk & Fiddle Club](http://nffc.org.au/blues.html) raising awareness of mental health through a full day of art, concerts and workshops held at The SUBSTATION.
 
-Newport Folk Club's cruisy Tues Blues group are excited to be bringing you a day of blues, featuring Phil Manning (ex-Chain) and 8 established and emerging musicians and bands from the West, including, Tues Blues. 
+Newport Folk Club's cruisy Tues Blues group are excited to be bringing you a day of blues, featuring Ian Collard and 8 established and emerging musicians and bands from the West, including, Tues Blues. 
 
 The workshop will explore Performance Anxiety and how to manage it, run by a qualified counselor/musician, fundraising for Beyond Blue.
 
