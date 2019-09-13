@@ -3,7 +3,7 @@ title: West of the Blues
 date: 2019-08-15 13:08:00 +10:00
 categories:
 - community
-image: "/uploads/WestBlues1.jpg"
+image: "/uploads/Ian%20Collard.jpeg"
 button-url: https://www.trybooking.com/book/event?eid=525096&
 button-txt: BOOK NOW
 price: "$10-$20"
