@@ -1,9 +1,8 @@
 ---
 title: Hayley Millar-Baker
 date: 2018-05-24 10:48:00 +10:00
-published: false
 image: "/uploads/Hayley.jpg"
-current: true
+current: false
 ---
 
 Engaging with personal subjects surrounding her existence as an ‘urbanised’ Koori, [HAYLEY MILLAR-BAKER](http://www.hayleymillar.net/)'s practice is focused in photo-media investigations and interrogations of both personal and collective realities and re-imaginings - confronting past, present, and future stories of Aboriginal existence within south-east Australia.
