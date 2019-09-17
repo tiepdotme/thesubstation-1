@@ -1,9 +1,8 @@
 ---
 title: Antony Hamilton
 date: 2018-12-17 13:03:00 +11:00
-published: false
 image: "/uploads/antony-hamilton.jpg"
-current: true
+current: false
 ---
 
 [ANTONY HAMILTON](http://antonyhamiltonprojects.com/home.html) is an Australian choreographer. His multi-award winning performances involve a sophisticated melding of movement, sound and visual design.
