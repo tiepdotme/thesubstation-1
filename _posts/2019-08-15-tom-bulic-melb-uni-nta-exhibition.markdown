@@ -3,7 +3,7 @@ title: 'Tom Bulic: to_make Architects'
 date: 2019-08-15 11:41:00 +10:00
 categories:
 - community
-image: "/uploads/to_make.jpeg"
+image: "/uploads/tombulic-thumb.jpeg"
 presented-by: Melbourne University NTA exhibition
 datetime:
 - 2018-02-01 00:00:00 +11:00
