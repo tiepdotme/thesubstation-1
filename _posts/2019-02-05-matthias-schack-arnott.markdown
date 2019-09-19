@@ -14,7 +14,7 @@ is-many-months-duration: true
 
 **Everywhen** by **Matthias Schack-Arnott** is a major new work exploring large-scale cyclic patterns. Up to 100 suspended percussive objects hover and rotate along a six-meter moving axis. The work investigates a perpetually shifting sonic environment through the intersection of sound, time and space. 
 
-**Matthias Schack-Arnott** is a local based percussive artists from Williamstown artist working at the intersection between kinetics, new media and sound. 
+**Matthias Schack-Arnott** is a local based percussive artist from Williamstown working at the intersection between kinetics, new media and sound. 
  
 Described by The Guardian as ‘sonically and visually exquisite’, **Schack-Arnott**’ solo work explores unique approaches to percussive performance, often involving the development of new instrumental set-ups built in collaboration with architects, engineers and technicians. 
  
