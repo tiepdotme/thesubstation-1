@@ -27,8 +27,6 @@ has-opening-event: true
 has-preview-event: true
 is-list-of-dates: true
 is-single-month-duration: true
-notes:
-  note: Tickets on sale 2019
 ---
 
 Unwoman is song.
