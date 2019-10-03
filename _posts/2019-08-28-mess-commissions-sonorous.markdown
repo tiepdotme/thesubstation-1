@@ -4,6 +4,8 @@ date: 2019-08-28 13:53:00 +10:00
 categories:
 - whats-on
 image: "/uploads/MESS.jpg"
+button-url: https://mess-sonorous.eventbrite.com.au
+button-txt: BOOK NOW
 presented-by: Rosiland Hall and Steve Law (Zen Paradox)
 price: "$25/$15 + BF"
 datetime:
