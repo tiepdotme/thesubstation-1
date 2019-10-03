@@ -2,7 +2,7 @@
 title: Untimely Geographies
 date: 2019-07-30 13:30:00 +10:00
 categories:
-- whats-on
+- archive
 image: "/uploads/RekoRennie.jpg"
 image-credit: 'Reko Rennie, OA_RR (video still), 2017. Photo: Justin McManus. Courtesy
   the artist and STATION.'
@@ -12,7 +12,7 @@ datetime:
 - 2019-08-24 14:00:00 +10:00
 - 2019-08-24 17:00:00 +10:00
 - 2019-09-21 00:00:00 +10:00
-is-on-home-page: true
+is-on-home-page: false
 has-opening-event: true
 has-preview-event: false
 has-start-time: false
