@@ -23,6 +23,7 @@ datetime:
 - 2019-11-26 19:00:00 +11:00
 - 2019-11-27 19:00:00 +11:00
 - 2019-11-28 19:00:00 +11:00
+is-on-home-page: true
 has-opening-event: true
 has-preview-event: true
 is-list-of-dates: true
