@@ -34,12 +34,18 @@ Gongs play themselves as they spin through the space, suspended chimes hum as th
 Dense, intricate and mesmerising. The audience is enveloped in a whirlpool of sound, augmented by an immersive rotational lighting system designed by Keith Tucker of Megafun. 
 
 
-> Director, Composer, Performer – [Matthias Schack-Arnott](http://matthiasschackarnott.com) <br>
-Robotics – Nick Roux <br>
-Lighting Designer - Keith Tucker <br>
-Sound Engineer – Tilman Robinson <br>
-Production Management - Megafun <br>
-Producer – Michaela Coventry / Sage Arts
+Director, Composer, Performer: Matthias Schack-Arnott 
+<br>
+Sound Design, Collaborator: Tilman Robinson
+<br>
+Robotics, Speaker Construction, Collaborator: Nick Roux
+<br>
+Production Manager: Gene Hedley (Megafun)
+<br>
+Lighting Designer: Keith Tucker
+<br>
+Producer: Michaela Coventry (Sage Arts)
+<br>
 
 Presented by The SUBSTATION and [Melbourne International Arts Festival](https://www.festival.melbourne/).
 
