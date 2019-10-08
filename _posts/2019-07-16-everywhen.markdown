@@ -23,7 +23,9 @@ is-list-of-dates: false
 is-opening-hours-time: false
 notes:
   note: 'MATINEE: SUN 13 OCTOBER, 4PM'
-supporters: Melbourne Festival
+supporters:
+- Melbourne Festival
+- 
 ---
 
 EVERYWHEN creates a world of massed percussive objects in perpetual motion, exploring the transience of the physical and psychological structures we create as humans. 
@@ -34,7 +36,7 @@ Gongs play themselves as they spin through the space, suspended chimes hum as th
 Dense, intricate and mesmerising. The audience is enveloped in a whirlpool of sound, augmented by an immersive rotational lighting system designed by Keith Tucker of Megafun. 
 
 
-Director, Composer, Performer: Matthias Schack-Arnott 
+Concept, Director, Composer, Performer: Matthias Schack-Arnott
 <br>
 Sound Design, Collaborator: Tilman Robinson
 <br>
@@ -45,7 +47,6 @@ Production Manager: Gene Hedley (Megafun)
 Lighting Designer: Keith Tucker
 <br>
 Producer: Michaela Coventry (Sage Arts)
-<br>
 
 Presented by The SUBSTATION and [Melbourne International Arts Festival](https://www.festival.melbourne/).
 
