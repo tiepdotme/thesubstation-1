@@ -2,7 +2,7 @@
 title: DIASPORA
 date: 2019-07-16 14:30:00 +10:00
 categories:
-- whats-on
+- archive
 image: "/uploads/Diaspora.jpg"
 image-credit: Pier Carthew
 button-url: https://diasporachambermade.eventbrite.com.au
@@ -16,7 +16,7 @@ datetime:
 - 2019-10-04 20:00:00 +10:00
 - 2019-10-05 20:00:00 +10:00
 - 2019-10-06 14:00:00 +11:00
-is-on-home-page: true
+is-on-home-page: false
 has-opening-event: false
 has-preview-event: false
 has-closing-event: false
