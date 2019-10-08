@@ -10,6 +10,7 @@ presented-by: Rosiland Hall and Steve Law (Zen Paradox)
 price: "$25/$15 + BF"
 datetime:
 - 2019-11-02 19:00:00 +11:00
+is-on-home-page: true
 has-start-time: true
 is-single-date: true
 is-single-month-duration: true
