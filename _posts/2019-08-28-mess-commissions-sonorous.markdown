@@ -6,7 +6,7 @@ categories:
 image: "/uploads/MESS.jpg"
 button-url: https://mess-sonorous.eventbrite.com.au
 button-txt: BOOK NOW
-presented-by: Rosiland Hall and Steve Law (Zen Paradox)
+presented-by: Rosalind Hall and Steve Law (Zen Paradox)
 price: "$25/$15 + BF"
 datetime:
 - 2019-11-02 19:00:00 +11:00
