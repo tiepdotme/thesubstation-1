@@ -29,26 +29,3 @@ Since the early 1980s’ **Steve Law** has been walking a unique path through el
 This project is supported by Creative Victoria through VicArts. MESS is supported by our members and donor supporters, Australia Council for the Arts, The City of Melbourne and Creative Spaces.
 
 ![Access Icons ONO .png](/uploads/Access%20Icons%20ONO%20.png)
-
-<!-- Noscript content for added SEO -->
-<noscript><a href="https://mess-sonorous.eventbrite.com.au" rel="noopener noreferrer" target="_blank"></noscript>
-<!-- You can customize this button any way you like -->
-<button id="eventbrite-widget-modal-trigger-74911872427" type="button">Buy Tickets</button>
-<noscript></a>Buy Tickets on Eventbrite</noscript>
-
-<script src="https://www.eventbrite.com.au/static/widgets/eb_widgets.js"></script>
-
-<script type="text/javascript">
-    var exampleCallback = function() {
-        console.log('Order complete!');
-    };
-
-    window.EBWidgets.createWidget({
-        widgetType: 'checkout',
-        eventId: '74911872427',
-        modal: true,
-        modalTriggerElementId: 'eventbrite-widget-modal-trigger-74911872427',
-        onOrderComplete: exampleCallback
-    });
-</script>
-
