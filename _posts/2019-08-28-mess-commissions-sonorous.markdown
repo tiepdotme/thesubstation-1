@@ -7,7 +7,6 @@ image: "/uploads/MESS.jpg"
 button-url: |-
   <!-- Noscript content for added SEO -->
   <noscript><a href="https://mess-sonorous.eventbrite.com.au" rel="noopener noreferrer" target="_blank"></noscript>
-  <!-- You can customize this button any way you like -->
   <noscript></a>Buy Tickets on Eventbrite</noscript>
 
   <script src="https://www.eventbrite.com.au/static/widgets/eb_widgets.js"></script>
