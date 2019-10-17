@@ -3,7 +3,7 @@ title: Moor Mother and Rasheedah Phillips
 date: 2018-01-25 19:00:00 +11:00
 categories:
 - archive
-image: "/uploads/moormother.jpg"
+image: "/uploads/MMTHR.jpg"
 button-url: http://thesubstation.iwannaticket.com.au/event/moor-mother-with-rasheedah-phillips-MTQxMzg
 button-txt: BUY TICKETS
 presented-by: "(USA)"
