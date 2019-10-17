@@ -3,7 +3,8 @@ title: 'Conflicted: Works from the Vietnam Archive Project'
 date: 2017-05-12 11:31:00 +10:00
 categories:
 - archive
-image: "/uploads/conflicted-vietnam-archive-project.jpg"
+image: "/uploads/VietArchive.jpg"
+image-credit: Matt Stanton
 presented-by: Phuong Ngo
 datetime:
 - 2017-05-12 18:30:00 +10:00
