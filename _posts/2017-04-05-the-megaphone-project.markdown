@@ -3,7 +3,7 @@ title: The Megaphone Project
 date: 2017-04-05 10:34:00 +10:00
 categories:
 - archive
-image: "/uploads/Megaphone2017.jpg"
+image: "/uploads/MPHONE.jpg"
 presented-by: Madeleine Flynn & Tim Humphrey
 price: FREE
 datetime:
