@@ -3,7 +3,7 @@ title: THREE SOLOS
 date: 2018-06-08 01:57:00 +10:00
 categories:
 - archive
-image: "/uploads/ThreeSolos.jpg"
+image: "/uploads/Threesolos.jpeg"
 button-url: http://thesubstation.iwannaticket.com.au/event/kim-myhr-solo-with-peter-knight-MTQzNzA
 button-txt: BUY TICKETS
 presented-by: 'feat. KIM MYHR (Norway), PETER KNIGHT, TONY BUCK (Berlin/Aust), '
