@@ -3,8 +3,8 @@ title: Kim Myhr with the AAO and Tony Buck
 date: 2018-06-09 08:08:00 +10:00
 categories:
 - archive
-image: "/uploads/kim-myhr-8.jpg"
-image-credit: Orfee Schuijt
+image: "/uploads/KimMyhr.jpeg"
+image-credit: Pier Carthew
 button-url: http://thesubstation.iwannaticket.com.au/event/kim-myhr-norway-with-the-australian-art-orchestra-MTQzNzE
 button-txt: BUY TICKETS
 presented-by: "(NORWAY)"
