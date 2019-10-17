@@ -3,7 +3,7 @@ title: ONO
 date: 2017-02-24 18:21:00 +11:00
 categories:
 - archive
-image: "/uploads/ono.jpg"
+image: "/uploads/ONO2017.jpg"
 button-url: http://thesubstation.iwannaticket.com.au/event/ono-MTIwNjI
 price: Tickets from $30 + booking fee
 datetime:
