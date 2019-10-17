@@ -3,8 +3,7 @@ title: Future Tense
 date: 2017-10-28 07:55:00 +11:00
 categories:
 - archive
-image: "/uploads/future-tense.jpg"
-image-credit: Future Clown (still), 2017. Rachel Mason
+image: "/uploads/Channels2017.jpg"
 presented-by: 'CHANNELS: THE AUSTRALIAN VIDEO ART FESTIVAL'
 price: FREE
 datetime:
