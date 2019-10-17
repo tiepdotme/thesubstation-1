@@ -3,8 +3,8 @@ title: Tracing Transcendence
 date: 2018-05-04 04:49:00 +10:00
 categories:
 - archive
-image: "/uploads/shireen.jpg"
-image-credit: Shireen Taweel, Tracing Trancendence, detail, 2017
+image: "/uploads/TracingTrans.jpeg"
+image-credit: Matthew Stanton
 presented-by: Shireen Taweel
 price: FREE
 datetime:
