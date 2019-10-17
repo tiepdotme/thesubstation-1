@@ -3,8 +3,7 @@ title: Xiu Xiu Plays the Music of Twin Peaks
 date: 2017-06-22 11:20:00 +10:00
 categories:
 - archive
-image: "/uploads/xiu-xiu-plays-twin-peaks.jpg"
-image-credit: Cara Robbins
+image: "/uploads/Xiuxiu.jpg"
 button-url: http://thesubstation.iwannaticket.com.au/event/xiu-xiu-plays-the-music-of-twin-peaks-MTIwNjE
 presented-by: Xiu Xiu (USA)
 price: "$45 + booking fee"
