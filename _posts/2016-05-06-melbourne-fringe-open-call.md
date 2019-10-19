@@ -53,6 +53,6 @@ CLOSING DATE: Friday 6 May
 
 To discuss your application please contact Daisy Douglas, Program Producer:
 
-Email: [program@thesubstation.org.au](mailto:program@thesubstation.org.au) with subject title 'Melbourne Fringe Open Call'
+Email: [program@readmanga.tv](mailto:program@readmanga.tv) with subject title 'Melbourne Fringe Open Call'
 
 Phone: 03 9391 1110

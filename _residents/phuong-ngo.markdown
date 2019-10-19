@@ -7,7 +7,7 @@ current: true
 
 [PHUONG NGO](http://www.pthngo.com/) is a contemporary visual artist; his practice is concerned with the interpretation of history, memory and place, and how it impacts individual and collected identity. His collaborative practice with Hwafern Quach, Slippage, examines the cycles of history in conjunction with current geopolitical and economic issues through the lens of vernacular cultures, artifacts and language.
 
-In 2018 he co-curated [HYPHENATED](https://thesubstation.org.au/archive/hyphenated/) at The SUBSTATION, an exhibition of presenting the work of Asian-Australian Artist living and working in Victoria, which has resulted in the development of Hyphenated Projects a platform for presenting Asian Australian Art in Victoria. 
+In 2018 he co-curated [HYPHENATED](https://readmanga.tv/archive/hyphenated/) at The SUBSTATION, an exhibition of presenting the work of Asian-Australian Artist living and working in Victoria, which has resulted in the development of Hyphenated Projects a platform for presenting Asian Australian Art in Victoria. 
 
 His notable exhibitions include, New Histories, Bendigo Art Gallery (2018); Conflicted: Works from the Vietnam Archive Project, The Substation (2017); Article 14.1, Next Wave Festival (2014); Melbourne Now, National Gallery of Victoria (2013); My dad the people smuggler, Counihan Gallery (2013); Domino Theory, Centre for Contemporary Photography (2012).
 

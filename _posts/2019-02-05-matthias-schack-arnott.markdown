@@ -24,5 +24,5 @@ He has won numerous awards, including the 2016 Melbourne Prize for Music ‘Deve
  
 As an interpreter, collaborator and improvisor **Schack-Arnott** has worked with a diverse range of musicians including Steve Reich, John Zorn, Claire Chase, Unsuk Chin, Michael Pisaro, Tony Buck, Kimbra, Spiritualized, The Necks, Ingar Zach, Jim Denley, Chris Corsano, Stephen O’Malley, Robin Fox and Oren Ambarchi. 
  
-**Schack-Arnott** will be bringing to The SUBSTATION a World Premiere of an expansive solo percussion work, [EVERYWHEN](https://thesubstation.org.au/whats-on/everywhen/), this October. 
+**Schack-Arnott** will be bringing to The SUBSTATION a World Premiere of an expansive solo percussion work, [EVERYWHEN](https://readmanga.tv/whats-on/everywhen/), this October. 
  

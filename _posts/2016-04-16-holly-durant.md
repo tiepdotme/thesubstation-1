@@ -9,7 +9,7 @@ image-credit: Damian Stephans
 supporters: false
 ---
 
-<!-- https://thesubstation.org.au/show/holly-durant/ -->
+<!-- https://readmanga.tv/show/holly-durant/ -->
 
 I am working through a series of developments which are centred around the exploration of image construction and meaning while observing the body – I am particularly focusing on how we observe, build and warp meaning of the female body.
 

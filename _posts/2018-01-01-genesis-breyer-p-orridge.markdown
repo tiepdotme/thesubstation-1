@@ -7,7 +7,7 @@ datetime:
 - 2018-02-02 20:00:00 +11:00
 image: "/uploads/genesis.jpg"
 image-credit: Drew Weidemann
-button-url: https://thesubstation.org.au/whats-on/loyalty-does-not-end-with-death/
+button-url: https://readmanga.tv/whats-on/loyalty-does-not-end-with-death/
 button-txt: MORE INFO
 is-on-home-page: false
 has-start-time: false

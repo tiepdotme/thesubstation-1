@@ -20,6 +20,6 @@ Here's our most recent Annual Reports:
 * [ANNUAL REPORT 2018 ](/uploads/Annual-Report-2018.pdf) 
 * [THE SUBSTATION 2016-2019](/uploads/The-SUBSTATION-2016-2019.pdf)
 
-Find out [What's On.](https://thesubstation.org.au/whats-on/)
+Find out [What's On.](https://readmanga.tv/whats-on/)
 
 The SUBSTATION is proud to be a part of Arts West, a unique alliance of arts organisations who reflect the exciting, vibrant and diverse arts and culture thriving in Melbourne’s inner west.

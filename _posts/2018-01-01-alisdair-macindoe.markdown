@@ -18,4 +18,4 @@ MACINDOE’s work reflects on the idea that digital technology is a new lifeform
 gestating.
 
 ALISDAIR MACINDOE’s work is part of The SUBSTATION COMMISSIONING PROGRAM. <br>
-For more information or to donate, [click here.](https://thesubstation.org.au/donate/)
+For more information or to donate, [click here.](https://readmanga.tv/donate/)

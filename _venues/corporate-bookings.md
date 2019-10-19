@@ -13,4 +13,4 @@ If you are planning a small meeting, a conference for up to 200 or a large event
 
 Our open warehouse style space offers a point of difference to your event and endless creative opportunities.
 
-Need an alternative venue for your corporate event? Contact events@thesubstation.org.au with your function details and we will get back to you with information on how we can help.
+Need an alternative venue for your corporate event? Contact events@readmanga.tv with your function details and we will get back to you with information on how we can help.

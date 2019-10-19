@@ -18,4 +18,4 @@ is-year-duration: true
 He interrogates modes of cultural representation and memory using performance, carrying out public/private space interventions, process lead methodologies, sculpture and installation.
 
 STEVEN RHALL is part of The SUBSTATION COMMISSIONING PROGRAM. <br>
-For more information or to donate, [click here](https://thesubstation.org.au/donate/).
+For more information or to donate, [click here](https://readmanga.tv/donate/).

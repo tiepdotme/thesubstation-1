@@ -28,4 +28,4 @@ Exhibiting artists include ANTOINETTE  J. CITIZEN, HANNAH BRONTË, YAEL BARTANA 
 
 Presented by The SUBSTATION and [CHANNELS](http://channelsfestival.net.au/) as part of CHANNELS: THE AUSTRALIAN VIDEO ART FESTIVAL.
 
-See the full list of CHANNELS FESTIVAL events at The SUBSTATION [here.](https://thesubstation.org.au/whats-on/channels/)
+See the full list of CHANNELS FESTIVAL events at The SUBSTATION [here.](https://readmanga.tv/whats-on/channels/)

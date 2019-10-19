@@ -12,7 +12,7 @@ $contactForm.submit(function(e) {
 	var defaultSubmitText = $submit.val();
 
 	$.ajax({
-		url: 'https://formspree.io/events@thesubstation.org.au',
+		url: 'https://formspree.io/events@readmanga.tv',
 		method: 'POST',
 		data: $(this).serialize(),
 		dataType: 'json',

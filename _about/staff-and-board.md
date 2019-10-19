@@ -36,24 +36,24 @@ Hobsons Bay City Council Appointed Observer<br>
 
 # OUR TEAM<br>
 
-**[Brad Spolding](mailto:director@thesubstation.org.au), *Director***<br>
+**[Brad Spolding](mailto:director@readmanga.tv), *Director***<br>
 
-**[Kali Michailidis](mailto:manager@thesubstation.org.au), *General Manager***<br>
+**[Kali Michailidis](mailto:manager@readmanga.tv), *General Manager***<br>
 
-**[Marisa Fiume](mailto:events@thesubstation.org.au), *Events Manager***<br>
+**[Marisa Fiume](mailto:events@readmanga.tv), *Events Manager***<br>
 
-**[Jon Hawkes](mailto:accounts@thesubstation.org.au), *Finance Manager***<br>
+**[Jon Hawkes](mailto:accounts@readmanga.tv), *Finance Manager***<br>
 
-**[Robert Sowinski](mailto:production@thesubstation.org.au), *Production Manager***<br>
+**[Robert Sowinski](mailto:production@readmanga.tv), *Production Manager***<br>
 
-**[Leela Schauble](mailto:marketing@thesubstation.org.au), *Marketing Manager***<br>
+**[Leela Schauble](mailto:marketing@readmanga.tv), *Marketing Manager***<br>
 
 <br>
 <br>
 
 # **General Enquiries**<br>
 
-[info (@) thesubstation.org.au](mailto:info@thesubstation.org.au)<br>
+[info (@) readmanga.tv](mailto:info@readmanga.tv)<br>
 T: [(03) 9391 1110](tel:9391 1110)
 
-In addition to our staff, The SUBSTATION also relies heavily upon the tireless efforts of our [volunteers.](https://thesubstation.org.au/about/volunteer/)
+In addition to our staff, The SUBSTATION also relies heavily upon the tireless efforts of our [volunteers.](https://readmanga.tv/about/volunteer/)

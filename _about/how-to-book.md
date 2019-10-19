@@ -45,7 +45,7 @@ If you’re a local resident of the following suburbs, you’re eligible:
 ## Terms and conditions
 
 By purchasing a ticket, you agree to our Terms and Conditions:
-* Tickets are non-refundable. To exchange a ticket please email info@thesubstation.org.au
+* Tickets are non-refundable. To exchange a ticket please email info@readmanga.tv
 * Valid Proof of Concession must be presented when collecting or buying tickets.
 * Concession discounts apply to children 14 and under, full-time students, seniors, pensioners, Healthcare Card holders and local residents.
 * The SUBSTATION guarantees that your personal details will never be sold to a third party.
