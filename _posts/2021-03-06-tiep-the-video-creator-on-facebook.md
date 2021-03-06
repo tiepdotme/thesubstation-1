@@ -7,7 +7,7 @@ categories:
 image: "/uploads/avatar.jpg"
 button-url: https://facebook.com/Pxtiep
 button-txt: go to Tiêp facebook
-presented-by: Tran Linh
+presented-by: Phuong Ngo
 datetime:
 - 2021-03-06 00:00:00 +11:00
 is-single-date: true
